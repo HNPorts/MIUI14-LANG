@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Fotoaparát</item>
+        <item>Galéria</item>
+    </string-array>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Meno</item>
+        <item>Prezývka</item>
+        <item>Telefón</item>
+        <item>E-mail</item>
+        <item>Organizácia</item>
+        <item>IM</item>
+        <item>SIP telefón</item>
+        <item>Narodeniny</item>
+        <item>Web</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Vitajte v Poznámkach!</item>
+        <item>Vytvorte si poznámky</item>
+        <item>Vo vašich poznámkach môžete používať text, obrázky a zvukové nahrávky. Spoločne s pestrou ponukou motívov a písiem bude každá vaša poznámka vyzerať skvele.</item>
+        <item>Kontrolný zoznam a funkcie pripomenutia vám pomôžu správnym a efektívnym spôsobom naplánovať výlet alebo vytvoriť nákupný zoznam.</item>
+        <item>Zdieľať poznámky</item>
+        <item>V Poznámkach môžete vytvárať pohyblivé snímky obrazovky a potom ich zdieľať so svojimi priateľmi.</item>
+        <item>Vytvoriť a prepnúť medzi priečinkami</item>
+        <item>Pre vytvorenie nového priečinku alebo prepnutie medzi už existujúcimi priečinkami stlačte šípku nižšie.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Premenovať</item>
+        <item>Vymazať</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Malá</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Obrovské</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Podľa dátumu vytvorenia</item>
+        <item>Podľa dátumu upravenia</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Hlasové poznámky</item>
+        <item>Vytvárajte hlasové poznámky pomocou hlasového záznamu a vstavané funkcie prevodu textu na reč.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Hlasové poznámky</item>
+        <item>Teraz môžete vytvárať hlasové poznámky. Jednoducho ťuknite na ikonu, nahrajte hlas a uložte zvukový súbor do poznámky.</item>
+    </string-array>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">گھر کی طرف نیویگیٹ کریں</string>
+    <string name="abc_action_bar_up_description">اوپر نیویگیٹ کریں</string>
+    <string name="abc_action_menu_overflow_description">مزید اختیارات</string>
+    <string name="abc_action_mode_done">ہو گیا</string>
+    <string name="abc_activity_chooser_view_see_all">سبھی دیکھیں</string>
+    <string name="abc_activitychooserview_choose_application">ایک ایپ منتخب کریں</string>
+    <string name="abc_capital_off">آف</string>
+    <string name="abc_capital_on">آن</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">Menu+‎</string>
+    <string name="abc_search_hint">تلاش کریں…</string>
+    <string name="abc_searchview_description_clear">استفسار صاف کریں</string>
+    <string name="abc_searchview_description_query">تلاش کا استفسار</string>
+    <string name="abc_searchview_description_search">تلاش کریں</string>
+    <string name="abc_searchview_description_submit">استفسار جمع کرائیں</string>
+    <string name="abc_searchview_description_voice">صوتی تلاش</string>
+    <string name="abc_shareactionprovider_share_with">اس کے ساتھ اشتراک کریں</string>
+    <string name="abc_shareactionprovider_share_with_application">%s کے ساتھ اشتراک کریں</string>
+    <string name="abc_toolbar_collapse_description">سکیڑیں</string>
+    <string name="always_on_disconnected_message">%1$s ہمہ وقت منسلک رہنے کے لئے سیٹ ہے۔ لیکن اسے فی الحال منسلک نہیں کیا جا سکتا۔ آپ کا فون %1$s سے دوبارہ منسلک ہونے تک ایک عوامی نیٹ ورک کا استعمال کرے گا۔</string>
+    <string name="always_on_disconnected_message_lockdown">‏%1$s ہمہ وقت منسلک رہنے کے لئے سیٹ ہے۔ لیکن اسے فی الحال منسلک نہیں کیا جا سکتا۔ آپ کے پاس VPN کے دوبارہ منسلک ہو پانے تک کنکشن نہیں ہوگا۔</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">‏VPN کی ترتیبات تبدیل کریں</string>
+    <string name="always_on_disconnected_title">‏ہمیشہ آن VPN سے منسلک نہیں کر سکتے</string>
+    <string name="configure">ترتیب دیں</string>
+    <string name="data_received">موصولہ:</string>
+    <string name="data_transmitted">ارسال کردہ:</string>
+    <string name="data_value_format">%1$s بائٹس / %2$s پیکٹس</string>
+    <string name="disconnect">منقطع کریں</string>
+    <string name="dismiss">برخاست کریں</string>
+    <string name="duration">دورانیہ:</string>
+    <string name="legacy_title">‏VPN مربوط ہے</string>
+    <string name="open_app">ایپ کھولیں</string>
+    <string name="prompt">کنکشن کی درخواست</string>
+    <string name="search_menu_title">تلاش کریں</string>
+    <string name="session">سیشن:</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="warning">‏%s ایک ایسا VPN کنکشن ترتیب دینا چاہتی ہے جو اسے نیٹ ورک ٹریفک کو مانیٹر کرنے کی اجازت دیتا ہے۔ اگر آپ کو ماخذ پر بھروسہ ہے تبھی قبول کریں۔ &lt;br /> &lt;br /> &lt;img src=vpn_icon /> آپ کی اسکرین کے اوپر اس وقت ظاہر ہوتا ہے جب VPN فعال ہوتا ہے۔</string>
+</resources>

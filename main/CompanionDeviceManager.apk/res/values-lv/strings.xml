@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
+    <string name="abc_action_bar_up_description">Pārvietoties uz augšu</string>
+    <string name="abc_action_menu_overflow_description">Citas opcijas</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="abc_capital_off">IZSLĒGT</string>
+    <string name="abc_capital_on">IESLĒGT</string>
+    <string name="abc_menu_alt_shortcut_label">Alternēšanas taustiņš +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Vadīšanas taustiņš +</string>
+    <string name="abc_menu_delete_shortcut_label">dzēšanas taustiņš</string>
+    <string name="abc_menu_enter_shortcut_label">ievadīšanas taustiņš</string>
+    <string name="abc_menu_function_shortcut_label">Funkcijas taustiņš +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta taustiņš +</string>
+    <string name="abc_menu_shift_shortcut_label">Pārslēgšanas taustiņš +</string>
+    <string name="abc_menu_space_shortcut_label">atstarpes taustiņš</string>
+    <string name="abc_menu_sym_shortcut_label">Simbolu taustiņš +</string>
+    <string name="abc_prepend_shortcut_label">Poga Izvēlne +</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēt ar balsi</string>
+    <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
+    <string name="abc_shareactionprovider_share_with_application">Kopīgot ar lietojumprogrammu %s</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="app_label">Palīgierīču pārzinis</string>
+    <string name="chooser_title">Profila (%1$s) izvēle, ko pārvaldīt lietotnē &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Atļauja lietotnei &lt;strong>%1$s&lt;/strong> piekļūt jūsu ierīcei &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Atpakaļ</string>
+    <string name="consent_no">Neatļaut</string>
+    <string name="consent_yes">Atļaut</string>
+    <string name="helper_summary_app_streaming">%1$s pieprasa atļauju piekļūt jūsu tālruņa fotoattēliem, multivides saturam un paziņojumiem šīs ierīces vārdā: %2$s</string>
+    <string name="helper_summary_computer">%1$s pieprasa atļauju straumēt lietotnes starp jūsu ierīcēm šīs ierīces vārdā: %2$s</string>
+    <string name="helper_title_app_streaming">Vairāku ierīču pakalpojumi</string>
+    <string name="helper_title_computer">Google Play pakalpojumi</string>
+    <string name="permission_apps">Lietotnes</string>
+    <string name="permission_apps_summary">Var straumēt jūsu tālruņa lietotnes</string>
+    <string name="permission_notification">Paziņojumi</string>
+    <string name="permission_notification_summary">Var lasīt visus paziņojumus, tostarp tādu informāciju kā kontaktpersonas, ziņojumi un fotoattēli.</string>
+    <string name="permission_storage">Fotoattēli un multivides faili</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Lietotņu atļauju pārsūtīšana uz pulksteni</string>
+    <string name="permission_sync_summary">"Lai atvieglotu pulksteņa iestatīšanu, iestatīšanas laikā pulkstenī instalētās lietotnes saņems tādas pašas atļaujas, kādas tām ir tālrunī.
+
+ Tostarp lietotnes var saņemt atļauju piekļūt pulksteņa mikrofonam un atrašanās vietai."</string>
+    <string name="profile_name_generic">ierīce</string>
+    <string name="profile_name_watch">pulkstenis</string>
+    <string name="search_menu_title">Meklēt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Šī lietotne ir nepieciešama jūsu ierīces (%1$s) pārvaldībai. Lietotnei %2$s tiks atļauts mijiedarboties ar jūsu paziņojumiem un piekļūt šādām atļaujām: Tālrunis, Īsziņas, Kontaktpersonas, Kalendārs, Zvanu žurnāli un Tuvumā esošas ierīces.</string>
+    <string name="title_app_streaming">Atļaut lietotnei &lt;strong>%1$s&lt;/strong> piekļūt šai informācijai no jūsu tālruņa</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Atļaut lietotnei &lt;strong>%1$s&lt;/strong> piekļūt šai informācijai no jūsu tālruņa</string>
+    <string name="vendor_header_button_description">Plašākas informācijas poga</string>
+    <string name="vendor_icon_description">Lietotnes ikona</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai ao inicio</string>
+    <string name="abc_action_bar_up_description">Vai cara arriba</string>
+    <string name="abc_action_menu_overflow_description">Máis opcións</string>
+    <string name="abc_action_mode_done">Feito</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona unha aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maiús +</string>
+    <string name="abc_menu_space_shortcut_label">espazo</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Busca…</string>
+    <string name="abc_searchview_description_clear">Borra a consulta</string>
+    <string name="abc_searchview_description_query">Busca a consulta</string>
+    <string name="abc_searchview_description_search">Realiza buscas</string>
+    <string name="abc_searchview_description_submit">Envía a consulta</string>
+    <string name="abc_searchview_description_voice">Busca por voz</string>
+    <string name="abc_shareactionprovider_share_with">Comparte contido con</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparte contido coa aplicación %s</string>
+    <string name="abc_toolbar_collapse_description">Contrae</string>
+    <string name="app_label">Xestor de dispositivos complementarios</string>
+    <string name="chooser_title">Escolle un perfil (%1$s) para que o xestione a aplicación &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Permitir que &lt;strong>%1$s&lt;/strong> acceda ao teu dispositivo (&lt;strong>%2$s&lt;/strong>)</string>
+    <string name="consent_back">Atrás</string>
+    <string name="consent_no">Non permitir</string>
+    <string name="consent_yes">Permitir</string>
+    <string name="helper_summary_app_streaming">%1$s está solicitando permiso en nome do teu dispositivo (%2$s) para acceder ás fotos, ao contido multimedia e ás notificacións do teléfono</string>
+    <string name="helper_summary_computer">%1$s está solicitando permiso en nome do teu dispositivo (%2$s) para emitir aplicacións entre os teus aparellos</string>
+    <string name="helper_title_app_streaming">Servizos multidispositivo</string>
+    <string name="helper_title_computer">Servizos de Google Play</string>
+    <string name="permission_apps">Aplicacións</string>
+    <string name="permission_apps_summary">Emite as aplicacións do teu teléfono</string>
+    <string name="permission_notification">Notificacións</string>
+    <string name="permission_notification_summary">Pode ler todas as notificacións (que poden incluír información como contactos, mensaxes e fotos)</string>
+    <string name="permission_storage">Fotos e contido multimedia</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Transferir os permisos de aplicacións ao reloxo</string>
+    <string name="permission_sync_summary">"Para que che resulte máis doado configurar o reloxo, as aplicacións que instales nel durante a configuración usarán os mesmos permisos que o teléfono.
+
+ Entre estes permisos poden estar incluídos os de acceso ao micrófono e á localización do teléfono."</string>
+    <string name="profile_name_generic">dispositivo</string>
+    <string name="profile_name_watch">reloxo</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Esta aplicación é necesaria para xestionar o teu dispositivo (%1$s). %2$s poderá interactuar coas túas notificacións e acceder aos permisos do teu teléfono, das SMS, dos contactos, do calendario, dos rexistros de chamadas e dos dispositivos próximos.</string>
+    <string name="title_app_streaming">Permitir que a aplicación &lt;strong>%1$s&lt;/strong> acceda a esta información desde o teu teléfono</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Permitir que &lt;strong>%1$s&lt;/strong> acceda a esta información desde o teu teléfono</string>
+    <string name="vendor_header_button_description">Botón de máis información</string>
+    <string name="vendor_icon_description">Icona de aplicación</string>
+</resources>

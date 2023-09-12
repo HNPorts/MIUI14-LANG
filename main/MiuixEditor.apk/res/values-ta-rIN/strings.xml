@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்களைச் சேர்</string>
+    <string name="edit_frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்களைத் திருத்து</string>
+    <string name="frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்கள்</string>
+    <string name="query">தேடு</string>
+    <string name="select">தேர்ந்தெடு</string>
+</resources>

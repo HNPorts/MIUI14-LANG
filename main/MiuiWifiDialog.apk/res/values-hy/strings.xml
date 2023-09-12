@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Անցնել գլխավոր էջ</string>
+    <string name="abc_action_bar_up_description">Անցնել վերև</string>
+    <string name="abc_action_menu_overflow_description">Այլ ընտրանքներ</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_activity_chooser_view_see_all">Տեսնել բոլորը</string>
+    <string name="abc_activitychooserview_choose_application">Ընտրել հավելված</string>
+    <string name="abc_capital_off">ԱՆՋԱՏԵԼ</string>
+    <string name="abc_capital_on">ՄԻԱՑՆԵԼ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">բացատ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Որոնում…</string>
+    <string name="abc_searchview_description_clear">Ջնջել հարցումը</string>
+    <string name="abc_searchview_description_query">Որոնման հարցում</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_shareactionprovider_share_with">Կիսվել…</string>
+    <string name="abc_shareactionprovider_share_with_application">Կիսվել %s հավելվածի միջոցով</string>
+    <string name="abc_toolbar_collapse_description">Ծալել</string>
+    <string name="accept">Ընդունել</string>
+    <string name="decline">Մերժել</string>
+    <string name="dlg_ok">Եղավ</string>
+    <string name="notification_channel_network_alerts">Ցանցային զգուշացումներ</string>
+    <string name="notification_channel_network_available">Ցանցը հասանելի է</string>
+    <string name="notification_channel_network_status">Ցանցի կարգավիճակ</string>
+    <string name="ok">Լավ</string>
+    <string name="search_menu_title">Որոնել</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wifiResourcesAppLabel">Համակարգի Wi-Fi ռեսուրսներ</string>
+    <string name="wifi_available_action_all_networks">Բոլոր ցանցերը</string>
+    <string name="wifi_available_action_connect">Միանալ</string>
+    <string name="wifi_available_content_failed_to_connect">Հպեք՝ բոլոր ցանցերը տեսնելու համար</string>
+    <string name="wifi_available_title">Միացեք բաց Wi‑Fi ցանցին</string>
+    <string name="wifi_available_title_connected">Միացել է Wi‑Fi ցանցին</string>
+    <string name="wifi_available_title_connecting">Միացում Wi‑Fi ցանցին</string>
+    <string name="wifi_available_title_failed_to_connect">Չհաջողվեց միանալ Wi‑Fi ցանցին</string>
+    <string name="wifi_ca_cert_dialog_abort_text">Ոչ, չմիանալ</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Այո, միանալ</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Կոնտակտային անձ՝
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Թույլատրեք այս ցանցին միացումը, միայն եթե ստորև բերված տեղեկությունները ճիշտ են։
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Թողարկողի անվանումը՝
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Կազմակերպություն՝
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Սերվերի անվանումը՝
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Ստորագրություն՝
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Չմիանալ</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Միանալ</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">Ցանցը (%1$s) չունի հավաստագիր։</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Իմանալ, թե ինչպես հավաստագրեր ավելացնել</string>
+    <string name="wifi_ca_cert_dialog_preT_title">Չհաջողվեց հաստատել այս ցանցը</string>
+    <string name="wifi_ca_cert_dialog_title">Այս ցանցը վստահելի՞ է</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Չհաջողվեց տեղադրել հավաստագիրը։</string>
+    <string name="wifi_ca_cert_notification_message">Միանալուց առաջ ցանցի տվյալներում ստուգեք դրա անվանումը (%1$s)։ Հպեք՝ շարունակելու համար։</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">Չմիանալ</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Միանալ</string>
+    <string name="wifi_ca_cert_notification_preT_message">Ցանցը (%1$s) չունի հավաստագիր։ Հպեք՝ իմանալու, թե ինչպես կարելի է հավաստագրեր ավելացնել։</string>
+    <string name="wifi_ca_cert_notification_preT_title">Չհաջողվեց հաստատել այս ցանցը</string>
+    <string name="wifi_ca_cert_notification_title">Անհրաժեշտ է ստուգել ցանցը</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">Հպեք՝ գաղտնիության կարգավորումները փոփոխելու և նորից փորձելու համար։</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_title">Չհաջողվեց միանալ %1$s սարքին</string>
+    <string name="wifi_connect_alert_message">%1$s հավելվածը ցանկանում է միանալ %2$s Wifi ցանցին</string>
+    <string name="wifi_connect_alert_title">Թույլատրե՞լ կապը:</string>
+    <string name="wifi_connect_default_application">Հավելված</string>
+    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Փոխել կարգավորումը</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">Չհաջողվեց փոփոխել գաղտնիության կարգավորումները</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">"Միանալու համար %1$s ցանցը պետք է օգտագործի ձեր սարքի MAC հասցեն (եզակի նույնացուցիչը)։ Ներկայումս այս ցանցի ձեր գաղտնիության կարգավորումն օգտագործում է պատահական նույնացուցիչ։ 
+
+Մոտակայքում գտնվող սարքերը կկարողանան հետագծել ձեր սարքի տեղադրությունը։"</string>
+    <string name="wifi_disable_mac_randomization_dialog_network_not_found">Ցանցը չի գտնվել</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">Կարգավորումը թարմացվեց։ Փորձեք նորից միանալ։</string>
+    <string name="wifi_disable_mac_randomization_dialog_title">Փոխե՞լ գաղտնիության կարգավորումը</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s – EAP նույնականացման սխալ 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s – EAP նույնականացման սխալ 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s՝ EAP-ի նույնականացման սխալ 32756</string>
+    <string name="wifi_eap_error_message_code_32760">%1$s : EAP նույնականացման սխալ 32760</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : EAP նույնականացման սխալ 32761</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : EAP նույնականացման սխալ 32762</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : EAP նույնականացման սխալ 32763</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : EAP նույնականացման սխալ 32764</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : EAP նույնականացման սխալ 32765</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : EAP նույնականացման սխալ 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s – EAP նույնականացման սխալ 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s – EAP նույնականացման սխալ, սխալի կոդն անհայտ է</string>
+    <string name="wifi_enable_request_dialog_message">Wi‑Fi-ը կարող եք անջատել Արագ կարգավորումներում</string>
+    <string name="wifi_enable_request_dialog_negative_button">Չթույլատրել</string>
+    <string name="wifi_enable_request_dialog_positive_button">Թույլատրել</string>
+    <string name="wifi_enable_request_dialog_title">Թույլատրե՞լ %1$s հավելվածին միացնել Wi‑Fi-ը</string>
+    <string name="wifi_interface_priority_approve">Թույլատրել</string>
+    <string name="wifi_interface_priority_message">Սա կարող է խնդիրներ առաջացնել այստեղ՝ %3$s։</string>
+    <string name="wifi_interface_priority_message_plural">Սա կարող է խնդիրներ առաջացնել այս հավելվածների համար՝ %3$s։</string>
+    <string name="wifi_interface_priority_reject">Չեղարկել</string>
+    <string name="wifi_interface_priority_title">%1$s հավելվածին անհրաժեշտ է ցանցային ռեսուրս օգտագործել</string>
+    <string name="wifi_p2p_enter_pin_message">Մուտքագրեք պահանջվող PIN-ը:</string>
+    <string name="wifi_p2p_frequency_conflict_message">Հեռախոսը ժամանակավորապես կանջատվի Wi-Fi-ից, քանի դեռ այն միացված է %1$s-ին</string>
+    <string name="wifi_p2p_from_message">Ուղարկող`</string>
+    <string name="wifi_p2p_invitation_sent_title">Հրավերն ուղարկված է</string>
+    <string name="wifi_p2p_invitation_to_connect_title">Միացման հրավեր</string>
+    <string name="wifi_p2p_show_pin_message">PIN-ը՝</string>
+    <string name="wifi_p2p_to_message">Ում`</string>
+    <string name="wifi_sim_required_message">%1$s ցանցին միանալու համար տեղադրեք %2$s օպերատորի SIM քարտը</string>
+    <string name="wifi_sim_required_title">Wi-Fi-ն անջատված է</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Կապված սարքեր չկան։ Հպեք՝ փոփոխելու համար։</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_title">Թեժ կետն անջատված է</string>
+    <string name="wifi_suggestion_action_allow_app">Թույլատրել</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Միանալ</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Միանալ</string>
+    <string name="wifi_suggestion_action_disallow_app">Ոչ, շնորհակալություն</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Չմիանալ</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Չմիանալ</string>
+    <string name="wifi_suggestion_content">%s հավելվածի առաջարկվող ցանցեր: Սարքը կարող է ավտոմատ միանալ:</string>
+    <string name="wifi_suggestion_imsi_privacy_content">Այս ցանցերը ստանում են SIM քարտի ID, որը կարող է օգտագործվել սարքի տեղադրությունը հետագծելու համար։</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Միանալու դեպքում %s-ի Wi‑Fi ցանցերը կարող են ստանալ ձեր SIM քարտի հետ կապված եզակի ID-ն կամ կիսվել դրանով։ Դա հնարավորություն կտա հետագծել ձեր սարքի տեղադրությունը։</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Հաստատե՞լ միացումը</string>
+    <string name="wifi_suggestion_imsi_privacy_title">Միանա՞լ %s Wi-Fi ցանցին</string>
+    <string name="wifi_suggestion_title">Թույլատրե՞լ առաջարկվող Wi‑Fi ցանցերի օգտագործումը</string>
+    <string name="wifi_wakeup_enabled_content">Դուք գտնվում եք պահված ցանցի մոտակայքում՝ %1$s</string>
+    <string name="wifi_wakeup_enabled_title">Wi‑Fi-ը միացել է ավտոմատ կերպով</string>
+    <string name="wifi_wakeup_onboarding_action_disable">Նորից չմիացնել</string>
+    <string name="wifi_wakeup_onboarding_subtext">Լավ ազդանշանով պահված ցանցի տարածքում գտնվելիս</string>
+    <string name="wifi_wakeup_onboarding_title">Wi‑Fi-ն ավտոմատ կմիանա</string>
+    <string name="wifi_watchdog_network_disabled">Չհաջողվեց միանալ Wi-Fi-ին</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" ինտերնետային կապը թույլ է:"</string>
+</resources>

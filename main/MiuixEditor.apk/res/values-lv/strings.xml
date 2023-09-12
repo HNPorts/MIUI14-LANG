@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Pievienot bieži lietotās frāzes</string>
+    <string name="edit_frequent_phrases">Rediģēt bieži lietotās frāzes</string>
+    <string name="frequent_phrases">Biežas frāzes</string>
+    <string name="query">Meklēt</string>
+    <string name="select">Atlasīt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

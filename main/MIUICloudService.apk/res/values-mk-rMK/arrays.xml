@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>За препознавање ускладени елементи</item>
+        <item>За синхронизирање на пораки</item>
+        <item>За синхронизирање на контакти</item>
+        <item>За синхронизирање на настани во календарот</item>
+        <item>За синхронизирање на предмети со услуги кои го користат складишниот простор</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Телефон</item>
+        <item>СМС</item>
+        <item>Контакти</item>
+        <item>Календар</item>
+        <item>Складишен простор</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Синхронизирајте ги Вашите контакти, пораки, белешки, календарски записи и многу повеќе</item>
+        <item>Резервна копија на апликации, распоред на Почетен екран и позадина</item>
+        <item>Резервна копија на важни нагодувања, вклучувајќи Wi-Fi и екран</item>
+        <item>Заклучете го далечински Вашиот уред доколку го изгубите</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Синхронизирајте ги Вашите контакти, пораки, белешки, календарски записи и многу повеќе</item>
+        <item>Резервна копија на апликации, распоред на Почетен екран и позадина</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Заклучете го далечински Вашиот уред доколку сте го изгубиле</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Синхронизирајте ги Вашите контакти, пораки, белешки, календарски записи и многу повеќе</item>
+        <item>Резервни копии на апликации, распоред на Почетен екран и позадина</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Заклучете го далечински Вашиот уред доколку сте го изгубиле</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Синхронизирајте ги вашите фотографии, белешки, снимки и повеќе</item>
+        <item>Заклучете го далечински Вашиот уред доколку го изгубите</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Синхронизирајте ги Вашите контакти, пораки, белешки, календарски записи и многу повеќе</item>
+        <item>Резервна копија на апликации, распоред на Почетен екран и позадина</item>
+        <item>Резервна копија на важни нагодувања, вклучувајќи Wi-Fi и екран</item>
+        <item>Заклучете го далечински Вашиот уред доколку сте го изгубиле</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Синхронизирај податоци на апликации</item>
+        <item>Резервна копија на распоред на Почетен екран</item>
+        <item>Резервна копија на системски нагодувања</item>
+        <item>Пронајди уред</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Синхр. апликациски податоци</item>
+        <item>Пронајди уред</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>За лоцирање на вашиот уред и промена во режим Изгубено</item>
+        <item>За лоцирање на овој уред кога не е поврзан на интернет</item>
+        <item>За пристап до тел. број со цел да се лоцира овој уред кога не е поврзан на интернет</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Прави резервни копии</item>
+        <item>Бекапирани ставки</item>
+        <item>Cloud;Направи резервни копии;Резервни копии;Cloud услуги;Xiaomi Cloud;Почетен екран;Распоред;Aпл.;Управувај со резервни копии;Врати</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Направи резервна копија за Почетен екран во Xiaomi Cloud</item>
+        <item>Направи резервна копија за распоред на Почетен екран, листа на инсталирани апл. и системски нагодувања</item>
+        <item>Cloud;Направи резервни копии;Резервни копии;Cloud услуги;Xiaomi Cloud;Почетен екран;Распоред;Апл.;Нагодувања; Честота на правење резервни копии;управувај со резервни копии;Врати</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Синхронизирај Пребарувач со Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>Пребарувач;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Синхронизирај Календар со Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>Календар;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Синхронизирај контакти со Xiaomi Cloud</item>
+        <item>Вклучи/намести синхр.</item>
+        <item>Контакти;Историја на повици;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Синхронизирај историја на повици со Xiaomi Cloud</item>
+        <item>Вклучи/намести синхр.</item>
+        <item>Историја на повици;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Пронајди уред</item>
+        <item>Избриши податоци и заклучи го уредот ако е изгубен</item>
+        <item>Пронајди уред;Изгубен;Cloud;Синхронизирај;Cloud услуги;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Пронајди уред</item>
+        <item>Избриши податоци и заклучи го уредот доколку е изгубен</item>
+        <item>Пронајди уред;Изгубен;Cloud;Синхронизирај;Cloud услуги;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Синхронизирај Галерија со Xiaomi Cloud</item>
+        <item>Вклучи/намести синхр.</item>
+        <item>Галерија;Слики;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Синхронизирај белешки со Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>Белешки;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Синхронизирај белешки со Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>Белешки;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Синхронизирај App vault со Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>App Vault;Карти;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Синхронизација на брзи одговори</item>
+        <item>Вклучете синхронизација</item>
+        <item>Брзи одговори;Клипборд;Уредник;Cloud;Синхронизација;Cloud услуги</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Синхронизирај ги снимките со Xiaomi Cloud</item>
+        <item>Вклучи/намести синхр.</item>
+        <item>Снимач;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Избришани ставки во Xiaomi Cloud</item>
+        <item>Врати контакти, слики, пораки и др.</item>
+        <item>Отпад;Избришани ставки;Канта за отпад;Врати;Cloud услуги;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Избришани ставки во Xiaomi Cloud</item>
+        <item>Врати фотографии, белешки и повеќе</item>
+        <item>Отпад;Избришани ставки;Канта за отпад;Врати;Cloud услуги;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Враќање податоци од Xiaomi cloud</item>
+        <item>Преземете бекапирани ставки на вашиот уред</item>
+        <item>Cloud;Направи резервни копии;Резервни копии;Restore;Cloud услуги;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Синхронизација на безбедност на cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>Безбедност;Cloud;Xiaomi Cloud;Синхронизација;Cloud услуги</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Синхронизација на безбедност на cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>Безбедност;Cloud;Xiaomi Cloud;Синхронизација;Cloud услуги</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Синхронизирајте пораки со Xiaomi Cloud</item>
+        <item>Вклучи/намести синхр.</item>
+        <item>Пораки;СМС;ММС;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi Cloud членство</item>
+        <item>Надгради го твоето членство, добиј поголем складишен простор, и заштити ги твоите податоци</item>
+        <item>Недоволен складишен простор;Членство;Складиште;Складишен простор;Cloud;Синхронизирај;Cloud услуги;Xiaomi Cloud;Мега;Ултра; VIP;Направи Резервни копии;Резервни копии;Врати;Отпад;Избришани ставки;Канта за отпад</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Сите Mi услуги на едно место.</item>
+        <item>Имајте пристап до вашите слики, контакти, пораки и уреди од секаде</item>
+        <item>Недоволен складишен простор;Членство;Складиште;Складишен простор;Cloud;Синхронизирај;Cloud услуги;Xiaomi Cloud;Отпадоци;Избришани ставки;Безбедност</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Сите Mi услуги на едно место.</item>
+        <item>Имајте пристап до вашите слики, белешки и уреди од секаде</item>
+        <item>Недоволен складишен простор;Членство;Складиште;Складишен простор;Cloud;Синхронизирај;Cloud услуги;Xiaomi Cloud;Отпадоци;Избришани ставки;Безбедност</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Синхронизирај Wi-Fi нагодувања со Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Вклучи синхронизација</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Синхронизирај;Услуги на Cloud;Xiaomi Cloud</item>
+    </string-array>
+</resources>

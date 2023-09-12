@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Për të indentifikuar artikuj të sinkronizuar</item>
+        <item>Për të sinkronizuar mesazhet</item>
+        <item>Për të sinkronizuar kontaktet</item>
+        <item>Për të sinkronizuar ngjarjet e kalendarit</item>
+        <item>Për të sinkronizuar artikuj me shërbime që përdorin hapësirën raujtese</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefoni</item>
+        <item>SMS</item>
+        <item>Kontaktet</item>
+        <item>Kalendari</item>
+        <item>Arkivuesi</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Sinkronizo kontaktet tuaja, mesazhet, shënimet, kalendarin, dhe më shumë</item>
+        <item>Rezervo aplikacionet, faqen e ekranit bazë dhe sfondin</item>
+        <item>Rezervo cilësimet e rëndësishme, duke përfshirë Wi-Fi dhe ekranin</item>
+        <item>Bllokoni pajisjen tuaj nga distanca nëse është e humbur</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sinkronizo kontaktet tuaja, mesazhet, shënimet, kalendarin, etj</item>
+        <item>Ruaj aplikacionet, faqen e ekranit bazë dhe sfondin</item>
+        <item>Ruaj cilësimet e rëndësishme, duke përfshirë WLAN dhe ekran</item>
+        <item>Bllokoni pajisjen tuaj nga distanca nëse është e humbur</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sinkronizo kontaktet tuaja, mesazhet, shënimet, kalendarin, dhe më shumë</item>
+        <item>Ruaj aplikacionet, faqen e ekranit bazë dhe sfondin</item>
+        <item>Ruaj cilësimet e rëndësishme, duke përfshirë WLAN dhe ekran</item>
+        <item>Bllokoni pajisjen tuaj nga distanca nëse është e humbur</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sinkronizoni fotot, shënimet, regjistrimet tuaja dhe më shumë</item>
+        <item>Bllokoni pajisjen tuaj nga distanca nëse është e humbur</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sinkronizo kontaktet tuaja, mesazhet, shënimet, kalendarin, etj</item>
+        <item>Ruaj aplikacionet, faqen e ekranit bazë dhe sfondin</item>
+        <item>Ruaj cilësimet e rëndësishme, duke përfshirë Wi-Fi dhe ekran</item>
+        <item>Bllokoni pajisjen tuaj nga distanca nëse është e humbur</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sinkronizo të dhënat e aplikacionit</item>
+        <item>Ruaj faqen e ekranit bazë</item>
+        <item>Ruaj cilësimet e sistemit</item>
+        <item>Gjej pajisjen</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sinkronizo të dhënat e aplikacionit</item>
+        <item>Gjej pajisjen</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Për gjetjen e pajisjes tuaj dhe kalimin në modalitetin e humbur</item>
+        <item>Për gjetjen e kësaj pajisje kur nuk është e lidhur me internetin</item>
+        <item>Për të hyrë në numrin e telefonit për të gjetur këtë pajisje kur nuk është e lidhur me internetin</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Rezervimet</item>
+        <item>Artikujt e rezervuar</item>
+        <item>Cloud;Ruaj;Ruaj;Shërbimet cloud;Xiaomi Cloud;Ekrani bazë;Struktura;Aplikacionet;Menaxho rezervimet;Rivendos</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Rezervo Ekranit bazë në Xiaomi Cloud</item>
+        <item>Rezervo strukturën e Ekranit Bazë, listën e aplikacioneve të instaluara, dhe cilesimett e sistemit</item>
+        <item>Cloud;Rezervo;Rezervo;Shërbimet cloud;Xiaomi Cloud;Ekrani bazë;Struktura;Aplikacionet;Cilesimet;Frekuenca e rezervimeve;Menaxho rezervimet;Rivendos</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sinkronizo Shfletuesin me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Shfletuesi;Cloud;Sinkronizo;Shërbimet cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sinkronizo Kalendarin me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Kalendari;Cloud;Sinkronizo;shërbimet;cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Sinkronizo kontaktet me Xiaomi Cloud</item>
+        <item>Aktivizo/cakto sinkronizimin</item>
+        <item>Kontaktet;historiku i thirrjeve;Cloud;Sinkronizo;shërbimet;cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sinkronizo historikun thirrjeve me Xiaomi Cloud</item>
+        <item>Aktivizo/cakto sinkronizimin</item>
+        <item>Historiku i thirrjeve;Cloud;Sinkronizo;shërbimet;cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Gjej pajisjen</item>
+        <item>Fshi të dhënat dhe kyç pajisjen tënde nëse humbet</item>
+        <item>Gjej pajisjen;Humbur;Sinkronizimi;shërbimet Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Gjej pajisjen</item>
+        <item>Fshi të dhënat dhe kyç pajisjen tënde nëse humbet</item>
+        <item>Gjej pajisjen;Humbur;Sinkronizimi;shërbimet Cloud;Xiaomi cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sinkronizo Galerinë me Xiaomi Cloud</item>
+        <item>Aktivizo/cakto sinkronizimin</item>
+        <item>Galeria;Fotot;Cloud;Sinkronizimi;shërbimet Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sinkronizo shënimet me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Shënime;Cloud;Sinkronizo;Shërbimet cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sinkronizo shënimet me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Shënime;Cloud;Sinkronizo;Shërbimet cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sinkronizo voltin e aplikacionit me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Volti i aplikacionit;Kartat;Sinkronizimi;shërbimet;cloud;Xiaomi cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sinkronizoni përgjigje të shpejta</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Përgjigje të shpejta; Kujtesën e fragmenteve; Redaktor; Cloud; Sync; Shërbime Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sinkronizo regjistrimet me Xiaomi Cloud</item>
+        <item>Aktivizo/cakto sinkronizimin</item>
+        <item>Regjistruesi;Cloud;Sinkronizo;Shërbimet cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Artikujt e fshirë në Xiaomi Cloud</item>
+        <item>Rivendos kontaktet, fotot, mesazhet, dhe më shumë</item>
+        <item>Plehrat; artikujt e fshirë; Kutia e plehrave; Shërbimet cloud; Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Artikujt e fshirë në Xiaomi Cloud</item>
+        <item>Rikthe fotot, shënimet, dhe më shumë</item>
+        <item>Plehrat; artikujt e fshirë; Kutia e plehrave; Shërbimet cloud; Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Rikthe artikujt nga shërbimi Xiaomi Cloud</item>
+        <item>Shkarko artikujt e rezervuar në pajisjen tënde</item>
+        <item>Cloud;Rezervo;Rezervo;Rivendos;Shërbimet Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Sinkronizimi i cloud i sigurisë</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Siguria; Cloud; Xiaomi Cloud; Sync; Shërbimet Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Sinkronizimi i cloud i sigurisë</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>Siguria;Cloud;Xiaomi Cloud;Sinkronizimi;Shërbimet Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sinkronizo mesazhet me Xiaomi Cloud</item>
+        <item>Aktivizo/cakto sinkronizimin</item>
+        <item>Mesazhet;SMS;MMS;Cloud;Sinkronizimi;shërbimet Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Blej anëtarësim Xiaomi Cloud</item>
+        <item>Përmirëso anëtarësimin tënd, merr më shumë hapësirë nga memoria, dhe siguro të dhënat tua</item>
+        <item>Hapsire ruajtëse e pamjaftueshme;Anëtarësim;Hapsirë ruajtëse;;Cloud;Sinkronizimi;Shërbimet cloud;Xiaomi Cloud;Mega;Ultra;VIP;Ruaj;Ruaj;Rivendos;Plehrat;Artikujt e fshirë; Kutia e plehrave</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Të gjitha shërbimet Mi janë në vënd.</item>
+        <item>Hyr në fotot tua, kontaktet, mesazhet, dhe pajijset nga çdo vënd</item>
+        <item>Hapsira ruajtëse është e pamjaftueshme;Anëtarësimi;Hapësira ruajtëse;Cloud;Sinkronizo;shërbimet Cloud;Xiaomi Cloud;Plehrat;Artikujt e fshirë;Siguria</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Të gjitha shërbimet Mi janë në vënd.</item>
+        <item>Hyni në fotot, shënimet dhe pajisjet tuaja nga kudo</item>
+        <item>Hapsira ruajtëse është e pamjaftueshme;Anëtarësimi;Hapësira ruajtëse;Cloud;Sinkronizo;shërbimet Cloud;Xiaomi Cloud;Plehrat;Artikujt e fshirë;Siguria</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sinkronizo cilesimet Wi-Fi me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sinkronizo;shërbimet;cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sinkronizo cilesimet WLAN me Xiaomi Cloud</item>
+        <item>Ndiz sinkronizimin</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sinkronizo;shërbimet;cloud;Xiaomi Cloud</item>
+    </string-array>
+</resources>

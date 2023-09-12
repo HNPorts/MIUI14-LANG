@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">%d brani in totale</item>
+        <item quantity="one">%d brano in totale</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Ricerca delle copertine degli album e testi (%1$d/%2$d)</item>
+        <item quantity="one">Ricerca delle copertine degli album e testi (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Il tuo abbonamento sta per scadere in %d giorni.
+Vuoi che ti aiutiamo a rinnovarlo?"</item>
+        <item quantity="one">"Il tuo abbonamento sta per scadere in %d giorno.
+Vuoi che ti aiutiamo a rinnovarlo?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Puoi scaricare %1$d brani gratuiti. Scaricare %2$s ora?</item>
+        <item quantity="one">Puoi scaricare %1$d brano gratuito. Scaricare %2$s ora?</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Il lettore si fermerà tra %d minuti</item>
+        <item quantity="one">Il lettore si fermerà tra %d minuto</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">"Creata il %1$s 
+totale %2$d brani"</item>
+        <item quantity="one">"Creata il %1$s 
+totale %2$d brano"</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d brani aggiunti alla playlist</item>
+        <item quantity="one">%d brano aggiunto alla playlist</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d brani rimossi dalla playlist</item>
+        <item quantity="one">%d brano rimosso dalla playlist</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d brani simili</item>
+        <item quantity="one">%d brano simile</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ora fa</item>
+        <item quantity="one">1 ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 ora fa</item>
+        <item quantity="one">1 ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">"Mezz'ora fa"</item>
+        <item quantity="one">"Mezz'ora fa"</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Tra 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">"Tra mezz'ora"</item>
+        <item quantity="one">"Tra mezz'ora"</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Adesso</item>
+        <item quantity="one">Adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Poco fa</item>
+        <item quantity="one">Poco fa</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d commenti</item>
+        <item quantity="one">%d commento</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Eliminare %d elementi?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Elimina %d elementi?
+ Nota: I file saranno eliminati anche da questo dispositivo."</item>
+        <item quantity="one">"Elimina %d elemento?
+ Nota: Il file saranno eliminati anche da questo dispositivo."</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Eliminare %d brani?</item>
+        <item quantity="one">Eliminare %d brano?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Rimuovere %d brani?</item>
+        <item quantity="one">Rimuovere %d brano?</item>
+    </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d dei brani selezionati sono memorizzati in una cartella esterna. Concedi i permessi necessari per eliminarli.</item>
+        <item quantity="one">%d dei brani selezionati è memorizzato in una cartella esterna. Concedi i permessi necessari per eliminarlo.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
+        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d download rimossi</item>
+        <item quantity="one">%d download rimosso</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color==\"red\">%d brani&lt;/font> in download</item>
+        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> in download</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanti di %d secondi</item>
+        <item quantity="one">Avanti di %d secondo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Indietro di %d secondi</item>
+        <item quantity="one">Indietro di %d secondo</item>
+    </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s visualizzazioni</item>
+        <item quantity="one">%s visualizzazione</item>
+    </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d download gratuiti rimanenti</item>
+        <item quantity="one">%d download gratuito rimanente</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">"Mezz'ora fa"</item>
+        <item quantity="one">"Mezz'ora fa"</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Tra 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">"Tra mezz'ora"</item>
+        <item quantity="one">"Tra mezz'ora"</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Adesso</item>
+        <item quantity="one">Adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Poco fa</item>
+        <item quantity="one">Poco fa</item>
+    </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Segui %d persone</item>
+        <item quantity="one">Segui %d persona</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Download di %1$d file</item>
+        <item quantity="one">Download di %1$d file</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Impossibile scaricare %1$d elementi</item>
+        <item quantity="one">Impossibile scaricare %1$d elemento</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">Verranno inviati %d brani</item>
+        <item quantity="one">Verrà inviato %d brano</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">%d brani saltati. Attiva i servizi online nelle impostazioni per ascoltarli.</item>
+        <item quantity="one">%d brano saltato. Attiva i servizi online nelle impostazioni per ascoltarlo.</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">I brani sono stati inseriti tra i preferiti.</item>
+        <item quantity="one">Il brano è stato inserito tra i preferiti.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Dissolvenza incrociata tra i brani: %d secondi</item>
+        <item quantity="one">Dissolvenza incrociata tra i brani: %d secondo</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Ottieni %1$d monete oggi</item>
+        <item quantity="one">Ottieni %1$d moneta oggi</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Video</item>
+        <item quantity="one">Video</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s visti</item>
+        <item quantity="one">%1$s visto</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d giorni rimanenti</item>
+        <item quantity="one">%d giorno rimanente</item>
+    </plurals>
+</resources>

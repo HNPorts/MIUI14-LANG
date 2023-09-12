@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="decision_point_message">
+        <item>Працягвайце наладжваць прыладу. Калі вы перарвяце наладжванне, мы пазней адправім вам напамін.</item>
+        <item>Вы можаце наладзіць Памочніка Google, памяняць шпалеры, задаць іншыя параметры зараз або вярнуцца да гэтага пазней.</item>
+        <item>Можаце наладзіць Памочніка Google і задаць іншыя параметры зараз або зрабіць гэта пазней.</item>
+        <item>Можаце наладзіць Памочніка Google, Google Pay і іншыя функцыі зараз або зрабіць гэта пазней.</item>
+    </string-array>
+    <string-array name="decision_point_message_verbose">
+        <item>Вы прайшлі асноўныя этапы. Працягвайце наладжваць прыладу. Калі вы перарвяце наладжванне, мы пазней адправім вам напамін.</item>
+        <item>Вы прайшлі асноўныя этапы. Вы можаце наладзіць Памочніка Google, памяняць шпалеры, задаць іншыя параметры зараз або вярнуцца да гэтага пазней.</item>
+        <item>Вы прайшлі асноўныя этапы. Можаце наладзіць Памочніка Google і задаць іншыя параметры зараз або зрабіць гэта пазней.</item>
+        <item>Вы прайшлі асноўныя этапы. Можаце наладзіць Памочніка Google, Google Pay і іншыя функцыі зараз або зрабіць гэта пазней.</item>
+    </string-array>
+    <string-array name="decision_point_title">
+        <item>Працягнуць наладку?</item>
+        <item>Персаналізуйце прыладу \"^1\"</item>
+        <item>Наладзьце Памочніка і іншыя функцыі</item>
+        <item>Выкарыстоўвайце ўсе магчымасці Google</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканаванне...</item>
+        <item>Падлучэнне...</item>
+        <item>Аўтэнтыфікацыя...</item>
+        <item>Атрыманне IP-адраса...</item>
+        <item>Падключана</item>
+        <item>Прыпынена</item>
+        <item>Адлучэнне...</item>
+        <item>Адключана</item>
+        <item>Няўдала</item>
+        <item>Заблакiравана</item>
+        <item>Дрэнная сувязь часова пазбегнута</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Ідзе пошук…</item>
+        <item>Ідзе падключэнне…</item>
+        <item>Ідзе аўтэнтыфікацыя…</item>
+        <item>Атрымліваецца IP-адрас…</item>
+        <item>Падключана</item>
+        <item>Прыпынена</item>
+        <item>Ідзе адключэнне…</item>
+        <item>Адключана</item>
+        <item>Збой</item>
+        <item>Заблакіравана</item>
+        <item>Сувязь часова палепшана</item>
+    </string-array>
+</resources>

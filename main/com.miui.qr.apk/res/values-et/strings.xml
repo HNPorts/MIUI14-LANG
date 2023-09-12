@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Sule navigeerimismenüü</string>
+    <string name="close_sheet">Sule leht</string>
+    <string name="default_error_message">Sobimatu sisend</string>
+    <string name="default_popup_window_title">Hüpikaken</string>
+    <string name="dropdown_menu">Rippmenüü</string>
+    <string name="in_progress">Pooleli</string>
+    <string name="indeterminate">Ei märgitud ega märkimata</string>
+    <string name="navigation_menu">Navigeerimismenüü</string>
+    <string name="not_selected">Pole valitud</string>
+    <string name="off">Väljas</string>
+    <string name="on">Sees</string>
+    <string name="range_end">Vahemiku lõpp</string>
+    <string name="range_start">Vahemiku algus</string>
+    <string name="selected">Valitud</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Vaheleht</string>
+    <string name="template_percent">%1$d protsenti.</string>
+</resources>

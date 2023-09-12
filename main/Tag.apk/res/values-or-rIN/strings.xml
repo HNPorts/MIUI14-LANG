@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">%sକଲ୍ କରନ୍ତୁ</string>
+    <string name="action_text">ଟେକ୍ସଟ%s</string>
+    <string name="app_name">ଟ୍ୟାଗଗୁଡ଼ିକ</string>
+    <string name="button_done">ସମ୍ପୂର୍ଣ୍ଣ</string>
+    <string name="empty_tag_prompt">ଏହି ଟ୍ୟାଗ ଖାଲି ଅଛି|</string>
+    <string name="import_vcard">^1 ଆମଦାନୀ କରନ୍ତୁ</string>
+    <string name="mime_display_name">NFC ଟ୍ୟାଗରୁ ଡାଟା</string>
+    <string name="tag_empty">ଖାଲି ଟ୍ୟାଗ</string>
+    <string name="tag_unknown">ଅଜଣା ଟ୍ୟାଗ ପ୍ରକାର</string>
+    <string name="title_existing_tag">ଟ୍ୟାଗ</string>
+    <string name="title_scanned_tag">ନୂତନ ଟ୍ୟାଗ୍ ସଂଗୃହିତ</string>
+    <string name="vcard_title">^1ପାଇଁ ଯୋଗାଯୋଗ ସୂଚନା</string>
+</resources>

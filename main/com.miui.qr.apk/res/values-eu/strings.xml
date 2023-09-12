@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Itxi nabigazio-menua</string>
+    <string name="close_sheet">Itxi orria</string>
+    <string name="default_error_message">Sarrerak ez du balio</string>
+    <string name="default_popup_window_title">Leiho gainerakorra</string>
+    <string name="dropdown_menu">Goitibeherako menua</string>
+    <string name="in_progress">Abian</string>
+    <string name="indeterminate">Ez markatuta eta ez markatu gabe</string>
+    <string name="navigation_menu">Nabigazio-menua</string>
+    <string name="not_selected">Hautatu gabe</string>
+    <string name="off">Desaktibatuta</string>
+    <string name="on">Aktibatuta</string>
+    <string name="range_end">Barrutiaren amaiera</string>
+    <string name="range_start">Barrutiaren hasiera</string>
+    <string name="selected">Hautatuta</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Fitxa</string>
+    <string name="template_percent">Ehuneko %1$d.</string>
+</resources>

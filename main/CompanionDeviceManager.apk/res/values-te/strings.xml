@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">హోమ్‌కు నావిగేట్ చేస్తుంది</string>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేస్తుంది</string>
+    <string name="abc_action_menu_overflow_description">మరిన్ని ఆప్షన్‌లు</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_activity_chooser_view_see_all">అన్నీ చూడండి</string>
+    <string name="abc_activitychooserview_choose_application">యాప్‌ను ఎంచుకోండి</string>
+    <string name="abc_capital_off">ఆఫ్</string>
+    <string name="abc_capital_on">ఆన్</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">స్పేస్</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">వెతకండి…</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను తీసివేస్తుంది</string>
+    <string name="abc_searchview_description_query">శోధన ప్రశ్న</string>
+    <string name="abc_searchview_description_search">సెర్చ్</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పిస్తుంది</string>
+    <string name="abc_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="abc_shareactionprovider_share_with">వీరితో షేర్ చేస్తుంది</string>
+    <string name="abc_shareactionprovider_share_with_application">%sతో షేర్ చేస్తుంది</string>
+    <string name="abc_toolbar_collapse_description">కుదిస్తుంది</string>
+    <string name="app_label">సహచర పరికర మేనేజర్</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ద్వారా మేనేజ్ చేయబడటానికి ఒక %1$sను ఎంచుకోండి</string>
+    <string name="confirmation_title">మీ &lt;strong>%2$s&lt;/strong>ను యాక్సెస్ చేయడానికి &lt;strong>%1$s&lt;/strong>ను అనుమతించండి</string>
+    <string name="consent_back">వెనుకకు</string>
+    <string name="consent_no">అనుమతించవద్దు</string>
+    <string name="consent_yes">అనుమతించు</string>
+    <string name="helper_summary_app_streaming">%1$s మీ ఫోన్ ఫోటోలు, మీడియా, నోటిఫికేషన్‌లను యాక్సెస్ చేయడానికి మీ %2$s తరపున అనుమతిని రిక్వెస్ట్ చేస్తోంది</string>
+    <string name="helper_summary_computer">మీ పరికరాల మధ్య యాప్‌లను స్ట్రీమ్ చేయడానికి %1$s మీ %2$s తరపున అనుమతిని రిక్వెస్ట్ చేస్తోంది</string>
+    <string name="helper_title_app_streaming">Cross-device services</string>
+    <string name="helper_title_computer">Google Play సర్వీసులు</string>
+    <string name="permission_apps">యాప్‌లు</string>
+    <string name="permission_apps_summary">మీ ఫోన్ యాప్‌లను స్ట్రీమ్ చేయండి</string>
+    <string name="permission_notification">నోటిఫికేషన్‌లు</string>
+    <string name="permission_notification_summary">కాంటాక్ట్‌లు, మెసేజ్‌లు, ఫోటోల వంటి సమాచారంతో సహా అన్ని నోటిఫికేషన్‌లను చదవగలరు</string>
+    <string name="permission_storage">ఫోటోలు, మీడియా</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">మీ వాచ్‌కు యాప్ అనుమతులను బదిలీ చేయండి</string>
+    <string name="permission_sync_summary">"మీ వాచ్‌ను సెటప్ చేయడాన్ని సులభతరం చేయడానికి, సెటప్ సమయంలో మీ వాచ్‌లో ఇన్‌స్టాల్ చేయబడిన యాప్‌లు మీ ఫోన్‌లో యాప్‌లకు ఉన్న అవే అనుమతులను ఉపయోగిస్తాయి.
+
+ ఈ అనుమతులతో మీ వాచ్ మైక్రోఫోన్, అలాగే లొకేషన్ కూడా ఉండవచ్చు."</string>
+    <string name="profile_name_generic">పరికరం</string>
+    <string name="profile_name_watch">వాచ్</string>
+    <string name="search_menu_title">సెర్చ్</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">మీ %1$sను మేనేజ్ చేయడానికి ఈ యాప్ అవసరం. మీ నోటిఫికేషన్‌లతో ఇంటరాక్ట్ అవ్వడానికి అలాగే మీ ఫోన్, SMS, కాంటాక్ట్‌లు, Calendar కాల్ లాగ్‌లు, సమీపంలోని పరికరాల అనుమతులను యాక్సెస్ చేయడానికి %2$s అనుమతించబడుతుంది.</string>
+    <string name="title_app_streaming">మీ ఫోన్ నుండి ఈ సమాచారాన్ని యాక్సెస్ చేయడానికి &lt;strong>%1$s&lt;/strong> యాప్‌ను అనుమతించండి</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">మీ ఫోన్ నుండి ఈ సమాచారాన్ని యాక్సెస్ చేయడానికి &lt;strong>%1$s&lt;/strong> యాప్‌ను అనుమతించండి</string>
+    <string name="vendor_header_button_description">మరింత సమాచారం బటన్</string>
+    <string name="vendor_icon_description">యాప్ చిహ్నం</string>
+</resources>

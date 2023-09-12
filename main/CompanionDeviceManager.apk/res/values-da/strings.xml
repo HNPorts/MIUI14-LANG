@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Find hjem</string>
+    <string name="abc_action_bar_up_description">Gå op</string>
+    <string name="abc_action_menu_overflow_description">Flere valgmuligheder</string>
+    <string name="abc_action_mode_done">Udfør</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">slet</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellemrum</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgsel</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgsel</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="app_label">Medfølgende enhedsadministrator</string>
+    <string name="chooser_title">Vælg den enhed (%1$s), som skal administreres af &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Tillad, at &lt;strong>%1$s&lt;/strong> får adgang til dit &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Tilbage</string>
+    <string name="consent_no">Tillad ikke</string>
+    <string name="consent_yes">Tillad</string>
+    <string name="helper_summary_app_streaming">%1$s anmoder om tilladelse på vegne af din %2$s til at få adgang til din telefons billeder, medier og notifikationer</string>
+    <string name="helper_summary_computer">%1$s anmoder om tilladelse på vegne af din %2$s til at streame apps mellem dine enheder</string>
+    <string name="helper_title_app_streaming">Tjenester, som kan tilsluttes en anden enhed</string>
+    <string name="helper_title_computer">Google Play-tjenester</string>
+    <string name="permission_apps">Apps</string>
+    <string name="permission_apps_summary">Stream din telefons apps</string>
+    <string name="permission_notification">Notifikationer</string>
+    <string name="permission_notification_summary">Kan læse alle notifikationer, herunder oplysninger som f.eks. kontakter, beskeder og billeder</string>
+    <string name="permission_storage">Billeder og medier</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Overfør apptilladelser til dit ur</string>
+    <string name="permission_sync_summary">"For at gøre det nemmere at konfigurere dit ur vil de apps, der installeres under konfigurationen, anvende de samme tilladelser som din telefon.
+
+ Disse tilladelser kan omfatte adgang til dit urs mikrofon og lokation."</string>
+    <string name="profile_name_generic">enhed</string>
+    <string name="profile_name_watch">ur</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Du skal bruge denne app for at administrere dit %1$s. %2$s får tilladelse til at interagere med dine notifikationer og får adgang til dine tilladelser Opkald, Sms, Kalender, Opkaldshistorik og Enheder i nærheden.</string>
+    <string name="title_app_streaming">Giv &lt;strong>%1$s&lt;/strong> adgang til disse oplysninger fra din telefon</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Tillad, at &lt;strong>%1$s&lt;/strong> får adgang til disse oplysninger fra din telefon</string>
+    <string name="vendor_header_button_description">Knappen Flere oplysninger</string>
+    <string name="vendor_icon_description">Appikon</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি যোগ করুন</string>
+    <string name="edit_frequent_phrases">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি সম্পাদনা করুন</string>
+    <string name="frequent_phrases">ঘন ঘন ব্যবহার করা বাক্যাংশগুলি</string>
+    <string name="query">অনুসন্ধান করুন</string>
+    <string name="select">নির্বাচন করুন</string>
+</resources>

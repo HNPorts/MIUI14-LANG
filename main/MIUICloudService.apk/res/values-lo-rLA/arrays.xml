@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>ສຳລັບການລະບຸລາຍການທີ່ຖືກຊິ້ງຂໍ້ມູນ</item>
+        <item>ສຳລັບການຊິ້ງຂໍ້ຄວາມ</item>
+        <item>ສຳລັບການຊິ້ງລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+        <item>ສຳລັບການຊິ້ງຂໍ້ມູນເຫດການປະຕິທິນ</item>
+        <item>ສຳລັບການຊິ້ງຂໍ້ມູນລາຍການດ້ວຍບໍລິການທີ່ໃຊ້ບ່ອນຈັດເກັບຂໍ້ມູນ</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>​ໂທ​ລະ​ສັບ</item>
+        <item>SMS</item>
+        <item>ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+        <item>ປະຕິທິນ</item>
+        <item>​ບ່ອນ​ຈັດ​ເກັບ​ຂໍ້​ມູນ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>ຊິ້ງຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ, ບັນທຶກ, ປະຕິທິນແລະອື່ນໆຂອງທ່ານ</item>
+        <item>ສຳຮອງຂໍ້ມູນແອັບ, ຮູບແບບໜ້າຈໍຫຼັກແລະພາບພື້ນຫຼັງ</item>
+        <item>ສຳຮອງຂໍ້ມູນການຕັ້ງຄ່າທີ່ສຳຄັນລວມທັງ Wi-Fi ແລະຈໍສະແດງຜົນ</item>
+        <item>ລັອກອຸປະກອນຂອງທ່ານຈາກໄລຍະໄກຖ້າອຸປະກອນສູນຫາຍ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>ຊິ້ງຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ, ບັນທຶກ, ປະຕິທິນແລະອື່ນໆຂອງທ່ານ</item>
+        <item>ສຳຮອງຂໍ້ມູນແອັບ, ຮູບແບບໜ້າຈໍຫຼັກແລະພາບພື້ນຫຼັງ</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>ລັອກອຸປະກອນຂອງທ່ານຈາກໄລຍະໄກຖ້າອຸປະກອນສູນຫາຍ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>ຊິ້ງຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ, ບັນທຶກ, ປະຕິທິນແລະອື່ນໆຂອງທ່ານ</item>
+        <item>ສຳຮອງຂໍ້ມູນແອັບ, ຮູບແບບໜ້າຈໍຫຼັກແລະພາບພື້ນຫຼັງ</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>ລັອກອຸປະກອນຂອງທ່ານຈາກໄລຍະໄກຖ້າອຸປະກອນສູນຫາຍ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>ຊິ້ງຂໍ້ມູນຮູບພາບ, ບັນທຶກ, ບັນທຶກສຽງແລະອື່ນໆ</item>
+        <item>ລັອກອຸປະກອນຂອງທ່ານຈາກໄລຍະໄກຖ້າອຸປະກອນສູນຫາຍ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>ຊິ້ງຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ, ບັນທຶກ, ປະຕິທິນແລະອື່ນໆຂອງທ່ານ</item>
+        <item>ສຳຮອງຂໍ້ມູນແອັບ, ຮູບແບບໜ້າຈໍຫຼັກແລະພາບພື້ນຫຼັງ</item>
+        <item>ສຳຮອງຂໍ້ມູນການຕັ້ງຄ່າທີ່ສຳຄັນລວມທັງ Wi-Fi ແລະຈໍສະແດງຜົນ</item>
+        <item>ລັອກອຸປະກອນຂອງທ່ານຈາກໄລຍະໄກຖ້າອຸປະກອນສູນຫາຍ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ຊິ້ງຂໍ້ມູນແອັບ</item>
+        <item>ສຳຮອງຂໍ້ມູນຮູບແບບໜ້າຈໍຫຼັກ</item>
+        <item>ສຳຮອງຂໍ້ມູນການຕັ້ງຄ່າລະບົບ</item>
+        <item>ຄົ້ນຫາອຸປະກອນ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ຊິ້ງຂໍ້ມູນແອັບ</item>
+        <item>ຄົ້ນຫາອຸປະກອນ</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>ສຳລັບຄົ້ນຫາອຸປະກອນຂອງທ່ານແລະສັບປ່ຽນເປັນໂໝດສູນຫາຍ</item>
+        <item>ສຳລັບການລະບຸຕຳແໜ່ງທີ່ຕັ້ງອຸປະກອນນີ້ເພມື່ອບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ</item>
+        <item>ສຳລັບການເຂົ້າເຖິງໝາຍເລກໂທລະສັບເພື່ອຄົ້ນຫາອຸປະກອນນີ້ເມື່ອບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>ຂໍ້ມູນສຳຮອງ</item>
+        <item>ລາຍການທີ່ສຳຮອງຂໍ້ມູນ</item>
+        <item>Cloud;ສຳຮອງຂໍ້ມູນ;ຂໍ້ມູນສຳຮອງ;ບໍລິການ Cloud;Xiaomi Cloud;ໜ້າຈໍຫຼັກ;ຮູບແບບການຈັດວາງ;ແອັບ;ການຈັດການຂໍ້ມູນສຳຮອງ;ກູ້ຄືນ</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>ສຳຮອງຂໍ້ມູນໜ້າຈໍຫຼັກດ້ວຍ Xiaomi Cloud</item>
+        <item>ສຳຮອງຂໍ້ມູນຮູບແບບການຈັດວາງໜ້າຈໍຫຼັກ, ລາຍການແອັບທີ່ຕິດຕັ້ງແລະການຕັ້ງຄ່າລະບົບ</item>
+        <item>Cloud;ສຳຮອງຂໍ້ມູນ;ຂໍ້ມູນສຳຮອງ;ບໍລິການ Cloud;Xiaomi Cloud;ໜ້າຈໍຫຼັກ;ຮູບແບບການຈັດວາງ;ແອັບ;ການຕັ້ງຄ່າ;ຄວາມຖີ່ການສຳຮອງຂໍ້ມູນ;ການຈັດການຂໍ້ມູນສຳຮອງ;ກູ້ຄືນ</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>ຊິ້ງຂໍ້ມູນບຣາວເຊີດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ບຣາວເຊີ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>ຊິ້ງຂໍ້ມູນປະຕິທິນດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ປະຕິທິນ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>ຊິ້ງຂໍ້ມູນລາຍຊື່ຜູ້ຕິດຕໍ່ດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດໃຊ້ງານ/ຕັ້ງຄ່າການຊິ້ງຂໍ້ມູນ</item>
+        <item>ລາຍຊື່ຜູ້ຕິດຕໍ່;ປະຫວັດການໂທ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>ຊິ້ງຂໍ້ມູນປະຫວັດການໂທດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດໃຊ້ງານ/ຕັ້ງຄ່າການຊິ້ງຂໍ້ມູນ</item>
+        <item>ປະຫວັດການໂທ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ຄົ້ນຫາອຸປະກອນ</item>
+        <item>ລົບຂໍ້ມູນແລະລັອກອຸປະກອນຂອງທ່ານຖ້າສູນຫາຍ</item>
+        <item>ຄົ້ນຫາອຸປະກອນ;ສູນຫາຍ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ຄົ້ນຫາອຸປະກອນ</item>
+        <item>ລົບຂໍ້ມູນແລະລັອກອຸປະກອນຂອງທ່ານຖ້າສູນຫາຍ</item>
+        <item>ຄົ້ນຫາອຸປະກອນ;ສູນຫາຍ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>ຊິ້ງຂໍ້ມູນຄັງພາບດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດໃຊ້ງານ/ຕັ້ງຄ່າການຊິ້ງຂໍ້ມູນ</item>
+        <item>ຄັງພາບ;ຮູບພາບ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>ຊິ້ງຂໍ້ມູນບັນທຶກດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ບັນທຶກ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>ຊິ້ງຂໍ້ມູນບັນທຶກດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ບັນທຶກ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>ຊິ້ງຂໍ້ມູນ App vault ດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>App vault;ບັດ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ຊິ້ງຂໍ້ມູນການຕອບກັບດ່ວນ</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ການຕອບກັບດ່ວນ;ຄລິບບອດ;ຕົວແກ້ໄຂ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>ຊິ້ງຂໍ້ມູນບັນທຶກສຽງດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດໃຊ້ງານ/ຕັ້ງຄ່າການຊິ້ງຂໍ້ມູນ</item>
+        <item>ເຄື່ອງບັນທຶກສຽງ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>ລາຍການທີ່ລົບໃນ Xiaomi Cloud</item>
+        <item>ກູ້ຄືນລາຍຊື່ຜູ້ຕິດຕໍ່, ຮູບພາບ, ຂໍ້ຄວາມແລະອື່ນໆ</item>
+        <item>ຂີ້ເຫຍື້ອ;ລາຍການທີ່ລົບ;ຖັງຂີ້ເຫຍື້ອ;ກູ້ຄືນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>ລາຍການທີ່ລົບໃນ Xiaomi Cloud</item>
+        <item>ກູ້ຄືນຮູບພາບ, ບັນທຶກແລະອື່ນໆ</item>
+        <item>ຂີ້ເຫຍື້ອ;ລາຍການທີ່ລົບ;ຖັງຂີ້ເຫຍື້ອ;ກູ້ຄືນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>ກູ້ຄືນລາຍການຈາກ Xiaomi Cloud</item>
+        <item>ດາວໂຫຼດລາຍການທີ່ສຳຮອງຂໍ້ມູນໃສ່ອຸປະກອນຂອງທ່ານ</item>
+        <item>Cloud;ສຳຮອງຂໍ້ມູນ;ຂໍ້ມູນສຳຮອງ;ກູ້ຄືນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>ຄວາມປອອດໄພຊິ້ງຂໍ້ມູນດ້ວຍ Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ຄວາມປອດໄພ;Cloud;Xiaomi Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>ຄວາມປອອດໄພຊິ້ງຂໍ້ມູນດ້ວຍ Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>ຄວາມປອດໄພ;Cloud;Xiaomi Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>ຊິ້ງຂໍ້ມູນຂໍ້ຄວາມດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດໃຊ້ງານ/ຕັ້ງຄ່າການຊິ້ງຂໍ້ມູນ</item>
+        <item>ຂໍ້ຄວາມ;SMS;MMS;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>ສະມາຊິກ Xiaomi Cloud</item>
+        <item>ອັບເກຣດສະມາຊິກຂອງທ່ານ, ເພີ່ມພື້ນທີ່ຈັດເກັບຂໍ້ມູນແລະຮັກສາຄວາມປອດໄພຂໍ້ມູນຂອງທ່ານ</item>
+        <item>ບ່ອນຈັດເກັບຂໍ້ມູນບໍ່ພຽງພໍ;ສະມາຊິກ;ບ່ອນຈັດເກັບຂໍ້ມູນ;ພື້ນທີ່ຈັດເກັບຂໍ້ມູນ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud;Mega;Ultra;VIP;ສຳຮອງຂໍ້ມູນ;ຂໍ້ມູນສຳຮອງ;ກູ້ຄືນ;ຂີ້ເຫຍື້ອ;ລາຍການທີ່ລົບ;ຖັງຂີ້ເຫຍື້ອ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. ບໍລິການ Mi ທັງໝົດໃນບ່ອນດຽວ.</item>
+        <item>ເຂົ້າເຖິງຮູບພາບ, ລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມແລະອຸປະກອນຂອງທ່ານໄດ້ຈາກທຸກບ່ອນ</item>
+        <item>ບ່ອນຈັດເກັບຂໍ້ມູນບໍ່ພຽງພໍ;ສະມາຊິກ;ບ່ອນຈັດເກັບຂໍ້ມູນ;ພື້ນທີ່ຈັດເກັບຂໍ້ມູນ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud;ຂີ້ເຫຍື້ອ;ລາຍການທີ່ລົບ;ຄວາມປອດໄພ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. ບໍລິການ Mi ທັງໝົດໃນບ່ອນດຽວ.</item>
+        <item>ເຂົ້າເຖິງຮູບພາບ, ບັນທຶກແລະອຸປະກອນຂອງທ່ານໄດ້ຈາກທຸກບ່ອນ</item>
+        <item>ບ່ອນຈັດເກັບຂໍ້ມູນບໍ່ພຽງພໍ;ສະມາຊິກ;ບ່ອນຈັດເກັບຂໍ້ມູນ;ພື້ນທີ່ຈັດເກັບຂໍ້ມູນ;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud;ຂີ້ເຫຍື້ອ;ລາຍການທີ່ລົບ;ຄວາມປອດໄພ</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>ຊິ້ງຂໍ້ມູນການຕັ້ງຄ່າ Wi-Fi ດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>ຊິ້ງຂໍ້ມູນການຕັ້ງຄ່າ WLAN ດ້ວຍ Xiaomi Cloud</item>
+        <item>ເປີດການຊິ້ງຂໍ້ມູນ</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;ຊິ້ງຂໍ້ມູນ;ບໍລິການ Cloud;Xiaomi Cloud</item>
+    </string-array>
+</resources>

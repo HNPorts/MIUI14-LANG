@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Biex tagħraf l-affarijiet sinkronizzati</item>
+        <item>Biex tissinkronizza l-messaġġi</item>
+        <item>Biex tissinkronizza l-kuntatti</item>
+        <item>Biex tissinkronizza l-avvenimenti tal-kalendarju</item>
+        <item>Biex tissinkronizza affarijiet mas-servizzi li jużaw il-ħażna</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefown</item>
+        <item>SMS</item>
+        <item>Kuntatti</item>
+        <item>Kalendarju</item>
+        <item>Ħażna</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Issinkronizza l-kuntatti, l-messaġġi, in-noti, il-kalendarju tiegħek u aktar</item>
+        <item>Agħmel u aħżen kopja tal-apps, layout tal-iskrin prinċipali, u tal-wallpaper</item>
+        <item>"Agħmel u aħżen kopja ta' għażliet importanti, inkluż Wi-Fi u d-displej"</item>
+        <item>Sakkar t-tagħmir tiegħek remotament jekk jintilef</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Issinkronizza l-kuntatti, il-messaġġi, in-noti, il-kalendarju tiegħek u iktar</item>
+        <item>Agħmel u aħżen kopja tal-apps, tat-tqassim tal-iskrin prinċipali u tal-wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Sakkar it-tagħmir tiegħek mill-bogħod jekk jintilef</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Issinkronizza l-kuntatti, il-messaġġi, in-noti, il-kalendarju tiegħek u iktar</item>
+        <item>Agħmel u aħżen kopja tal-apps, tat-tqassim tal-iskrin prinċipali u tal-wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Sakkar it-tagħmir tiegħek mill-bogħod jekk jintilef</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Issinkronizza r-ritratti, in-noti, ir-reġistrazzjonijiet u iktar affarijiet tiegħek</item>
+        <item>Sakkar it-tagħmir tiegħek mill-bogħod jekk jintilef</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Issinkronizza l-kuntatti, l-messaġġi, in-noti, il-kalendarju tiegħek u aktar</item>
+        <item>Agħmel u aħżen kopja tal-apps, layout tal-iskrin prinċipali, u tal-wallpaper</item>
+        <item>"Agħmel u aħżen kopja ta' għażliet importanti, inkluż Wi-Fi u d-displej"</item>
+        <item>Sakkar t-tagħmir tiegħek remotament jekk jintilef</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Issinkronizza d-dejta tal-app</item>
+        <item>Agħmel u aħżen kopja tal-layout tal-iskrin prinċipali</item>
+        <item>Agħmel u aħżen kopja tal-għażliet tas-sistema</item>
+        <item>Sib tagħmir</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Issinkronizza d-dejta tal-apps</item>
+        <item>Sib tagħmir</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>"Biex issib it-tagħmir tiegħek u taqleb għall-modalità ta' tagħmir mitluf"</item>
+        <item>Biex issib it-tagħmir tiegħek meta ma jkunx imqabbad mal-internet</item>
+        <item>Biex taċċessa n-numru tat-telefown tiegħek biex issib dat-tagħmir meta ma jkunx imqabbad mal-internet</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Kopji maħżuna</item>
+        <item>"Affarijiet b'kopja maħżuna"</item>
+        <item>Cloud;Aħżen kopja;Kopja maħżuna;Servizzi tal-Cloud;Xiaomi Cloud;Taqsim tal-iskrin prinċipali;Apps;Immaniġġja l-kopji maħżuna;Irkupra</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Aħżen kopja tal-iskrin prinċipali fix-Xiaomi Cloud</item>
+        <item>Aħżen kopja tat-taqsim tal-iskrin prinċipali, il-lista tal-apps installati u l-għażliet tas-sistema</item>
+        <item>Cloud;Aħżen kopja;Kopja maħżuna;Servizzi tal-Cloud;Xiaomi Cloud;Taqsim tal-iskrin prinċipali;Apps;Għażliet;Frekwenza tal-ħżin tal-kopji;Immaniġġja l-kopji maħżuna;Irkupra</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Issikronizza Brawżer max-Xiaomi Cloud</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Brawżer;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Issinkronizza l-Kalendarju max-Xiaomi Cloud</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Kalendarju;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Issinkronizza l-kuntatti max-Xiaomi Cloud</item>
+        <item>Ixgħel/waqqaf is-sinkronizzazjoni</item>
+        <item>Kuntatti;Storja tat-telefonati;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Issinkronizza l-istorja tat-telefonati max-Xiaomi Cloud</item>
+        <item>Ixgħel/waqqaf is-sinkronizzazjoni</item>
+        <item>Storja tat-telefonati;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Sib tagħmir</item>
+        <item>Ħassar id-dejta u sakkar it-tagħmir jekk intilef</item>
+        <item>Sib it-tagħmir;Mitluf;Cloud;Issinkronizza;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Sib tagħmir</item>
+        <item>Ħassar id-dejta u sakkar it-tagħmir jekk intilef</item>
+        <item>Sib it-tagħmir;Mitluf;Cloud;Issinkronizza;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Issinkronizza l-Gallarija max-Xiaomi Cloud</item>
+        <item>Ixgħel/waqqaf is-sinkronizzazjoni</item>
+        <item>Gallarija;Ritratti;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Issikronizza n-noti max-Xiaomi Cloud</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Noti;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Issikronizza n-noti max-Xiaomi Cloud</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Noti;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Issinkronizza l-kaxxaforti tal-apps max-Xiaomi Cloud</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Kaxxaforti tal-apps;Karti;Cloud;Issinkronizza;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>"Issinkronizza t-tweġibiet ta' malajr"</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>"Tweġibiet ta' malajr;Memorja;Editur;Cloud;Issinkronizza;Servizzi tal-Cloud"</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Issinkronizza r-rekordings max-Xiaomi Cloud</item>
+        <item>Ixgħel/waqqaf is-sinkronizzazjoni</item>
+        <item>Rekorder;Cloud;Sinkronizzazjoni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Affarijiet imħassra fix-Xiaomi Cloud</item>
+        <item>Irkupra l-kuntatti, r-ritratti l-messaġġi u oħrajn</item>
+        <item>Żibel;Affarijiet imħassra;Barmil taż-żibel;Irkupra;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Affarijiet imħassra fix-Xiaomi Cloud</item>
+        <item>Irkupra r-ritratti, in-noti u ħafna iktar</item>
+        <item>Żibel;Affarijiet imħassra;Landa taż-żibel;Irkupra;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Irkupra affarijiet mix-Xiaomi Cloud</item>
+        <item>Niżżel fuq it-tagħmir tiegħek l-affarijiet mill-kopji maħżuna</item>
+        <item>Cloud;Aħżen kopja;Kopja maħżuna;Irkupra;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Sinkronizzazzjoni mal-Cloud tas-Sigurtà</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Sigurtà;Cloud;Xiaomi Cloud;Issinkronizza;Servizzi tal-Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>"Sinkronizzazzjoni mal-cloud ta' Sigurtà"</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>Sigurtà;Cloud;Xiaomi Cloud;Sinkronizzazzjoni;Servizzi tal-Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Issinkronizza l-messaġġi max-Xiaomi Cloud</item>
+        <item>Ixgħel/waqqaf is-sinkronizzazjoni</item>
+        <item>Messaġġi;SMS;MMS;Cloud;Sinkronizzazjni;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Ixtri sħubija tax-Xiaomi Cloud</item>
+        <item>Aġġorna s-sħubija tiegħek, ikseb iktar spazju u ħares id-dejta tiegħek</item>
+        <item>"M'hemmx biżżejjed spazju;Sħubija;Ħażna;Spazju tal-ħażna;Cloud;Sinkronizzazjoni;Servizzi tal-cloud;Xiaomi Cloud;Mega;Ultra;VIP;Aħżen kopja;Kopja maħżuna;Irkupra;Żibel;Affarijiet imħassra;Barmil taż-żibel"</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>"Xiaomi Cloud. Is-servizzi Mi kollha f'post wieħed."</item>
+        <item>Aċċessa r-ritratti, l-kuntatti, l-messaġġi u t-tagħmir kollha tiegħek minn kullimkien</item>
+        <item>"M'għandekx biżżejjed spazju;Sħubija;Ħażna;Spazju tal-ħażna;Cloud;Issinkronizza;Servizzi tal-Cloud;Xiaomi Cloud;Żibel;Affarijiet imħassra;Sigurtà"</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>"Xiaomi Cloud. Is-servizzi kollha ta' Mi f'post wieħed."</item>
+        <item>Aċċessa r-ritratti, in-noti u kull tagħmir tiegħek minn kull fejn tkun</item>
+        <item>"M'għandekx biżżejjed spazju;Sħubija;Ħażna;Spazju tal-ħażna;Cloud;Issinkronizza;Servizzi tal-Cloud;Xiaomi Cloud;Żibel;Affarijiet imħassra;Sigurtà"</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Issinkronizza l-għażliet tal-Wi-Fi max-Xiaomi Cloud</item>
+        <item>Ixgħel is-sinkronizzazjoni</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Issinkronizza;Servizzi tal-Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+</resources>

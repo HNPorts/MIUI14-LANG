@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi laman utama</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ruang</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="always_on_disconnected_message">%1$s disediakan untuk kekal bersambung pada sepanjang masa tetapi sambungan tidak dapat dibuat sekarang. Telefon anda akan menggunakan rangkaian awam sehingga dapat disambung semula ke %1$s.</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s disediakan untuk kekal bersambung pada sepanjang masa tetapi sambungan tidak dapat dibuat sekarang. Sambungan tidak akan tersedia sehingga VPN dapat bersambung semula.</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Tukar tetapan VPN</string>
+    <string name="always_on_disconnected_title">Tidak dapat menyambung ke VPN sentiasa hidup</string>
+    <string name="configure">Konfigurasikan</string>
+    <string name="data_received">Diterima:</string>
+    <string name="data_transmitted">Dihantar:</string>
+    <string name="data_value_format">%1$s bait / %2$s bingkisan</string>
+    <string name="disconnect">Putuskan sambungan</string>
+    <string name="dismiss">Ketepikan</string>
+    <string name="duration">Tempoh:</string>
+    <string name="legacy_title">VPN telah disambungkan</string>
+    <string name="open_app">Buka apl</string>
+    <string name="prompt">Permintaan sambungan</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="session">Sesi:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="warning">%s ingin menyediakan sambungan VPN yang membenarkan apl memantau trafik rangkaian. Terima hanya jika anda mempercayai sumber. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> terpapar pada bahagian atas skrin anda apabila VPN aktif.</string>
+</resources>

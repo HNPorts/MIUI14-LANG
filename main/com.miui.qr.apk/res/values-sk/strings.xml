@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Zavrieť navigačnú ponuku</string>
+    <string name="close_sheet">Zavrieť hárok</string>
+    <string name="default_error_message">Neplatný vstup</string>
+    <string name="default_popup_window_title">Vyskakovacie okno</string>
+    <string name="dropdown_menu">Rozbaľovacia ponuka</string>
+    <string name="in_progress">Prebieha</string>
+    <string name="indeterminate">Ani začiarknuté ani nezačiarknuté</string>
+    <string name="navigation_menu">Navigačná ponuka</string>
+    <string name="not_selected">Nevybrané</string>
+    <string name="off">Vypnuté</string>
+    <string name="on">Zapnuté</string>
+    <string name="range_end">Koniec rozsahu</string>
+    <string name="range_start">Začiatok rozsahu</string>
+    <string name="selected">Vybrané</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Karta</string>
+</resources>

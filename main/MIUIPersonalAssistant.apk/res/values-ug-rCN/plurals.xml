@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d سائەت ئىلگىرى</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">يېرىم سائەت ئىلگىرى</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d سائەتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">يېرىم سائەتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ھازىر</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%dمىنۇتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">باياتىن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%dمىنۇت ئىلگىرى</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d تۈر تاللاندى</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">مىس مېدال%dدانە</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">ئالتۇن مېدال%dدانە</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">جەمئىي%dدانە</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">%dچى</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">كۈمۈش مېدال%dدانە</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">كىچىك دىتال دۇكىنى ئەپ تىزىملىكى جەمئىي %d دانە</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">%d چى تۈر</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">ئىچىدە %d خىل كىچىك دىتال بار قوش چېكىپ كىچىك دىتال تونۇشتۇرۇلىشىغا كىرىڭ</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">كىچىك دىتال دۇكىنى ئەپ تىزىملىكى جەمئىي %d تۈر</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">%d دە تۇرىدۇ</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">ئىچىدە %d تۈرلۈك كىچىك دىتال بار قوش چېكىپ كىچىك دىتال چۈشەندۈرۈلىشىگە كىرىڭ</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">كىچىك دىتال دۇكىنى ئەپ تىزىملىكى جەمئىي %d تۈر</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">%dتۈردە</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">ئىچىدە %d خىل كىچىك دىتال بار قوش چېكىپ چۈشەندۈرۈشكە كىرىڭ</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%dسائەت بۇرۇن</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%dمىنۇت بۇرۇن</item>
+    </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">پەقەت%1$dدانە ھەرپلىك بەلگىنى كىرگۈزۈشنى قوللايدۇ</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">ئاز بولغاندا %1$d دانە ھەرپ بەلگە</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d دانە تېز يوللانما ئېلىۋېلىشنى كۈتىۋاتىدۇ</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">تاللانغان %s دانە تېز يوللانمىنى ئۆچۈرەمسىز؟</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">تاللانغىنى %s تۈر</item>
+    </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">تاللانغىنى %d تۈر</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">%dدانە يانفون نومۇرىغا باغلاندى</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d دانە تېز يوللانما بىكار قىلىندى</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%dدانە تېز يوللانما ئېلىشنى ساقلاۋاتىدۇ</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d دانە تېز يوللانما بىكار قىلىندى</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">%dدانە يەتكۈزىلىۋاتىدۇ</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d دانە مەسىلەر بار بولاق</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%dدانە تېز يوللانما يوللىنىۋاتىدۇ</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">%d دانە تېز يوللانما رەت قىلىندى</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d دانە تېز يوللانما تاپشۇرىۋېلىندى</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$dدانە</item>
+    </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s مى پۇلى</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">تاللانغان %d دانە مالنى ئۆچۈرەمسىز؟</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">كۆرسەتكەن پايچېك(%1$dدانە)</item>
+    </plurals>
+</resources>

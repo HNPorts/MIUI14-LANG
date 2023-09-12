@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi laman utama</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ruang</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="app_label">Pengurus Peranti Rakan</string>
+    <string name="chooser_title">Pilih %1$s untuk diurus oleh &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Benarkan &lt;strong>%1$s&lt;/strong> mengakses &lt;strong>%2$s&lt;/strong> anda</string>
+    <string name="consent_back">Kembali</string>
+    <string name="consent_no">Jangan benarkan</string>
+    <string name="consent_yes">Benarkan</string>
+    <string name="helper_summary_app_streaming">%1$s sedang meminta kebenaran bagi pihak %2$s anda untuk mengakses foto, media dan pemberitahuan telefon anda</string>
+    <string name="helper_summary_computer">%1$s sedang meminta kebenaran bagi pihak %2$s anda untuk menstrim apl antara peranti anda</string>
+    <string name="helper_title_app_streaming">Perkhidmatan silang peranti</string>
+    <string name="helper_title_computer">Perkhidmatan Google Play</string>
+    <string name="permission_apps">Apl</string>
+    <string name="permission_apps_summary">Strim apl telefon anda</string>
+    <string name="permission_notification">Pemberitahuan</string>
+    <string name="permission_notification_summary">Boleh membaca semua pemberitahuan, termasuk maklumat seperti kenalan, mesej dan foto</string>
+    <string name="permission_storage">Foto dan media</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Pindahkan kebenaran apl pada jam tangan anda</string>
+    <string name="permission_sync_summary">"Untuk memudahkan penyediaan jam tangan anda, apl yang dipasang pada jam tangan anda semasa persediaan akan menggunakan kebenaran yang sama seperti telefon anda.
+
+ Kebenaran ini mungkin termasuk akses kepada mikrofon dan lokasi jam tangan anda."</string>
+    <string name="profile_name_generic">peranti</string>
+    <string name="profile_name_watch">jam tangan</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Apl ini diperlukan untuk mengurus %1$s anda. %2$s akan dibenarkan berinteraksi dengan pemberitahuan anda dan mengakses kebenaran Telefon, SMS, Kenalan, Kalendar, Log panggilan dan Peranti berdekatan anda.</string>
+    <string name="title_app_streaming">Benarkan &lt;strong>%1$s&lt;/strong> mengakses maklumat ini daripada telefon anda</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Benarkan &lt;strong>%1$s&lt;/strong> untuk mengakses maklumat ini daripada telefon anda</string>
+    <string name="vendor_header_button_description">Butang Maklumat Lagi</string>
+    <string name="vendor_icon_description">Ikon Apl</string>
+</resources>

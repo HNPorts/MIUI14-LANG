@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Tanca el menú de navegació</string>
+    <string name="close_sheet">Tanca el full</string>
+    <string name="default_error_message">"L'entrada no és vàlida"</string>
+    <string name="default_popup_window_title">Finestra emergent</string>
+    <string name="dropdown_menu">Menú desplegable</string>
+    <string name="in_progress">En curs</string>
+    <string name="indeterminate">Ni marcada ni desmarcada</string>
+    <string name="navigation_menu">Menú de navegació</string>
+    <string name="not_selected">No seleccionat</string>
+    <string name="off">Desactivat</string>
+    <string name="on">Activat</string>
+    <string name="range_end">"Fi de l'interval"</string>
+    <string name="range_start">"Inici de l'interval"</string>
+    <string name="selected">Seleccionat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Pestanya</string>
+    <string name="template_percent">%1$d per cent</string>
+</resources>

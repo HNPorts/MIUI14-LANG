@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Lisa sagedased fraasid</string>
+    <string name="edit_frequent_phrases">Muuda sagedasi fraase</string>
+    <string name="frequent_phrases">Sagedased fraasid</string>
+    <string name="query">Otsi</string>
+    <string name="select">Vali</string>
+</resources>

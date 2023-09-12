@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Անցնել գլխավոր էջ</string>
+    <string name="abc_action_bar_up_description">Անցնել վերև</string>
+    <string name="abc_action_menu_overflow_description">Այլ ընտրանքներ</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_activity_chooser_view_see_all">Տեսնել բոլորը</string>
+    <string name="abc_activitychooserview_choose_application">Ընտրել հավելված</string>
+    <string name="abc_capital_off">ԱՆՋԱՏԵԼ</string>
+    <string name="abc_capital_on">ՄԻԱՑՆԵԼ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">բացատ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Որոնում…</string>
+    <string name="abc_searchview_description_clear">Ջնջել հարցումը</string>
+    <string name="abc_searchview_description_query">Որոնման հարցում</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_shareactionprovider_share_with">Կիսվել…</string>
+    <string name="abc_shareactionprovider_share_with_application">Կիսվել %s հավելվածի միջոցով</string>
+    <string name="abc_toolbar_collapse_description">Ծալել</string>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Ընտրեք %1$sը, որը պետք է կառավարվի &lt;strong>%2$s&lt;/strong> հավելվածի կողմից</string>
+    <string name="confirmation_title">Թույլատրեք &lt;strong>%1$s&lt;/strong> հավելվածին կառավարել ձեր &lt;strong>%2$s&lt;/strong> սարքը</string>
+    <string name="consent_back">Հետ</string>
+    <string name="consent_no">Չթույլատրել</string>
+    <string name="consent_yes">Թույլատրել</string>
+    <string name="helper_summary_app_streaming">%1$s հավելվածը ձեր %2$s սարքի անունից թույլտվություն է խնդրում՝ ձեր հեռախոսի լուսանկարները, մեդիաֆայլերն ու ծանուցումները տեսնելու համար</string>
+    <string name="helper_summary_computer">%1$s հավելվածը ձեր %2$s սարքի անունից թույլտվություն է խնդրում՝ ձեր սարքերի միջև հավելվածներ հեռարձակելու համար</string>
+    <string name="helper_title_app_streaming">Միջսարքային ծառայություններ</string>
+    <string name="helper_title_computer">Google Play ծառայություններ</string>
+    <string name="permission_apps">Հավելվածներ</string>
+    <string name="permission_apps_summary">Հեռարձակել հեռախոսի հավելվածները</string>
+    <string name="permission_notification">Ծանուցումներ</string>
+    <string name="permission_notification_summary">Կարող է կարդալ բոլոր ծանուցումները, ներառյալ տեղեկությունները, օրինակ՝ կոնտակտները, հաղորդագրությունները և լուսանկարները</string>
+    <string name="permission_storage">Լուսանկարներ և մուլտիմեդիա</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Հավելվածների թույլտվությունների տեղափոխում ժամացույց</string>
+    <string name="permission_sync_summary">"Կարգավորման ժամանակ ժամացույցում տեղադրված հավելվածների համար կօգտագործվեն նույն թույլտվությունները, ինչ հեռախոսում։
+
+ Այդ թույլտվությունները կարող են ներառել ժամացույցի խոսափողի կամ տեղադրության տվյալների օգտագործումը։"</string>
+    <string name="profile_name_generic">սարք</string>
+    <string name="profile_name_watch">ժամացույց</string>
+    <string name="search_menu_title">Որոնել</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Այս հավելվածն անհրաժեշտ է ձեր %1$s սարքը կառավարելու համար։ %2$s հավելվածը կկարողանա փոխազդել ձեր ծանուցումների հետ և կստանա «Հեռախոս», «SMS», «Կոնտակտներ», «Օրացույց», «Կանչերի ցուցակ» և «Մոտակա սարքեր» թույլտվությունները։</string>
+    <string name="title_app_streaming">Թույլատրեք &lt;strong>%1$s&lt;/strong> հավելվածին օգտագործել այս տեղեկությունները ձեր հեռախոսից</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Թույլատրեք &lt;strong>%1$s&lt;/strong> հավելվածին օգտագործել այս տեղեկությունները ձեր հեռախոսից</string>
+    <string name="vendor_header_button_description">«Այլ տեղեկություններ» կոճակ</string>
+    <string name="vendor_icon_description">Հավելվածի պատկերակ</string>
+</resources>

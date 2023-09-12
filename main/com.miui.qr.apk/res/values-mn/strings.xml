@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Навигацын цэсийг хаах</string>
+    <string name="close_sheet">Хүснэгтийг хаах</string>
+    <string name="default_error_message">Буруу оролт</string>
+    <string name="default_popup_window_title">Попап цонх</string>
+    <string name="dropdown_menu">Унадаг цэс</string>
+    <string name="in_progress">Үргэлжилж байна</string>
+    <string name="indeterminate">Тэмдэглэсэн, сонголтыг болиулаагүйн аль нь ч биш</string>
+    <string name="navigation_menu">Навигацын цэс</string>
+    <string name="not_selected">Сонгоогүй</string>
+    <string name="off">Унтраалттай</string>
+    <string name="on">Асаалттай</string>
+    <string name="range_end">Мужийн төгсгөл</string>
+    <string name="range_start">Мужийн эхлэл</string>
+    <string name="selected">Сонгосон</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Таб</string>
+    <string name="template_percent">%1$d хувь.</string>
+</resources>

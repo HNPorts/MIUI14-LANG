@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Sinkronizatutako elementuak identifikatzeko</item>
+        <item>Mezuak sinkronizatzeko</item>
+        <item>Kontaktuak sinkronizatzeko</item>
+        <item>Egutegi ekitaldiak sinkronizatzeko</item>
+        <item>Biltegiratzea erabiltzen duten zerbitzuak dituzten elementuak sinkronizatzeko</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefonoa</item>
+        <item>SMS</item>
+        <item>Kontaktuak</item>
+        <item>Egutegia</item>
+        <item>Memoria</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Zure kontaktuak, mezuak, oharrak, egutegia eta gehiago sinkronizatu</item>
+        <item>Aplikazioen, Hasiera Pantailaren diseinuen eta horma paperaren babeskopia egin</item>
+        <item>Ezarpen inportanteen babeskopia egin, wifia eta diseinua barne</item>
+        <item>Zure gailua urrutitik blokeatu galtzen bada</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sinkronizatu kontaktuak, mezuak, oharrak, egutegia eta beste</item>
+        <item>Egin aplikazioen, Hasierako pantailaren diseinuaren eta horma-paperaren babeskopia</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Gailua galtzen bada, blokeatu ezazu urrunetik</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Zure kontaktuak, mezuak, oharrak, egutegia eta gehiago sinkronizatu</item>
+        <item>Aplikazioen, Hasiera Pantailaren diseinuen eta horma paperaren babeskopia egin</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Gailua galtzen bada, blokeatu ezazu urrunetik</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sinkronizatu argazkiak, oharrak, grabaketak eta beste elementu batzuk</item>
+        <item>Gailua galtzen bada, blokeatu ezazu urrunetik</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Zure kontaktuak, mezuak, oharrak, egutegia eta gehiago sinkronizatu</item>
+        <item>Aplikazioen, Hasiera Pantailaren diseinuen eta horma paperaren babeskopia egin</item>
+        <item>Ezarpen inportanteen babeskopia egin, wifia eta diseinua barne</item>
+        <item>Blokeatu zure gailua urrutitik galtzen bada</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Aplikazio datuak sinkronizatu</item>
+        <item>Hasiera pantailaren diseinuaren babeskopia egin</item>
+        <item>Sistemaren ezarpenen babeskopia egin</item>
+        <item>Gailua aurkitu</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sinkronizatu aplikazio-datuak</item>
+        <item>Gailua aurkitu</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Gailua kokatzeko eta Galduta modura aldatzeko</item>
+        <item>Gailu hau kokatzeko, Internetera konektatuta ez dagoenean</item>
+        <item>Telefono-zenbakia atzitzeko gailu hau kokatu ahal izateko, Internetera konektatuta ez dagoenean</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Babeskopiak</item>
+        <item>Babeskopiak dituzten elementuak</item>
+        <item>Lainoa;Babeskopia egin;Babeskopia;Lainoaren zerbitzuak;Xiaomi Cloud;Hasierako pantaila;Diseinua;Aplikazioak;Kudeatu babeskopiak;Berreskuratu</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Egin Hasiera pantailaren babeskopia Xiaomi Cloud-en</item>
+        <item>Hasierako pantailaren, instalatutako aplikazioen zerrendaren eta sistemaren ezarpenen babeskopia egin</item>
+        <item>Lainoa;Babeskopia egin;Babeskopia;Lainoaren zerbitzuak;Xiaomi Cloud;Hasierako pantaila;Diseinua;Aplikazioak;Ezarpenak;Babeskopiaren maiztasuna;Kudeatu babeskopiak;Berreskuratu</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sinkronizatu nabigatzailea Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Nabigatzailea;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sinkronizatu Egutegia Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Egutegia;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Sinkronizatu kontaktuak Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa piztu/programatu</item>
+        <item>Kontaktuak;Dei historia;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sinkronizatu dei historia Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa piztu/programatu</item>
+        <item>Dei historia;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Gailua aurkitu</item>
+        <item>Datuak ezabatu eta zure gailua blokeatu galtzen bada</item>
+        <item>Gailua aurkitu;Galduta;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Gailua aurkitu</item>
+        <item>Datuak ezabatu eta zure gailua blokeatu galtzen bada</item>
+        <item>Gailua aurkitu;Galduta;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sinkronizatu Galeria Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa piztu/programatu</item>
+        <item>Galeria;Argazkiak;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sinkronizatu oharrak Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Oharrak;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sinkronizatu oharrak Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Oharrak;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sinkronizatu aplikazio kaxa Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Aplikazio kaxa;Txartelak;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sinkronizatu erantzun azkarrak</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Erantzun azkarrak;Arbela;Editorea;Hodeia;Sinkronizatu;Hodeiko zerbitzuak</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sinkronizatu grabaketak Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa piztu/programatu</item>
+        <item>Grabatzailea;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Ezabatutako elementuak Xiaomi Cloud-en</item>
+        <item>Kontaktuak, argazkiak, mezuak eta gehio berreskuratu</item>
+        <item>Zaborra;Ezabatutako elementuak;Zakarrontzia;Berreskuratu;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Ezabatutako elementuak Xiaomi Cloud-en</item>
+        <item>Berrezarri argazkiak, oharrak eta beste elementu batzuk</item>
+        <item>Zaborra;Ezabatutako elementuak;Zakarrontzia;Leheneratu;Hodeiko zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Leheneratu elementuak Xiaomi Cloud-etik</item>
+        <item>Babeskopia duten elementuak gailura deskargatu</item>
+        <item>Lainoa;Babeskopia egin;Babeskopia;Berreskuratu;Laino zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Hodeiko segurtasun sinkronizazioa</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Segurtasuna;Hodeia;Xiaomi Cloud;Sinkronizatu;Hodeiko zerbitzuak</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Hodeiko segurtasun sinkronizazioa</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>Segurtasuna;Hodeia;Xiaomi Cloud;Sinkronizatu;Hodeiko zerbitzuak</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sinkronizatu mezuak Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa piztu/programatu</item>
+        <item>Mezuak;SMS;MMS;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi Cloud-en kidetasuna</item>
+        <item>Zure bazkidetza plana hobetu, biltegiratze leku gehiago lortu eta zure datuak babestu</item>
+        <item>Biltegiratze leku gutxiegi;Bazkidetza;Biltegia;Biltegiratze lekua;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud;Mega;Ultra;VIP;Babeskopia egin;Babeskopia;Berreskuratu;Zaborra;Ezabatutako elementuak;Zakarrontzia</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Mi zerbitzu guztiak leku berean.</item>
+        <item>Zure argazkietara, kontaktuetara, mezuetara, eta gailuetara edozein lekutik sartu</item>
+        <item>Biltegiratze leku gutxiegi;Bazkidetza;Biltegia;Biltegiratze lekua;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud;Zaborra;Ezabatutako elementuak;Segurtasuna</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Mi zerbitzu guztiak leku berean.</item>
+        <item>Atzitu argazkiak, oharrak eta gailuak edonondik</item>
+        <item>Biltegiratze-leku gutxiegi;Bazkidetza;Biltegiratzea;Biltegiratze-lekua;Hodeia;Sinkronizatu;Hodeiko zerbitzuak;Xiaomi Cloud;Zaborra;Ezabatutako elementuak;Segurtasuna</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sinkronizatu wifiaren ezarpenak Xiaomi Cloud-ekin</item>
+        <item>Sinkronizazioa aktibatu</item>
+        <item>WLAN;wifi;Wi-Fi;Lainoa;Sinkronizazioa;Lainoaren zerbitzuak;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+</resources>

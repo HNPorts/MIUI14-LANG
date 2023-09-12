@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">En halvtime siden</item>
+        <item quantity="one">En halvtime siden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Om 1 time</item>
+        <item quantity="one">Om 1 time</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Om en halvtime</item>
+        <item quantity="one">Om en halvtime</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Umiddelbart</item>
+        <item quantity="one">Umiddelbart</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">om %d min</item>
+        <item quantity="one">om 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Akkurat nå</item>
+        <item quantity="one">Akkurat nå</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">1 minutt siden</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s mynter</item>
+        <item quantity="one">%1s mynt</item>
+    </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">Sleltte %d oppgaver nå?</item>
+        <item quantity="one">Slette %d oppgave nå?</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">Slettet %d oppgaver</item>
+        <item quantity="one">Slettet %d oppgave</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Spol %d sekunder fremover</item>
+        <item quantity="one">Spol %d sekund fremover</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Spol %d sekunder bakover</item>
+        <item quantity="one">Spol %d sekund bakover</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">En halvtime siden</item>
+        <item quantity="one">En halvtime siden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Om 1 time</item>
+        <item quantity="one">Om 1 time</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Om en halvtime</item>
+        <item quantity="one">Om en halvtime</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Umiddelbart</item>
+        <item quantity="one">Umiddelbart</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om 1 minutt</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Akkurat nå</item>
+        <item quantity="one">Akkurat nå</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementer valgt</item>
+        <item quantity="one">%d element valgt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye varsler</item>
+        <item quantity="one">%d nytt varsel</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">1 minutt siden</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d mynter = %2$d IDR
+Mynter kan ikke refunderes"</item>
+        <item quantity="one">"%1$d mynt = %2$d IDR
+Mynter kan ikke refunderes"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d jobber</item>
+        <item quantity="one">%d jobb</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"%d bestillinger refundert. "</item>
+        <item quantity="one">"%d bestilling refundert. "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">Myntene dine vil bli satt inn innen %d timer.</item>
+        <item quantity="one">Myntene dine vil bli satt inn innen %d time.</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">Refusjonen din er behandlet. Myntene sttes inn innen %d timer.</item>
+        <item quantity="one">Refusjonen din er behandlet. Myntene sttes inn innen %d time.</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">Dette kan ta litt tid. Hvis du ikke har mottatt artiklene du kjøpte innen %d timer, kan du sende oss en tilbakemelding og informere oss om problemet.</item>
+        <item quantity="one">Dette kan ta litt tid. Hvis du ikke har mottatt artiklene du kjøpte innen %d time, kan du sende oss en tilbakemelding og informere oss om problemet.</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Ved å fullføre betalingen samtykker du i &lt;a href=\"%1$s\">Melding om kjøp i appen&lt;/a>.&lt;br>Refusjoner er tilgjengelige i &lt;xliff:g id=time>%2$d&lt;/xliff:g> timer etter kjøp er gjennomført.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ved å fullføre betalingen samtykker du i &lt;a href=\"%1$s\">Melding om kjøp i appen&lt;/a>.&lt;br>Refusjoner er tilgjengelige i &lt;xliff:g id=time>%2$d&lt;/xliff:g> time etter kjøp er gjennomført.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Bestillingen ble fullført for mer enn %d timer siden. Send oss en e-post.</item>
+        <item quantity="one">Bestillingen ble fullført for mer enn %d time siden. Send oss en e-post.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Du mottar myntene innen %d timer.</item>
+        <item quantity="one">Du mottar myntene innen %d time.</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d kommentarer</item>
+        <item quantity="one">%d kommentar</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">Fontene %1$s ble lastet ned</item>
+        <item quantity="one">Fonten %1$s ble lastet ned</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">Temaene %1$s ble lastet ned</item>
+        <item quantity="one">Temaet %1$s ble lastet ned</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s verk</item>
+        <item quantity="one">%1$s verk</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d bilder</item>
+        <item quantity="one">%1$s | %2$d bilde</item>
+    </plurals>
+</resources>

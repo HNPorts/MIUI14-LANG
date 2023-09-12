@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>ماس قەدەملەنگەن سانلىق مەلۇماتقا بەلگە سېلىشقا ئىشلىتىدۇ</item>
+        <item>ئۇچۇرنى ماس قەدەملەشكە ئىشلىتىدۇ</item>
+        <item>ئالاقىلاشقۇچىلارنى ماس قەدەملەشكە ئىشلىتىدۇ</item>
+        <item>كالېندارنى ماس قەدەملەشكە ئىشلىتىدۇ</item>
+        <item>ساقلانمىدىكى كەسپ سانلىق مەلۇماتىنى ماس قەدەملەش</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>تېلېفون</item>
+        <item>ئۇچۇر</item>
+        <item>ئالاقە خاتىرىسى</item>
+        <item>كالېندار</item>
+        <item>ساقلاش بوشلۇقى</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>ئالاقىلاشقۇچى،ئۇچۇر،باغاقچە،كالېندار قاتارلىق مۇھىم سانلىق مەلۇمات</item>
+        <item>ئېكران ئەپى،ئەپ ئورۇنلاشتۇرۇش ۋە تەگلىك قاتارلىق سانلىق مەلۇمات</item>
+        <item>WLAN ۋە كۆرسىتىش قاتارلىق تەڭشەك تۈرى</item>
+        <item>يىراقتىن ئورۇن بەلگىلەپ قۇلۇپلاش يانفون بىخەتەرلىكىنى قوغدايدۇ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>ئالاقىلاشقۇچى،ئۇچۇر،باغاقچە،كالېندار قاتارلىق مۇھىم سانلىق مەلۇمات</item>
+        <item>ئېكران ئەپى،ئەپ ئورۇنلاشتۇرۇش ۋە تەگلىك قاتارلىق سانلىق مەلۇمات</item>
+        <item>WLAN ۋە كۆرسىتىش قاتارلىق تەڭشەك تۈرى</item>
+        <item>يىراقتىن ئورۇن بەلگىلەپ قۇلۇپلاش يانفون بىخەتەرلىكىنى قوغدايدۇ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>ئالاقىداش،ئۇچۇر، خاتىرە، كالېندار قاتارلىق مۇھىم سانلىق مەلۇمات</item>
+        <item>ئېكران ئەپى،ئەپ ئورۇنلاشتۇرۇش ۋە تەگلىك قاتارلىق سانلىق مەلۇمات</item>
+        <item>WLAN ۋە كۆرسىتىش قاتارلىق تەڭشەك تۈرى</item>
+        <item>يىراقتىن ئورۇن بەلگىلەپ قۇلۇپلاش يانفون بىخەتەرلىكىنى قوغدايدۇ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>رەسىم، خاتىرە، ئۈنگە ئالىش قاتارلىق مۇھىم سانلىق مەلۇمات</item>
+        <item>يىراقتىن ئورۇن بېكىتىپ قۇلۇپلاپ،ئۈسكۈنە بىخەتەرلىكىنى قوغدايدۇ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>ئالاقىداش،ئۇچۇر، خاتىرە، كالېندار قاتارلىق مۇھىم سانلىق مەلۇمات</item>
+        <item>ئېكران ئەپى،ئەپ ئورۇنلاشتۇرۇش ۋە تەگلىك قاتارلىق سانلىق مەلۇمات</item>
+        <item>WLAN ۋە كۆرسىتىش قاتارلىق تەڭشەك تۈرى</item>
+        <item>يىراقتىن ئورۇن بەلگىلەپ قۇلۇپلاش يانفون بىخەتەرلىكىنى قوغدايدۇ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ئەپ ئۇچۇرىنى ماس قەدەملەش</item>
+        <item>ئېكران ئورۇنلاشتۇرۇشىنى زاپاسلاش</item>
+        <item>سىستېما تەڭشىكىنى زاپاسلاش</item>
+        <item>ئۈسكۈنە ئىزدەش</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ئەپ ئۇچۇرىنى ماس قەدەملەش</item>
+        <item>ئۈسكۈنە ئىزدەش</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>يىراقتىن ئورۇن بېكىتىش بۇيرۇقى بېرىپ،يىراقتىن ئەگىشىش ئىقتىدارىنى قوزغىتىشقا ئىشلىتىلىدۇ</item>
+        <item>تورسىز ئەھۋالدا، ئۇچۇر ئارقىلىق نۆۋەتتىكى ئۈسكۈنىنىڭ ئورنىنى بېكىتىدۇ.</item>
+        <item>يانفون نومۇرىغا ئېرىششىتە تورسىز ئەھۋالدا، ئۇچۇر ئارقىلىق نۆۋەتتىكى ئۈسكۈنىنىڭ ئورنىنى بېكىتىشكە ئىشلىتىلىدۇ.</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>بۇلۇت زاپاسلاشنى باشقۇرۇش</item>
+        <item>زاپاسلاش تىزىملىكى</item>
+        <item>بۇلۇت؛زاپاسلاش؛بۇلۇت مۇلازىمىتى؛ئېكران؛ئورۇنلاشتۇرۇش؛ئەپ؛زاپاسلاشنى باشقۇرۇش؛ئەسلىگە كەلتۈرۈش</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>ئېكراننى بۇلۇتقا زاپاسلاش</item>
+        <item>ئېچىش/ئۈستەليۈزى ئورۇنلاشتۇرىشى/ئەپ تىزىملىكى/سىستېما تەڭشىكى</item>
+        <item>بۇلۇت؛زاپاسلاش؛بۇلۇت مۇلازىمىتى؛ئېكران؛ئورۇنلاشتۇرۇش؛ئەپ؛تەڭشەك؛زاپاسلاش سانى؛زاپاسلاشنى باشقۇرۇش؛ئەسلىگە كالتۈرۈش</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>توركۆرگۈچ بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>توركۆرگۈ؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>كالېندار بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>كالېندار؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>ئالاقىلاشقۇچىلارنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەش قائىدىسىنى تەڭشەش/ئېچىش</item>
+        <item>كىشىلەر؛ئالاقىلاشقۇچىلار؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>سۆزلىشىش خاتىرىسىنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەش قائىدىسىنى تەڭشەش/ئېچىش</item>
+        <item>سۆزلىشىش خاتىرىسى؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ئۈسكۈنە ئىزدەش</item>
+        <item>تاختا كومپىيۇتېرە يۈتۈپ كېتىش/سانلىق مەلۇمات قۇلۇپلاش، ئۆچۈرۈش</item>
+        <item>ئۈسكۈنە ئىزدەش؛تاختا كومپىيۇتېر يۈتۈپ كېتىش؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ئۈسكۈنە ئىزدەش</item>
+        <item>يانفون يۈتۈپ كېتىش/سانلىق مەلۇمات قۇلۇپلاش. تازىلاش</item>
+        <item>ئۈسكۈنە ئىزدەش؛يانفون يۈتۈپ كېتىش؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>ئالبومنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەش قائىدىسىنى تەڭشەش/ئېچىش</item>
+        <item>ئالبوم؛رەسىم؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>باغاقچە بۇلۇت ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>باغاقچە؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>خاتىرىنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>خاتىرە؛خەتكۈچ؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>ئەقلىي ياردەمچى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>ئەقلىي ياردەمچى؛تېز ئېكران؛ئېكران كارتىسى؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>دائىملىق سۆزلەرنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>دائىملىق سۆز؛كۆچۈرۈپ چاپلاش تاختىسى؛تەھرىرلىگۈچ؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>ئۈنئالغۇ بۇلۇت ماس قەدەملەش</item>
+        <item>ماس قەدەملەش قائىدىسىنى تەڭشەش/ئېچىش</item>
+        <item>ئۈنئالغۇ؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىت</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>شياۋمى بۇلۇت مۇلازىمىتى ئەخلەت ساندۇقى</item>
+        <item>كىشىلەر،رەسىم،ئۇچۇرنى ئەسلىگە كەلتۈرۈش</item>
+        <item>ئەخلەت ساندۇقى؛ئەسلىگە كەلتۈرۈش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>شياۋمى بۇلۇت مۇلازىمىتى ئەخلەت ساندۇقى</item>
+        <item>رەسىم، خاتىرە قاتارلىقلارنى ئەسلىگە كەلتۈرۈش</item>
+        <item>ئەخلەت ساندۇقى؛ئەسلىگە كەلتۈرۈش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>بۇلۇتقا زاپاسلانغان سانلىق مەلۇماتنى ئەسلىگە كەلتۈرۈش</item>
+        <item>سانلىق مەلۇماتنى يانفونغا ئەسلىگە كەلتۈرۈش</item>
+        <item>بۇلۇت؛زاپاسلاش؛بۇلۇت مۇلازىمىتى؛ئەسلىگە كەلتۈرۈش</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>يانفون غوجىدارىنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>يانفون غوجىدارى؛بىخەتەرلىك مەركىزى؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>تاختا كومپىيۇتېر غوجىدارىنى بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>تاختا كومپىيۇتېر غوجىدارى؛بىخەتەرلىك مەركىزى؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>ئۇچۇر بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەش قائىدىسىنى تەڭشەش/ئېچىش</item>
+        <item>ئۇچۇر؛بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>شياۋمى بۇلۇت مۇلازىمىتى ئەزاسى</item>
+        <item>ئەزالىقنى ئۆستۈرۈش/ساقلاش بوشلۇقىنى يۇقىرى كۆتۈرۈش/سانلىق مەلۇمات بىخەتەرلىكىگە كاپالەتلىك قىلىش</item>
+        <item>توشقان؛ئەزا؛ساقلاش؛بۇلۇت؛بۇلۇت؛بوشلۇق؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى؛ئاق ئالتۇن؛ئالماس؛ئالتۇن؛VIP؛ئەسلىگە كەلتۈرۈش؛زاپاسلاش؛ئەخلەت ساندۇقى</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>شياۋمى بۇلۇت مۇلازىمىتى: سىزنىڭ سانلىق مەلۇمات بىخەتەرلىك غوجىدارىڭىز</item>
+        <item>ئۈسكۈنە ئىزدەش،ئۇچۇر،رەسىم ماس قەدەملەش،ئېكراننى بۇلۇتقا ماس قەدەملەش</item>
+        <item>توشۇق؛ئەزا؛ساقلاش؛بۇلۇت؛بوشلۇق؛ماس قەدەملەش؛مۇلازىمەت؛VIP؛ئەسلىگە قايتۇرۇش؛زاپاسلاش؛ئەخلەت ساندۇقى؛بىخەتەرلىك</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>شياۋمى بۇلۇت مۇلازىمىتى: سىزنىڭ سانلىق مەلۇمات بىخەتەرلىك غوجىدارىڭىز</item>
+        <item>ئۈسكۈنە ئىزدەش، رەسىم، خاتىرىنى ماس قەدەملەش</item>
+        <item>توشۇق؛ئەزا؛ساقلاش؛بۇلۇت؛بوشلۇق؛ماس قەدەملەش؛مۇلازىمەت؛VIP؛ئەسلىگە قايتۇرۇش؛ئەخلەت ساندۇقى؛بىخەتەرلىك</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>WLANدا بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>WLAN;wifi;بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLAN دا بۇلۇتقا ماس قەدەملەش</item>
+        <item>ماس قەدەملەشنى ئېچىش</item>
+        <item>WLAN;wifi;بۇلۇت؛ماس قەدەملەش؛بۇلۇت مۇلازىمىتى</item>
+    </string-array>
+</resources>

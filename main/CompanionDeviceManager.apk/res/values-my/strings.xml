@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">မူလနေရာကို ပြန်သွားရန်</string>
+    <string name="abc_action_bar_up_description">အပေါ်သို့ ရွှေ့ရန်</string>
+    <string name="abc_action_menu_overflow_description">နောက်ထပ် ရွေးစရာများ</string>
+    <string name="abc_action_mode_done">ပြီးပြီ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလုံး ကြည့်ရန်</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုကို ရွေးရန်</string>
+    <string name="abc_capital_off">ပိတ်</string>
+    <string name="abc_capital_on">ဖွင့်</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ရှာဖွေရန်…</string>
+    <string name="abc_searchview_description_clear">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_query">ရှာဖွေရန် မေးခွန်း</string>
+    <string name="abc_searchview_description_search">ရှာရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာရန်</string>
+    <string name="abc_shareactionprovider_share_with">နှင့် မျှဝေရန်</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
+    <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
+    <string name="app_label">တွဲဖက်ကိရိယာ မန်နေဂျာ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> က စီမံခန့်ခွဲရန် %1$s ကို ရွေးချယ်ပါ</string>
+    <string name="confirmation_title">သင်၏ &lt;strong>%2$s&lt;/strong> ကို သုံးရန် &lt;strong>%1$s&lt;/strong> ကို ခွင့်ပြုပါ</string>
+    <string name="consent_back">နောက်သို့</string>
+    <string name="consent_no">ခွင့်မပြုပါ</string>
+    <string name="consent_yes">ခွင့်ပြုရန်</string>
+    <string name="helper_summary_app_streaming">%1$s သည် သင့်ဖုန်း၏ ဓာတ်ပုံ၊ မီဒီယာနှင့် အကြောင်းကြားချက်များသုံးရန် သင်၏ %2$s ကိုယ်စား ခွင့်ပြုချက်တောင်းနေသည်</string>
+    <string name="helper_summary_computer">%1$s သည် သင်၏စက်များအကြား အက်ပ်များတိုက်ရိုက်လွှင့်ရန် သင်၏ %2$s ကိုယ်စား ခွင့်ပြုချက်တောင်းနေသည်</string>
+    <string name="helper_title_app_streaming">စက်များကြားသုံး ဝန်ဆောင်မှုများ</string>
+    <string name="helper_title_computer">Google Play ဝန်ဆောင်မှုများ</string>
+    <string name="permission_apps">အက်ပ်များ</string>
+    <string name="permission_apps_summary">သင့်ဖုန်းရှိအက်ပ်များကို တိုက်ရိုက်လွှင့်နိုင်သည်</string>
+    <string name="permission_notification">အကြောင်းကြားချက်များ</string>
+    <string name="permission_notification_summary">အဆက်အသွယ်၊ မက်ဆေ့ဂျ်နှင့် ဓာတ်ပုံကဲ့သို့ အချက်အလက်များအပါအဝင် အကြောင်းကြားချက်အားလုံးကို ဖတ်နိုင်သည်</string>
+    <string name="permission_storage">ဓာတ်ပုံနှင့် မီဒီယာများ</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">သင်၏နာရီသို့ အက်ပ်ခွင့်ပြုချက်များ လွှဲပြောင်းရန်</string>
+    <string name="permission_sync_summary">"သင်၏နာရီ စနစ်ထည့်သွင်းရာတွင် ပိုလွယ်ကူစေရန် စနစ်ထည့်သွင်းနေစဉ်အတွင်း နာရီတွင်ထည့်သွင်းသော အက်ပ်များသည် သင့်ဖုန်းနှင့် အလားတူခွင့်ပြုချက်များကို သုံးပါမည်။
+
+ ဤခွင့်ပြုချက်များတွင် သင့်နာရီ၏ မိုက်ခရိုဖုန်းနှင့် တည်နေရာတို့ကို သုံးခွင့် ပါဝင်နိုင်သည်။"</string>
+    <string name="profile_name_generic">စက်</string>
+    <string name="profile_name_watch">နာရီ</string>
+    <string name="search_menu_title">ရှာဖွေမှု</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">"သင်၏ %1$s ကို စီမံခန့်ခွဲရန် ဤအက်ပ်ကိုလိုအပ်သည်။ သင်၏ ‘ဖုန်း’၊ ‘SMS စာတိုစနစ်’၊ ‘အဆက်အသွယ်များ’၊ ‘ပြက္ခဒိန်’၊ ‘ခေါ်ဆိုမှတ်တမ်း’ နှင့် 'အနီးတစ်ဝိုက်ရှိ စက်များ' ခွင့်ပြုချက်များကို သုံးရန်နှင့် အကြောင်းကြားချက်များကို ပြန်လှန်တုံ့ပြန်ရန် %2$s အား ခွင့်ပြုပါမည်။"</string>
+    <string name="title_app_streaming">&lt;strong>%1$s&lt;/strong> ကို သင့်ဖုန်းမှ ဤအချက်အလက် သုံးခွင့်ပြုမည်</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">&lt;strong>%1$s&lt;/strong> အား သင့်ဖုန်းမှ ဤအချက်အလက် သုံးခွင့်ပြုခြင်း</string>
+    <string name="vendor_header_button_description">နောက်ထပ်အချက်အလက်များ ခလုတ်</string>
+    <string name="vendor_icon_description">အက်ပ်သင်္ကေတ</string>
+</resources>

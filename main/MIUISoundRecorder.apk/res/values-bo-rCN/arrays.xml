@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>རོལ་དབྱངས།</item>
+        <item>སྤྱིར་བཏང་།</item>
+        <item>བཅར་འདྲི།</item>
+        <item>དྭངས་གསལ།</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>རོལ་དབྱངས།</item>
+        <item>སྤྱིར་བཏང་།</item>
+        <item>བཅར་འདྲི།</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>མཐོ།</item>
+        <item>ཚད་ལྡན།</item>
+        <item>དམའ་བ།</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>རོལ་དབྱངས།</item>
+        <item>སྤྱིར་བཏང་།</item>
+    </string-array>
+</resources>

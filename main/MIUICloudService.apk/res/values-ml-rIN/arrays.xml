@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>സമന്വയിപ്പിച്ച ഇനങ്ങൾ തിരിച്ചറിയാൻ</item>
+        <item>മെസേജുകൾ സമന്വയിപ്പിക്കാൻ</item>
+        <item>കോൺടാക്റ്റുകൾ സമന്വയിപ്പിക്കാൻ</item>
+        <item>കലണ്ടർ ഇവന്റുകകൾ സമന്വയിപ്പിക്കാൻ</item>
+        <item>സ്റ്റോറേജ് ഉപയോഗിക്കുന്ന സേവനങ്ങളോടുകൂടിയ ഇനങ്ങൾ സമന്വയിപ്പിക്കുന്നതിന്</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ഫോണ്‍</item>
+        <item>എസ്എംഎസ്</item>
+        <item>കോൺടാക്റ്റുകൾ</item>
+        <item>കലണ്ടർ</item>
+        <item>സ്റ്റോറേജ്</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>നിങ്ങളുടെ കോൺടാക്റ്റുകൾ, മെസേജുകൾ, കുറിപ്പുകൾ, കലണ്ടറുകൾ എന്നിവയും അതിലേറെയും സമന്വയിപ്പിക്കുക</item>
+        <item>ആപ്പുകൾ, ഹോം സ്ക്രീന്‍ ലേഔട്ട്, വാൾപേപ്പർ എന്നിവ ബാക്കപ്പുചെയ്യുക</item>
+        <item>വൈ-ഫൈയും ഡിസ്പ്ലേയും ഉൾപ്പെടെ പ്രധാന ക്രമീകരണങ്ങൾ ബാക്കപ്പുചെയ്യുക</item>
+        <item>നിങ്ങളുടെ ഉപകരണം നഷ്ടമായാൽ വിദൂരമായി അത് ലോക്കുചെയ്യുക</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>നിങ്ങളുടെ കോൺടാക്റ്റുകൾ, മെസേജുകൾ, കുറിപ്പുകൾ, കലണ്ടറുകൾ എന്നിവയും മറ്റും സമന്വയിപ്പിക്കുക</item>
+        <item>ആപ്പുകൾ, ഹോം സ്ക്രീന്‍ ലേഔട്ട്, വാൾപേപ്പർ എന്നിവ ബാക്കപ്പുചെയ്യുക</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>നിങ്ങളുടെ ഉപകരണം നഷ്ടമായാൽ വിദൂരമായി അത് ലോക്കുചെയ്യുക</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>നിങ്ങളുടെ കോൺടാക്റ്റുകൾ, മെസേജുകൾ, കുറിപ്പുകൾ, കലണ്ടറുകൾ എന്നിവയും അതിലേറെയും സമന്വയിപ്പിക്കുക</item>
+        <item>ആപ്പുകൾ, ഹോം സ്ക്രീന്‍ ലേഔട്ട്, വാൾപേപ്പർ എന്നിവ ബാക്കപ്പുചെയ്യുക</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>നിങ്ങളുടെ ഉപകരണം നഷ്ടമായാൽ വിദൂരമായി അത് ലോക്കുചെയ്യുക</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>നിങ്ങളുടെ ഫോട്ടോകൾ, കുറിപ്പുകൾ, റെക്കോർഡിംഗുകൾ എന്നിവയും മറ്റും സമന്വയിപ്പിക്കുക</item>
+        <item>നിങ്ങളുടെ ഉപകരണം നഷ്ടമായാൽ വിദൂരമായി അത് ലോക്കുചെയ്യുക</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>നിങ്ങളുടെ കോൺടാക്റ്റുകൾ, മെസേജുകൾ, കുറിപ്പുകൾ, കലണ്ടറുകൾ എന്നിവയും അതിലേറെയും സമന്വയിപ്പിക്കുക</item>
+        <item>ആപ്പുകൾ, ഹോം സ്ക്രീന്‍ ലേഔട്ട്, വാൾപേപ്പർ എന്നിവ ബാക്കപ്പുചെയ്യുക</item>
+        <item>വൈ-ഫൈയും ഡിസ്പ്ലേയും ഉൾപ്പെടെ പ്രധാന ക്രമീകരണങ്ങൾ ബാക്കപ്പുചെയ്യുക</item>
+        <item>നിങ്ങളുടെ ഉപകരണം നഷ്ടമായാൽ വിദൂരമായി അത് ലോക്കുചെയ്യുക</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ആപ്പ് ഡാറ്റ സമന്വയിപ്പിക്കുക</item>
+        <item>ഹോം സ്ക്രീൻ ലേഔട്ട് ബാക്കപ്പുചെയ്യുക</item>
+        <item>സിസ്റ്റം ക്രമീകരണം ബാക്കപ്പുചെയ്യുക</item>
+        <item>ഉപകരണം കണ്ടെത്തൽ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ആപ്പ് ഡാറ്റ സമന്വയിപ്പിക്കുക</item>
+        <item>ഉപകരണം കണ്ടെത്തൽ</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>നിങ്ങളുടെ ഉപകരണം കണ്ടെത്തുന്നതിനും നഷ്‌ടമായ മോഡിലേക്ക് മാറുന്നതിനും</item>
+        <item>ഈ ഉപകരണം ഇന്റർനെറ്റിലേക്ക് കണക്റ്റുചെയ്തിട്ടില്ലാത്തപ്പോൾ അത് കണ്ടെത്തുന്നതിന്</item>
+        <item>ഈ ഉപകരണം ഇന്റർനെറ്റിലേക്ക് കണക്റ്റുചെയ്തിട്ടില്ലാത്തപ്പോൾ അത് കണ്ടെത്തുന്നതിനായി ഫോൺ നമ്പർ ആക്സസുചെയ്യുന്നതിന്</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>ബാക്കപ്പുകൾ</item>
+        <item>ബാക്കപ്പുചെയ്ത ഇനങ്ങള്‍</item>
+        <item>ക്ലൗഡ്;ബാക്കപ്പ്;ബാക്കപ്പ്;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്;ഹോം സ്ക്രീന്‍;ലേഔട്ട്;ആപ്പുകൾ;ബാക്കപ്പുകൾ മാനേജുചെയ്യുക;പുനഃസ്ഥാപിക്കുക</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>ഹോം സ്ക്രീൻ Xiaomi ക്ലൗഡിലേക്ക് ബാക്കപ്പുചെയ്യുക</item>
+        <item>ഹോം സ്ക്രീൻ ലേഔട്ട് ബാക്കപ്പുചെയ്യുക, ഇൻസ്റ്റാൾ ചെയ്ത ആപ്പുകളുടെ ലിസ്റ്റ്, സിസ്റ്റം ക്രമീകരണം</item>
+        <item>ക്ലൗഡ്;ബാക്കപ്പ്;ബാക്കപ്പ്;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്;ഹോം സ്ക്രീന്‍;ലേഔട്ട്;ആപ്പുകൾ;ക്രമീകരണം;ബാക്കപ്പ് ഇടവേള;ബാക്കപ്പുകൾ മാനേജുചെയ്യുക;പുനഃസ്ഥാപിക്കുക</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Xiaomi ക്ലൗഡുമായി ബ്രൗസര്‍ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>ബ്രൗസര്‍;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Xiaomi ക്ലൗഡുമായി കലണ്ടർ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>കലണ്ടർ;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi ക്ലൗഡുമായി കോൺടാക്റ്റുകൾ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക/ക്രമീകരിക്കുക</item>
+        <item>കോൺടാക്റ്റുകൾ;കോൾ ചരിത്രം;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Xiaomi ക്ലൗഡുമായി കോൾ ചരിത്രം സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക/ക്രമീകരിക്കുക</item>
+        <item>കോൾ ചരിത്രം;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ഉപകരണം കണ്ടെത്തൽ</item>
+        <item>ഉപകരണം നഷ്ടപ്പെട്ടാൽ ഡാറ്റ മായ്ച്ചതിനുശേഷം അത് ലോക്കുചെയ്യുക</item>
+        <item>ഉപകരണം കണ്ടെത്തൽ;നഷ്ടമായി;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ഉപകരണം കണ്ടെത്തൽ</item>
+        <item>ഉപകരണം നഷ്ടപ്പെട്ടാൽ ഡാറ്റ മായ്ച്ചതിനുശേഷം അത് ലോക്കുചെയ്യുക</item>
+        <item>ഉപകരണം കണ്ടെത്തൽ;നഷ്ടമായി;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Xiaomi ക്ലൗഡുമായി ഗാലറി സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക/ക്രമീകരിക്കുക</item>
+        <item>ഗാലറി;ഫോട്ടോകൾ;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi ക്ലൗഡുമായി കുറിപ്പുകള്‍ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>കുറിപ്പുകള്‍;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi ക്ലൗഡുമായി കുറിപ്പുകള്‍ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക</item>
+        <item>കുറിപ്പുകള്‍;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Xiaomi ക്ലൗഡുമായി ആപ്പ് വോൾട്ട് സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>ആപ്പ് വോൾട്ട്;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ദ്രുത മറുപടികൾ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക</item>
+        <item>ദ്രുത മറുപടികൾ;ക്ലിപ്ബോർഡ്;എഡിറ്റർ;ക്ലൗഡ്;സമന്വയിപ്പിക്കുക;ക്ലൗഡ് സേവനങ്ങൾ</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi ക്ലൗഡിനൊപ്പം റെക്കോർഡിംഗുകൾ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക/ക്രമീകരിക്കുക</item>
+        <item>റെക്കോര്‍ഡര്‍;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi ക്ലൗഡിലെ മായ്ച്ച ഇനങ്ങൾ</item>
+        <item>കോൺടാക്റ്റുകൾ പുനഃസ്ഥാപിക്കൽ, ഫോട്ടോകൾ, മെസേജുകൾ എന്നിവയും മറ്റും</item>
+        <item>ട്രാഷ്;മായ്ച്ച ഇനങ്ങൾ;ട്രാഷ് ബിൻ;പുനഃസ്ഥാപിക്കുക;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi ക്ലൗഡിലെ മായ്ച്ച ഇനങ്ങൾ</item>
+        <item>ഫോട്ടോകളും കുറിപ്പുകളും മറ്റും പുനഃസ്ഥാപിക്കുക</item>
+        <item>ട്രാഷ്;മായ്ച്ച ഇനങ്ങൾ;ട്രാഷ് ബിൻ;പുനഃസ്ഥാപിക്കുക;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi ക്ലൗഡിൽ നിന്നും ഇനങ്ങൾ പുനസ്ഥാപിക്കുക</item>
+        <item>നിങ്ങളുടെ ഉപകരണത്തിലേക്ക് ബാക്കപ്പുചെയ്ത ഇനങ്ങൾ ഡൗൺലോഡുചെയ്യുക</item>
+        <item>ക്ലൗഡ്;ബാക്കപ്പ്;ബാക്കപ്പ്;പുനസ്ഥാപിക്കുക;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>സുരക്ഷാ ക്ലൗഡ് സമന്വയിപ്പിക്കൽ</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>സുരക്ഷ;ക്ലൗഡ്;Xiaomi ക്ലൗഡ്;സമന്വയിപ്പിക്കുക;ക്ലൗഡ് സേവനങ്ങൾ</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>സുരക്ഷാ ക്ലൗഡ് സമന്വയിപ്പിക്കൽ</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>സുരക്ഷ;ക്ലൗഡ്;Xiaomi ക്ലൗഡ്;സമന്വയിപ്പിക്കുക;ക്ലൗഡ് സേവനങ്ങൾ</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi ക്ലൗഡുമായി മെസേജുകൾ സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓണാക്കുക/ക്രമീകരിക്കുക</item>
+        <item>മെസേജുകൾ;എസ്എംഎസ്;എംഎംഎസ്;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi ക്ലൗഡ് അംഗത്വം</item>
+        <item>നിങ്ങളുടെ അംഗത്വം അപ്ഗ്രേഡുചെയ്യുക, കൂടുതൽ സ്റ്റോറേജ് ഇടം നേടുക, നിങ്ങളുടെ ഡാറ്റ സുരക്ഷിതമാക്കുക</item>
+        <item>അപര്യാപ്തമായ സ്റ്റോറേജ്;അംഗത്വം;സ്റ്റോറേജ്;സ്റ്റോറേജ് ഇടം;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്;മെഗാ;അൾട്രാ;VIP;ബാക്കപ്പ്;ബാക്കപ്പ്;പുനഃസ്ഥാപിക്കൽ;ട്രാഷ്;മായ്ച്ച ഇനങ്ങൾ;ട്രാഷ് ബിൻ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi ക്ലൗഡ്. എല്ലാ Mi സേവനങ്ങളും ഒരിടത്ത്.</item>
+        <item>നിങ്ങളുടെ ഫോട്ടോകൾ, കോൺടാക്റ്റുകൾ, മെസേജുകൾ, ഉപകരണങ്ങൾ എന്നിവ എവിടെ നിന്നും ആക്സസ് ചെയ്യുക</item>
+        <item>അപര്യാപ്തമായ സ്റ്റോറേജ്;അംഗത്വം;സ്റ്റോറേജ്;സ്റ്റോറേജ് ഇടം;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്;ട്രാഷ്;മായ്ച്ച ഇനങ്ങൾ;സുരക്ഷ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi ക്ലൗഡ്. എല്ലാ Mi സേവനങ്ങളും ഒരിടത്ത്.</item>
+        <item>നിങ്ങളുടെ ഫോട്ടോകൾ, കുറിപ്പുകൾ, ഉപകരണങ്ങൾ എന്നിവ എവിടെ നിന്നും ആക്സസ്സ് ചെയ്യുക</item>
+        <item>അപര്യാപ്തമായ സ്റ്റോറേജ്;അംഗത്വം;സ്റ്റോറേജ്;സ്റ്റോറേജ് ഇടം;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്;ട്രാഷ്;മായ്ച്ച ഇനങ്ങൾ;സുരക്ഷ</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi ക്ലൗഡുമായി വൈ-ഫൈ ക്രമീകരണം സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>WLAN;വൈഫൈ;വൈ-ഫൈ;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Xiaomi ക്ലൗഡുമായി WLAN ക്രമീകരണം സമന്വയിപ്പിക്കുക</item>
+        <item>സമന്വയം ഓൺ ചെയ്യുക</item>
+        <item>WLAN;വൈഫൈ;വൈ-ഫൈ;ക്ലൗഡ്;സമന്വയിപ്പിക്കൽ;ക്ലൗഡ് സേവനങ്ങൾ;Xiaomi ക്ലൗഡ്</item>
+    </string-array>
+</resources>

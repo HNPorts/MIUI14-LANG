@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galerija</item>
+    </string-array>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Vzdevek</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Podjetje</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rojstni dan</item>
+        <item>Spletna stran</item>
+        <item>Naslov</item>
+        <item>Beležka</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Dobrodošli v Beležke!</item>
+        <item>Beleženje podatkov</item>
+        <item>V beležkah lahko uporabljate besedila, slike in glasovne posnetke. Bogata knjižnica stilov in pisav bo poskrbela, da bodo vaše preproste čačke videti osupljivo.</item>
+        <item>Seznami in opomniki priskočijo na pomoč, ko potrebujete osnovna in učinkovita orodja za načrtovanje svojega naslednjega izleta ali izdelavo seznama za v trgovino.</item>
+        <item>Deli beležke</item>
+        <item>V aplikaciji Beležka lahko ustvarite drsne zaslonske posnetke, ter jih delite s svojimi prijatelji.</item>
+        <item>Ustvari in preklopi med mapami</item>
+        <item>Pritisnite spodnjo puščico, da ustvarite novo mapo ali preklopite med obstoječimi.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Majhno</item>
+        <item>Srednje</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Po datumu nastanka</item>
+        <item>Po datumu spremembe</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Glasovne beležke</item>
+        <item>Ustvarjajte beležke z uporabo našega mehanizma za pretvarjanje govora v besedilo, tako da beležkam priložite izvirne posnetke svojega glasu.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Glasovne beležke</item>
+        <item>Sedaj lahko ustvarjate glasovne beležke. Preprosto tapnite ikono, posnemite svoj glas in glasovno datoteko shranite v beležko.</item>
+    </string-array>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
+    </string-array>
+</resources>

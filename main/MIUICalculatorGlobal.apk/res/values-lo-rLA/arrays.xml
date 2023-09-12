@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height_array">
+        <item>ຊັງຕີແມັດ</item>
+        <item>ແມັດ</item>
+        <item>ຟຸດ</item>
+        <item>ນິ້ວ</item>
+    </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>ຊຳລະງວດລະເທົ່າໆກັນ</item>
+        <item>ຊຳລະງວດແບບຫຼຸດລົງ</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>ວົງເລັບຊ້າຍ</item>
+        <item>ວົງເລັບຂວາ</item>
+        <item>ແຟັກຕໍຣຽນ</item>
+        <item>ໂລກາຣິດທຳມະຊາດ</item>
+        <item>ໂລກາຣິດ</item>
+        <item>ຮາກຂັ້ນສອງ</item>
+        <item>ຫານດ້ວຍ</item>
+        <item>ຄູນດ້ວຍ</item>
+        <item>ບວກ</item>
+        <item>ລົບ</item>
+        <item> ຈຸດ </item>
+        <item>ຂຶ້ນກຳລັງ</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>ເທົ່າກັບ</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>ກິໂລກຣາມ</item>
+        <item>ປອນ</item>
+    </string-array>
+</resources>

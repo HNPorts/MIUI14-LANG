@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होम पेज पर जाएं</string>
+    <string name="abc_action_bar_up_description">वापस जाएं</string>
+    <string name="abc_action_menu_overflow_description">ज़्यादा विकल्प</string>
+    <string name="abc_action_mode_done">हो गया</string>
+    <string name="abc_activity_chooser_view_see_all">सभी देखें</string>
+    <string name="abc_activitychooserview_choose_application">कोई ऐप्लिकेशन चुनें</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोजें…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी हटाएं</string>
+    <string name="abc_searchview_description_query">सर्च क्वेरी</string>
+    <string name="abc_searchview_description_search">खोजें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">बोलकर खोजें</string>
+    <string name="abc_shareactionprovider_share_with">इससे शेयर करें:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s से शेयर करें</string>
+    <string name="abc_toolbar_collapse_description">छोटा करें</string>
+    <string name="app_label">सहयोगी डिवाइस मैनेजर</string>
+    <string name="chooser_title">कोई %1$s चुनें, ताकि उसे &lt;strong>%2$s&lt;/strong> की मदद से मैनेज किया जा सके</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> को &lt;strong>%2$s&lt;/strong> ऐक्सेस करने की अनुमति दें</string>
+    <string name="consent_back">वापस जाएं</string>
+    <string name="consent_no">अनुमति न दें</string>
+    <string name="consent_yes">अनुमति दें</string>
+    <string name="helper_summary_app_streaming">%1$s आपके %2$s की ओर से, फ़ोन में मौजूद फ़ोटो, मीडिया, और सूचनाओं को ऐक्सेस करने की अनुमति मांग रही हैं</string>
+    <string name="helper_summary_computer">%1$s आपके %2$s की ओर से, डिवाइसों के बीच ऐप्लिकेशन को स्ट्रीम करने की अनुमति मांग रहा है</string>
+    <string name="helper_title_app_streaming">क्रॉस-डिवाइस से जुड़ी सेवाएं</string>
+    <string name="helper_title_computer">Google Play सेवाएं</string>
+    <string name="permission_apps">ऐप्लिकेशन</string>
+    <string name="permission_apps_summary">अपने फ़ोन के ऐप्लिकेशन को स्ट्रीम करें</string>
+    <string name="permission_notification">सूचनाएं</string>
+    <string name="permission_notification_summary">इससे सभी सूचनाएं देखी जा सकती हैं. इसमें संपर्क, मैसेज, और फ़ोटो जैसी जानकारी शामिल होती है</string>
+    <string name="permission_storage">फ़ोटो और मीडिया</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">ऐप्लिकेशन से जुड़ी अनुमतियों को अपनी वॉच में ट्रांसफ़र करें</string>
+    <string name="permission_sync_summary">"वॉच को सेट अप करने की प्रोसेस को आसान बनाने के लिए, उस पर इंस्टॉल किए गए ऐप्लिकेशन को भी वही अनुमतियां मिलेंगी जो आपने उन ऐप्लिकेशन को फ़ोन पर दी होंगी.
+
+ इन अनुमतियों में, आपकी वॉच के माइक्रोफ़ोन और जगह की जानकारी का ऐक्सेस शामिल हो सकता है."</string>
+    <string name="profile_name_generic">डिवाइस</string>
+    <string name="profile_name_watch">स्मार्टवॉच</string>
+    <string name="search_menu_title">खोजें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">यह ऐप्लिकेशन, %1$s को मैनेज करने के लिए ज़रूरी है. %2$s आपकी सूचनाओं पर कार्रवाई कर पाएगा. साथ ही, इसे आपके फ़ोन, एसएमएस, संपर्कों, कैलेंडर, कॉल लॉग, और आस-पास मौजूद डिवाइसों को ऐक्सेस करने की अनुमति मिल पाएगी.</string>
+    <string name="title_app_streaming">&lt;strong>%1$s&lt;/strong> को अपने फ़ोन से यह जानकारी ऐक्सेस करने की अनुमति दें</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">&lt;strong>%1$s&lt;/strong> को अपने फ़ोन से यह जानकारी ऐक्सेस करने की अनुमति दें</string>
+    <string name="vendor_header_button_description">ज़्यादा जानकारी वाला बटन</string>
+    <string name="vendor_icon_description">ऐप्लिकेशन आइकॉन</string>
+</resources>

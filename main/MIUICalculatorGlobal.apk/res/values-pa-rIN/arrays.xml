@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height_array">
+        <item>ਸੈਂਟੀਮੀਟਰ</item>
+        <item>ਮੀਟਰ</item>
+        <item>ਫੁੱਟ</item>
+        <item>ਇੰਚ</item>
+    </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>ਬਰਾਬਰ ਕਿਸ਼ਤਾਂ</item>
+        <item>ਘੱਟਦੀਆਂ ਕਿਸ਼ਤਾਂ</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>ਖੱਬੀ ਬਰੈਕਟ</item>
+        <item>ਸੱਜੀ ਬਰੈਕਟ</item>
+        <item>ਫੈਕਟੋਰੀਅਲ</item>
+        <item>ਕੁਦਰਤੀ ਲਾਗਰਿਥਮ</item>
+        <item>ਲਾਗਰਿਥਮ</item>
+        <item>ਵਰਗਮੂਲ</item>
+        <item>ਇਸ ਨਾਲ ਵਿਭਾਜਿਤ ਕਰੋ</item>
+        <item>ਇਸ ਨਾਲ ਗੁਣਾ ਕਰੋ</item>
+        <item>ਜੋੜ</item>
+        <item>ਘਟਾਓ</item>
+        <item> ਬਿੰਦੂ </item>
+        <item>ਪਾਵਰ</item>
+        <item>tangent</item>
+        <item>sine</item>
+        <item>cosine</item>
+        <item>pi</item>
+        <item>ਬਰਾਬਰ</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>ਕਿਲੋਗ੍ਰਾਮ</item>
+        <item>ਪਾਊਂਡ</item>
+    </string-array>
+</resources>

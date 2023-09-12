@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Pridať často používané výrazy</string>
+    <string name="edit_frequent_phrases">Upraviť často používané výrazy</string>
+    <string name="frequent_phrases">Časté výrazy</string>
+    <string name="query">Vyhľadať</string>
+    <string name="select">Vybrať</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

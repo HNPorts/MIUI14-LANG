@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Další možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYP</string>
+    <string name="abc_capital_on">ZAP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Dotaz pro vyhledávání</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet s</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="app_label">Správce doprovodných zařízení</string>
+    <string name="chooser_title">Vyberte zařízení %1$s, které chcete spravovat pomocí aplikace &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Povolit aplikaci &lt;strong>%1$s&lt;/strong> přístup k vašemu zařízení &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Zpět</string>
+    <string name="consent_no">Nepovolovat</string>
+    <string name="consent_yes">Povolit</string>
+    <string name="helper_summary_app_streaming">Aplikace %1$s požaduje za vaše zařízení %2$s oprávnění k přístupu k fotkám, médiím a oznámením v telefonu</string>
+    <string name="helper_summary_computer">Aplikace %1$s požaduje za vaše zařízení %2$s oprávnění ke streamování aplikací mezi zařízeními</string>
+    <string name="helper_title_app_streaming">Služby pro více zařízení</string>
+    <string name="helper_title_computer">Služby Google Play</string>
+    <string name="permission_apps">Aplikace</string>
+    <string name="permission_apps_summary">Streamujte aplikace v telefonu</string>
+    <string name="permission_notification">Oznámení</string>
+    <string name="permission_notification_summary">Může číst veškerá oznámení včetně informací, jako jsou kontakty, zprávy a fotky</string>
+    <string name="permission_storage">Fotky a média</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Přesunout oprávnění aplikací do hodinek</string>
+    <string name="permission_sync_summary">"Abychom vám usnadnili nastavení hodinek, aplikace nainstalované do hodinek během úvodního nastavení budou používat stejná oprávnění jako váš telefon.
+
+ Tato oprávnění mohou zahrnovat přístup k mikrofonu a poloze hodinek."</string>
+    <string name="profile_name_generic">zařízení</string>
+    <string name="profile_name_watch">hodinky</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Tato aplikace je nutná ke správě zařízení %1$s. Aplikace %2$s bude moci interagovat s vašimi oznámeními a získá přístup k telefonu, SMS, kontaktům, kalendáři, seznamům hovorů a zařízením v okolí.</string>
+    <string name="title_app_streaming">Povolte aplikaci &lt;strong>%1$s&lt;/strong> přístup k těmto informacím z vašeho telefonu</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Povolte aplikaci &lt;strong>%1$s&lt;/strong> přístup k těmto informacím z vašeho telefonu</string>
+    <string name="vendor_header_button_description">Tlačítko Další informace</string>
+    <string name="vendor_icon_description">Ikona aplikace</string>
+</resources>

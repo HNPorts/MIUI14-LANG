@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="always_on_disconnected_message">%1$s está configurada para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Seu smartphone usará uma rede pública até que possa se reconectar a %1$s.</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s está definida para permanecer conectada o tempo todo, mas não é possível conectá-la no momento. Você não terá uma conexão até que a VPN possa se reconectar.</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Alterar configurações de VPN</string>
+    <string name="always_on_disconnected_title">Não é possível se conectar à VPN sempre ativa</string>
+    <string name="configure">Configurar</string>
+    <string name="data_received">Recebido:</string>
+    <string name="data_transmitted">Enviado:</string>
+    <string name="data_value_format">%1$s bytes/%2$s pacotes</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="dismiss">Dispensar</string>
+    <string name="duration">Duração:</string>
+    <string name="legacy_title">O VPN está conectado</string>
+    <string name="open_app">Abrir app</string>
+    <string name="prompt">Solicitação de conexão</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="session">Sessão:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="warning">O %s quer configurar uma conexão VPN que permite monitorar o tráfego da rede. Aceite somente se confiar na origem. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> é exibido na parte superior da tela quando a rede VPN estiver ativa.</string>
+</resources>

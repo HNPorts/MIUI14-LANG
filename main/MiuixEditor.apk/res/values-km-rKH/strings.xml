@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">បន្ថែម​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់</string>
+    <string name="edit_frequent_phrases">កែសម្រួល​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់</string>
+    <string name="frequent_phrases">​ឃ្លា​ដែល​ប្រើ​ញឹកញាប់</string>
+    <string name="query">ស្វែងរក</string>
+    <string name="select">ជ្រើសរើស</string>
+</resources>

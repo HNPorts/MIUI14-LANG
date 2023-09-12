@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ফোন এবং বার্তাপ্রেরণের সঞ্চয়স্থান</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+</resources>

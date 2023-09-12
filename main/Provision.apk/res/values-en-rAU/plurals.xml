@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+</resources>

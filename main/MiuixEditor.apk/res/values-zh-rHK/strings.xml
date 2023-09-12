@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">新建常用語</string>
+    <string name="edit_frequent_phrases">編輯常用語</string>
+    <string name="frequent_phrases">常用語</string>
+    <string name="google_call">撥號</string>
+    <string name="google_email">傳送電子郵件</string>
+    <string name="google_map">查看地圖</string>
+    <string name="google_open">瀏覽</string>
+    <string name="google_translate">翻譯</string>
+    <string name="query">搜尋</string>
+    <string name="select">選擇</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

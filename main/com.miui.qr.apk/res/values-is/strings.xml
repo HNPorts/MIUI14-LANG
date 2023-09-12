@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Loka yfirlitsvalmynd</string>
+    <string name="close_sheet">Loka blaði</string>
+    <string name="default_error_message">Ógildur innsláttur</string>
+    <string name="default_popup_window_title">Sprettigluggi</string>
+    <string name="dropdown_menu">Fellivalmynd</string>
+    <string name="in_progress">Í vinnslu</string>
+    <string name="indeterminate">Hvorki merkt né afmerkt</string>
+    <string name="navigation_menu">Yfirlitsvalmynd</string>
+    <string name="not_selected">Ekki valið</string>
+    <string name="off">Slökkt</string>
+    <string name="on">Kveikt</string>
+    <string name="range_end">Lok sviðs</string>
+    <string name="range_start">Upphaf sviðs</string>
+    <string name="selected">Valið</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Flipi</string>
+    <string name="template_percent">%1$d prósent.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">ਆਮ ਵਾਕਾਂਸ਼ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="edit_frequent_phrases">ਆਮ ਵਾਕਾਂਸ਼ਾਂ ਦਾ ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="frequent_phrases">ਆਮ ਵਾਕ</string>
+    <string name="query">ਖੋਜੋ</string>
+    <string name="select">ਚੁਣੋ</string>
+</resources>

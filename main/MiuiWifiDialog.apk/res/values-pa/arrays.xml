@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : ਗੜਬੜ 16384 ਦੇ ਕਾਰਨ ਤੁਹਾਨੂੰ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ।</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : ਗੜਬੜ 16385 ਦੇ ਕਾਰਨ ਤੁਹਾਨੂੰ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ।</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : ਤੁਸੀਂ Verizon ਕਵਰੇਜ ਖੇਤਰ ਤੋਂ ਬਾਹਰ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦੇ। (ਗੜਬੜ = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>":::1839:::%1$s : ਤੁਸੀਂ Verizon Wi-Fi Access ਲਈ ਗਾਹਕੀ ਨਹੀਂ ਲਈ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 800-922-0204 'ਤੇ ਕਾਲ ਕਰੋ। (ਗੜਬੜ = 32761)"</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>":::1839:::%1$s : ਤੁਹਾਡੇ Verizon Wi-Fi Access ਖਾਤੇ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 800-922-0204 'ਤੇ ਕਾਲ ਕਰੋ। (ਗੜਬੜ = 32762)"</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਹੋ। (ਗੜਬੜ = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>":::1839:::%1$s : ਤੁਹਾਨੂੰ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 800-922-0204 'ਤੇ ਕਾਲ ਕਰੋ। (ਗੜਬੜ = 32764)"</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>":::1839:::%1$s : ਤੁਹਾਡੇ Verizon Wi-Fi Access ਖਾਤੇ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 800-922-0204 'ਤੇ ਕਾਲ ਕਰੋ। (ਗੜਬੜ = 32765)"</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : Verizon Wi-Fi Access ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਤੋਂ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਕਿਸੇ ਹੋਰ ਟਿਕਾਣੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰੋ। (ਗੜਬੜ = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : ਤੁਹਾਨੂੰ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਕਿਸੇ ਹੋਰ ਟਿਕਾਣੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : ਤੁਹਾਨੂੰ Verizon Wi-Fi Access ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ।</item>
+    </string-array>
+</resources>

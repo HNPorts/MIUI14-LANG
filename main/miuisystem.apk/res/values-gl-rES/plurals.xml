@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">hai 1 hora</item>
+        <item quantity="other">hai 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">hai 1 hora</item>
+        <item quantity="other">hai 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Hai unha hora e media</item>
+        <item quantity="other">Hai unha hora e media</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Nunha hora</item>
+        <item quantity="other">Nunha hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Nunha hora e media</item>
+        <item quantity="other">Nunha hora e media</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="one">nun min</item>
+        <item quantity="other">nuns %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Agora mesmo</item>
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="one">hai 1 min</item>
+        <item quantity="other">hai %d min</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Hai unha hora e media</item>
+        <item quantity="other">Hai unha hora e media</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Nunha hora</item>
+        <item quantity="other">Nunha hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Nunha hora e media</item>
+        <item quantity="other">Nunha hora e media</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Inmediatamente</item>
+        <item quantity="other">Inmediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="one">nun minuto</item>
+        <item quantity="other">nuns %d minutos</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Agora mesmo</item>
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">hai 1 minuto</item>
+        <item quantity="other">hai %d minutos</item>
+    </plurals>
+</resources>

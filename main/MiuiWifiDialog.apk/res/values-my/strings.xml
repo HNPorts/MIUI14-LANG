@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">မူလနေရာကို ပြန်သွားရန်</string>
+    <string name="abc_action_bar_up_description">အပေါ်သို့ ရွှေ့ရန်</string>
+    <string name="abc_action_menu_overflow_description">နောက်ထပ် ရွေးစရာများ</string>
+    <string name="abc_action_mode_done">ပြီးပြီ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလုံး ကြည့်ရန်</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုကို ရွေးရန်</string>
+    <string name="abc_capital_off">ပိတ်ရန်</string>
+    <string name="abc_capital_on">ဖွင့်ရန်</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ရှာဖွေရန်…</string>
+    <string name="abc_searchview_description_clear">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_query">ရှာဖွေရန် မေးခွန်း</string>
+    <string name="abc_searchview_description_search">ရှာရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာရန်</string>
+    <string name="abc_shareactionprovider_share_with">နှင့် မျှဝေရန်</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ဖြင့် မျှဝေရန်</string>
+    <string name="abc_toolbar_collapse_description">လျှော့ပြရန်</string>
+    <string name="accept">လက်ခံရန်</string>
+    <string name="decline">လက်မခံပါ</string>
+    <string name="dlg_ok">OK</string>
+    <string name="notification_channel_network_alerts">ကွန်ရက် သတိပေးချက်များ</string>
+    <string name="notification_channel_network_available">ကွန်ရက်ချိတ်ဆက်မှု ရရှိနိုင်ပါသည်</string>
+    <string name="notification_channel_network_status">ကွန်ရက် အခြေအနေ</string>
+    <string name="ok">OK</string>
+    <string name="search_menu_title">ရှာဖွေမှု</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="wifiResourcesAppLabel">Wi-Fi စနစ် အရင်းအမြစ်များ</string>
+    <string name="wifi_available_action_all_networks">ကွန်ရက်အားလုံး</string>
+    <string name="wifi_available_action_connect">ချိတ်ဆက်ရန်</string>
+    <string name="wifi_available_content_failed_to_connect">ကွန်ရက်အားလုံးကို ကြည့်ရန် တို့ပါ</string>
+    <string name="wifi_available_title">အများသုံး Wi‑Fi ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
+    <string name="wifi_available_title_connected">Wi‑Fi ကွန်ရက်သို့ ချိတ်ဆက်ပြီးပါပြီ</string>
+    <string name="wifi_available_title_connecting">Wi‑Fi ကွန်ရက်သို့ ချိတ်ဆက်နေသည်</string>
+    <string name="wifi_available_title_failed_to_connect">Wi‑Fi ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
+    <string name="wifi_ca_cert_dialog_abort_text">မချိတ်ဆက်ပါနှင့်</string>
+    <string name="wifi_ca_cert_dialog_continue_text">ချိတ်ဆက်ရန်</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"အဆက်အသွယ်-
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"အောက်ပါအချက်အလက်များ မှန်ကန်မှသာ ဤကွန်ရက်ကို ချိတ်ဆက်ရန်ခွင့်ပြုပါ။
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"ထုတ်ပေးသူ အမည်-
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"အဖွဲ့အစည်း-
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"ဆာဗာအမည်-
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"လက်မှတ်-
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">မချိတ်ဆက်ပါနှင့်</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">မည်သို့ပင်ဖြစ်စေ ချိတ်ဆက်ရန်</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">ကွန်ရက် %1$s တွင် အသိအမှတ်ပြုလက်မှတ် မရှိပါ။</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">အသိအမှတ်ပြုလက်မှတ်များ ထည့်သွင်းပုံ လေ့လာပါ</string>
+    <string name="wifi_ca_cert_dialog_preT_title">ဤကွန်ရက်ကို စိစစ်၍မရပါ</string>
+    <string name="wifi_ca_cert_dialog_title">ဤကွန်ရက်ကို ယုံကြည်ရပါသလား။</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">အသိအမှတ်ပြုလက်မှတ် ထည့်သွင်း၍မရပါ။</string>
+    <string name="wifi_ca_cert_notification_message">မချိတ်ဆက်မီ %1$s အတွက် ကွန်ရက်အသေးစိတ်ကို ကြည့်ရှုပါ။ ဆက်လုပ်ရန် တို့ပါ</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">မချိတ်ဆက်ပါနှင့်</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">မည်သို့ပင်ဖြစ်စေ ချိတ်ဆက်ရန်</string>
+    <string name="wifi_ca_cert_notification_preT_message">ကွန်ရက် %1$s တွင် အသိအမှတ်ပြုလက်မှတ် မရှိပါ။ အသိအမှတ်ပြုလက်မှတ်များ ထည့်သွင်းပုံ လေ့လာရန် တို့ပါ။</string>
+    <string name="wifi_ca_cert_notification_preT_title">ဤကွန်ရက်ကို စိစစ်၍မရပါ</string>
+    <string name="wifi_ca_cert_notification_title">ကွန်ရက်ကို စိစစ်ရမည်</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">ကိုယ်ရေးလုံခြုံမှုဆက်တင်ကို ပြောင်းရန် တို့ပြီးနောက် ပြန်စမ်းကြည့်ပါ</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_title">%1$s နှင့် ချိတ်ဆက်၍မရပါ။</string>
+    <string name="wifi_connect_alert_message">အပလီကေးရှင်း %1$s သည် ဝိုင်ဖိုင်ကွန်ရက် %2$s ကိုချိတ်ဆက်လိုသည်</string>
+    <string name="wifi_connect_alert_title">ချိတ်ဆက်မှုကို ခွင့်ပြုမလား?</string>
+    <string name="wifi_connect_default_application">အပလီကေးရှင်း</string>
+    <string name="wifi_disable_mac_randomization_dialog_confirm_text">ဆက်တင် ပြောင်းရန်</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">ကိုယ်ရေးလုံခြုံမှုဆက်တင်ကို ပြောင်းလဲ၍မရပါ</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">"ချိတ်ဆက်ရန်အတွက် %1$s သည် သင့်စက်၏ သီးသန့်သတ်မှတ်မှုစနစ် ဖြစ်သည့် MAC လိပ်စာကို အသုံးပြုရန်လိုသည်။ လက်ရှိတွင် ဤကွန်ရက်အတွက် သင်၏ကိုယ်ရေးလုံခြုံမှုဆက်တင်က ကျပန်းသတ်မှတ်မှုစနစ်ကို အသုံးပြုပါသည်။ 
+
+ဤအပြောင်းအလဲက သင့်စက်၏တည်နေရာကို ခြေရာခံရန် အနီးတစ်ဝိုက်ရှိ စက်များအား ခွင့်ပြုနိုင်သည်။"</string>
+    <string name="wifi_disable_mac_randomization_dialog_network_not_found">ကွန်ရက်ကို ရှာမတွေ့ပါ</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">ဆက်တင် အပ်ဒိတ်လုပ်ပြီးပြီ။ ထပ်ချိတ်ဆက်ကြည့်ပါ။</string>
+    <string name="wifi_disable_mac_randomization_dialog_title">ကိုယ်ရေးလုံခြုံမှုဆက်တင်ကို ပြောင်းမလား။</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှားကုဒ် 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှားကုဒ် 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှားကုဒ် 32756</string>
+    <string name="wifi_eap_error_message_code_32760">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32760</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32761</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32762</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32763</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32764</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32765</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှားကုဒ် 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s - EAP အထောက်အထားစိစစ်ခြင်း အမှား၊ အမှားကုဒ် မသိပါ</string>
+    <string name="wifi_enable_request_dialog_message">‘အမြန် ဆက်တင်များ’ တွင် Wi‑Fi ပိတ်နိုင်သည်</string>
+    <string name="wifi_enable_request_dialog_negative_button">ခွင့်မပြုရန်</string>
+    <string name="wifi_enable_request_dialog_positive_button">ခွင့်ပြုရန်</string>
+    <string name="wifi_enable_request_dialog_title">%1$s ကို Wi‑Fi ဖွင့်ခွင့်ပြုမလား။</string>
+    <string name="wifi_interface_priority_approve">ခွင့်ပြုရန်</string>
+    <string name="wifi_interface_priority_message">%3$s အတွက် ပြဿနာများ ဖြစ်ပေါ်နိုင်သည်။</string>
+    <string name="wifi_interface_priority_message_plural">၎င်းက ဤအက်ပ်များအတွက် ပြဿနာများ ဖြစ်စေနိုင်သည်- %3$s။</string>
+    <string name="wifi_interface_priority_reject">ခွင့်မပြုပါ</string>
+    <string name="wifi_interface_priority_title">%1$s က ကွန်ရက်ရင်းမြစ်ကို အသုံးပြုလိုသည်</string>
+    <string name="wifi_p2p_enter_pin_message">လိုအပ်သော ပင် နံပါတ် ရိုက်ရန်:</string>
+    <string name="wifi_p2p_frequency_conflict_message">%1$s ကို ဆက်သွယ်ထားစဉ် ဖုန်းအား ဝိုင်ဖိုင်မှ ဆက်သွယ်မှု ရပ်ဆိုင်းထားပါမည်</string>
+    <string name="wifi_p2p_from_message">မှ၊</string>
+    <string name="wifi_p2p_invitation_sent_title">ဖိတ်ကြားချက် ပို့ပြီး</string>
+    <string name="wifi_p2p_invitation_to_connect_title">ချိတ်ဆက်ရန် ဖိတ်ကြားချက်</string>
+    <string name="wifi_p2p_show_pin_message">ပင် နံပါတ်:</string>
+    <string name="wifi_p2p_to_message">သို့:</string>
+    <string name="wifi_sim_required_message">%1$s နှင့် ချိတ်ဆက်ရန် %2$s ဆင်းမ်ကတ် ထည့်ပါ။</string>
+    <string name="wifi_sim_required_title">Wi-Fi ချိတ်ဆက်မှု မရှိပါ</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">ချိတ်ဆက်ထားသောစက် မရှိပါ။ ပြင်ဆင်ရန် တို့ပါ။</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_title">ဟော့စပေါ့ ပိတ်ထားသည်</string>
+    <string name="wifi_suggestion_action_allow_app">ခွင့်ပြုရန်</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">ချိတ်ဆက်ပါ</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">ချိတ်ဆက်ပါ</string>
+    <string name="wifi_suggestion_action_disallow_app">မလိုပါ</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">မချိတ်ဆက်ပါနှင့်</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">မချိတ်ဆက်ပါနှင့်</string>
+    <string name="wifi_suggestion_content">%s သည် ကွန်ရက်များကို အကြံပြုထားသည်။ စက်သည် အလိုအလျောက် ချိတ်ဆက်နိုင်သည်။</string>
+    <string name="wifi_suggestion_imsi_privacy_content">ဤကွန်ရက်များက စက်တည်နေရာကို ခြေရာခံရန် အသုံးပြုနိုင်သည့် SIM ID တစ်ခုကို ရရှိပါသည်</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">သင်ချိတ်ဆက်ပါက %s Wi‑Fi ကွန်ရက်များက သင့်ဆင်းမ်ကတ်နှင့် ဆက်စပ်နေသည့် သီးသန့် ID ကို သုံးခြင်း သို့မဟုတ် မျှဝေခြင်းတို့ ပြုလုပ်နိုင်သည်။ ၎င်းက သင့်စက်၏တည်နေရာကို ခြေရာခံခွင့် ပြုနိုင်သည်။</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">ချိတ်ဆက်မှု အတည်ပြုမလား။</string>
+    <string name="wifi_suggestion_imsi_privacy_title">%s Wi-Fi သို့ ချိတ်ဆက်မလား။</string>
+    <string name="wifi_suggestion_title">အကြံပြုထားသည့် Wi‑Fi ကွန်ရက်များ ခွင့်ပြုမလား။</string>
+    <string name="wifi_wakeup_enabled_content">သင်သည် သိမ်းထားသည့် ကွန်ရက်အနီးတွင် ရှိသည်− %1$s</string>
+    <string name="wifi_wakeup_enabled_title">Wi‑Fi ကို အလိုအလျောက် ဖွင့်ထားသည်</string>
+    <string name="wifi_wakeup_onboarding_action_disable">ပြန်မဖွင့်ပါနှင့်</string>
+    <string name="wifi_wakeup_onboarding_subtext">သိမ်းဆည်းထားသည့် အရည်အသွေးမြင့်ကွန်ရက်များအနီးသို့ ရောက်ရှိသည့်အခါ</string>
+    <string name="wifi_wakeup_onboarding_title">Wi‑Fi ကို အလိုအလျောက်​ ပြန်ဖွင့်ပေးလိမ့်ပါမည်</string>
+    <string name="wifi_watchdog_network_disabled">ဝိုင်ဖိုင်ကိုချိတ်ဆက်မရပါ</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" အင်တာနက် ဆက်သွယ်မှု ကောင်းကောင်းမရှိပါ"</string>
+</resources>

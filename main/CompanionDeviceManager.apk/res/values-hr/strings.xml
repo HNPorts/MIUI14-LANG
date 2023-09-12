@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_up_description">Natrag</string>
+    <string name="abc_action_menu_overflow_description">Više opcija</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">svemir</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraži</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeli s</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Odaberite profil %1$s kojim će upravljati aplikacija &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Dopustite aplikaciji &lt;strong>%1$s&lt;/strong> da pristupa vašem uređaju &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Natrag</string>
+    <string name="consent_no">Nemoj dopustiti</string>
+    <string name="consent_yes">Dopusti</string>
+    <string name="helper_summary_app_streaming">Aplikacija %1$s zahtijeva dopuštenje u ime vašeg uređaja %2$s da pristupi fotografijama, medijskim sadržajima i obavijestima na telefonu</string>
+    <string name="helper_summary_computer">Aplikacija %1$s zahtijeva dopuštenje u ime vašeg uređaja %2$s za streamanje aplikacija između vaših uređaja</string>
+    <string name="helper_title_app_streaming">Usluge na različitim uređajima</string>
+    <string name="helper_title_computer">Usluge za Google Play</string>
+    <string name="permission_apps">Aplikacije</string>
+    <string name="permission_apps_summary">Streaming aplikacija vašeg telefona</string>
+    <string name="permission_notification">Obavijesti</string>
+    <string name="permission_notification_summary">Može čitati sve obavijesti, uključujući informacije kao što su kontakti, poruke i fotografije</string>
+    <string name="permission_storage">Fotografije i mediji</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Prijenos dopuštenja aplikacije na sat</string>
+    <string name="permission_sync_summary">"Kako bi postavljanje sata bilo jednostavnije, aplikacije instalirane na satu će tijekom postavljanja upotrebljavati ista dopuštenja kao telefon.
+
+ Ta dopuštenja mogu uključivati pristup mikrofonu i lokaciji sata."</string>
+    <string name="profile_name_generic">uređaj</string>
+    <string name="profile_name_watch">satom</string>
+    <string name="search_menu_title">Pretraži</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Ta je aplikacija potrebna za upravljanje vašim uređajem %1$s. Aplikacija %2$s moći će stupati u interakciju s vašim obavijestima i pristupati dopuštenjima za telefon, SMS-ove, kontakte, kalendar, zapisnike poziva i uređaje u blizini.</string>
+    <string name="title_app_streaming">Omogućite aplikaciji &lt;strong>%1$s&lt;/strong> da pristupa informacijama s vašeg telefona</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Omogućite aplikaciji &lt;strong>%1$s&lt;/strong> da pristupa informacijama s vašeg telefona</string>
+    <string name="vendor_header_button_description">Gumb Više informacija</string>
+    <string name="vendor_icon_description">Ikona aplikacije</string>
+</resources>

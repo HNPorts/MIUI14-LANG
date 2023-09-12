@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema kod povezivanja za WiFi pristup Verizonu zbog greške 16384.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema kod povezivanja za WiFi pristup Verizonu zbog greške 16385.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839::: %1$s: Ne možete se povezati s WiFi pristupom Verizonu izvan područja pokrivenosti Verizona. (Greška = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839::: %1$s: Niste pretplaćeni na WiFi pristup Verizonu. Pozovite nas na broj 800 922 0204. (Greška = 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema s vašim računom za WiFi pristup Verizonu. Pozovite nas na broj 800 922 0204. (Greška = 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839::: %1$s: Već ste povezani s WiFi pristupom Verizonu. (Greška = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema pri povezivanju s WiFi pristupom Verizonu. Pozovite nas na broj 800 922 0204. (Greška = 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema s vašim računom za WiFi pristup Verizonu. Pozovite nas na broj 800 922 0204. (Greška = 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839::: %1$s: WiFi pristup Verizonu nije dostupan s vaše lokacije. Pokušajte ponovo kasnije ili pokušajte s druge lokacije. (Greška = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema pri povezivanju s WiFi pristupom Verizonu. Pokušajte ponovo kasnije ili pokušajte s druge lokacije.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839::: %1$s: Došlo je do problema pri povezivanju s WiFi pristupom Verizonu.</item>
+    </string-array>
+</resources>

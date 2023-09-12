@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Adăugați expresii frecvente</string>
+    <string name="edit_frequent_phrases">Editează expresii frecvente</string>
+    <string name="frequent_phrases">Expresii frecvente</string>
+    <string name="query">Caută</string>
+    <string name="select">Selectează</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>সিঙ্ক করা আইটেম সিঙ্ক করার জন্য</item>
+        <item>বার্তা সিঙ্ক করার জন্য</item>
+        <item>পরিচিতি সিঙ্ক করার জন্য</item>
+        <item>ক্যালেন্ডার ইভেন্ট সিঙ্ক করার জন্য</item>
+        <item>যে আইটেমগুলি সঞ্চয়স্থান ব্যবহার করে সেগুলি সিঙ্ক করুন</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ফোন</item>
+        <item>এসএমএস</item>
+        <item>পরিচিতিগুলি</item>
+        <item>ক্যালেন্ডার</item>
+        <item>সঞ্চয়স্থান</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>আপনার পরিচিতি,বার্তা,নোট্স,ক্যালেন্ডার এবং আরো অনেক কিছু সিঙ্ক করুন</item>
+        <item>অ্যাপ্স,মূখ্য স্ক্রিন লেআউট এবং ওয়ালপেপার ব্যাকআপ নিন</item>
+        <item>ওয়াই-ফাই ও ডিসপ্লে সহ গুরুত্বপূর্ণ সেটিংস এর ব্যাকআপ নিন</item>
+        <item>যদি আপনার ডিভাইস হারিয়ে যায় তাহলে ডিভাইস লক করুন</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>আপনার পরিচিতি,বার্তা,নোট্স,ক্যালেন্ডার এবং আরো অনেক কিছু সিঙ্ক করুন</item>
+        <item>অ্যাপ্স,মূখ্য স্ক্রিন লেআউট এবং ওয়ালপেপার ব্যাকআপ নিন</item>
+        <item>WLAN ও ডিসপ্লে সহ গুরুত্বপূর্ণ সেটিংস এর ব্যাকআপ নিন</item>
+        <item>যদি আপনার ডিভাইস হারিয়ে যায় তাহলে ডিভাইস লক করুন</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>আপনার পরিচিতি,বার্তা,নোট্স,ক্যালেন্ডার এবং আরো অনেক কিছু সিঙ্ক করুন</item>
+        <item>অ্যাপ্স,মূখ্য স্ক্রিন লেআউট এবং ওয়ালপেপার ব্যাকআপ নিন</item>
+        <item>WLAN ও ডিসপ্লে সহ গুরুত্বপূর্ণ সেটিংস এর ব্যাকআপ নিন</item>
+        <item>যদি আপনার ডিভাইস হারিয়ে যায় তাহলে ডিভাইস লক করুন</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>আপনার ফটো, নোট, রেকর্ডিং ও আরো অনেক কিছু সিঙ্ক করুন</item>
+        <item>যদি আপনার ডিভাইস হারিয়ে যায় তাহলে ডিভাইস লক করুন</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>আপনার পরিচিতি,বার্তা,নোট্স,ক্যালেন্ডার এবং আরো অনেক কিছু সিঙ্ক করুন</item>
+        <item>অ্যাপ্স,মূখ্য স্ক্রিন লেআউট এবং ওয়ালপেপার ব্যাকআপ নিন</item>
+        <item>ওয়াই-ফাই ও ডিসপ্লে সহ গুরুত্বপূর্ণ সেটিংস এর ব্যাকআপ নিন</item>
+        <item>যদি আপনার ডিভাইস হারিয়ে যায় তাহলে ডিভাইস লক করুন</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>অ্যাপ ডাটা সিঙ্ক করুন</item>
+        <item>মূখ্য স্ক্রিন লেআউটের ব্যাক আপ</item>
+        <item>ব্যাকআপ সিস্টেম সেটিংস</item>
+        <item>ডিভাইস খুঁজুন</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>অ্যাপ ডাটা সিঙ্ক করুন</item>
+        <item>ডিভাইস খুঁজুন</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>আপনার ডিভাইসের লোকেশন খুঁজে পেতে এবং লস্ট মোডে যেতে</item>
+        <item>এই ডিভাইস লোকেট করার জন্য় যখন ইন্টারনেটের সাথে কানেক্ট করা নেই</item>
+        <item>ফোন নম্বর অ্যাকসেস করে এই ডিভাইস লোকেট করা যখন ইন্টারনেটের সাথে কানেক্ট করা নেই</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>ব্যাকআপ</item>
+        <item>ব্যাক আপ নেওয়া আইটেম</item>
+        <item>Cloud;ব্যাকআপ;ব্যাকআপ;Cloud পরিষেবা;Xiaomi ক্লাউড;মূখ্য স্ক্রিন;লেআউট;অ্যাপ;ব্যাকআপ পরিচালনা করুন;ফিরিয়ে আনুন</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Xiaomi ক্লাউড এ মূখ্য স্ক্রিনে ব্যাক আপ নিয়ে রাখুন</item>
+        <item>মূখ্য স্ক্রিন লেআউটের ব্যাকআপ নিন, ইনস্টল করা অ্যাপের লিস্ট এবং সিস্টেম সেটিংস</item>
+        <item>Cloud;ব্যাকআপ;ব্যাকাআপ;Cloud পরিষেবা;Xiaomi ক্লাউড;মূখ্য স্ক্রিন;লেআউট;অ্যাপ;সেটিংস;ব্যাকআপ ফ্রিকুয়েন্সি;ব্যাকআপ পরিচালনা করুন;ফিরিয়ে আনুন</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>ব্রাউজার Xiaomi ক্লাউড এর সাথে সিঙ্ক করুন</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>ব্রাউজার;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Xiaomi ক্লাউড এর সাথে আপনার ক্যালেন্ডার সিঙ্ক করুন</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>ক্যালেন্ডার;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi ক্লাউড থেকে পরিচিতি সিঙ্ক করুন</item>
+        <item>চালু করুন/সিঙ্ক সেট আপ করুন</item>
+        <item>পরিচিতি;কল ইতিহাস;ক্লাউড সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Xiaomi ক্লাউড এর সাথে কল ইতিহাস সিঙ্ক করুন</item>
+        <item>চালু করুন/সিঙ্ক সেট আপ করুন</item>
+        <item>কল ইতিহাস;Cluod সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ডিভাইস খুঁজুন</item>
+        <item>ডেটা মুছে দিন এবং আপনার ডিভাইস লক করুন যদি সেটা হারিয়ে গিয়ে থাকে</item>
+        <item>ডিভাইস খুঁজুন;হারিয়ে যাওয়া;সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ডিভাইস খুঁজুন</item>
+        <item>ডেটা মুছে দিন এবং আপনার ডিভাইস লক করুন যদি সেটা হারিয়ে গিয়ে থাকে</item>
+        <item>ডিভাইস খুঁজুন;হারিয়ে যাওয়া;সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Xiaomi ক্লাউড এর সাথে গ্যালারি সিঙ্ক করুন</item>
+        <item>চালু করুন/সিঙ্ক সেট আপ করুন</item>
+        <item>গ্যালারি;ফটো;ক্লাউড;সিঙ্ক;ক্লাউড পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>নোট্স Xiaomi ক্লাউড এর সাথে সিঙ্ক করুন</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>নোট্স;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>নোট্স Xiaomi ক্লাউড এর সাথে সিঙ্ক করুন</item>
+        <item>সিঙ্ক বন্ধ করা আছে</item>
+        <item>নোট্স;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Xiaomi ক্লাউড এর সাথে অ্যাপ ভল্ট সিঙ্ক করুন</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>অ্যাপ ভল্ট;ক্লাউড সিঙ্ক;ক্লাউড পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>দ্রুত উত্তর সিঙ্ক করুন</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>দ্রুত উত্তর;ক্লিপবোর্ড;এডিটর;ক্লাউডসিঙ্ক;ক্লাউড সার্ভিস</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>রেকর্ডিংগুলি Xiaomi ক্লাউড এর সাথে সিঙ্ক করা আছে।</item>
+        <item>চালু করুন/সিঙ্ক সেট আপ করুন</item>
+        <item>রেকর্ডার;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi ক্লাউড থেকে মুচে ফেলা আইটেমগুলো</item>
+        <item>পরিচিতি,ফটো,বার্তা এবং আরো অনেক কিছু ফিরিয়ে আনুন</item>
+        <item>ট্র্যাশ;মুছে ফেলা আইটেম;ট্র্যাশ বিন;ফিরিয়ে আনুন;ক্লাউড পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi ক্লাউড থেকে মুচে ফেলা আইটেমগুলো</item>
+        <item>ফটো, নোট্স ও আরো অনেক কিছু ফিরিয়ে আনুন</item>
+        <item>ট্র্যাশ;মুছে ফেলা আইটেম;ট্র্যাশ বিন;ফিরিয়ে আনুন;ক্লাউড পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi ক্লাউড থেকে আইটেম ফিরিয়ে আনুন</item>
+        <item>ব্যাকআপ করা আইটেম আপনার ডিভাইসে ডাউনলোড করুন</item>
+        <item>Cloud;ব্যাকআপ;ব্যাকআপ;ফিরিয়ে আনুন;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>নিরাপত্তা ক্লাউড সিঙ্ক</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>নিরাপত্তা;ক্লাউড;Xiaomi ক্লাউড;সিঙ্ক;ক্লাউড সার্ভিস</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>নিরাপত্তা ক্লাউড সিঙ্ক</item>
+        <item>সিঙ্ক বন্ধ করা আছে</item>
+        <item>নিরাপত্তা;ক্লাউড;Xiaomi ক্লাউড;সিঙ্ক;ক্লাউড সার্ভিস</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi ক্লাউড থেকে বার্তাগুলি সিঙ্ক করুন</item>
+        <item>চালু করুন/সিঙ্ক সেট আপ করুন</item>
+        <item>বার্তা;এসএমএস;এমএমএস;ক্লাউড;সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi ক্লাউড সদস্যতা</item>
+        <item>আরো সঞ্চয় স্থান পেতে এবং ডেটা সুরক্ষিত করতে আপনার সদস্যতা আপগ্রেড করুন</item>
+        <item>অপর্যাপ্ত সঞ্চয়স্থান;সদস্যতা;সঞ্চয়স্থান;সঞ্চয় স্থান জায়গা;ক্লাউড;সিঙ্ক;ক্লাউড পরিষেবা;Xiaomi ক্লাউড;Mega;Ultra;VIP;ব্যাকআপ;ব্যাকআপ;ফিরিয়ে আনুন;ট্র্যাশ;মুছে ফেলা হয়েছে;ট্র্যাশ বিন</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi ক্লাউড। সব Mi পরিষেবা একই জায়গায়।</item>
+        <item>যে কোনো জায়গা থেকে আপনার ফটো,পরিচিতি, মেসেজ ও ডিভাইস অ্যাকসেস করুন।</item>
+        <item>অপর্যাপ্ত সঞ্চয়স্থান;সদস্যতা;সঞ্চয়স্থান;সঞ্চয় স্থান;Cloud;সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড;ট্র্যাশ;মুছে ফেলা আইটেম;নিরাপত্তা</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi ক্লাউড। সব Mi পরিষেবা একই জায়গায়।</item>
+        <item>যে কোনো জায়গা থেকে আপনার ফটো,নোট ও ডিভাইস অ্যাকসেস করুন।</item>
+        <item>অপর্যাপ্ত সঞ্চয়স্থান;সদস্যতা;সঞ্চয়স্থান;সঞ্চয় স্থান;ক্লাউড;সিঙ্ক;ক্লাউড পরিষেবা;Xiaomi ক্লাউড;ট্র্যাশ;মুছে ফেলা আইটেম;নিরাপত্তা</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi ক্লাউড এর সাথে ওয়াই-ফাই সেটিংস সিঙ্ক করুন</item>
+        <item>সিঙ্ক চালু করুন</item>
+        <item>WLAN;ওয়াই-ফাই;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Xiaomi ক্লাউড এর সাথে WLAN সেটিংস সিঙ্ক করুন</item>
+        <item>সিঙ্ক বন্ধ করা আছে</item>
+        <item>WLAN;ওয়াই-ফাই;Cloud সিঙ্ক;Cloud পরিষেবা;Xiaomi ক্লাউড</item>
+    </string-array>
+</resources>

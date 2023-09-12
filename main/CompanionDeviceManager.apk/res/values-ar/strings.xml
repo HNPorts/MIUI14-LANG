@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">مفعّلة</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="app_label">تطبيق \"مدير الجهاز المصاحب\"</string>
+    <string name="chooser_title">‏اختَر %1$s ليديرها تطبيق &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">‏السماح لتطبيق &lt;strong>%1$s&lt;/strong> بالوصول إلى &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">رجوع</string>
+    <string name="consent_no">عدم السماح</string>
+    <string name="consent_yes">السماح</string>
+    <string name="helper_summary_app_streaming">تطلب \"%1$s\" الحصول على إذن نيابةً عن %2$s للوصول إلى الصور والوسائط والإشعارات في هاتفك.</string>
+    <string name="helper_summary_computer">يطلب التطبيق %1$s الحصول على إذن نيابةً عن %2$s لمشاركة التطبيقات بين أجهزتك.</string>
+    <string name="helper_title_app_streaming">الخدمات التي تعمل بين الأجهزة</string>
+    <string name="helper_title_computer">‏خدمات Google Play</string>
+    <string name="permission_apps">التطبيقات</string>
+    <string name="permission_apps_summary">بث تطبيقات هاتفك</string>
+    <string name="permission_notification">الإشعارات</string>
+    <string name="permission_notification_summary">يمكن لهذا الملف الشخصي قراءة جميع الإشعارات، بما في ذلك المعلومات، مثل جهات الاتصال والرسائل والصور.</string>
+    <string name="permission_storage">الصور والوسائط</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">نقل أذونات التطبيقات إلى ساعتك</string>
+    <string name="permission_sync_summary">"لتسهيل إعداد ساعتك، فإن التطبيقات التي يتم تثبيتها على ساعتك أثناء الإعداد ستستخدم الأذونات نفسها التي يستخدمها هاتفك.
+
+ قد تشتمل هذه الأذونات على الوصول إلى ميكروفون ساعتك وبيانات موقعها الجغرافي."</string>
+    <string name="profile_name_generic">جهاز</string>
+    <string name="profile_name_watch">الساعة</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">هذا التطبيق مطلوب لإدارة %1$s. سيتم السماح لتطبيق %2$s بالتفاعل مع الإشعارات والوصول إلى أذونات الهاتف والرسائل القصيرة وجهات الاتصال والتقويم وسجلّات المكالمات والأجهزة المجاورة.</string>
+    <string name="title_app_streaming">‏السماح لتطبيق &lt;strong>%1$s&lt;/strong> بالوصول إلى هذه المعلومات من هاتفك</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">‏السماح لتطبيق &lt;strong>%1$s&lt;/strong> بالوصول إلى هذه المعلومات من هاتفك</string>
+    <string name="vendor_header_button_description">زر مزيد من المعلومات</string>
+    <string name="vendor_icon_description">رمز التطبيق</string>
+</resources>

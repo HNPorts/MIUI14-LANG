@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Mbyll menynë e navigimit</string>
+    <string name="close_sheet">Mbyll fletën</string>
+    <string name="default_error_message">Hyrje e pavlefshme</string>
+    <string name="default_popup_window_title">Dritare kërcyese</string>
+    <string name="dropdown_menu">Menyja me lëshim poshtë</string>
+    <string name="in_progress">Në vazhdim</string>
+    <string name="indeterminate">As e zgjedhur as e pazgjedhur</string>
+    <string name="navigation_menu">Menyja e navigimit</string>
+    <string name="not_selected">Nuk është zgjedhur</string>
+    <string name="off">Joaktiv</string>
+    <string name="on">Aktiv</string>
+    <string name="range_end">Fundi i diapazonit</string>
+    <string name="range_start">Fillimi i diapazonit</string>
+    <string name="selected">Zgjedhur</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d për qind.</string>
+</resources>

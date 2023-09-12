@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Sulje navigointivalikko</string>
+    <string name="close_sheet">Sulje taulukko</string>
+    <string name="default_error_message">Virheellinen syöte</string>
+    <string name="default_popup_window_title">Ponnahdusikkuna</string>
+    <string name="dropdown_menu">Avattava valikko</string>
+    <string name="in_progress">Kesken</string>
+    <string name="indeterminate">Ei valittu eikä valitsematta</string>
+    <string name="navigation_menu">Navigointivalikko</string>
+    <string name="not_selected">Ei valittu</string>
+    <string name="off">Pois</string>
+    <string name="on">Päällä</string>
+    <string name="range_end">Alueen loppu</string>
+    <string name="range_start">Alueen alku</string>
+    <string name="selected">Valittu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Välilehti</string>
+    <string name="template_percent">%1$d prosenttia</string>
+</resources>

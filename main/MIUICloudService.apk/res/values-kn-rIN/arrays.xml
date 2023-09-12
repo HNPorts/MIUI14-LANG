@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>ಸಿಂಕ್‌ ಆದ ಐಟಂಗಳನ್ನು ಗುರುತಿಸಲು</item>
+        <item>ಸಿಂಕ್‌ ಆಗುವ ಸಂದೇಶಗಳಿಗಾಗಿ</item>
+        <item>ಸಿಂಕ್‌ ಆಗುವ ಸಂಪರ್ಕಗಳಿಗಾಗಿ</item>
+        <item>ಸಿಂಕ್‌ ಆಗುವ ಕ್ಯಾಲೆಂಡರ್‌ ಈವೆಂಟ್‌ಗಳಿಗಾಗಿ</item>
+        <item>ಸಂಗ್ರಹಣೆ ಬಳಸುವ ಸೇವೆಗಳಲ್ಲಿ ಸಿಂಕ್‌ ಆಗುವ ಐಟಂಗಳಿಗಾಗಿ</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ಪೋನ್</item>
+        <item>ಎಸ್‌ಎಂಎಸ್‌</item>
+        <item>ಸಂಪರ್ಕಗಳು</item>
+        <item>ಕ್ಯಾಲೆಂಡರ್‌</item>
+        <item>ಸಂಗ್ರಹಣೆ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>ನಿಮ್ಮ ಸಂಪರ್ಕಗಳು, ಸಂದೇಶಗಳು, ಟಿಪ್ಪಣಿಗಳು, ಕ್ಯಾಲೆಂಡರ್‌ ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಆ್ಯಪ್‌‌ಗಳು, ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಲೇಔಟ್‌ ಮತ್ತು ವಾಲ್‌ಪೇಪರ್‌ ಅನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>ವೈ-ಫೈ ಮತ್ತು ಡಿಸ್‌ಪ್ಲೇಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಮಹತ್ವದ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕಳೆದುಹೋಗಿದ್ದರೆ, ದೂರದಿಂದಲೇ ಲಾಕ್‌ ಮಾಡಿ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>ನಿಮ್ಮ ಸಂಪರ್ಕಗಳು, ಸಂದೇಶಗಳು, ಟಿಪ್ಪಣಿಗಳು, ಕ್ಯಾಲೆಂಡರ್‌ ಇತ್ಯಾದಿ ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಆ್ಯಪ್‌‌ಗಳು, ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಲೇಔಟ್‌ ಮತ್ತು ವಾಲ್‌ಪೇಪರ್‌ ಅನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕಳೆದುಹೋಗಿದ್ದರೆ, ದೂರದಿಂದಲೇ ಲಾಕ್‌ ಮಾಡಿ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>ನಿಮ್ಮ ಸಂಪರ್ಕಗಳು, ಸಂದೇಶಗಳು, ಟಿಪ್ಪಣಿಗಳು, ಕ್ಯಾಲೆಂಡರ್‌ ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಆ್ಯಪ್‌‌ಗಳು, ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಲೇಔಟ್‌ ಮತ್ತು ವಾಲ್‌ಪೇಪರ್‌ ಅನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕಳೆದುಹೋಗಿದ್ದರೆ, ದೂರದಿಂದಲೇ ಲಾಕ್‌ ಮಾಡಿ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>ನಿಮ್ಮ ಫೋಟೋಗಳು, ಟಿಪ್ಪಣಿಗಳು, ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು ಹಾಗೂ ಇತರೆ ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕಳೆದುಹೋಗಿದ್ದರೆ, ದೂರದಿಂದಲೇ ಲಾಕ್‌ ಮಾಡಿ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>ನಿಮ್ಮ ಸಂಪರ್ಕಗಳು, ಸಂದೇಶಗಳು, ಟಿಪ್ಪಣಿಗಳು, ಕ್ಯಾಲೆಂಡರ್‌ ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಆ್ಯಪ್‌‌ಗಳು, ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಲೇಔಟ್‌ ಮತ್ತು ವಾಲ್‌ಪೇಪರ್‌ ಅನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>ವೈ-ಫೈ ಮತ್ತು ಡಿಸ್‌ಪ್ಲೇಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಮಹತ್ವದ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>ನಿಮ್ಮ ಡಿವೈಸ್‌ ಕಳೆದುಹೋಗಿದ್ದರೆ, ದೂರದಿಂದಲೇ ಲಾಕ್‌ ಮಾಡಿ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ಆ್ಯಪ್‌‌ ಡೇಟಾ ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಲೇಔಟ್‌ ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್‌ ಮಾಡಿ</item>
+        <item>ಡಿವೈಸ್‌ ಹುಡುಕಿ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ಆ್ಯಪ್‌‌ ಡೇಟಾ ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಡಿವೈಸ್‌ ಹುಡುಕು</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>ಡಿವೈಸ್‌ ಅನ್ನು ಪತ್ತೆ ಮಾಡಲು ಮತ್ತು ಲಾಸ್ಟ್‌ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಲು</item>
+        <item>ಇಂಟರ್‌ನೆಟ್‌ಗೆ ಕನೆಕ್ಟ್‌ ಆಗದೇ ಇದ್ದಾಗ ಈ ಡಿವೈಸ್‌ ಅನ್ನು ಪತ್ತೆ ಮಾಡಲು</item>
+        <item>ಇಂಟರ್‌ನೆಟ್‌ಗೆ ಕನೆಕ್ಟ್‌ ಆಗದೇ ಇದ್ದಾಗಲೂ ಡಿವೈಸ್‌ ಅನ್ನು ಪತ್ತೆ ಮಾಡುವ ಕಾರಣಕ್ಕೆ ಫೋನ್‌ ಸಂಖ್ಯೆ ಪ್ರವೇಶಿಸಲು</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>ಬ್ಯಾಕಪ್‌ಗಳು</item>
+        <item>ಬ್ಯಾಕಪ್ ಮಾಡಿದ ಐಟಂಗಳು</item>
+        <item>ಕ್ಲೌಡ್‌;ಬ್ಯಾಕಪ್‌;ಬ್ಯಾಕಪ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌;ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌;ಲೇಔಟ್‌;ಆ್ಯಪ್‌ಗಳು;ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ;ಮರುಸ್ಥಾಪಿಸಿ</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ಗೆ ಬ್ಯಾಕಪ್‌ ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌</item>
+        <item>ಬ್ಯಾಕಪ್‌ ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌ ಲೇಔಟ್‌, ಇನ್‌ಸ್ಟಾಲ್‌ ಆದ ಆ್ಯಪ್‌ಗಳ ಪಟ್ಟಿ ಮತ್ತು ಸಿಸ್ಟಂ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</item>
+        <item>ಕ್ಲೌಡ್‌;ಬ್ಯಾಕಪ್‌;ಬ್ಯಾಕಪ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌;ಹೋಮ್‌ ಸ್ಕ್ರೀನ್‌;ಲೇಔಟ್‌;ಆ್ಯಪ್‌ಗಳು;ಸೆಟ್ಟಿಂಗ್‌ಗಳು;ಬ್ಯಾಕಪ್ ಫ್ರೀಕ್ವೆನ್ಸಿ;ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ;ಮರುಸ್ಥಾಪಿಸಿ</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>ಬ್ರೌಸರ್‌ ಅನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡು</item>
+        <item>ಬ್ರೌಸರ್‌;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>ಕ್ಯಾಲೆಂಡರ್ ಅನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡು</item>
+        <item>ಕ್ಯಾಲೆಂಡರ್‌;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ನೊಂದಿಗೆ ಸಂಪರ್ಕಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ</item>
+        <item>ಸಿಂಕ್‌ ಆನ್‌ ಮಾಡಿ/ಹೊಂದಿಸಿ</item>
+        <item>ಸಂಪರ್ಕಗಳು;ಕರೆ ಇತಿಹಾಸ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>ಕರೆ ಇತಿಹಾಸವನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್‌ ಮಾಡಿ/ಹೊಂದಿಸಿ</item>
+        <item>ಕರೆ ಇತಿಹಾಸ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ಡಿವೈಸ್‌ ಹುಡುಕಿ</item>
+        <item>ಡಿವೈಸ್‌ ಕಳೆದರೆ ಅದರಲ್ಲಿನ ಡೇಟಾ ಅಳಿಸು ಹಾಗೂ ಲಾಕ್‌ ಮಾಡು</item>
+        <item>ಡಿವೈಸ್‌ ಹುಡುಕಿ;ಕಳೆದಿದೆ; ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ಡಿವೈಸ್‌ ಹುಡುಕಿ</item>
+        <item>ಡಿವೈಸ್‌ ಕಳೆದರೆ ಅದರಲ್ಲಿನ ಡೇಟಾ ಅಳಿಸು ಹಾಗೂ ಲಾಕ್‌ ಮಾಡು</item>
+        <item>ಡಿವೈಸ್‌ ಹುಡುಕಿ;ಕಳೆದಿದೆ; ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>ಗ್ಯಾಲರಿಯನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್‌ ಮಾಡಿ/ಹೊಂದಿಸಿ</item>
+        <item>ಗ್ಯಾಲರಿ;ಫೋಟೋಗಳು;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಟಿಪ್ಪಣಿಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡು</item>
+        <item>ಟಿಪ್ಪಣಿಗಳು;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಟಿಪ್ಪಣಿಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡಿ</item>
+        <item>ಟಿಪ್ಪಣಿಗಳು;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>ಆ್ಯಪ್‌ ವೋಲ್ಟ್‌ ಅನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡು</item>
+        <item>ಆ್ಯಪ್‌ ವೋಲ್ಟ್‌;ಕಾರ್ಡ್‌ಗಳು; ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ತ್ವರಿತ ಪ್ರತ್ಯುತ್ತರಗಳನ್ನು ಸಿಂಕ್‌ ಮಾಡಿ</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡಿ</item>
+        <item>ತ್ವರಿತ ಪ್ರತ್ಯುತ್ತರಗಳು;ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌;ಎಡಿಟರ್;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು Xiaomi ಕ್ಲೌಡ್‌‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್‌ ಮಾಡಿ/ಹೊಂದಿಸಿ</item>
+        <item>ರೆಕಾರ್ಡರ್‌;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿರುವ ಅಳಿಸಿರುವ ಐಟಂಗಳು</item>
+        <item>ಸಂಪರ್ಕಗಳು, ಫೋಟೋಗಳು, ಸಂದೇಶಗಳು ಹಾಗೂ ಇನ್ನಷ್ಟನ್ನು ಮರುಸ್ಥಾಪಿಸು</item>
+        <item>ಅನುಪಯುಕ್ತ,;ಅಳಿಸಿದ ಐಟಂಗಳು;ಅನುಪಯುಕ್ತ ಬಿನ್‌;ಮರುಸ್ಥಾಪಿಸು;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿರುವ ಅಳಿಸಿರುವ ಐಟಂಗಳು</item>
+        <item>ಫೋಟೋಗಳು, ಟಿಪ್ಪಣಿಗಳು ಹಾಗೂ ಇತರೆ ಮರುಸ್ಥಾಪಿಸಿ</item>
+        <item>ಅನುಪಯುಕ್ತ,;ಅಳಿಸಿದ ಐಟಂಗಳು;ಅನುಪಯುಕ್ತ ಬಿನ್‌;ಮರುಸ್ಥಾಪಿಸು;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ನಿಂದ ಐಟಂಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ</item>
+        <item>ಬ್ಯಾಕಪ್‌ ಆದ ಐಟಂಗಳನ್ನು ಡಿವೈಸ್‌ಗೆ ಡೌನ್‌ಲೋಡ್‌ ಮಾಡು</item>
+        <item>ಕ್ಲೌಡ್‌;ಬ್ಯಾಕಪ್‌;ಬ್ಯಾಕಪ್‌;ಮರುಸ್ಥಾಪಿಸಿ;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>ಭದ್ರತೆ ಕ್ಲೌಡ್‌ ಸಿಂಕ್‌</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡು</item>
+        <item>ಭದ್ರತೆ;ಕ್ಲೌಡ್‌;Xiaomi ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>ಭದ್ರತೆ ಕ್ಲೌಡ್‌ ಸಿಂಕ್‌</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡಿ</item>
+        <item>ಭದ್ರತೆ;ಕ್ಲೌಡ್‌;Xiaomi ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>ಸಂದೇಶಗಳನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್‌ ಮಾಡಿ/ಹೊಂದಿಸಿ</item>
+        <item>ಸಂದೇಶಗಳು;ಎಸ್‌ಎಂಎಸ್‌;ಎಂಎಂಎಸ್‌;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi ಕ್ಲೌಡ್‌ ಸದಸ್ಯತ್ವ</item>
+        <item>ಸದಸ್ಯತ್ವವನ್ನು ಅಪ್‌ಗ್ರೇಡ್‌ ಮಾಡಿ, ಇನ್ನಷ್ಟು ಸಂಗ್ರಹಣೆ ಸ್ಥಳ ಪಡೆದುಕೊಳ್ಳಿ ಹಾಗೂ ಡೇಟಾವನ್ನು ಭದ್ರವಾಗಿಟ್ಟುಕೊಳ್ಳಿ</item>
+        <item>ಸಂಗ್ರಹಣೆ ಕೊರತೆ;ಸದಸ್ಯತ್ವಸಂಗ್ರಹಣೆ;ಸಂಗ್ರಹಣೆ ಸ್ಥಳ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌;ಮೆಗಾ;ಅಲ್ಟ್ರಾ;ವಿಐಪಿ;ಬ್ಯಾಕಪ್‌;ಬ್ಯಾಕಪ್‌;ಮರುಸ್ಥಾಪನೆ;ಅನುಪಯುಕ್ತ;ಅಳಿಸಿದ ಐಟಂಗಳು;ಅನುಪಯುಕ್ತ ಬಿನ್‌</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi ಕ್ಲೌಡ್‌. ಎಲ್ಲಾ Mi ಸೇವೆಗಳು ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಲಭ್ಯವಿವೆ.</item>
+        <item>ನಿಮ್ಮ ಫೋಟೋಗಳು, ಸಂಪರ್ಕಗಳು, ಸಂದೇಶಗಳು ಹಾಗೂ ಡಿವೈಸ್‌ಗಳನ್ನು ಎಲ್ಲಿಂದಲಾದರೂ ಪ್ರವೇಶಿಸಿ</item>
+        <item>ಸಂಗ್ರಹಣೆ ಕೊರತೆ;ಸದಸ್ಯತ್ವ;ಸಂಗ್ರಹಣೆ;ಸಂಗ್ರಹಣೆ ಸ್ಥಳ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌;ಅನುಪಯುಕ್ತ;ಅಳಿಸಿದ ಐಟಂಗಳು;ಭದ್ರತೆ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi ಕ್ಲೌಡ್‌. ಎಲ್ಲಾ Mi ಸೇವೆಗಳು ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಲಭ್ಯವಿವೆ.</item>
+        <item>ನಿಮ್ಮ ಫೋಟೋಗಳು, ಟಿಪ್ಪಣಿಗಳು, ಹಾಗೂ ಡಿವೈಸ್‌ಗಳನ್ನು ಎಲ್ಲಿಂದಲಾದರೂ ಪ್ರವೇಶಿಸಿ</item>
+        <item>ಸಂಗ್ರಹಣೆ ಕೊರತೆ;ಸದಸ್ಯತ್ವ;ಸಂಗ್ರಹಣೆ;ಸಂಗ್ರಹಣೆ ಸ್ಥಳ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌;ಅನುಪಯುಕ್ತ;ಅಳಿಸಿದ ಐಟಂಗಳು;ಭದ್ರತೆ</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>ವೈ-ಫೈ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡು</item>
+        <item>WLAN;ವೈಫೈ;ವೈ-ಫೈ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLAN ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು Xiaomi ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಿಂಕ್‌ ಮಾಡು</item>
+        <item>ಸಿಂಕ್‌ ಆನ್ ಮಾಡಿ</item>
+        <item>WLAN;ವೈಫೈ;ವೈ-ಫೈ;ಕ್ಲೌಡ್‌;ಸಿಂಕ್‌;ಕ್ಲೌಡ್‌ ಸೇವೆಗಳು;Xiaomi ಕ್ಲೌಡ್‌</item>
+    </string-array>
+</resources>

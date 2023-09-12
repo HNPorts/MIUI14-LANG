@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>ਸਮਕਾਲੀਕਿਰਤ ਆਈਟਮਾਂ ਦੀ ਪਛਾਣ ਕਰਨ ਲਈ</item>
+        <item>ਸੁਨੇਹੇ ਸਮਕਾਲੀਕਰਨ ਕਰਨ ਲਈ</item>
+        <item>ਸੰਪਰਕ ਸਮਕਾਲੀਕਰਨ ਕਰਨ ਲਈ</item>
+        <item>ਕੈਲੰਡਰ ਇਵੈਂਟਸ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰਨ ਲਈ</item>
+        <item>ਸਟੋਰੇਜ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੀਆਂ ਸੇਵਾਵਾਂ ਨਾਲ ਆਈਟਮਾਂ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰਨ ਲਈ</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ਫ਼ੋਨ</item>
+        <item>ਐਸਐਮਐਸ</item>
+        <item>ਸੰਪਰਕ</item>
+        <item>ਕੈਲੰਡਰ</item>
+        <item>ਸਟੋਰੇਜ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>ਆਪਣੇ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਨੋਟਸ, ਕੈਲੰਡਰ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਐਪਾਂ, ਹੋਮ ਸਕ੍ਰੀਨ ਲੇਆਉਟ ਅਤੇ ਵਾਲਪੇਪਰ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਵਾਈ-ਫ਼ਾਈ ਅਤੇ ਡਿਸਪਲੇ ਸਮੇਤ ਜ਼ਰੂਰੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਜੇਕਰ ਤੁਹਾਡਾ ਡੀਵੀਈਸ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ ਤਾਂ ਇਸਨੂੰ ਕਿਤੋਂ ਵੀ ਲਾਕ ਕਰੋ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>ਆਪਣੇ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਨੋਟਸ, ਕੈਲੰਡਰ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਐਪਾਂ, ਹੋਮ ਸਕ੍ਰੀਨ ਲੇਆਉਟ ਅਤੇ ਵਾਲਪੇਪਰ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>WLAN ਅਤੇ ਡਿਸਪਲੇ ਸਮੇਤ ਜ਼ਰੂਰੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਜੇਕਰ ਤੁਹਾਡਾ ਡੀਵੀਈਸ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ ਤਾਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਦੂਰੋਂ ਲਾਕ ਕਰੋ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>ਆਪਣੇ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਨੋਟਸ, ਕੈਲੰਡਰ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਐਪਾਂ, ਹੋਮ ਸਕ੍ਰੀਨ ਲੇਆਉਟ ਅਤੇ ਵਾਲਪੇਪਰ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>WLAN ਅਤੇ ਡਿਸਪਲੇ ਸਮੇਤ ਜ਼ਰੂਰੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਜੇਕਰ ਤੁਹਾਡਾ ਡੀਵੀਈਸ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ ਤਾਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਦੂਰੋਂ ਲਾਕ ਕਰੋ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>ਆਪਣੀਆਂ ਫ਼ੋਟੋਆਂ, ਨੋਟਸ, ਰਿਕਾਰਡਿੰਗਾਂ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਜੇਕਰ ਤੁਹਾਡਾ ਡੀਵੀਈਸ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ ਤਾਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਦੂਰੋਂ ਲਾਕ ਕਰੋ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>ਆਪਣੇ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਨੋਟਸ, ਕੈਲੰਡਰ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਐਪਾਂ, ਹੋਮ ਸਕ੍ਰੀਨ ਲੇਆਉਟ ਅਤੇ ਵਾਲਪੇਪਰ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਵਾਈ-ਫ਼ਾਈ ਅਤੇ ਡਿਸਪਲੇ ਸਮੇਤ ਜ਼ਰੂਰੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਜੇਕਰ ਤੁਹਾਡਾ ਡੀਵੀਈਸ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ ਤਾਂ ਆਪਣੇ ਡੀਵਾਈਸ ਨੂੰ ਦੂਰੋਂ ਲਾਕ ਕਰੋ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ਐਪ ਡਾਟਾ ਸਮਕਾਲੀਕਿਰਤ ਕਰੋ</item>
+        <item>ਹੋਮ ਸਕ੍ਰੀਨ ਲੇਆਉਟ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਓ</item>
+        <item>ਡੀਵਾਈਸ ਲੱਭੋ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ਐਪ ਡਾਟਾ ਸਮਕਾਲੀਕਿਰਤ ਕਰੋ</item>
+        <item>ਡੀਵਾਈਸ ਲੱਭੋ</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦੀ ਪਤਾ ਲਗਾਉਣ ਅਤੇ ਗੁੰਮ ਮੋਡ ਵਿੱਚ ਸਵਿੱਚ ਕਰਨ ਲਈ</item>
+        <item>ਉਸ ਸਥਿਤੀ ਵਿੱਚ ਡੀਵਾਈਸ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਜਦੋਂ ਇਹ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ</item>
+        <item>ਉਸ ਸਥਿਤੀ ਵਿੱਚ ਡੀਵਾਈਸ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਫ਼ੋਨ ਨੰਬਰ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਵਾਸਤੇ ਜਦੋਂ ਇਹ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>ਬੈਕਅੱਪ</item>
+        <item>ਬੈਕਅੱਪ ਲਈਆਂ ਆਈਟਮਾਂ</item>
+        <item>ਕਲਾਉਡ;ਬੈਕ ਅੱਪ;ਬੈਕਅੱਪ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ;ਹੋਮ ਸਕ੍ਰੀਨ;ਲੇਆਉਟ;ਐਪਾਂ;ਬੈਕਅੱਪਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ;ਰੀਸਟੋਰ</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>"ਹੋਮ ਸਕ੍ਰੀਨ ਦਾ Xiaomi ਕਲਾਉਡ 'ਤੇ ਬੈਕ ਅੱਪ ਲਓ"</item>
+        <item>ਹੋਮ ਸਕ੍ਰੀਨ ਲੇਆਉਟ, ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਗਈਆਂ ਐਪਾਂ ਅਤੇ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦਾ ਬੈਕ ਅੱਪ ਲਓ</item>
+        <item>ਕਲਾਉਡ;ਬੈਕ ਅੱਪ;ਬੈਕਅੱਪ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ;ਹੋਮ ਸਕ੍ਰੀਨ;ਲੇਆਉਟ;ਐਪਾਂ;ਸੈਟਿੰਗਾਂ;ਬੈਕਅੱਪ;ਬੈਕਅੱਪਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ;ਰੀਸਟੋਰ</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਬ੍ਰਾਊਜ਼ਰ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>ਕੈਲੰਡਰ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਕੈਲੰਡਰ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi ਕਲਾਉਡ ਨਾਲ ਸੰਪਰਕਾਂ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ/ਸੈੱਟ ਅੱਪ ਕਰੋ</item>
+        <item>ਸੰਪਰਕ;ਕਾਲ ਇਤਿਹਾਸ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>ਕਾਲ ਇਤਿਹਾਸ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ/ਸੈੱਟ ਅੱਪ ਕਰੋ</item>
+        <item>ਕਾਲ ਇਤਿਹਾਸ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ਡੀਵਾਈਸ ਲੱਭੋ</item>
+        <item>"ਡੀਵਾਈਸ ਦੇ ਗੁੰਮ ਹੋ ਜਾਣ 'ਤੇ ਇਸਨੂੰ ਲਾਕ ਕਰੋ ਅਤੇ ਡਾਟਾ ਮਿਟਾਓ"</item>
+        <item>ਡੀਵਾਈਸ ਲੱਭੋ;ਗੁੰਮ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ਡੀਵਾਈਸ ਲੱਭੋ</item>
+        <item>"ਡੀਵਾਈਸ ਦੇ ਗੁੰਮ ਹੋ ਜਾਣ 'ਤੇ ਇਸਨੂੰ ਲਾਕ ਕਰੋ ਅਤੇ ਡਾਟਾ ਮਿਟਾਓ"</item>
+        <item>ਡੀਵਾਈਸ ਲੱਭੋ;ਗੁੰਮ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>ਗੈਲਰੀ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ/ਸੈੱਟ ਅੱਪ ਕਰੋ</item>
+        <item>ਗੈਲਰੀ;ਫ਼ੋਟੋਆਂ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi ਕਲਾਉਡ ਨਾਲ ਨੋਟਸ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਨੋਟਸ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi ਕਲਾਉਡ ਨਾਲ ਨੋਟਸ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਨੋਟਸ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>ਐਪ ਵਾਲੇਟ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਐਪ ਵਾਲੇਟ;ਕਾਰਡ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ਤੁਰੰਤ ਜਵਾਬਾਂ ਦਾ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਤੁਰੰਤ ਜਵਾਬ;ਕਲਿੱਪਬੋਰਡ;ਸੰਪਾਦਕ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;Cloud ਸੇਵਾਵਾਂ</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>ਰਿਕਾਰਡਿੰਗਾਂ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ।</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ/ਸੈੱਟ ਅੱਪ ਕਰੋ</item>
+        <item>ਰਿਕਾਰਡਰ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi ਕਲਾਉਡ ਵਿੱਚੋਂ ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ</item>
+        <item>ਸੰਪਰਕ, ਫ਼ੋਟੋਆਂ, ਸੁਨੇਹੇ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਰੀਸਟੋਰ ਕਰੋ</item>
+        <item>ਟ੍ਰੈਸ਼;ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ;ਰੱਦੀ;ਰੀਸਟੋਰ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi ਕਲਾਉਡ ਵਿੱਚੋਂ ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ</item>
+        <item>ਫ਼ੋਟੋਆਂ, ਨੋਟਸ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਰੀਸਟੋਰ ਕਰੋ</item>
+        <item>ਟ੍ਰੈਸ਼;ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ;ਟ੍ਰੈਸ਼ ਬਿਨ;ਰੀਸਟੋਰ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi ਕਲਾਉਡ ਤੋਂ ਆਈਟਮਾਂ ਰੀਸਟੋਰ ਕਰੋ</item>
+        <item>ਬੈਕਅੱਪ ਲਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ ਦਾ ਆਪਣੇ ਡੀਵਾਈਸ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰੋ</item>
+        <item>ਕਲਾਉਡ;ਬੈਕ ਅੱਪ;ਬੈਕਅੱਪ;ਰੀਸਟੋਰ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>ਸੁਰੱਖਿਆ ਕਲਾਉਡ ਸਮਕਾਲੀਕਰਨ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਸੁਰੱਖਿਆ;ਕਲਾਉਡ;Xiaomi ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;Cloud ਸੇਵਾਵਾਂ</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>ਸੁਰੱਖਿਆ ਕਲਾਉਡ ਸਮਕਾਲੀਕਰਨ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>ਸੁਰੱਖਿਆ;ਕਲਾਉਡ;Xiaomi ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;Cloud ਸੇਵਾਵਾਂ</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>ਸੁਨੇਹਿਆਂ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ/ਸੈੱਟ ਅੱਪ ਕਰੋ</item>
+        <item>ਸੁਨੇਹੇ;ਐਸਐਮਐਸ;ਐਮਐਮਐਸ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi ਕਲਾਉਡ ਸਦੱਸਤਾ</item>
+        <item>ਆਪਣੀ ਸਦੱਸਤਾ ਅੱਪਗ੍ਰੇਡ ਕਰੋ, ਹੋਰ ਸਟੋਰੇਜ ਥਾਂ ਪ੍ਰਾਪਤ ਕਰੋ ਅਤੇ ਆਪਣਾ ਡਾਟਾ ਸੁਰੱਖਿਅਤ ਕਰੋ</item>
+        <item>ਨਾਕਾਫ਼ੀ ਸਟੋਰੇਜ;ਸਦੱਸਤਾ;ਸਟੋਰੇਜ;ਸਟੋਰੇਜ ਥਾਂ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ;ਮੇਗਾ;ਅਲਟ੍ਰਾ;VIP;ਬੈਕ ਅੱਪ;ਬੈਕਅੱਪ;ਰੀਸਟੋਰ;ਟ੍ਰੈਸ਼;ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾ;ਟ੍ਰੈਸ਼ ਬਿਨ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>"Xiaomi ਕਲਾਉਡ। ਸਾਰੀਆਂ Mi ਸੇਵਾਵਾਂ ਇੱਕ ਥਾਂ 'ਤੇ।"</item>
+        <item>ਆਪਣੀਆਂ ਫ਼ੋਟੋਆਂ, ਸੰਪਰਕਾਂ, ਸੁਨੇਹਿਆਂ ਅਤੇ ਡੀਵਾਈਸਾਂ ਤੱਕ ਕਿਤੋਂ ਵੀ ਪਹੁੰਚ ਕਰੋ</item>
+        <item>ਨਾਕਾਫ਼ੀ ਸਟੋਰੇਜ;ਸਦੱਸਤਾ;ਸਟੋਰੇਜ;ਸਟੋਰੇਜ ਥਾਂ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ;ਟ੍ਰੈਸ਼;ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ;ਸੁਰੱਖਿਆ</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>"Xiaomi ਕਲਾਉਡ। ਸਾਰੀਆਂ Mi ਸੇਵਾਵਾਂ ਇੱਕ ਥਾਂ 'ਤੇ।"</item>
+        <item>ਆਪਣੀਆਂ ਫ਼ੋਟੋਆਂ, ਨੋਟਸ ਅਤੇ ਡੀਵਾਈਸਾਂ ਤੱਕ ਕਿਤੋਂ ਵੀ ਪਹੁੰਚ ਕਰੋ</item>
+        <item>ਨਾਕਾਫ਼ੀ ਸਟੋਰੇਜ;ਸਦੱਸਤਾ;ਸਟੋਰੇਜ;ਸਟੋਰੇਜ ਥਾਂ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ;ਟ੍ਰੈਸ਼;ਮਿਟਾਈਆਂ ਗਈਆਂ ਆਈਟਮਾਂ;ਸੁਰੱਖਿਆ</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>ਵਾਈ-ਫ਼ਾਈ ਸੈਟਿੰਗਾਂ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>WLAN;ਵਾਈਫ਼ਾਈ;ਵਾਈ-ਫ਼ਾਈ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLAN ਸੈਟਿੰਗਾਂ ਨੂੰ Xiaomi ਕਲਾਉਡ ਨਾਲ ਸਮਕਾਲੀਕਰਨ ਕਰੋ</item>
+        <item>ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ</item>
+        <item>WLAN;ਵਾਈਫ਼ਾਈ;ਵਾਈ-ਫ਼ਾਈ;ਕਲਾਉਡ;ਸਮਕਾਲੀਕਰਨ;ਕਲਾਉਡ ਸੇਵਾਵਾਂ;Xiaomi ਕਲਾਉਡ</item>
+    </string-array>
+</resources>

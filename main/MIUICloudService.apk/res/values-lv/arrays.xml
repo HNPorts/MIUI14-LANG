@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Lai identificētu sinhronizētos vienumus</item>
+        <item>Lai sinhronizētu īsziņas</item>
+        <item>Lai sinhronizētu kontaktus</item>
+        <item>Kalendāra notikumu sinhronizēšanai</item>
+        <item>Lai sinhronizētu vienumus ar pakalpojumiem, kas izmanto krātuvi</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Tālrunis</item>
+        <item>SMS</item>
+        <item>Kontakti</item>
+        <item>Kalendārs</item>
+        <item>Atmiņa</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Sinhronizējiet savus kontaktus, ziņas, piezīmes, kalendāru un vairāk</item>
+        <item>Dublēt lietotnes, Sākuma ekrāna izkārtojumu un ekrāna tapeti</item>
+        <item>Dublēt svarīgus iestatījumus, ieskaitot Wi-Fi un displeja iestatījumus</item>
+        <item>Attālināti bloķējiet savu ierīci, ja tā pazūd</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sinhronizējiet savus kontaktus, ziņas, piezīmes, kalendāru un vairāk</item>
+        <item>Dublēt lietotnes, Sākuma ekrāna izkārtojumu un ekrāna tapeti</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Attālināti bloķējiet savu ierīci, ja tā pazūd</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sinhronizējiet savus kontaktus, ziņas, piezīmes, kalendāru un vairāk</item>
+        <item>Dublēt lietotnes, Sākuma ekrāna izkārtojumu un ekrāna tapeti</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Attālināti bloķējiet savu ierīci, ja tā pazūd</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sinhronizējiet savus fotoattēlus, piezīmes, ierakstus un vairāk</item>
+        <item>Attālināti bloķējiet savu ierīci, ja tā pazūd</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sinhronizējiet savus kontaktus, ziņas, piezīmes, kalendāru un vairāk</item>
+        <item>Dublēt lietotnes, Sākuma ekrāna izkārtojumu un ekrāna tapeti</item>
+        <item>Dublēt svarīgus iestatījumus, ieskaitot Wi-Fi un displeja iestatījumus</item>
+        <item>Attālināti bloķējiet savu ierīci, ja tā pazūd</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sinhronizēt lietotņu datus</item>
+        <item>Dublēt Sākuma ekrāna izkārtojumu</item>
+        <item>Dublējiet sistēmas iestatījumus</item>
+        <item>Atrast ierīci</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sinhronizēt lietotņu datus</item>
+        <item>Atrast ierīci</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Lai noteiktu jūsu ierīces atrašanās vietu un pārslēgtu uz pazaudēšanas režīmu</item>
+        <item>Lai atrastu šo ierīci, ja tā nav savienota ar internetu</item>
+        <item>Lai piekļūtu tālruņa numuram ierīces atrašanai, ja tā nav savienota ar internetu</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Dublējumi</item>
+        <item>Dublētie vienumi</item>
+        <item>Mākonis;Dublēt;Dublējums;Mākoņa pakalpojumi;Xiaomi Mākonis;Mājas ekrāns;Izkārtojums;Lietotnes;Pārvaldīt dublējumus;Atjaunot</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Dublēt Sākuma ekrānu uz Xiaomi Mākoni</item>
+        <item>Dublēt Sākuma ekrāna izkārtojumu, instalēto lietotņu sarakstu un sistēmas iestatījumus</item>
+        <item>Mākonis;Dublēt;Dublējums;Mākoņa pakalpojums;Xiaomi Mākonis;Sākuma ekrāns;Izkārtojums;Lietotnes;Iestatījumi;Dublēšanas biežums;Pārvaldīt dublējumus;Atjaunot</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sinhronizēt Pārlūku ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Pārlūks;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi; Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sinhronizēt Kalendāru ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Kalendārs;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi; Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Sinhronizēt kontaktus ar Xiaomi Mākoni</item>
+        <item>Ieslēgt/iestatīt sinhronizēšanu</item>
+        <item>Kontakti;Zvanu vēsture;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi; Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sinhronizēt zvanu vēsturi ar Xiaomi Mākoni</item>
+        <item>Ieslēgt/iestatīt sinhronizēšanu</item>
+        <item>Zvanu vēsture;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi; Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Atrast ierīci</item>
+        <item>Dzēst datus un bloķēt ierīci, ja pazaudēta</item>
+        <item>Atrast ierīci;Pazaudēts;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Atrast ierīci</item>
+        <item>Dzēst datus un bloķēt ierīci, ja pazaudēta</item>
+        <item>Atrast ierīci;Pazaudēts;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sinhronizēt Galeriju ar Xiaomi Mākoni</item>
+        <item>Ieslēgt/iestatīt sinhronizēšanu</item>
+        <item>Galerija;Attēli;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sinhronizēt piezīmes ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Piezīmes;Zvanu vēsture;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sinhronizēt piezīmes ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Piezīmes;Zvanu vēsture;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sinhronizēt Lietotņu krātuvi ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Lietotņu krātuve;Kartes;Mākonis;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sinhronizēt ātrās atbildes</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Ātrās atbildes;Starpliktuve;Redaktors;Mākonis;Sinhronizēt;Mākoņa pakalpojumi</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sinhronizēt ierakstus ar Xiaomi Mākoni</item>
+        <item>Ieslēgt/iestatīt sinhronizēšanu</item>
+        <item>Ierakstītājs;Zvanu vēsture;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi; Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Dzēstie vienumi Xiaomi Mākonī</item>
+        <item>Atjaunot kontaktus, attēli, ziņas un vairāk</item>
+        <item>Miskaste;Dzēstie vienumi;Atkritne;Atjaunot;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Dzēstie vienumi Xiaomi Mākonī</item>
+        <item>Atjaunot fotoattēlus, piezīmes un vairāk</item>
+        <item>Miskaste;Dzēstie vienumi;Atkritne;Atjaunot;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Atjaunot vienumus no Xiaomi Mākoņa</item>
+        <item>Lejupielādēt dublētos vienumus ierīcē</item>
+        <item>Mākonis;Dublēt;Dublējums;Atjaunot;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Drošības mākoņa sinhronizēšana</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Drošība;Mākonis;Xiaomi Mākonis;Sinhronizēt;Mākoņa pakalpojumi</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Drošības mākoņa sinhronizēšana</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>Drošība;Mākonis;Xiaomi Mākonis;Sinhronizēt;Mākoņa pakalpojumi</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sinhronizēt ziņas ar Xiaomi Mākoni</item>
+        <item>Ieslēgt/iestatīt sinhronizēšanu</item>
+        <item>Ziņas;SMS;MMS;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi Mākoņa dalība</item>
+        <item>Uzlabot jūsu dalību, iegūt vairāk atmiņas vietas un nodrošināt datu drošību</item>
+        <item>Nepietiekama atmiņa;Dalība;Atmiņa;Atmiņas vieta;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis;Mega;Ultra;VIP;Dublēt;Dublējums;Atjaunot;Miskaste;Dzēst vienumus;Atkritne</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Mākonis. Visi Mi pakalpojumi vienā vietā.</item>
+        <item>Piekļūstiet saviem attēliem, kontaktiem, ziņām un ierīces no jebkuras vietas</item>
+        <item>Nepietiekama atmiņa;Dalība;Atmiņa;Atmiņas vieta;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis;Miskaste;Dzēstie vienumi;Drošība</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Mākonis. Visi Mi pakalpojumi vienā vietā.</item>
+        <item>Piekļūstiet saviem fotoattēliem, piezīmēm un ierīces no jebkuras vietas</item>
+        <item>Nepietiekama atmiņa;Dalība;Atmiņa;Atmiņas vieta;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis;Miskaste;Dzēstie vienumi;Drošība</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sinhronizēt Wi-Fi iestatījumus ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>WLAN;wifi;Wi-Fi;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sinhronizēt WLAN iestatījumus ar Xiaomi Mākoni</item>
+        <item>Ieslēgt sinhronizēšanu</item>
+        <item>WLAN;wifi;Wi-Fi;Mākonis;Sinhronizēšana;Mākoņa pakalpojumi;Xiaomi Mākonis</item>
+    </string-array>
+</resources>

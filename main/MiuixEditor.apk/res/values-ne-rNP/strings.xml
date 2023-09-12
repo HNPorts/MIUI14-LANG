@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">बारम्बारका शब्दावलीहरू थप्नुहोस्</string>
+    <string name="edit_frequent_phrases">बारम्बारका शब्दावलीहरू सम्पादन गर्नुहोस्</string>
+    <string name="frequent_phrases">बारम्बार आउने वाक्यांश</string>
+    <string name="query">खोज्नुहोस्</string>
+    <string name="select">चयन गर्नुहोस्</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">လမ်းညွှန် မီနူး ပိတ်ရန်</string>
+    <string name="close_sheet">စာမျက်နှာ ပိတ်ရန်</string>
+    <string name="default_error_message">ထည့်သွင်းမှု မမှန်ကန်ပါ</string>
+    <string name="default_popup_window_title">ပေါ့ပ်အပ် ဝင်းဒိုး</string>
+    <string name="dropdown_menu">ဆွဲချမီနူး</string>
+    <string name="in_progress">ဆောင်ရွက်နေဆဲ</string>
+    <string name="indeterminate">အမှတ်ခြစ်မထားပါ (သို့) အမှတ်ခြစ်ပြီး</string>
+    <string name="navigation_menu">လမ်းညွှန် မီနူး</string>
+    <string name="not_selected">ရွေးမထားပါ</string>
+    <string name="off">ပိတ်</string>
+    <string name="on">ဖွင့်</string>
+    <string name="range_end">အပိုင်းအခြား အဆုံး</string>
+    <string name="range_start">အပိုင်းအခြား အစ</string>
+    <string name="selected">ရွေးထားသည်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="tab">တဘ်</string>
+    <string name="template_percent">%1$d ရာခိုင်နှုန်း။</string>
+</resources>

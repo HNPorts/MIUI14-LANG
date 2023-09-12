@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到首页</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete 键</string>
+    <string name="abc_menu_enter_shortcut_label">Enter 键</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">空格键</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享对象</string>
+    <string name="abc_shareactionprovider_share_with_application">与%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="app_label">配套设备管理器</string>
+    <string name="chooser_title">选择要由&lt;strong>%2$s&lt;/strong>管理的%1$s</string>
+    <string name="confirmation_title">允许&lt;strong>%1$s&lt;/strong>访问您的&lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">返回</string>
+    <string name="consent_no">不允许</string>
+    <string name="consent_yes">允许</string>
+    <string name="helper_summary_app_streaming">“%1$s”正代表您的%2$s请求访问您手机上的照片、媒体内容和通知</string>
+    <string name="helper_summary_computer">“%1$s”正代表您的%2$s请求在您的设备之间流式传输应用内容</string>
+    <string name="helper_title_app_streaming">跨设备服务</string>
+    <string name="helper_title_computer">Google Play 服务</string>
+    <string name="permission_apps">应用</string>
+    <string name="permission_apps_summary">流式传输手机上的应用</string>
+    <string name="permission_notification">通知</string>
+    <string name="permission_notification_summary">可以读取所有通知，包括合同、消息和照片等信息</string>
+    <string name="permission_storage">照片和媒体内容</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">将应用权限转让给手表</string>
+    <string name="permission_sync_summary">"为了让您更轻松地设置手表，在设置过程中安装在手表上的应用将使用与手机相同的权限。
+
+这些权限可能包括使用手表的麦克风和位置信息。"</string>
+    <string name="profile_name_generic">设备</string>
+    <string name="profile_name_watch">手表</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">需要使用此应用，才能管理您的“%1$s”。“%2$s”将能与通知互动，并可获得电话、短信、通讯录、日历、通话记录和附近的设备访问权限。</string>
+    <string name="title_app_streaming">允许“%1$s”&lt;strong>&lt;/strong>访问您手机中的这项信息</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">允许 &lt;strong>%1$s&lt;/strong> 访问您手机中的这项信息</string>
+    <string name="vendor_header_button_description">更多信息按钮</string>
+    <string name="vendor_icon_description">应用图标</string>
+</resources>
