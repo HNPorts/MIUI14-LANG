@@ -63,16 +63,15 @@
     <string name="accept_new_connection_detail">Kontrol merkezinde yeni bağlantılar kısıtlandı</string>
     <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
     <string name="access_control_app_entry_single">Uygulama aç</string>
-    <string name="access_control_need_password">"%s korunuyor
-"</string>
+    <string name="access_control_need_password">"%s korunuyor"</string>
     <string name="access_control_need_to_unlock">Şifre gerekli:</string>
     <string name="access_control_no_back_footer">Çıkmak için [icon] simgesine dokunun</string>
     <string name="access_control_password_title">Şifre</string>
     <string name="access_control_recording_intro_header">Kilit açma deseni çizin:</string>
     <string name="access_control_reset_by_account">Şifrenizi sıfırlamak için Mi hesabınızda oturum açın</string>
     <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
-	<string name="reduce_bright_colors_preference_intro_text">Okumanın daha rahat olması için ekranınızı karartın</string>
-	<string name="reduce_bright_colors_shortcut_title">Okumanın daha rahat olması için ekranınızı karartın</string>
+    <string name="reduce_bright_colors_preference_intro_text">Okumanın daha rahat olması için ekranınızı karartın</string>
+    <string name="reduce_bright_colors_shortcut_title">Ekstra loş kısayolu</string>
     <string name="access_point_names">Erişim noktası adları</string>
     <string name="accessibility_alarm_vibration_title">Alarm titreşimi</string>
     <string name="accessibility_audio_adjustment_title">Ses ayarı</string>
