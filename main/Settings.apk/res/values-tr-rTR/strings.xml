@@ -71,6 +71,8 @@
     <string name="access_control_recording_intro_header">Kilit açma deseni çizin:</string>
     <string name="access_control_reset_by_account">Şifrenizi sıfırlamak için Mi hesabınızda oturum açın</string>
     <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+	<string name="reduce_bright_colors_preference_intro_text">Okumanın daha rahat olması için ekranınızı karartın</string>
+	<string name="reduce_bright_colors_shortcut_title">Okumanın daha rahat olması için ekranınızı karartın</string>
     <string name="access_point_names">Erişim noktası adları</string>
     <string name="accessibility_alarm_vibration_title">Alarm titreşimi</string>
     <string name="accessibility_audio_adjustment_title">Ses ayarı</string>
