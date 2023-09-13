@@ -31,7 +31,7 @@
   </plurals>
   <plurals name="disable_taplus_apps">
     <item quantity="other">"%d uygulama Taplus kullanmıyor"</item>
-    <item quantity="one">"%d uygulama Taplus'ı kullanmıyor"</item>
+    <item quantity="one">"%d uygulama Taplus kullanmıyor"</item>
   </plurals>
   <plurals name="enable_taplus_apps">
     <item quantity="other">%d uygulama Tapus kullanıyor</item>
