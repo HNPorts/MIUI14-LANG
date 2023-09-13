@@ -492,17 +492,17 @@ Diğer şehirlerdeki oteller size gösterilmeyecek."</string>
   <string name="privacy_revoke_failed_dialog_content">Bir sunucu hatası oluştu.  Bir veya iki dakika bekleyip tekrar deneyin.</string>
   <string name="privacy_revoke_failed_dialog_title">"İzin geri alınamadı"</string>
   <string name="privacy_revoke_tip_dialog_content">
-    <Data>"Gizlilik Politikasının yeni sürümünü kabul etmediğiniz sürece %1$s kullanmaya devam edemeyeceksiniz. %'nin güncellenmiş <a href="%3$s">Gizlilik Politikası</a>'nı kabul edin"</Data>
+    <Data>"Gizlilik Politikasının yeni sürümünü kabul etmediğiniz sürece kullanmaya devam edemeyeceksiniz.Gizlilik Politikasını kabul edin"</Data>
   </string>
   <string name="privacy_revoke_tip_dialog_title">"Uygulamayı kullanamıyorum"</string>
-  <string name="privacy_update_dialog_content_1">%s Gizlilik Politikası güncellendi:</string>
+  <string name="privacy_update_dialog_content_1">Gizlilik Politikası güncellendi:</string>
   <string name="privacy_update_dialog_content_2">
-    <Data>Devam etmeden önce <a href="%1$s">Gizlilik politikasının</a> yeni sürümünü okuyup kabul edin.</Data>
+    <Data>Devam etmeden önce Gizlilik politikasının yeni sürümünü okuyup kabul edin.</Data>
   </string>
   <string name="privacy_update_dialog_title">Güncellenmiş Gizlilik Politikası</string>
   <string name="required_permissions">;</string>
   <string name="retry_refresh">Tekrar deneyin</string>
-  <string name="revoke_privacy_authorization">Taplusın Gizlilik Politikasına rızayı geri çekme</string>
+  <string name="revoke_privacy_authorization">Taplusun Gizlilik Politikasına rızayı geri çekme</string>
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cmrts</string>
   <string name="saturday_shortest">Cmrts</string>
