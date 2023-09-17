@@ -6,7 +6,7 @@
     <string name="a2dp_not_pair_desc">"Lütfen konuşmacıya "Little Ai" deyin: Bluetooth'u açın
 Hoparlör ürün yazılımının en son sürüme yükseltilmesi gerekiyor"</string>
     <string name="a2dp_not_pair_desc_same_wifi">"Lütfen telefonunuzu ve cihazınızı
-aynı wifi ağına bağlayın ve tekrar deneyin"</string>
+aynı Wi-Fi ağına bağlayın ve tekrar deneyin"</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -294,7 +294,7 @@ aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
     <string name="nfc_tip_ad2p_success">Müzik aktarıldı</string>
-    <string name="nfc_wifi_connect_title">Wifi otomatik bağlantı</string>
+    <string name="nfc_wifi_connect_title">Wi-Fi otomatik bağlantı</string>
     <string name="night">Akşam</string>
     <string name="noon">Öğlen</string>
     <string name="notice_audio_share_disconnected">Kesintili bağlantı nedeniyle artık ses paylaşılmıyor</string>
