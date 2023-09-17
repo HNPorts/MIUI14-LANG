@@ -1098,9 +1098,9 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="user_agreement_must_permission_msg">Zorunlu izinler (Bu uygulamanın temel özellikleri ve hizmetleri için kullanılır)</string>
     <string name="user_agreement_permission_summary_msg">Xiaomi hesabı Xiaomi tarafından sağlanan tüm hizmetlere erişmenizi sağlar. Bu uygulamanın internete bağlanması gerekiyor ve normal çalışabilmesi için aşağıdaki izinlere ihtiyacı var:</string>
     <string name="user_agreement_use_account_msg">Xiaomi hesabı Xiaomi tarafından sağlanan tüm hizmetlere erişmenizi sağlar</string>
-    <string name="user_agreement_wifi_permission_title">Wifi ağını açma ve kapatma</string>
+    <string name="user_agreement_wifi_permission_title">Wi-Fi ağını açma ve kapatma</string>
     <string name="user_agreement_wlan_permission_desc">Güvenlik sorunları için oturum açma ortamını kontrol etmek içindir</string>
-    <string name="user_agreement_wlan_permission_title_china">Wifi ağını açma ve kapatma</string>
+    <string name="user_agreement_wlan_permission_title_china">Wi-Fi ağını açma ve kapatma</string>
     <string name="user_avatar_update_title">Profil resmini değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_license_with_3rd_app">Mi hesabımla oturum açarak %1$s kullanıcı sözleşmesini ve %2$s Gizlilik politikasını vede Mi hesabı %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikasını okuduğumu ve kabul ettiğimi onaylıyorum</string>
