@@ -237,7 +237,7 @@ Fikrinizi değiştirirseniz hizmetlerimizi kullanmadan önce gizlilik politikas�
     <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
     <string name="add_device">Cihaz ekle</string>
     <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
-    <string name="add_wifi_desc">Giyilebilir cihazınızı wifi ağına bağlamak için %1$s için şifre girin</string>
+    <string name="add_wifi_desc">Giyilebilir cihazınızı Wi-Fi ağına bağlamak için %1$s için şifre girin</string>
     <string name="add_wifi_title">Şifre girin</string>
     <string name="afternoon">ÖS</string>
     <string name="agree">Kabul et</string>
@@ -1189,8 +1189,8 @@ Bu özelliği açmak pil ömrünü etkileyecektir. Yine de devam edilsin mi?"</s
     <string name="device_settings_guide_select_app_title">Bildirimleri seçin</string>
     <string name="device_settings_guide_sync_no_disturb_desc">Telefon ve cihaz Rahatsız Etme Modu durumunu senkronize et</string>
     <string name="device_settings_guide_sync_no_disturb_title">"Telefonla Rahatsız Etme Modu'nu senkronize et"</string>
-    <string name="device_settings_guide_sync_wlan_info">Wifi bilgilerini senkronize et</string>
-    <string name="device_settings_guide_sync_wlan_info_desc">Telefonunuzun kullandığı wifi ağı cihazla otomatik olarak paylaşılacaktır</string>
+    <string name="device_settings_guide_sync_wlan_info">Wi-Fi bilgilerini senkronize et</string>
+    <string name="device_settings_guide_sync_wlan_info_desc">Telefonunuzun kullandığı Wi-Fi ağı cihazla otomatik olarak paylaşılacaktır</string>
     <string name="device_settings_guide_system_info_sync">Sistem bilgisini senkronize et</string>
     <string name="device_settings_health_monitor">Sağlık izleme</string>
     <string name="device_settings_heart_active">Etkinlik algılama</string>
@@ -1464,8 +1464,8 @@ Bir özellikte acil durum kişi bilgisi değişiklikleri otomatik olarak diğeri
     <string name="device_settings_sync_phone_schedule">Uyku zamanı</string>
     <string name="device_settings_sync_system_schedule">Planla</string>
     <string name="device_settings_sync_system_schedule_not_set">Set your sleep schedule in Settings first.</string>
-    <string name="device_settings_sync_wifi_desc">"Senkronize ettikten sonra bu cihaz wifi'ye bağlanacaktır"</string>
-    <string name="device_settings_sync_wifi_title">Wifi bilgilerini senkronize et</string>
+    <string name="device_settings_sync_wifi_desc">"Senkronize ettikten sonra bu cihaz Wi-Fi'ye bağlanacaktır"</string>
+    <string name="device_settings_sync_wifi_title">Wi-Fi bilgilerini senkronize et</string>
     <string name="device_settings_time_invalidate">Zamanı kontrol edin</string>
     <string name="device_settings_time_to_sleep">Uyku saati</string>
     <string name="device_settings_time_to_wake_up">Uyanma saati</string>
@@ -1805,17 +1805,17 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_basal_metabolic_rate">Bazal metabolizma hızı</string>
     <string name="electronic_scale_base_function">Temel işlevler</string>
     <string name="electronic_scale_bind_device_select_wifi_hint">Bu cihaz yalnızca 2,4 GHz ağı destekler</string>
-    <string name="electronic_scale_bind_device_select_wifi_manual_input">Wifi ağını manuel olarak girin</string>
-    <string name="electronic_scale_bind_device_select_wifi_no_wifi_hint">Wifi ağı yok. Tekrar denemek için lütfen aşağıdaki düğmeye dokunun veya önceki sayfaya geri dönün ve manuel olarak girin</string>
+    <string name="electronic_scale_bind_device_select_wifi_manual_input">Wi-Fi ağını manuel olarak girin</string>
+    <string name="electronic_scale_bind_device_select_wifi_no_wifi_hint">Wi-Fi ağı yok. Tekrar denemek için lütfen aşağıdaki düğmeye dokunun veya önceki sayfaya geri dönün ve manuel olarak girin</string>
     <string name="electronic_scale_bind_device_select_wifi_ohter">Diğer ağlar</string>
     <string name="electronic_scale_bind_device_select_wifi_recommond_5g">5GHz ağ</string>
-    <string name="electronic_scale_bind_device_select_wifi_recommond_5g_hint">Sıkışık ağ ortamından kaçınmak için 5GHz wifi ağı önerilir</string>
+    <string name="electronic_scale_bind_device_select_wifi_recommond_5g_hint">Sıkışık ağ ortamından kaçınmak için 5GHz Wi-Fi ağı önerilir</string>
     <string name="electronic_scale_bind_device_select_wifi_refresh">Yeniden tara</string>
     <string name="electronic_scale_bind_gps_not_enable">Telefonunuzda GPS etkin değil. Lütfen etkinleştirin ve ardından yüksek hassasiyetli konum modunu seçin</string>
     <string name="electronic_scale_birthday">Doğum günü</string>
-    <string name="electronic_scale_bluetooth_init_identity_empty_error">Kurumsal wifi adı ve parolası boş olamaz</string>
+    <string name="electronic_scale_bluetooth_init_identity_empty_error">Kurumsal Wi-Fi adı ve parolası boş olamaz</string>
     <string name="electronic_scale_bluetooth_init_ssid_empty_error">SSID boş olamaz</string>
-    <string name="electronic_scale_bluetooth_init_ssid_length_error">Lütfen geçerli bir wifi adı girin</string>
+    <string name="electronic_scale_bluetooth_init_ssid_length_error">Lütfen geçerli bir Wi-Fi adı girin</string>
     <string name="electronic_scale_bluetooth_init_ssid_length_must_greater_than_eight">Parola en az 8 karakter uzunluğunda olmalıdır, lütfen tekrar girin.</string>
     <string name="electronic_scale_bluetooth_off">Bağlantı kesildi</string>
     <string name="electronic_scale_bmi">BMI</string>
@@ -1842,7 +1842,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_common_hint">Not</string>
     <string name="electronic_scale_common_today">Bugün</string>
     <string name="electronic_scale_common_wifi_identity">Kullanıcı adı</string>
-    <string name="electronic_scale_common_wifi_name">Wifi adı</string>
+    <string name="electronic_scale_common_wifi_name">Wi-Fi adı</string>
     <string name="electronic_scale_common_wifi_pwd">Parola</string>
     <string name="electronic_scale_common_wifi_remember_password">Şifreyi hatırla</string>
     <string name="electronic_scale_config_wifi">Ağ yapılandırması</string>
@@ -1857,7 +1857,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_config_wifi_select_target_wifi_descr">Bu cihaz yalnızca 2,4 GHz ağları destekler</string>
     <string name="electronic_scale_config_wifi_set_device_near_by_router">Cihazı yönlendiriciye yaklaştırın.</string>
     <string name="electronic_scale_config_wifi_time_out">Ağ yapılandırması zaman aşımına uğradı</string>
-    <string name="electronic_scale_config_wifi_time_out_reason">"1.Wifi parolası doğru
+    <string name="electronic_scale_config_wifi_time_out_reason">"1.Wi-Fi parolası doğru
 2.Yönlendirici internete bağlı ve sabit bir bağlantısı var
 3.Telefonunuz ağa düzgün şekilde bağlı"</string>
     <string name="electronic_scale_config_wifi_time_out_sub_title">Lütfen aşağıdaki gereksinimlerin karşılandığından emin olun:</string>
@@ -2160,9 +2160,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_ota_attention">Güncelleme için önlemler</string>
     <string name="electronic_scale_ota_attention_content">"1.Uygulamanın ön planda görüntülendiğinden emin olun
 2.Uygulamanın tartıya bağlı olduğundan emin olun
-3.Terazinin wifi ağına düzgün şekilde bağlı olduğundan emin olun
+3.Terazinin Wi-Fi ağına düzgün şekilde bağlı olduğundan emin olun
 4.Güncelleme sırasında tartıya basmayın"</string>
-    <string name="electronic_scale_ota_config_wifi">Güncellemeden önce tartı için wifi ağını yapılandırın</string>
+    <string name="electronic_scale_ota_config_wifi">Güncellemeden önce tartı için Wi-Fi ağını yapılandırın</string>
     <string name="electronic_scale_ota_fail">Firmware güncellenemedi</string>
     <string name="electronic_scale_ota_found_new_version">Sürüm</string>
     <string name="electronic_scale_ota_got_it">Tamam</string>
@@ -2228,7 +2228,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_save_success">Başarıyla kaydedildi</string>
     <string name="electronic_scale_scan_code_download_tips">Mi Fitness uygulamasını taramak ve indirmek için basılı tutun</string>
     <string name="electronic_scale_score">%d</string>
-    <string name="electronic_scale_search_wifi">Wifi ağını arayın</string>
+    <string name="electronic_scale_search_wifi">Wi-Fi ağını arayın</string>
     <string name="electronic_scale_segmental_fat_analysis">Segmental yağ analizi</string>
     <string name="electronic_scale_segmental_skeletal_muscle_analysis">Segmental yağ analizi</string>
     <string name="electronic_scale_select_date">tarih seçin</string>
@@ -2341,7 +2341,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="electronic_scale_weight_unit_metric">kg</string>
     <string name="electronic_scale_wifi_info_desc_good">Cihaz ağa düzgün şekilde bağlı.</string>
     <string name="electronic_scale_wifi_info_ip">IP adresi</string>
-    <string name="electronic_scale_wifi_info_name">Wifi adı</string>
+    <string name="electronic_scale_wifi_info_name">Wi-Fi adı</string>
     <string name="electronic_scale_wifi_info_reset">Ağı sıfırlayın</string>
     <string name="electronic_scale_wifi_info_reset_desc">Ağı sıfırlamak cihazın mevcut ağla bağlantısını kesecek. Yine de sıfırlansın mı?</string>
     <string name="electronic_scale_wifi_info_reset_failed">Sıfırlanamadı</string>
@@ -2452,7 +2452,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="face_common_upload_failure">Yüklenemedi</string>
     <string name="face_common_upload_part">Yükleme tamamlanmadı</string>
     <string name="face_common_upload_success">Başarıyla yüklendi</string>
-    <string name="face_common_wait_wlan">Wifi bağlantısı bekle</string>
+    <string name="face_common_wait_wlan">Wi-Fi bağlantısı bekle</string>
     <string name="face_custom_fun">Özel komplikasyonlar</string>
     <string name="face_customize_palette">Özel renk</string>
     <string name="face_delete_confirm">Bir bileklik ekranını bilekliğinizden kaldırmak için ana ekrana basılı tutun ve bilekliğinizde sil seçeneğine dokunun</string>
@@ -6144,7 +6144,7 @@ Record each test to help you track your physical growth curve."</string>
     <string name="sync_user_name">Kullanıcı adı</string>
     <string name="sync_weather_and_presure_notification_message">Hava durumu bilgileri ve atmosferik basınç verileri senkronize ediliyor</string>
     <string name="sync_weather_notification_message">Giyilebilir cihazınızda hava durumu verileri güncelleniyor</string>
-    <string name="sync_wifi_no_permission_desc">Wifi şifreniz giyilebilir cihazınızla paylaşılsın mı?</string>
+    <string name="sync_wifi_no_permission_desc">Wi-Fi şifreniz giyilebilir cihazınızla paylaşılsın mı?</string>
     <string name="sync_wifi_no_permission_title">Şifreyi paylaş</string>
     <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="taiwan">Tayvan</string>
@@ -6769,7 +6769,7 @@ Record each test to help you track your physical growth curve."</string>
 2. Cihazı uygulamaya bağlı tutun
 3. İşlem birkaç dakika sürebilir. Başka bir şey yapmadan önce güncelleme tamamlanana kadar bekleyin"</string>
     <string name="update_tips_title">Not:</string>
-    <string name="update_use_mobile_desc">Güncellemeler wifi olmadığında mobil veri kullanılarak otomatik indirilecektir</string>
+    <string name="update_use_mobile_desc">Güncellemeler Wi-Fi olmadığında mobil veri kullanılarak otomatik indirilecektir</string>
     <string name="update_use_mobile_title">Cihaz güncelleme paketini mobil veri kullanarak indir</string>
     <string name="update_when_idle_desc">"Yeni sürümler cihazınıza otomatik indirilecektir
 Güncellemeler seçtiğiniz boşta kalma süresi sırasında yüklenecektir"</string>
