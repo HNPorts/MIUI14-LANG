@@ -47,7 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">Kesin konumu alır (GPS ve ağ tabanlı)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Yakındaki cihazlara bağlanın</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Yakındaki cihazları keşfedin ve bunlara bağlanın</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth ve wifi aracılığıyla yakındaki cihazları keşfedin ve bunlara bağlanın</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth ve Wi-Fi aracılığıyla yakındaki cihazları keşfedin ve bunlara bağlanın</string>
     <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini alma</string>
     <string name="HIPS_Perm_PhoneID_Desc">"Telefon numarası, IMEI ve IMSI'ye erişir"</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarasına ve cihaz durumuna erişin</string>
@@ -73,8 +73,8 @@
     <string name="HIPS_Perm_UDevice_ID_DESC">Oyun deneyiminizi geliştirmelerine yardımcı olmak için cihaz bilgilerinizin bir kısmını oyun geliştiricileriyle paylaşın. Kabul ediyor musunuz?</string>
     <string name="HIPS_Perm_VideoRecorder">Kameraya eriş</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">Fotoğraf ve video çekmek için kameraya erişir</string>
-    <string name="HIPS_Perm_WIFI_Connectivity">Wifi bağlantısını değiştir</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wifi ağını açar veya kapatır</string>
+    <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi bağlantısını değiştir</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fi ağını açar veya kapatır</string>
     <string name="HIPS_Perm_add_voicemail">Ses mesajları</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Sistem ses mesajları ekler</string>
     <string name="HIPS_Perm_background_start_activity">Arka planda başlat</string>
