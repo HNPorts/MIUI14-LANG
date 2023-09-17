@@ -692,7 +692,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_detail_download_app_dialog_message_install_prefix">Yükle</string>
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Eklendi</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Güncelle</string>
-    <string name="pa_picker_detail_download_maml_dialog_cancel">Wifi ağını bekleyin</string>
+    <string name="pa_picker_detail_download_maml_dialog_cancel">Wi-Fi ağını bekleyin</string>
     <string name="pa_picker_detail_download_maml_dialog_checkbox_text">Bir daha gösterme</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">İndir</string>
     <string name="pa_picker_detail_download_maml_dialog_message">Bu aracı şimdi indirmek için %s mobil veri gerekiyor. Yine de indirilsin mi?</string>
@@ -716,7 +716,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_detail_theme_app_need_login_pre">Lütfen önce Xiaomi hesabınıza giriş yapın，</string>
     <string name="pa_picker_detail_view_more">View more</string>
     <string name="pa_picker_detail_vp2_indicator">Seçili sayfa %1$d / %2$d</string>
-    <string name="pa_picker_detail_wait_wifi_download_maml">Bu öğe wifi aracılığıyla indirilecek</string>
+    <string name="pa_picker_detail_wait_wifi_download_maml">Bu öğe Wi-Fi aracılığıyla indirilecek</string>
     <string name="pa_picker_empty">"Uygulamanın bu sürümünde araçlar mevcut değildir
 "</string>
     <string name="pa_picker_home_app_group_title">Araçlı uygulamalar</string>
