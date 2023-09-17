@@ -628,7 +628,7 @@
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">Salı</string>
-    <string name="wait_for_wlan_china">Wifi için bekleyin</string>
+    <string name="wait_for_wlan_china">Wi-Fi için bekleyin</string>
     <string name="web_sso_login_fail">Yeniden oturum açmanız gerekiyor</string>
     <string name="web_sso_login_message">Oturum açılıyor</string>
     <string name="website">İnternet sitesi</string>
