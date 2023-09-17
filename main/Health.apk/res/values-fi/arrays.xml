@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_coach_list">
+        <item>@string/about_coach_male</item>
+        <item>@string/about_coach_female</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"What's the weather?"</item>
+        <item>"How many steps I've taken?"</item>
+        <item>Find my phone.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Su</item>
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Maanantai</item>
+        <item>Tiistai</item>
+        <item>Keskiviikko</item>
+        <item>Torstai</item>
+        <item>Perjantai</item>
+        <item>Lauantai</item>
+        <item>Sunnuntai</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>M</item>
+        <item>T</item>
+        <item>K</item>
+        <item>T</item>
+        <item>P</item>
+        <item>L</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Abeba</item>
+        <item>Alger</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Kairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Sao Tome</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Caymansaaret</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominikaaninen tasavalta</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havanna</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Metlakatla</item>
+        <item>Mexico City</item>
+        <item>Monterey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Center</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>St. Kitts</item>
+        <item>Saint Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Etelänapa</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aktau</item>
+        <item>Bagdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Kolkata</item>
+        <item>Damaskos</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hongkong</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Katmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Macao</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pjongjang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riyadh</item>
+        <item>Soul</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+        <item>Taipei</item>
+        <item>Teheran</item>
+        <item>Tel Aviv</item>
+        <item>Tokio</item>
+        <item>Ulan Bator</item>
+        <item>Bermuda</item>
+        <item>Kanariansaaret</item>
+        <item>Kap Verde</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>Uusi Etelä-Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Pääsiäissaari</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Belfast</item>
+        <item>Belgrad</item>
+        <item>Berliini</item>
+        <item>Bratislava</item>
+        <item>Bryssel</item>
+        <item>Bukarest</item>
+        <item>Budapest</item>
+        <item>Chişinău</item>
+        <item>Kööpenhamina</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Mansaari</item>
+        <item>Istanbul</item>
+        <item>Lissabon</item>
+        <item>Lontoo</item>
+        <item>Luxemburg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moskova</item>
+        <item>Oslo</item>
+        <item>Pariisi</item>
+        <item>Praha</item>
+        <item>Riika</item>
+        <item>Rooma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Tukholma</item>
+        <item>Tallinna</item>
+        <item>Vatikaani</item>
+        <item>Wien</item>
+        <item>Vilna</item>
+        <item>Varsova</item>
+        <item>Zagreb</item>
+        <item>Zürich</item>
+        <item>Malediivit</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San José</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington DC.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Doha</item>
+        <item>Peking</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>Sanaa</item>
+        <item>Barcelona</item>
+        <item>München</item>
+        <item>Milano</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Kapkaupunki</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kiova</item>
+        <item>Pietari</item>
+        <item>Krakova</item>
+        <item>Wroclaw</item>
+        <item>Hampuri</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+        <item>Havaiji</item>
+        <item>Alaska</item>
+        <item>Phoenix</item>
+        <item>Kingston</item>
+        <item>Praia</item>
+        <item>Reykjavik</item>
+        <item>Geneve</item>
+        <item>Windhoek</item>
+        <item>Sofia</item>
+        <item>Ateena</item>
+        <item>Kaliningrad</item>
+        <item>Khartum</item>
+        <item>Nairobi</item>
+        <item>Aden</item>
+        <item>Antananarivo</item>
+        <item>Kuwait</item>
+        <item>Abu Dhabi</item>
+        <item>Samara</item>
+        <item>New Delhi</item>
+        <item>Novosibirsk</item>
+        <item>Taiwan</item>
+        <item>Irkutsk</item>
+        <item>Chita</item>
+        <item>Vladivostok</item>
+        <item>Magadan</item>
+        <item>Kamtšatka</item>
+        <item>Suva</item>
+        <item>Wellington</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Joka sunnuntai</item>
+        <item>Joka maanantai</item>
+        <item>Joka tiistai</item>
+        <item>Joka keskiviikko</item>
+        <item>Joka torstai</item>
+        <item>Joka perjantai</item>
+        <item>Joka lauantai</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>Norsunluurannikko</item>
+        <item>Ghana</item>
+        <item>Etiopia</item>
+        <item>Algeria</item>
+        <item>Malawi</item>
+        <item>Kongon tasavalta</item>
+        <item>Egypti</item>
+        <item>Marokko</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tansania</item>
+        <item>Djibouti</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>Etelä-Afrikka</item>
+        <item>Uganda</item>
+        <item>Ruanda</item>
+        <item>Kongon demokraattinen tasavalta</item>
+        <item>Nigeria</item>
+        <item>Lesotho</item>
+        <item>Somalia</item>
+        <item>São Tomé ja Príncipe</item>
+        <item>Mali</item>
+        <item>Libya</item>
+        <item>Tunis</item>
+        <item>Yhdysvallat</item>
+        <item>Argentiina</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Kolumbia</item>
+        <item>Argentiina</item>
+        <item>Meksiko</item>
+        <item>Venezuela</item>
+        <item>Caymansaaret</item>
+        <item>Yhdysvallat</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Kanada</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Dominikaaninen tasavalta</item>
+        <item>Kanada</item>
+        <item>El Salvador</item>
+        <item>Brasilia</item>
+        <item>Turks- ja Caicossaaret</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Kanada</item>
+        <item>Kuuba</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Jamaika</item>
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Nicaragua</item>
+        <item>Martinique</item>
+        <item>Yhdysvallat</item>
+        <item>Meksiko</item>
+        <item>Yhdysvallat</item>
+        <item>Uruguay</item>
+        <item>Kanada</item>
+        <item>Bahama</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Panama</item>
+        <item>Yhdysvallat</item>
+        <item>Trinidad ja Tobago</item>
+        <item>Haiti</item>
+        <item>Puerto Rico</item>
+        <item>Dominikaaninen tasavalta</item>
+        <item>Brasilia</item>
+        <item>Kanada</item>
+        <item>Saint Kitts ja Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Yhdysvaltain Neitsytsaaret</item>
+        <item>Meksiko</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Etelänapa</item>
+        <item>Huippuvuoret ja Jan Mayen</item>
+        <item>Kazakstan</item>
+        <item>Jordania</item>
+        <item>Venäjä</item>
+        <item>Kazakstan</item>
+        <item>Irak</item>
+        <item>Bahrain</item>
+        <item>Azerbaidžan</item>
+        <item>Thaimaa</item>
+        <item>Libanon</item>
+        <item>Intia</item>
+        <item>Syyria</item>
+        <item>Bangladesh</item>
+        <item>Yhdistyneet arabiemiirikunnat</item>
+        <item>Palestiina</item>
+        <item>Palestiina</item>
+        <item>Vietnam</item>
+        <item>Kiina</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+        <item>Afganistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malesia</item>
+        <item>Kiina</item>
+        <item>Filippiinit</item>
+        <item>Oman</item>
+        <item>Kambodža</item>
+        <item>Pohjois-Korea</item>
+        <item>Qatar</item>
+        <item>Myanmar</item>
+        <item>Saudi-Arabia</item>
+        <item>Etelä-Korea</item>
+        <item>Kiina</item>
+        <item>Singapore</item>
+        <item>Kiina</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Japani</item>
+        <item>Mongolia</item>
+        <item>Bermuda</item>
+        <item>Espanja</item>
+        <item>Kap Verde</item>
+        <item>Islanti</item>
+        <item>Falklandinsaaret</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Chile</item>
+        <item>Alankomaat</item>
+        <item>Andorra</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Serbia</item>
+        <item>Saksa</item>
+        <item>Slovakia</item>
+        <item>Belgia</item>
+        <item>Romania</item>
+        <item>Unkari</item>
+        <item>Moldova</item>
+        <item>Tanska</item>
+        <item>Irlanti</item>
+        <item>Gibraltar</item>
+        <item>Suomi</item>
+        <item>Mansaari</item>
+        <item>Turkki</item>
+        <item>Portugali</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Luxemburg</item>
+        <item>Espanja</item>
+        <item>Malta</item>
+        <item>Valko-Venäjä</item>
+        <item>Monaco</item>
+        <item>Venäjä</item>
+        <item>Norja</item>
+        <item>Ranska</item>
+        <item>Tšekki</item>
+        <item>Latvia</item>
+        <item>Italia</item>
+        <item>San Marino</item>
+        <item>Bosnia ja Hertsegovina</item>
+        <item>Ukraina</item>
+        <item>Pohjois-Makedonia</item>
+        <item>Bulgaria</item>
+        <item>Ruotsi</item>
+        <item>Viro</item>
+        <item>Vatikaani</item>
+        <item>Itävalta</item>
+        <item>Liettua</item>
+        <item>Puola</item>
+        <item>Kroatia</item>
+        <item>Sveitsi</item>
+        <item>Malediivit</item>
+        <item>Mauritius</item>
+        <item>Uusi-Seelanti</item>
+        <item>Fidži</item>
+        <item>Guam</item>
+        <item>Yhdysvallat</item>
+        <item>Australia</item>
+        <item>Uusi-Kaledonia</item>
+        <item>Samoa</item>
+        <item>Ranskan Polynesia</item>
+        <item>Antigua ja Barbuda</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kanada</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kanada</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>El Salvador</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Qatar</item>
+        <item>Kiina</item>
+        <item>Intia</item>
+        <item>Intia</item>
+        <item>Japani</item>
+        <item>Pakistan</item>
+        <item>Jemen</item>
+        <item>Espanja</item>
+        <item>Saksa</item>
+        <item>Italia</item>
+        <item>Saksa</item>
+        <item>Vietnam</item>
+        <item>Turkki</item>
+        <item>Intia</item>
+        <item>Brasilia</item>
+        <item>Etelä-Afrikka</item>
+        <item>Pakistan</item>
+        <item>Brasilia</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kiina</item>
+        <item>Intia</item>
+        <item>Yhdysvallat</item>
+        <item>Brasilia</item>
+        <item>Yhdysvallat</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>Meksiko</item>
+        <item>Intia</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Ukraina</item>
+        <item>Venäjä</item>
+        <item>Puola</item>
+        <item>Puola</item>
+        <item>Saksa</item>
+        <item>Suomi</item>
+        <item>Israel</item>
+        <item>Puerto Rico</item>
+        <item>Honduras</item>
+        <item>Suriname</item>
+        <item>Ecuador</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kanada</item>
+        <item>Kap Verde</item>
+        <item>Islanti</item>
+        <item>Sveitsi</item>
+        <item>Namibia</item>
+        <item>Bulgaria</item>
+        <item>Kreikka</item>
+        <item>Venäjä</item>
+        <item>Sudan</item>
+        <item>Kenia</item>
+        <item>Jemen</item>
+        <item>Madagaskar</item>
+        <item>Kuwait</item>
+        <item>Yhdistyneet arabiemiirikunnat</item>
+        <item>Venäjä</item>
+        <item>Intia</item>
+        <item>Venäjä</item>
+        <item>Kiina</item>
+        <item>Venäjä</item>
+        <item>Venäjä</item>
+        <item>Venäjä</item>
+        <item>Venäjä</item>
+        <item>Venäjä</item>
+        <item>Fidži</item>
+        <item>Uusi-Seelanti</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Syke</item>
+        <item>Stressi</item>
+        <item>Uni</item>
+        <item>Energia</item>
+        <item>Askeleet</item>
+        <item>Kalorit</item>
+        <item>Seisominen</item>
+        <item>Akku</item>
+        <item>Päivämäärä</item>
+        <item>Sää</item>
+        <item>Ilmanpaine</item>
+        <item>Korkeus</item>
+        <item>Ajastin</item>
+        <item>Hälytys</item>
+        <item>AQI</item>
+        <item>Ilmankosteus</item>
+        <item>Treeni</item>
+        <item>UV-indeksi</item>
+        <item>Auringonnousu ja -lasku</item>
+        <item>Tuuli</item>
+    </string-array>
+    <string-array name="device_settings_remind_count_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="device_settings_remind_every_week_array">
+        <item>Joka maanantai</item>
+        <item>Joka tiistai</item>
+        <item>Joka keskiviikko</item>
+        <item>Joka torstai</item>
+        <item>Joka perjantai</item>
+        <item>Joka lauantai</item>
+        <item>Joka sunnuntai</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Kertaluonteinen tapahtuma</item>
+        <item>Päivittäin</item>
+        <item>Viikoittain</item>
+        <item>Kuukausittain</item>
+        <item>Vuosittain</item>
+        <item>Mukautettu</item>
+    </string-array>
+    <string-array name="device_settings_screen_wake_sates">
+        <item>@string/device_settings_wrist_bright_day_all</item>
+        <item>@string/device_settings_wrist_bright_custom_time</item>
+        <item>@string/device_settings_wrist_bright_close</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Erittäin lähellä</item>
+        <item>Lähellä</item>
+        <item>Ei kovin lähellä</item>
+    </string-array>
+    <string-array name="device_settings_vibrate_mode_type_array">
+        <item>@string/device_settings_incoming_call</item>
+        <item>@string/device_settings_event_remind</item>
+        <item>@string/device_settings_alarm</item>
+        <item>@string/device_settings_app_notify</item>
+        <item>@string/device_settings_long_sit</item>
+        <item>@string/device_settings_sms</item>
+        <item>@string/device_settings_sport_reach_goal</item>
+        <item>@string/device_settings_vibrate_schedule</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Syke</item>
+        <item>Stressi</item>
+        <item>Uni</item>
+        <item>Energia</item>
+        <item>Askeleet</item>
+        <item>Kalorit</item>
+        <item>Seisominen</item>
+        <item>Akku</item>
+        <item>Päivämäärä</item>
+        <item>Sää</item>
+        <item>Ilmanpaine</item>
+        <item>Korkeus</item>
+        <item>Ajastin</item>
+        <item>Hälytys</item>
+        <item>AQI</item>
+        <item>Ilmankosteus</item>
+        <item>Treeni</item>
+        <item>UV-indeksi</item>
+        <item>Auringonnousu ja -lasku</item>
+        <item>Tuuli</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>ma, ke, pe</item>
+        <item>ti, to, su</item>
+        <item>ke, pe, su</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
+        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
+        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
+        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Track your sleep</item>
+        <item>Place your phone next to your pillow</item>
+        <item>Generate stats automatically</item>
+        <item>Low power consumption</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Torkkumalla korkeintaan 30 minuuttia voit nukahtaa paremmin.</item>
+        <item>Hyvä unihygienia voi auttaa sinua tuntemaan olosi paremmaksi.</item>
+        <item>10-20 minuutin torkut voivat auttaa sinua virkistymään.</item>
+        <item>Torkut ennen kello 13.30 voivat virkistää mieltä.</item>
+        <item>Torkut antavat energiaa ja parantavat suorituskykyä.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Melkoisesti. Useimmat aikuiset tarvitsevat 7-9 tuntia unta.</item>
+        <item>Melkoisesti. Ylläpidä säännöllistä uniaikataulua.</item>
+        <item>"Tämän verran unta joka päivä on terve tapa. "</item>
+        <item>Lyhyt uni. Useimmat aikuiset tarvitsevat 7-9 tuntia unta.</item>
+        <item>Tavallista suurempi määrä. Useimmat aikuiset tarvitsevat 7-9 tuntia unta.</item>
+        <item>Hyvä määrä syvää unta. Palautuminen ja muistin parantaminen.</item>
+        <item>Hyvä määrä syvää unta. Palauttavaa ja immuniteettia tehostavaa.</item>
+        <item>Tavallista suurempi määrä syvää unta. Pidä silmällä terveyttäsi.</item>
+        <item>Jonkin verran syvää unta. Kokeile liikuntaa, mutta ei ennen nukkumaanmenoa.</item>
+        <item>Jonkin verran syvää unta. Rentouta mielesi, rauhoitu uneen.</item>
+        <item>Jonkin verran syvää unta. Vältä piristeitä iltaisin.</item>
+        <item>Ota nukkumaanmenoajaksi kello 22-23</item>
+        <item>Myöhäinen nukkumaanmenoaika. Määritä säännöllinen unirytmi.</item>
+        <item>Myöhäinen nukkumaanmenoaika. Ylläpidä säännöllistä uniaikataulua.</item>
+        <item>Myöhäisellä nukkumaanmenolla voi olla terveysvaikutuksia.</item>
+        <item>Tavallista suurempi hereilläoloaika. Pidä makuuhuone pimeänä ja hiljaisena.</item>
+        <item>Joitakin heräämisiä. Pidä makuuhuone hiljaisena.</item>
+        <item>Jonkin verran heräämisiä. Pidä makuuhuone pimeänä ja hiljaisena.</item>
+        <item>Hyvä määrä REM-unta. Se tehostaa luovuutta ja ongelmanratkaisukykyä.</item>
+        <item>Hyvä määrä REM-unta. Levollinen ja rentoutunut.</item>
+        <item>Jonkin verran REM-unta. Kokeile liikuntaa, mutta ei välittömästi ennen nukkumaanmenoa.</item>
+        <item>Jonkin verran REM-unta. Riittävä uni voi auttaa.</item>
+        <item>Tavallista suurempi määrä REM-unta. Aseta huolesi sivuun ennen nukkumaanmenoa.</item>
+        <item>Tavallista suurempi määrä REM-unta. Ylläpidä säännöllistä uniaikataulua.</item>
+        <item>Hyvä määrä kevyttä unta. Levollista ja luovuutta tehostavaa.</item>
+        <item>Hyvä määrä kevyttä unta. Palauttavaa ja stressiä lievittävää.</item>
+        <item>Tavallista suurempi määrä kevyttä unta. Rentoudu ja rauhoitu ennen nukkumaanmenoa.</item>
+        <item>Jos haluat olla energinen aamulla, menen nukkumaan ennen keskiyötä.</item>
+        <item>Jos haluat olla energinen aamulla, menen nukkumaan ennen keskiyötä.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Hyvä määrä unta ja säännölliset nukkumaanmenoajat. Jatka samaan tahtiin.</item>
+        <item>Hyvä määrä unta, mutta hieman epäsäännöllinen nukkumaanmenoaika. Ylläpidä säännöllisiä nukkumaanmenoaikoja.</item>
+        <item>Hyvä määrä unta, mutta epäsäännöllinen nukkumaanmenoaika. Määritä aikataulu ja pitäydy siinä.</item>
+        <item>Kohtuullinen määrä unta, mutta epäsäännöllinen nukkumaanmenoaika. Vältä piristeitä illalla.</item>
+        <item>Kohtuullinen määrä unta, mutta hieman epäsäännöllinen nukkumaanmenoaika. Rentoudu ja rauhoitu ennen nukkumaanmenoa.</item>
+        <item>Kohtuullinen määrä unta, mutta epäsäännöllinen nukkumaanmenoaika. Pidä makuuhuone pimeänä ja hiljaisena.</item>
+        <item>Tavallista suurempi määrä unta ja säännölliset nukkumaanmenoajat. Hyvä unihygienia voi auttaa sinua tuntemaan olosi paremmaksi.</item>
+        <item>Tavallista suurempi määrä unta, mutta hieman epäsäännölliset nukkumaanmenoajat. Jos olet tokkurainen, muuta nukkumisaikoja.</item>
+        <item>Tavallista suurempi määrä unta, mutta epäsäännölliset nukkumaanmenoajat. Ylläpidä säännöllisiä nukkumaanmenoaikoja.</item>
+        <item>Katkonaista unta. Määritä aikataulu ja pitäydy siinä.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Ei tietoja</item>
+        <item>Ei huono</item>
+        <item>Kohtalainen</item>
+        <item>Hyvä</item>
+        <item>Erinomainen</item>
+        <item>Ei yötietoja</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Hyvä määrä unta ja säännölliset nukkumaanmenoajat. Jatka samaan tahtiin.</item>
+        <item>Hyvä määrä unta, mutta hieman epäsäännöllinen nukkumaanmenoaika. Ylläpidä säännöllisiä nukkumaanmenoaikoja.</item>
+        <item>Hyvä määrä unta, mutta epäsäännöllinen nukkumaanmenoaika. Määritä aikataulu ja pitäydy siinä.</item>
+        <item>Kohtuullinen määrä unta, mutta epäsäännöllinen nukkumaanmenoaika. Vältä piristeitä illalla.</item>
+        <item>Kohtuullinen määrä unta, mutta hieman epäsäännöllinen nukkumaanmenoaika. Rentoudu ja rauhoitu ennen nukkumaanmenoa.</item>
+        <item>Kohtuullinen määrä unta, mutta epäsäännöllinen nukkumaanmenoaika. Pidä makuuhuone pimeänä ja hiljaisena.</item>
+        <item>Tavallista suurempi määrä unta ja säännölliset nukkumaanmenoajat. Hyvä unihygienia voi auttaa sinua tuntemaan olosi paremmaksi.</item>
+        <item>Tavallista suurempi määrä unta, mutta hieman epäsäännölliset nukkumaanmenoajat. Jos olet tokkurainen, muuta nukkumisaikoja.</item>
+        <item>Tavallista suurempi määrä unta, mutta epäsäännölliset nukkumaanmenoajat. Ylläpidä säännöllisiä nukkumaanmenoaikoja.</item>
+        <item>Katkonaista unta. Määritä aikataulu ja pitäydy siinä.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
+        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
+        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Record audio using microphone</item>
+        <item>Detect sounds automatically</item>
+        <item>Keep your phone charged</item>
+    </string-array>
+    <string-array name="relative_care_system_recommendation_identity_label">
+        <item>Isä</item>
+        <item>Äiti</item>
+        <item>Appiukko</item>
+        <item>Anoppi</item>
+        <item>Isänisä</item>
+        <item>Isänäiti</item>
+        <item>Äidinisä</item>
+        <item>Äidinäiti</item>
+        <item>Poika</item>
+        <item>Tytär</item>
+        <item>Pikkusisko</item>
+        <item>Isosisko</item>
+        <item>Pikkuveli</item>
+        <item>Isoveli</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>M</item>
+        <item>T</item>
+        <item>K</item>
+        <item>T</item>
+        <item>P</item>
+        <item>L</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Ma</item>
+        <item>Ti</item>
+        <item>Ke</item>
+        <item>To</item>
+        <item>Pe</item>
+        <item>La</item>
+        <item>Su</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>cm</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Ei asetettu</item>
+        <item>Vanhempi</item>
+        <item>Sisko</item>
+        <item>Veli</item>
+        <item>Puoliso</item>
+        <item>Kumppani</item>
+        <item>Kaveri</item>
+        <item>Kollega</item>
+        <item>Luokkakaveri</item>
+        <item>Lapsi</item>
+        <item>Kumppani</item>
+        <item>Avustaja</item>
+        <item>Esihenkilö</item>
+        <item>Huonetoveri</item>
+        <item>Lääkäri</item>
+        <item>Perheenjäsen</item>
+        <item>Opettaja</item>
+        <item>Hoitaja</item>
+        <item>Huoltaja</item>
+        <item>Sosiaalityöntekijä</item>
+        <item>Koulu</item>
+        <item>Päiväkoti</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="userinfo_emergency_contact_way_of_adding">
+        <item>Ei asetettu</item>
+        <item>Lisää</item>
+        <item>Valitse yhteystiedoista</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Ei asetettu</item>
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Ei asetettu</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Ei asetettu</item>
+        <item>Negatiivinen</item>
+        <item>Positiivinen</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>kg</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Ei asetettu</item>
+        <item>Kyllä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>K</item>
+        <item>T</item>
+        <item>P</item>
+        <item>L</item>
+    </string-array>
+</resources>

@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_coach_list">
+        <item>@string/about_coach_male</item>
+        <item>@string/about_coach_female</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mann</item>
+        <item>Kvinne</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"What's the weather?"</item>
+        <item>"How many steps I've taken?"</item>
+        <item>Find my phone.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Sø.</item>
+        <item>Ma.</item>
+        <item>Ti.</item>
+        <item>On.</item>
+        <item>To.</item>
+        <item>Fr.</item>
+        <item>Lø.</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+        <item>Søndag</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>M</item>
+        <item>T</item>
+        <item>O</item>
+        <item>T</item>
+        <item>F</item>
+        <item>L</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>Ma.</item>
+        <item>Ti.</item>
+        <item>On.</item>
+        <item>To.</item>
+        <item>Fr.</item>
+        <item>Lø.</item>
+        <item>Sø.</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Abeba</item>
+        <item>Alger</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Kairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Sao Tome</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Cayman Islands</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Den dominikanske republikk</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Metlakatla</item>
+        <item>Mexico by</item>
+        <item>Monterey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Center</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>"St. John's"</item>
+        <item>St. Kitts</item>
+        <item>Saint Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Sydpolen</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aktau</item>
+        <item>Bagdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Kolkata</item>
+        <item>Damaskus</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hongkong</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Macao</item>
+        <item>Manila</item>
+        <item>Muskat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riyadh</item>
+        <item>Seoul</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+        <item>Taipei</item>
+        <item>Teheran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermuda</item>
+        <item>Kanariøyene</item>
+        <item>Kapp Verde</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Påskeøya</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Belfast</item>
+        <item>Beograd</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brussel</item>
+        <item>București</item>
+        <item>Budapest</item>
+        <item>Chișinău</item>
+        <item>København</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Isle of Man</item>
+        <item>Istanbul</item>
+        <item>Lisboa</item>
+        <item>London</item>
+        <item>Luxembourg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moskva</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Praha</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Stockholm</item>
+        <item>Tallinn</item>
+        <item>Vatikanstaten</item>
+        <item>Wien</item>
+        <item>Vilnius</item>
+        <item>Warsawa</item>
+        <item>Zagreb</item>
+        <item>Zurich</item>
+        <item>Maldivene</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Nouméa</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San José</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Doha</item>
+        <item>Beijing</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>Sanaá</item>
+        <item>Barcelona</item>
+        <item>München</item>
+        <item>Milano</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kiev</item>
+        <item>St. Petersburg</item>
+        <item>Kraków</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Phoenix</item>
+        <item>Kingston</item>
+        <item>Praia</item>
+        <item>Reykjavik</item>
+        <item>Genève</item>
+        <item>Windhoek</item>
+        <item>Sofia</item>
+        <item>Athen</item>
+        <item>Kaliningrad</item>
+        <item>Khartoum</item>
+        <item>Nairobi</item>
+        <item>Aden</item>
+        <item>Antananarivo</item>
+        <item>Kuwait</item>
+        <item>Abu Dhabi</item>
+        <item>Samara</item>
+        <item>New Delhi</item>
+        <item>Novosibirsk</item>
+        <item>Taiwan</item>
+        <item>Irkutsk</item>
+        <item>Chita</item>
+        <item>Vladivostok</item>
+        <item>Magadan</item>
+        <item>Kamchatka</item>
+        <item>Suva</item>
+        <item>Wellington</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Hver søndag</item>
+        <item>Hver mandag</item>
+        <item>Hver tirsdag</item>
+        <item>Hver onsdag</item>
+        <item>Hver torsdag</item>
+        <item>Hver fredag</item>
+        <item>Hver lørdag</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>Elfenbenskysten</item>
+        <item>Ghana</item>
+        <item>Etiopia</item>
+        <item>Algerie</item>
+        <item>Malawi</item>
+        <item>Kongo</item>
+        <item>Egypt</item>
+        <item>Marokko</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzania</item>
+        <item>Djibouti</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>Sør-Afrika</item>
+        <item>Uganda</item>
+        <item>Rwanda</item>
+        <item>Den demokratiske republikken Kongo</item>
+        <item>Nigeria</item>
+        <item>Lesotho</item>
+        <item>Somalia</item>
+        <item>São Tomé og Príncipe</item>
+        <item>Mali</item>
+        <item>Libya</item>
+        <item>Tunis</item>
+        <item>USA</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Colombia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Venezuela</item>
+        <item>Cayman Islands</item>
+        <item>USA</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Canada</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Den dominikanske republikk</item>
+        <item>Canada</item>
+        <item>El Salvador</item>
+        <item>Brasil</item>
+        <item>Turks- og Caicosøyene</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Canada</item>
+        <item>Cuba</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Jamaica</item>
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Nicaragua</item>
+        <item>Martinique</item>
+        <item>USA</item>
+        <item>Mexico</item>
+        <item>USA</item>
+        <item>Uruguay</item>
+        <item>Canada</item>
+        <item>Bahamas</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Panama</item>
+        <item>USA</item>
+        <item>Trinidad og Tobago</item>
+        <item>Haiti</item>
+        <item>Puerto Rico</item>
+        <item>Den dominikanske republikk</item>
+        <item>Brasil</item>
+        <item>Canada</item>
+        <item>Saint Kitts og Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Jomfruøyene</item>
+        <item>Mexico</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Sydpolen</item>
+        <item>Svalbard og Jan Mayen</item>
+        <item>Kasakhstan</item>
+        <item>Jordan</item>
+        <item>Russland</item>
+        <item>Kasakhstan</item>
+        <item>Irak</item>
+        <item>Bahrain</item>
+        <item>Aserbajdsjan</item>
+        <item>Thailand</item>
+        <item>Libanon</item>
+        <item>India</item>
+        <item>Syria</item>
+        <item>Bangladesh</item>
+        <item>De forente arabiske emirater</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
+        <item>Vietnam</item>
+        <item>Kina</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+        <item>Afghanistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malaysia</item>
+        <item>Kina</item>
+        <item>Filippinene</item>
+        <item>Oman</item>
+        <item>Kambodsja</item>
+        <item>Nord-Korea</item>
+        <item>Qatar</item>
+        <item>Myanmar</item>
+        <item>Saudi-Arabia</item>
+        <item>Sør-Korea</item>
+        <item>Kina</item>
+        <item>Singapore</item>
+        <item>Kina</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Japan</item>
+        <item>Mongolia</item>
+        <item>Bermuda</item>
+        <item>Spania</item>
+        <item>Kapp Verde</item>
+        <item>Island</item>
+        <item>Falklandsøyene</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>Nederland</item>
+        <item>Andorra</item>
+        <item>Storbritannia</item>
+        <item>Serbia</item>
+        <item>Tyskland</item>
+        <item>Slovakia</item>
+        <item>Belgia</item>
+        <item>Romania</item>
+        <item>Ungarn</item>
+        <item>Moldova</item>
+        <item>Danmark</item>
+        <item>Irland</item>
+        <item>Gibraltar</item>
+        <item>Finland</item>
+        <item>Isle of Man</item>
+        <item>Tyrkia</item>
+        <item>Portugal</item>
+        <item>Storbritannia</item>
+        <item>Luxembourg</item>
+        <item>Spania</item>
+        <item>Malta</item>
+        <item>Hviterussland</item>
+        <item>Monaco</item>
+        <item>Russland</item>
+        <item>Norge</item>
+        <item>Frankrike</item>
+        <item>Tsjekkia</item>
+        <item>Latvia</item>
+        <item>Italia</item>
+        <item>San Marino</item>
+        <item>Bosnia-Hercegovina</item>
+        <item>Ukraina</item>
+        <item>Nord-Makedonia</item>
+        <item>Bulgaria</item>
+        <item>Sverige</item>
+        <item>Estland</item>
+        <item>Vatikanstaten</item>
+        <item>Østerrike</item>
+        <item>Litauen</item>
+        <item>Polen</item>
+        <item>Kroatia</item>
+        <item>Sveits</item>
+        <item>Maldivene</item>
+        <item>Mauritius</item>
+        <item>New Zealand</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>USA</item>
+        <item>Australia</item>
+        <item>Ny-Caledonia</item>
+        <item>Samoa</item>
+        <item>Fransk Polynesia</item>
+        <item>Antigua og Barbuda</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>El Salvador</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Qatar</item>
+        <item>Kina</item>
+        <item>India</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Pakistan</item>
+        <item>Jemen</item>
+        <item>Spania</item>
+        <item>Tyskland</item>
+        <item>Italia</item>
+        <item>Tyskland</item>
+        <item>Vietnam</item>
+        <item>Tyrkia</item>
+        <item>India</item>
+        <item>Brasil</item>
+        <item>Sør-Afrika</item>
+        <item>Pakistan</item>
+        <item>Brasil</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Storbritannia</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Kina</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>Brasil</item>
+        <item>USA</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>Mexico</item>
+        <item>India</item>
+        <item>Storbritannia</item>
+        <item>Ukraina</item>
+        <item>Russland</item>
+        <item>Polen</item>
+        <item>Polen</item>
+        <item>Tyskland</item>
+        <item>Finland</item>
+        <item>Israel</item>
+        <item>Puerto Rico</item>
+        <item>Honduras</item>
+        <item>Surinam</item>
+        <item>Ecuador</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Kapp Verde</item>
+        <item>Island</item>
+        <item>Sveits</item>
+        <item>Namibia</item>
+        <item>Bulgaria</item>
+        <item>Hellas</item>
+        <item>Russland</item>
+        <item>Sudan</item>
+        <item>Kenya</item>
+        <item>Jemen</item>
+        <item>Madagaskar</item>
+        <item>Kuwait</item>
+        <item>De forente arabiske emirater</item>
+        <item>Russland</item>
+        <item>India</item>
+        <item>Russland</item>
+        <item>Kina</item>
+        <item>Russland</item>
+        <item>Russland</item>
+        <item>Russland</item>
+        <item>Russland</item>
+        <item>Russland</item>
+        <item>Fiji</item>
+        <item>New Zealand</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Ma.</item>
+        <item>Ti.</item>
+        <item>On.</item>
+        <item>To.</item>
+        <item>Fr.</item>
+        <item>Lø.</item>
+        <item>Sø.</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Ma.</item>
+        <item>Ti.</item>
+        <item>On.</item>
+        <item>To.</item>
+        <item>Fr.</item>
+        <item>Lø.</item>
+        <item>Sø.</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Puls</item>
+        <item>Stress</item>
+        <item>Søvn</item>
+        <item>Energi</item>
+        <item>Skritt</item>
+        <item>Kalorier</item>
+        <item>Stående</item>
+        <item>Batteri</item>
+        <item>Dato</item>
+        <item>Vær</item>
+        <item>Lufttrykk</item>
+        <item>Høyde</item>
+        <item>Tidtaker</item>
+        <item>Alarm</item>
+        <item>AQI</item>
+        <item>Luftfuktighet</item>
+        <item>Treningsøkt</item>
+        <item>UV-indeks</item>
+        <item>Soloppgang &amp; solnedgang</item>
+        <item>Vind</item>
+    </string-array>
+    <string-array name="device_settings_remind_count_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="device_settings_remind_every_week_array">
+        <item>Hver mandag</item>
+        <item>Hver tirsdag</item>
+        <item>Hver onsdag</item>
+        <item>Hver torsdag</item>
+        <item>Hver fredag</item>
+        <item>Hver lørdag</item>
+        <item>Hver søndag</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Engangshendelse</item>
+        <item>Daglig</item>
+        <item>Ukentlig</item>
+        <item>Månedlig</item>
+        <item>Årlig</item>
+        <item>Egendefinert</item>
+    </string-array>
+    <string-array name="device_settings_screen_wake_sates">
+        <item>@string/device_settings_wrist_bright_day_all</item>
+        <item>@string/device_settings_wrist_bright_custom_time</item>
+        <item>@string/device_settings_wrist_bright_close</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Veldig nærme</item>
+        <item>Lukk</item>
+        <item>Mindre nærme</item>
+    </string-array>
+    <string-array name="device_settings_vibrate_mode_type_array">
+        <item>@string/device_settings_incoming_call</item>
+        <item>@string/device_settings_event_remind</item>
+        <item>@string/device_settings_alarm</item>
+        <item>@string/device_settings_app_notify</item>
+        <item>@string/device_settings_long_sit</item>
+        <item>@string/device_settings_sms</item>
+        <item>@string/device_settings_sport_reach_goal</item>
+        <item>@string/device_settings_vibrate_schedule</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Puls</item>
+        <item>Stress</item>
+        <item>Søvn</item>
+        <item>Energi</item>
+        <item>Skritt</item>
+        <item>Kalorier</item>
+        <item>Stående</item>
+        <item>Batteri</item>
+        <item>Dato</item>
+        <item>Vær</item>
+        <item>Lufttrykk</item>
+        <item>Høyde</item>
+        <item>Tidtaker</item>
+        <item>Alarm</item>
+        <item>AQI</item>
+        <item>Luftfuktighet</item>
+        <item>Treningsøkt</item>
+        <item>UV-indeks</item>
+        <item>Soloppgang &amp; solnedgang</item>
+        <item>Vind</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Man, ons, fre</item>
+        <item>Tir, tor, lør</item>
+        <item>Ons, fre, søn</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Ma.</item>
+        <item>Ti.</item>
+        <item>On.</item>
+        <item>To.</item>
+        <item>Fr.</item>
+        <item>Lø.</item>
+        <item>Sø.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
+        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
+        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
+        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Track your sleep</item>
+        <item>Place your phone next to your pillow</item>
+        <item>Generate stats automatically</item>
+        <item>Low power consumption</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Å begrense luren til 30 minutter hjelper deg med å falle i søvn raskere.</item>
+        <item>God søvnhygiene kan hjelp deg til å føle deg bedre.</item>
+        <item>Når du tar en blund i 10–20 minutter, kan du føle deg friskere.</item>
+        <item>Hvis du tar en blund før kl. 13.30, kan du føle deg friskere.</item>
+        <item>En blund øker energien og ytelsen.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>En grei mengde. De fleste voksne trenger mellom sju og ni timer søvn.</item>
+        <item>En grei mengde. Hold deg til en regelmessig døgnrytme.</item>
+        <item>"Det er sunt å få så mye søvn hver dag. "</item>
+        <item>Kort søvn. De fleste voksne trenger mellom sju og ni timer søvn.</item>
+        <item>Høyere enn gjennomsnittet. De fleste voksne trenger mellom sju og ni timer søvn.</item>
+        <item>En god mengde dyp søvn. Gir restitusjon og økt hukommelse.</item>
+        <item>En god mengde dyp søvn. Gir restitusjon og økt immunitet.</item>
+        <item>Høyere enn gjennomsnittlig mengde dyp søvn. Følg med på helsen din.</item>
+        <item>Litt dyp søvn. Prøv å trene, men ikke før sengetid.</item>
+        <item>Litt dyp søvn. Slapp av i sinnet når du faller i søvn.</item>
+        <item>Litt dyp søvn. Unngå stimulerende midler om kvelden.</item>
+        <item>Endre sengetiden fra kl. 22 til 23.</item>
+        <item>Sent i seng. Sett opp en regelmessig plan for sengetid.</item>
+        <item>Sent i seng. Hold deg til en regelmessig døgnrytme.</item>
+        <item>Å ha en tendens til å være en nattugle kan påvirke helsen.</item>
+        <item>Høyere enn gjennomsnittlig våkentid. Hold soverommet mørkt og stille.</item>
+        <item>Få oppvåkninger. Hold soverommet stille.</item>
+        <item>Noen få oppvåkninger. Hold soverommet mørkt og stille.</item>
+        <item>En god mengde REM-søvn. Kreativiteten og problemløsningsevnene dine er økt.</item>
+        <item>En god mengde REM-søvn. Fredfullt og avslappende.</item>
+        <item>Litt REM-søvn. Prøv å trene, men ikke før stengetid.</item>
+        <item>Litt REM-søvn. Det kan hjelpe å få nok søvn.</item>
+        <item>Høyere enn gjennomsnittlig mengde REM-søvn. Legg til side bekymringer før sengetid.</item>
+        <item>Høyere enn gjennomsnittlig mengde REM-søvn. Hold deg til en god døgnrytme.</item>
+        <item>God mengde lett søvn. Avslappende og kreativitetsfremmende.</item>
+        <item>God mengde lett søvn. Restituerende og stressreduserende.</item>
+        <item>Høyere enn gjennomsnittlig mengde lett søvn. Ro ned og slapp av før sengetid.</item>
+        <item>For å få energi på morgenen må du legge deg før midnatt</item>
+        <item>For å få energi på morgenen må du legge deg før midnatt</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>God mengde søvn og en god rutine for leggetid. Fortsett slik.</item>
+        <item>God mengde søvn, men litt uregelmessig leggetid. Hold deg til en god døgnrytme.</item>
+        <item>God mengde søvn, men uregelmessig leggetid. Sett en tidsplan og hold deg til den.</item>
+        <item>God mengde søvn og en god rutine for leggetid. Unngå stimulerende midler om kvelden.</item>
+        <item>God mengde søvn, men litt uregelmessig leggetid. Ro ned og slapp av før sengetid.</item>
+        <item>God mengde søvn, men uregelmessig leggetid. Hold soverommet mørkt og stille.</item>
+        <item>Høyere enn gjennomsnittlig søvnmengde og regelmessig rutine for leggetid. God søvnhygiene kan hjelpe deg til å føle deg bedre.</item>
+        <item>Høyere enn gjennomsnittlig søvnmengde, men litt uregelmessig rutine for leggetid. Hvis du føler deg omtåket, kan du justere søvntiden.</item>
+        <item>Høyere enn gjennomsnittlig søvnmengde, men litt uregelmessig rutine for leggetid. Hold deg til en god døgnrytme.</item>
+        <item>Ustadig søvn. Sett en tidsplan og hold deg til den.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Ingen data</item>
+        <item>Ikke dårlig</item>
+        <item>Moderat</item>
+        <item>God</item>
+        <item>Utmerket</item>
+        <item>Ingen data for natten</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>God mengde søvn og en god rutine for leggetid. Fortsett slik.</item>
+        <item>God mengde søvn, men litt uregelmessig leggetid. Hold deg til en god døgnrytme.</item>
+        <item>God mengde søvn, men uregelmessig leggetid. Sett en tidsplan og hold deg til den.</item>
+        <item>God mengde søvn og en god rutine for leggetid. Unngå stimulerende midler om kvelden.</item>
+        <item>God mengde søvn, men litt uregelmessig leggetid. Ro ned og slapp av før sengetid.</item>
+        <item>God mengde søvn, men uregelmessig leggetid. Hold soverommet mørkt og stille.</item>
+        <item>Høyere enn gjennomsnittlig søvnmengde og regelmessig rutine for leggetid. God søvnhygiene kan hjelpe deg til å føle deg bedre.</item>
+        <item>Høyere enn gjennomsnittlig søvnmengde, men litt uregelmessig rutine for leggetid. Hvis du føler deg omtåket, kan du justere søvntiden.</item>
+        <item>Høyere enn gjennomsnittlig mengde, men litt uregelmessig rutine for leggetid. Hold deg til en god døgnrytme.</item>
+        <item>Ustadig søvn. Sett en tidsplan og hold deg til den.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
+        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
+        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Record audio using microphone</item>
+        <item>Detect sounds automatically</item>
+        <item>Keep your phone charged</item>
+    </string-array>
+    <string-array name="relative_care_system_recommendation_identity_label">
+        <item>Far</item>
+        <item>Mor</item>
+        <item>Svigerfar</item>
+        <item>Svigermor</item>
+        <item>Farfar</item>
+        <item>Farmor</item>
+        <item>Morfar</item>
+        <item>Mormor</item>
+        <item>Sønn</item>
+        <item>Datter</item>
+        <item>Yngre søster</item>
+        <item>Eldre søster</item>
+        <item>Yngre bror</item>
+        <item>Eldre bror</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+        <item>Søn</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>M</item>
+        <item>T</item>
+        <item>O</item>
+        <item>T</item>
+        <item>F</item>
+        <item>L</item>
+        <item>S</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Man</item>
+        <item>Ti.</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+        <item>Søn</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>cm</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Ikke angitt</item>
+        <item>Forelder</item>
+        <item>Søster</item>
+        <item>Bror</item>
+        <item>Ektefelle</item>
+        <item>Partner</item>
+        <item>Venn</item>
+        <item>Kollega</item>
+        <item>Klassekamerat</item>
+        <item>Barn</item>
+        <item>Partner</item>
+        <item>Assistent</item>
+        <item>Sjef</item>
+        <item>Romkamerat</item>
+        <item>Lege</item>
+        <item>Familiemedlem</item>
+        <item>Lærer</item>
+        <item>Pleier</item>
+        <item>Verge</item>
+        <item>Sosialarbeider</item>
+        <item>Skole</item>
+        <item>Barnehage</item>
+        <item>Annet</item>
+    </string-array>
+    <string-array name="userinfo_emergency_contact_way_of_adding">
+        <item>Ikke angitt</item>
+        <item>Legg til</item>
+        <item>Velg fra kontakter</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Ikke angitt</item>
+        <item>Mann</item>
+        <item>Kvinne</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Ikke angitt</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Ikke angitt</item>
+        <item>Negativ</item>
+        <item>Positiv</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>kg</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Ikke angitt</item>
+        <item>Ja</item>
+        <item>Nei</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>O</item>
+        <item>T</item>
+        <item>F</item>
+        <item>L</item>
+    </string-array>
+</resources>

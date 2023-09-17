@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
+    <plurals name="common_selected_num">
+        <item quantity="other">تم تحديد %1$dعنصر</item>
+        <item quantity="zero">تم تحديد %1$dعنصر</item>
+        <item quantity="one">تم تحديد %1$dعنصر</item>
+        <item quantity="two">تم تحديد %1$dعنصرين</item>
+        <item quantity="few">تم تحديد %1$dعناصر</item>
+        <item quantity="many">تم تحديد %1$dعنصر</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+        <item quantity="other">%1$s كم</item>
+        <item quantity="zero">%1$s كم</item>
+        <item quantity="one">%1$s كم</item>
+        <item quantity="two">%1$s كم</item>
+        <item quantity="few">%1$s كم</item>
+        <item quantity="many">%1$s كم</item>
+    </plurals>
+    <plurals name="common_share_unit_meter_desc">
+        <item quantity="other">%1$s م</item>
+        <item quantity="zero">%1$s م</item>
+        <item quantity="one">%1$s م</item>
+        <item quantity="two">%1$s م</item>
+        <item quantity="few">%1$s م</item>
+        <item quantity="many">%1$s م</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">" كيلوسعرة"</item>
+        <item quantity="zero">" كيلوسعرة"</item>
+        <item quantity="one">" كيلوسعرة"</item>
+        <item quantity="two">" كيلوسعرات"</item>
+        <item quantity="few">" كيلوسعرات"</item>
+        <item quantity="many">" كيلوسعرة"</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$d كيلوسعرة</item>
+        <item quantity="zero">%1$d كيلوسعرة</item>
+        <item quantity="one">%1$d كيلوسعرة</item>
+        <item quantity="two">%1$d كيلوسعرات</item>
+        <item quantity="few">%1$d كيلوسعرات</item>
+        <item quantity="many">%1$d كيلوسعرة</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate">
+        <item quantity="other">" نبضة/دق"</item>
+        <item quantity="zero">" نبضة/دق"</item>
+        <item quantity="one">" نبضة/دق"</item>
+        <item quantity="two">" نبضة/دق"</item>
+        <item quantity="few">" نبضة/دق"</item>
+        <item quantity="many">" نبضة/دق"</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc">
+        <item quantity="other">%1$d نبضة/دق</item>
+        <item quantity="zero">%1$d نبضة/دق</item>
+        <item quantity="one">%1$d نبضة/دق</item>
+        <item quantity="two">%1$d نبضة/دق</item>
+        <item quantity="few">%1$d نبضة/دق</item>
+        <item quantity="many">%1$d نبضة/دق</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc2">
+        <item quantity="other">%1$d نبضة/دق</item>
+        <item quantity="zero">%1$d نبضة/دق</item>
+        <item quantity="one">%1$d نبضة/دق</item>
+        <item quantity="two">%1$d نبضة/دق</item>
+        <item quantity="few">%1$d نبضة/دق</item>
+        <item quantity="many">%1$d نبضة/دق</item>
+    </plurals>
+    <plurals name="common_unit_kilometer">
+        <item quantity="other">كم</item>
+        <item quantity="zero">كم</item>
+        <item quantity="one">كم</item>
+        <item quantity="two">كم</item>
+        <item quantity="few">كم</item>
+        <item quantity="many">كم</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s كم</item>
+        <item quantity="zero">%1$s كم</item>
+        <item quantity="one">%1$s كم</item>
+        <item quantity="two">%1$s كم</item>
+        <item quantity="few">%1$s كم</item>
+        <item quantity="many">%1$s كم</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc_new">
+        <item quantity="other">%1$s م</item>
+        <item quantity="zero">%1$s م</item>
+        <item quantity="one">%1$s م</item>
+        <item quantity="two">%1$s م</item>
+        <item quantity="few">%1$s م</item>
+        <item quantity="many">%1$s م</item>
+    </plurals>
+    <plurals name="common_unit_rope_count">
+        <item quantity="other">قفزة</item>
+        <item quantity="zero">قفزة</item>
+        <item quantity="one">قفزة</item>
+        <item quantity="two">قفزات</item>
+        <item quantity="few">قفزات</item>
+        <item quantity="many">قفزة</item>
+    </plurals>
+    <plurals name="common_unit_rowing_machine_count">
+        <item quantity="other">شوط</item>
+        <item quantity="zero">شوط</item>
+        <item quantity="one">شوط</item>
+        <item quantity="two">أشواط</item>
+        <item quantity="few">أشواط</item>
+        <item quantity="many">شوط</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" خطوة"</item>
+        <item quantity="zero">" خطوة"</item>
+        <item quantity="one">" خطوة"</item>
+        <item quantity="two">" خطوات"</item>
+        <item quantity="few">" خطوات"</item>
+        <item quantity="many">" خطوة"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d خطوة</item>
+        <item quantity="zero">%1$d خطوة</item>
+        <item quantity="one">%1$d خطوة</item>
+        <item quantity="two">%1$d خطوات</item>
+        <item quantity="few">%1$d خطوات</item>
+        <item quantity="many">%1$d خطوة</item>
+    </plurals>
+    <plurals name="common_unit_swim_count">
+        <item quantity="other">طول</item>
+        <item quantity="zero">طول</item>
+        <item quantity="one">طول</item>
+        <item quantity="two">الأطوال</item>
+        <item quantity="few">الأطوال</item>
+        <item quantity="many">طول</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">مرة</item>
+        <item quantity="zero">مرة</item>
+        <item quantity="one">مرة</item>
+        <item quantity="two">مرات</item>
+        <item quantity="few">مرات</item>
+        <item quantity="many">مرة</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$d س</item>
+        <item quantity="zero">%1$d س</item>
+        <item quantity="one">%1$d س</item>
+        <item quantity="two">%1$d س</item>
+        <item quantity="few">%1$d س</item>
+        <item quantity="many">%1$d س</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping_desc">
+        <item quantity="other">%1$d قفزة</item>
+        <item quantity="zero">%1$d قفزة</item>
+        <item quantity="one">%1$d قفزة</item>
+        <item quantity="two">%1$d قفزات</item>
+        <item quantity="few">%1$d قفزات</item>
+        <item quantity="many">%1$d قفزة</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing_desc">
+        <item quantity="other">%1$d شوط</item>
+        <item quantity="zero">%1$d شوط</item>
+        <item quantity="one">%1$d شوط</item>
+        <item quantity="two">%1$d أشواط</item>
+        <item quantity="few">%1$d أشواط</item>
+        <item quantity="many">%1$d شوط</item>
+    </plurals>
+    <plurals name="common_unit_year_old">
+        <item quantity="other">سنة</item>
+        <item quantity="zero">سنة</item>
+        <item quantity="one">سنة</item>
+        <item quantity="two">سنوات</item>
+        <item quantity="few">سنوات</item>
+        <item quantity="many">سنة</item>
+    </plurals>
+    <plurals name="course_content_segment">
+        <item quantity="other">%d جلسة</item>
+        <item quantity="zero">%d جلسة</item>
+        <item quantity="one">%d جلسة</item>
+        <item quantity="two">%d جلسات</item>
+        <item quantity="few">%d جلسات</item>
+        <item quantity="many">%d جلسة</item>
+    </plurals>
+    <plurals name="course_practised_num">
+        <item quantity="other">التمارين: %d</item>
+        <item quantity="zero">التمارين: %d</item>
+        <item quantity="one">التمارين: %d</item>
+        <item quantity="two">التمارين: %d</item>
+        <item quantity="few">التمارين: %d</item>
+        <item quantity="many">التمارين: %d</item>
+    </plurals>
+    <plurals name="course_start_times">
+        <item quantity="other">التمارين: %d</item>
+        <item quantity="zero">التمارين: %d</item>
+        <item quantity="one">التمارين: %d</item>
+        <item quantity="two">التمارين: %d</item>
+        <item quantity="few">التمارين: %d</item>
+        <item quantity="many">التمارين: %d</item>
+    </plurals>
+    <plurals name="day_in_simplify">
+        <item quantity="other">" %1$dيوم"</item>
+        <item quantity="zero">" %1$d يوم"</item>
+        <item quantity="one">" %1$d يوم"</item>
+        <item quantity="two">" %1$dأيام"</item>
+        <item quantity="few">" %1$dأيام"</item>
+        <item quantity="many">" %1$dيوم"</item>
+    </plurals>
+    <plurals name="device_last_charged_time">
+        <item quantity="other">آخر شحن: قبل %1$d يوم</item>
+        <item quantity="zero">آخر شحن: قبل %1$d يوم</item>
+        <item quantity="one">آخر شحن: قبل %1$d يوم</item>
+        <item quantity="two">آخر شحن: قبل %1$d أيام</item>
+        <item quantity="few">آخر شحن: قبل %1$d أيام</item>
+        <item quantity="many">آخر شحن: قبل %1$d يوم</item>
+    </plurals>
+    <plurals name="device_last_full_charged_time">
+        <item quantity="other">آخر شحن: قبل %1$d أيام</item>
+        <item quantity="zero">آخر شحن: قبل %1$d أيام</item>
+        <item quantity="one">آخر شحن: قبل %1$d يوم</item>
+        <item quantity="two">آخر شحن: قبل %1$d أيام</item>
+        <item quantity="few">آخر شحن: قبل %1$d أيام</item>
+        <item quantity="many">آخر شحن: قبل %1$d أيام</item>
+    </plurals>
+    <plurals name="device_settings_alarm_add_max_expression_plurals">
+        <item quantity="other">تستطيع إضافة %1$s الى المنبه</item>
+        <item quantity="zero">تستطيع إضافة %1$s الى المنبه</item>
+        <item quantity="one">تستطيع إضافة %1$s الى المنبه</item>
+        <item quantity="two">تستطيع إضافة %1$s الى المنبهين</item>
+        <item quantity="few">تستطيع إضافة %1$s الى المنبهات</item>
+        <item quantity="many">تستطيع إضافة %1$s الى المنبه</item>
+    </plurals>
+    <plurals name="device_settings_alarm_clocks">
+        <item quantity="other">%1$d منبه</item>
+        <item quantity="zero">%1$d منبه</item>
+        <item quantity="one">%1$d منبه</item>
+        <item quantity="two">%1$d منبهات</item>
+        <item quantity="few">%1$d منبهات</item>
+        <item quantity="many">%1$d منبه</item>
+    </plurals>
+    <plurals name="device_settings_common_items">
+        <item quantity="other">%1$d حدث</item>
+        <item quantity="zero">%1$d حدث</item>
+        <item quantity="one">%1$d حدث</item>
+        <item quantity="two">%1$d أحداث</item>
+        <item quantity="few">%1$d أحداث</item>
+        <item quantity="many">%1$d حدث</item>
+    </plurals>
+    <plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="device_settings_common_unit_heart_rate_desc">
+        <item quantity="other">%1$d نبضة/دق</item>
+        <item quantity="zero">%1$d نبضة/دق</item>
+        <item quantity="one">%1$d نبضة/دق</item>
+        <item quantity="two">%1$d نبضة/دق</item>
+        <item quantity="few">%1$d نبضة/دق</item>
+        <item quantity="many">%1$d نبضة/دق</item>
+    </plurals>
+    <plurals name="device_settings_contact_list_max_count">
+        <item quantity="other">2. يمكنك إضافة ما يصل إلى %1$d جهة اتصال مفضلة.</item>
+        <item quantity="zero">2. يمكنك إضافة ما يصل إلى %1$d جهة اتصال مفضلة.</item>
+        <item quantity="one">2. يمكنك إضافة ما يصل إلى %1$d جهة اتصال مفضلة.</item>
+        <item quantity="two">2. يمكنك إضافة ما يصل إلى %1$d جهات اتصال مفضلة.</item>
+        <item quantity="few">2. يمكنك إضافة ما يصل إلى %1$d جهات اتصال مفضلة.</item>
+        <item quantity="many">2. يمكنك إضافة ما يصل إلى %1$d جهة اتصال مفضلة.</item>
+    </plurals>
+    <plurals name="device_settings_event_content_max_length">
+        <item quantity="other">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+        <item quantity="zero">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+        <item quantity="one">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+        <item quantity="two">يمكنك إدخال ما يصل إلى %1$dحرفين</item>
+        <item quantity="few">يمكنك إدخال ما يصل إلى %1$dحروف</item>
+        <item quantity="many">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+    </plurals>
+    <plurals name="device_settings_event_minder_add_max_expression">
+        <item quantity="other">تستطيع إضافة %1$d الى الحدث</item>
+        <item quantity="zero">تستطيع إضافة %1$d الى الحدث</item>
+        <item quantity="one">تستطيع إضافة %1$d الى الحدث</item>
+        <item quantity="two">تستطيع إضافة %1$d الى الأحداث</item>
+        <item quantity="few">تستطيع إضافة %1$d الى الاحداث</item>
+        <item quantity="many">تستطيع إضافة %1$d الى الحدث</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_warning_freq">
+        <item quantity="other">%1$dنبضة/دق</item>
+        <item quantity="zero">%1$dنبضة/دق</item>
+        <item quantity="one">%1$dنبضة/دق</item>
+        <item quantity="two">%1$dنبضة/دق</item>
+        <item quantity="few">%1$dنبضة/دق</item>
+        <item quantity="many">%1$dنبضة/دق</item>
+    </plurals>
+    <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
+        <item quantity="other">يمكنك إضافة %1$d تطبيق مصغر على الأكثر.</item>
+        <item quantity="zero">يمكنك إضافة %1$d تطبيق مصغر على الأكثر.</item>
+        <item quantity="one">يمكنك إضافة %1$d تطبيق مصغر على الأكثر.</item>
+        <item quantity="two">يمكنك إضافة %1$d تطبيقات مصغرة على الأكثر.</item>
+        <item quantity="few">يمكنك إضافة %1$d تطبيقات مصغرة على الأكثر.</item>
+        <item quantity="many">يمكنك إضافة %1$d تطبيق مصغر على الأكثر.</item>
+    </plurals>
+    <plurals name="device_settings_huami_sporttype_quantity_limit_tips">
+        <item quantity="other">يمكنك إضافة ما يصل إلى %1$d تمرين</item>
+        <item quantity="zero">يمكنك إضافة ما يصل إلى %1$d تمرين</item>
+        <item quantity="one">يمكنك إضافة ما يصل إلى %1$d تمرين</item>
+        <item quantity="two">يمكنك إضافة ما يصل إلى %1$d تمارين</item>
+        <item quantity="few">يمكنك إضافة ما يصل إلى %1$d تمارين</item>
+        <item quantity="many">يمكنك إضافة ما يصل إلى %1$d تمرين</item>
+    </plurals>
+    <plurals name="device_settings_hypoxemia_notice_threshold_percent">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="zero">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+        <item quantity="two">%1$d%%</item>
+        <item quantity="few">%1$d%%</item>
+        <item quantity="many">%1$d%%</item>
+    </plurals>
+    <plurals name="device_settings_music_list_size_desc">
+        <item quantity="other">%1$d أغنية</item>
+        <item quantity="zero">%1$d أغنية</item>
+        <item quantity="one">%1$d أغنية</item>
+        <item quantity="two">%1$d أغنيتان</item>
+        <item quantity="few">%1$d أغاني</item>
+        <item quantity="many">%1$d أغنية</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_fail">
+        <item quantity="other">تعذر استيراد %1$d أغنية.</item>
+        <item quantity="zero">تعذر استيراد %1$d أغنية.</item>
+        <item quantity="one">تعذر استيراد %1$d أغنية.</item>
+        <item quantity="two">تعذر استيراد %1$d أغاني.</item>
+        <item quantity="few">تعذر استيراد %1$d أغاني.</item>
+        <item quantity="many">تعذر استيراد %1$d أغنية.</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_success">
+        <item quantity="other">تم استيراد %1$d أغنية بنجاح.</item>
+        <item quantity="zero">تم استيراد %1$d أغنية بنجاح.</item>
+        <item quantity="one">تم استيراد %1$d أغنية بنجاح.</item>
+        <item quantity="two">تم استيراد %1$d أغاني بنجاح.</item>
+        <item quantity="few">تم استيراد %1$d أغاني بنجاح.</item>
+        <item quantity="many">تم استيراد %1$d أغنية بنجاح.</item>
+    </plurals>
+    <plurals name="device_settings_sos_contact_set_count">
+        <item quantity="other">%1$d جهة اتصال</item>
+        <item quantity="zero">%1$d جهة اتصال</item>
+        <item quantity="one">%1$d جهة اتصال</item>
+        <item quantity="two">%1$d جهتي اتصال</item>
+        <item quantity="few">%1$d جهات اتصال</item>
+        <item quantity="many">%1$d جهة الاتصال</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="device_settings_todo_limit_toast">
+        <item quantity="other">أضف ما يصل إلى %1$d تذكير بالمهمة</item>
+        <item quantity="zero">أضف ما يصل إلى %1$d تذكير بالمهمة</item>
+        <item quantity="one">أضف ما يصل إلى %1$d تذكير بالمهمة</item>
+        <item quantity="two">أضف ما يصل إلى %1$d تذكير بالمهام</item>
+        <item quantity="few">أضف ما يصل إلى %1$d تذكير بالمهام</item>
+        <item quantity="many">أضف ما يصل إلى %1$d تذكير بالمهمة</item>
+    </plurals>
+    <plurals name="device_settings_todo_select_count">
+        <item quantity="other">تم تحديد %1$d عنصر</item>
+        <item quantity="zero">تم تحديد %1$d عنصر</item>
+        <item quantity="one">تم تحديد %1$d عنصر</item>
+        <item quantity="two">تم تحديد %1$d عنصرين</item>
+        <item quantity="few">تم تحديد %1$d عناصر</item>
+        <item quantity="many">تم تحديد %1$d عنصر</item>
+    </plurals>
+    <plurals name="device_settings_unit_heart_rate">
+        <item quantity="other">نبضة/دق</item>
+        <item quantity="zero">نبضة/دق</item>
+        <item quantity="one">نبضة/دق</item>
+        <item quantity="two">نبضة/دق</item>
+        <item quantity="few">نبضة/دق</item>
+        <item quantity="many">نبضة/دق</item>
+    </plurals>
+    <plurals name="device_settings_widget_manager_max_toast">
+        <item quantity="other">يمكنك إضافة مايصل إلى %d تطبيق مصغر</item>
+        <item quantity="zero">يمكنك إضافة مايصل إلى %d تطبيق مصغر</item>
+        <item quantity="one">يمكنك إضافة مايصل إلى %d تطبيق مصغر</item>
+        <item quantity="two">يمكنك إضافة مايصل إلى %d تطبيقات مصغرة</item>
+        <item quantity="few">يمكنك إضافة مايصل إلى %d تطبيقات مصغرة</item>
+        <item quantity="many">يمكنك إضافة مايصل إلى %d تطبيق مصغر</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">تم تحديد %1$dعنصر</item>
+        <item quantity="zero">تم تحديد %1$dعنصر</item>
+        <item quantity="one">تم تحديد %1$dعنصر</item>
+        <item quantity="two">تم تحديد %1$dعنصرين</item>
+        <item quantity="few">تم تحديد %1$dعناصر</item>
+        <item quantity="many">تم تحديد %1$dعنصر</item>
+    </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="zero">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="two">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+        <item quantity="many">(%1$d)</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="face_band_me_count">
+        <item quantity="other">شاشة سواري الذكي (%1$d)</item>
+        <item quantity="zero">شاشة سواري الذكي (%1$d)</item>
+        <item quantity="one">شاشة سواري الذكي (%1$d)</item>
+        <item quantity="two">شاشات سواري الذكي (%1$d)</item>
+        <item quantity="few">شاشات سواري الذكي (%1$d)</item>
+        <item quantity="many">شاشة سواري الذكي (%1$d)</item>
+    </plurals>
+    <plurals name="face_common_img_num">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="face_download_count">
+        <item quantity="other">%1$d تنزيل</item>
+        <item quantity="zero">%1$d تنزيل</item>
+        <item quantity="one">%1$d تنزيل</item>
+        <item quantity="two">%1$d تنزيلات</item>
+        <item quantity="few">%1$d تنزيلات</item>
+        <item quantity="many">%1$d تنزيل</item>
+    </plurals>
+    <plurals name="face_me_count">
+        <item quantity="other">وجه ساعتي (%1$d)</item>
+        <item quantity="zero">وجه ساعتي (%1$d)</item>
+        <item quantity="one">وجه ساعتي (%1$d)</item>
+        <item quantity="two">أوجه ساعتي (%1$d)</item>
+        <item quantity="few">اوجه ساعتي (%1$d)</item>
+        <item quantity="many">وجه ساعتي (%1$d)</item>
+    </plurals>
+    <plurals name="face_photo_add_desc">
+        <item quantity="other">%1$d صور</item>
+        <item quantity="zero">%1$d صورة</item>
+        <item quantity="one">%1$d صورة</item>
+        <item quantity="two">%1$d صورتين</item>
+        <item quantity="few">%1$d صور</item>
+        <item quantity="many">%1$d صور</item>
+    </plurals>
+    <plurals name="face_photo_delete_confirm_desc">
+        <item quantity="other">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="zero">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="one">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="two">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="few">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="many">确定从表盘中删除这%1$d张照片？</item>
+    </plurals>
+    <plurals name="face_photo_most">
+        <item quantity="other">أضف حتى %1$d من الصور</item>
+        <item quantity="zero">أضف حتى %1$d صورة</item>
+        <item quantity="one">أضف حتى %1$d صورة</item>
+        <item quantity="two">أضف حتى %1$d صورتين</item>
+        <item quantity="few">أضف حتى %1$d من الصور</item>
+        <item quantity="many">أضف حتى %1$d صورة</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="health_blood_pressure_exception_count">
+        <item quantity="other">مرة</item>
+        <item quantity="zero">مرة</item>
+        <item quantity="one">مرة</item>
+        <item quantity="two">مرات</item>
+        <item quantity="few">مرات</item>
+        <item quantity="many">مرة</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_unit">
+        <item quantity="other">نبضة/دق</item>
+        <item quantity="zero">نبضة/دق</item>
+        <item quantity="one">نبضة/دق</item>
+        <item quantity="two">نبضة/دق</item>
+        <item quantity="few">نبضة/دق</item>
+        <item quantity="many">نبضة/دق</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_value_unit">
+        <item quantity="other">%1$d نبضة/دق</item>
+        <item quantity="zero">%1$d نبضة/دق</item>
+        <item quantity="one">%1$d نبضة/دق</item>
+        <item quantity="two">%1$d نبضة/دق</item>
+        <item quantity="few">%1$d نبضة/دق</item>
+        <item quantity="many">%1$d نبضة/دق</item>
+    </plurals>
+    <plurals name="health_body_age_format">
+        <item quantity="other">%1$d سنة</item>
+        <item quantity="zero">%1$d سنة</item>
+        <item quantity="one">%1$d سنة</item>
+        <item quantity="two">%1$d سنتين</item>
+        <item quantity="few">%1$d سنوات</item>
+        <item quantity="many">%1$d سنة</item>
+    </plurals>
+    <plurals name="health_body_score_format">
+        <item quantity="other">%1$d نقاط</item>
+        <item quantity="zero">%1$d نقطة</item>
+        <item quantity="one">%1$d نقطة</item>
+        <item quantity="two">%1$d نقطتين</item>
+        <item quantity="few">%1$d نقاط</item>
+        <item quantity="many">%1$d نقطة</item>
+    </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="health_common_unit_calorie_desc">
+        <item quantity="other">%1$d كيلوسعرة</item>
+        <item quantity="zero">%1$d كيلوسعرة</item>
+        <item quantity="one">%1$d كيلوسعرة</item>
+        <item quantity="two">%1$d كيلوسعرات</item>
+        <item quantity="few">%1$d كيلوسعرات</item>
+        <item quantity="many">%1$d كيلوسعرة</item>
+    </plurals>
+    <plurals name="health_common_unit_mh">
+        <item quantity="other">دقيقة</item>
+        <item quantity="zero">دقيقة</item>
+        <item quantity="one">دقيقة</item>
+        <item quantity="two">دقائق</item>
+        <item quantity="few">دقائق</item>
+        <item quantity="many">دقيقة</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">خطوات</item>
+        <item quantity="zero">خطوة</item>
+        <item quantity="one">خطوة</item>
+        <item quantity="two">خطوتين</item>
+        <item quantity="few">خطوات</item>
+        <item quantity="many">خطوات</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$d خطوة</item>
+        <item quantity="zero">%1$d خطوة</item>
+        <item quantity="one">%1$d خطوة</item>
+        <item quantity="two">%1$d خطوات</item>
+        <item quantity="few">%1$d خطوات</item>
+        <item quantity="many">%1$d خطوة</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc2">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="health_curse_cycle_days">
+        <item quantity="other">موعد الدورة: بعد %1$d يوم</item>
+        <item quantity="zero">موعد الدورة: بعد %1$d يوم</item>
+        <item quantity="one">موعد الدورة: بعد %1$d يوم</item>
+        <item quantity="two">موعد الدورة: بعد %1$d أيام</item>
+        <item quantity="few">موعد الدورة: بعد %1$d أيام</item>
+        <item quantity="many">موعد الدورة: بعد %1$d يوم</item>
+    </plurals>
+    <plurals name="health_curse_danger_will">
+        <item quantity="other">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="zero">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="one">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="two">فترة الخصوبة خلال %d أيام</item>
+        <item quantity="few">فترة الخصوبة خلال %d أيام</item>
+        <item quantity="many">فترة الخصوبة خلال %d يوم</item>
+    </plurals>
+    <plurals name="health_curse_danger_will_before">
+        <item quantity="other">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="zero">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="one">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="two">فترة الخصوبة خلال %d أيام</item>
+        <item quantity="few">فترة الخصوبة خلال %d أيام</item>
+        <item quantity="many">فترة الخصوبة خلال %d يوم</item>
+    </plurals>
+    <plurals name="health_curse_danger_with_ovum">
+        <item quantity="other">يوم الاباضة.اما يوم فترة الخصوبة هو يوم %d.</item>
+        <item quantity="zero">يوم الاباضة.اما يوم فترة الخصوبة هو يوم %d.</item>
+        <item quantity="one">يوم الاباضة.اما يوم فترة الخصوبة هو يوم %d.</item>
+        <item quantity="two">يوم الاباضة.اما يوم فترة الخصوبة هو يوم %d.</item>
+        <item quantity="few">يوم الاباضة.اما يوم فترة الخصوبة هو يوم %d.</item>
+        <item quantity="many">يوم الاباضة.اما يوم فترة الخصوبة هو يوم %d.</item>
+    </plurals>
+    <plurals name="health_curse_day">
+        <item quantity="other">يوم</item>
+        <item quantity="zero">يوم</item>
+        <item quantity="one">يوم</item>
+        <item quantity="two">أيام</item>
+        <item quantity="few">أيام</item>
+        <item quantity="many">يوم</item>
+    </plurals>
+    <plurals name="health_curse_days_bracket">
+        <item quantity="other">(%d يوم)</item>
+        <item quantity="zero">(%d يوم)</item>
+        <item quantity="one">(%d يوم)</item>
+        <item quantity="two">(%d أيام)</item>
+        <item quantity="few">(%d أيام)</item>
+        <item quantity="many">(%d يوم)</item>
+    </plurals>
+    <plurals name="health_curse_days_left_future">
+        <item quantity="other">%d يوم حتى انتهاء الدورة</item>
+        <item quantity="zero">%d يوم حتى انتهاء الدورة</item>
+        <item quantity="one">%d يوم حتى انتهاء الدورة</item>
+        <item quantity="two">%d أيام حتى انتهاء الدورة</item>
+        <item quantity="few">%d أيام حتى انتهاء الدورة</item>
+        <item quantity="many">%d يوم حتى انتهاء الدورة</item>
+    </plurals>
+    <plurals name="health_curse_days_left_pre">
+        <item quantity="other">%d يوم حتى انتهاء الدورة</item>
+        <item quantity="zero">%d يوم حتى انتهاء الدورة</item>
+        <item quantity="one">%d يوم حتى انتهاء الدورة</item>
+        <item quantity="two">%d أيام حتى انتهاء الدورة</item>
+        <item quantity="few">%d أيام حتى انتهاء الدورة</item>
+        <item quantity="many">%d يوم حتى انتهاء الدورة</item>
+    </plurals>
+    <plurals name="health_curse_easy_pregnancy_before">
+        <item quantity="other">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="zero">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="one">فترة الخصوبة خلال %d يوم</item>
+        <item quantity="two">فترة الخصوبة خلال %d أيام</item>
+        <item quantity="few">فترة الخصوبة خلال %d أيام</item>
+        <item quantity="many">فترة الخصوبة خلال %d يوم</item>
+    </plurals>
+    <plurals name="health_curse_in_days">
+        <item quantity="other">الدورة الشهرية: بعد %1$d يوم</item>
+        <item quantity="zero">الدورة الشهرية: بعد %1$d يوم</item>
+        <item quantity="one">الدورة الشهرية: بعد %1$d يوم</item>
+        <item quantity="two">الدورة الشهرية: بعد %1$d أيام</item>
+        <item quantity="few">الدورة الشهرية: بعد %1$d أيام</item>
+        <item quantity="many">الدورة الشهرية: بعد %1$d يوم</item>
+    </plurals>
+    <plurals name="health_curse_in_future">
+        <item quantity="other">اليوم %d من الدورة</item>
+        <item quantity="zero">اليوم %d من الدورة</item>
+        <item quantity="one">اليوم %d من الدورة</item>
+        <item quantity="two">اليوم %d من الدورة</item>
+        <item quantity="few">اليوم %d من الدورة</item>
+        <item quantity="many">اليوم %d من الدورة</item>
+    </plurals>
+    <plurals name="health_curse_in_pre">
+        <item quantity="other">اليوم %d من الدورة</item>
+        <item quantity="zero">اليوم %d من الدورة</item>
+        <item quantity="one">اليوم %d من الدورة</item>
+        <item quantity="two">اليوم %d من الدورة</item>
+        <item quantity="few">اليوم %d من الدورة</item>
+        <item quantity="many">اليوم %d من الدورة</item>
+    </plurals>
+    <plurals name="health_curse_in_start_before">
+        <item quantity="other">الدورة الشهرية بعد %d يوم</item>
+        <item quantity="zero">الدورة الشهرية بعد %d يوم</item>
+        <item quantity="one">الدورة الشهرية بعد %d يوم</item>
+        <item quantity="two">الدورة الشهرية بعد %d أيام</item>
+        <item quantity="few">الدورة الشهرية بعد %d أيام</item>
+        <item quantity="many">الدورة الشهرية بعد %d يوم</item>
+    </plurals>
+    <plurals name="health_curse_in_start_will">
+        <item quantity="other">الدورة الشهرية بعد %d يوم</item>
+        <item quantity="zero">الدورة الشهرية بعد %d يوم</item>
+        <item quantity="one">الدورة الشهرية بعد %d يوم</item>
+        <item quantity="two">الدورة الشهرية بعد %d أيام</item>
+        <item quantity="few">الدورة الشهرية بعد %d أيام</item>
+        <item quantity="many">الدورة الشهرية بعد %d يوم</item>
+    </plurals>
+    <plurals name="health_curse_ovum_start">
+        <item quantity="other">سيبدأ التبويض بعد %d يوم</item>
+        <item quantity="zero">سيبدأ التبويض بعد %d يوم</item>
+        <item quantity="one">سيبدأ التبويض بعد %d يوم</item>
+        <item quantity="two">سيبدأ التبويض بعد %d أيام</item>
+        <item quantity="few">سيبدأ التبويض بعد %d أيام</item>
+        <item quantity="many">سيبدأ التبويض بعد %d يوم</item>
+    </plurals>
+    <plurals name="health_curse_period">
+        <item quantity="other">%d-يوم لموعد الدورة</item>
+        <item quantity="zero">%d-يوم لموعد الدورة</item>
+        <item quantity="one">%d-يوم لموعد الدورة</item>
+        <item quantity="two">%d-أيام لموعد الدورة</item>
+        <item quantity="few">%d-أيام لموعد الدورة</item>
+        <item quantity="many">%d-يوم لموعد الدورة</item>
+    </plurals>
+    <plurals name="health_hearing_noise_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="health_mh_home_title">
+        <item quantity="other">التحرك %1$d دقائق</item>
+        <item quantity="zero">التحرك %1$d دقيقة</item>
+        <item quantity="one">التحرك %1$d دقيقة</item>
+        <item quantity="two">التحرك %1$d دقيقتين</item>
+        <item quantity="few">التحرك %1$d دقائق</item>
+        <item quantity="many">التحرك %1$d دقيقة</item>
+    </plurals>
+    <plurals name="health_sleep_breath_quality_value">
+        <item quantity="other">نقاط التنفس: %1$d</item>
+        <item quantity="zero">نقاط التنفس: %1$d</item>
+        <item quantity="one">نقاط التنفس: %1$d</item>
+        <item quantity="two">نقاط التنفس: %1$d</item>
+        <item quantity="few">نقاط التنفس: %1$d</item>
+        <item quantity="many">نقاط التنفس: %1$d</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="health_sleep_snore_decibel_unit">
+        <item quantity="other">dB</item>
+        <item quantity="zero">dB</item>
+        <item quantity="one">dB</item>
+        <item quantity="two">dB</item>
+        <item quantity="few">dB</item>
+        <item quantity="many">dB</item>
+    </plurals>
+    <plurals name="health_spo2_home_value">
+        <item quantity="other">الأكسجين في الدم %1$d%%</item>
+        <item quantity="zero">الأكسجين في الدم %1$d%%</item>
+        <item quantity="one">الأكسجين في الدم %1$d%%</item>
+        <item quantity="two">الأكسجين في الدم %1$d%%</item>
+        <item quantity="few">الأكسجين في الدم %1$d%%</item>
+        <item quantity="many">الأكسجين في الدم %1$d%%</item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$d س</item>
+        <item quantity="zero">%1$d س</item>
+        <item quantity="one">%1$d س</item>
+        <item quantity="two">%1$d س</item>
+        <item quantity="few">%1$d س</item>
+        <item quantity="many">%1$d س</item>
+    </plurals>
+    <plurals name="health_stand_count_desc_no_value">
+        <item quantity="other">س</item>
+        <item quantity="zero">س</item>
+        <item quantity="one">س</item>
+        <item quantity="two">س</item>
+        <item quantity="few">س</item>
+        <item quantity="many">س</item>
+    </plurals>
+    <plurals name="health_stand_unit_time">
+        <item quantity="other">س</item>
+        <item quantity="zero">س</item>
+        <item quantity="one">س</item>
+        <item quantity="two">س</item>
+        <item quantity="few">س</item>
+        <item quantity="many">س</item>
+    </plurals>
+    <plurals name="health_target_calories_unit">
+        <item quantity="other">%1$d كيلوسعرة</item>
+        <item quantity="zero">%1$d كيلوسعرة</item>
+        <item quantity="one">%1$d كيلوسعرة</item>
+        <item quantity="two">%1$d كيلوسعرات</item>
+        <item quantity="few">%1$d كيلوسعرات</item>
+        <item quantity="many">%1$d كيلوسعرة</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">%1$d س</item>
+        <item quantity="zero">%1$d س</item>
+        <item quantity="one">%1$d س</item>
+        <item quantity="two">%1$d س</item>
+        <item quantity="few">%1$d س</item>
+        <item quantity="many">%1$d س</item>
+    </plurals>
+    <plurals name="health_target_step_unit">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="health_unit_calorie_space">
+        <item quantity="other">" كيلوسعرة"</item>
+        <item quantity="zero">" كيلوسعرة"</item>
+        <item quantity="one">" كيلوسعرة"</item>
+        <item quantity="two">" كيلوسعرات"</item>
+        <item quantity="few">" كيلوسعرات"</item>
+        <item quantity="many">" كيلوسعرة"</item>
+    </plurals>
+    <plurals name="health_unit_count_per_week">
+        <item quantity="other">كل أسبوع</item>
+        <item quantity="zero">كل أسبوع</item>
+        <item quantity="one">كل أسبوع</item>
+        <item quantity="two">كل أسبوع</item>
+        <item quantity="few">كل أسبوع</item>
+        <item quantity="many">كل أسبوع</item>
+    </plurals>
+    <plurals name="health_unit_spo2_percent_desc">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="zero">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+        <item quantity="two">%1$d%%</item>
+        <item quantity="few">%1$d%%</item>
+        <item quantity="many">%1$d%%</item>
+    </plurals>
+    <plurals name="health_vitality_acquire_desc">
+        <item quantity="other">%1$s: المكتسبة %2$d النقاط الحيوية</item>
+        <item quantity="zero">%1$s: المكتسبة %2$d النقاط الحيوية</item>
+        <item quantity="one">%1$s: المكتسبة %2$d النقاط الحيوية</item>
+        <item quantity="two">%1$s: المكتسبة %2$d النقاط الحيوية</item>
+        <item quantity="few">%1$s: المكتسبة %2$d النقاط الحيوية</item>
+        <item quantity="many">%1$s: المكتسبة %2$d النقاط الحيوية</item>
+    </plurals>
+    <plurals name="health_vitality_min_in_simplify">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقائق</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="health_vitality_target_disparity">
+        <item quantity="other">احصل على %1$d نقطة حيوية أخرى إضافية للوصول إلى الهدف التالي</item>
+        <item quantity="zero">احصل على %1$d نقطة حيوية أخرى إضافية للوصول إلى الهدف التالي</item>
+        <item quantity="one">احصل على %1$d نقطة حيوية واحدة إضافية للوصول إلى الهدف التالي</item>
+        <item quantity="two">احصل على %1$d نقطة حيوية واحدة إضافية للوصول إلى الهدف التالي</item>
+        <item quantity="few">احصل على %1$d نقطة حيوية واحدة إضافية للوصول إلى الهدف التالي</item>
+        <item quantity="many">احصل على عدة %1$d نقطة حيوية إضافية للوصول إلى الهدف التالي</item>
+    </plurals>
+    <plurals name="health_vitality_value">
+        <item quantity="other">نقطة</item>
+        <item quantity="zero">نقاط</item>
+        <item quantity="one">نقطة</item>
+        <item quantity="two">نقاط</item>
+        <item quantity="few">نقاط</item>
+        <item quantity="many">نقطة</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s كجم | + %3$s كجم قبل %2$d يوم</item>
+        <item quantity="zero">%1$s كجم | + %3$s كجم قبل %2$d يوم</item>
+        <item quantity="one">%1$s كجم | + %3$s كجم قبل %2$d يوم</item>
+        <item quantity="two">%1$s كجم | + %3$s كجم قبل %2$d أيام</item>
+        <item quantity="few">%1$s كجم | + %3$s كجم قبل %2$d أيام</item>
+        <item quantity="many">%1$s كجم | + %3$s كجم قبل %2$d يوم</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$s كجم | - %3$s كجم قبل %2$d يوم</item>
+        <item quantity="zero">%1$s كجم | - %3$s كجم قبل %2$d يوم</item>
+        <item quantity="one">%1$s كجم | - %3$s كجم قبل %2$d يوم</item>
+        <item quantity="two">%1$s كجم | - %3$s كجم قبل %2$d أيام</item>
+        <item quantity="few">%1$s كجم | - %3$s كجم قبل %2$d أيام</item>
+        <item quantity="many">%1$s كجم | - %3$s كجم قبل %2$d يوم</item>
+    </plurals>
+    <plurals name="health_weight_home_title">
+        <item quantity="other">الوزن %s كجم</item>
+        <item quantity="zero">الوزن %s كجم</item>
+        <item quantity="one">الوزن %s كجم</item>
+        <item quantity="two">الوزن %s كجم</item>
+        <item quantity="few">الوزن %s كجم</item>
+        <item quantity="many">الوزن %s كجم</item>
+    </plurals>
+    <plurals name="heartrate_fp_detect_time_remainder">
+        <item quantity="other">باقي %1$d ثانية</item>
+        <item quantity="zero">باقي %1$d ثانية</item>
+        <item quantity="one">باقي %1$d ثانية</item>
+        <item quantity="two">باقي %1$d ثواني</item>
+        <item quantity="few">باقي %1$d ثواني</item>
+        <item quantity="many">باقي %1$d ثانية</item>
+    </plurals>
+    <plurals name="hour_in_simplify">
+        <item quantity="other">%1$dس</item>
+        <item quantity="zero">%1$dس</item>
+        <item quantity="one">%1$dس</item>
+        <item quantity="two">%1$dس</item>
+        <item quantity="few">%1$dس</item>
+        <item quantity="many">%1$dس</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="medal_city_medal_to_unlock">
+        <item quantity="other">يتوفر %1$d ميدالية للمدينة</item>
+        <item quantity="zero">يتوفر %1$d ميدالية للمدينة</item>
+        <item quantity="one">يتوفر %1$d ميدالية للمدينة</item>
+        <item quantity="two">يتوفر %1$d ميداليات للمدينة</item>
+        <item quantity="few">يتوفر %1$d ميداليات للمدينة</item>
+        <item quantity="many">يتوفر %1$d ميدالية للمدينة</item>
+    </plurals>
+    <plurals name="medal_count">
+        <item quantity="other">الإجمالي: %1$d | الأخيرة: %2$d</item>
+        <item quantity="zero">الإجمالي: %1$d | الأخيرة: %2$d</item>
+        <item quantity="one">الإجمالي: %1$d | الأخيرة: %2$d</item>
+        <item quantity="two">الإجمالي: %1$d | الأخيرة: %2$d</item>
+        <item quantity="few">الإجمالي: %1$d | الأخيرة: %2$d</item>
+        <item quantity="many">الإجمالي: %1$d | الأخيرة: %2$d</item>
+    </plurals>
+    <plurals name="medal_total_got_count">
+        <item quantity="other">تم استلام %1$d مرة</item>
+        <item quantity="zero">تم استلام %1$d مرة</item>
+        <item quantity="one">تم استلام %1$d مرة</item>
+        <item quantity="two">تم استلام %1$d مرات</item>
+        <item quantity="few">تم استلام %1$d مرات</item>
+        <item quantity="many">تم استلام %1$d مرة</item>
+    </plurals>
+    <plurals name="medal_total_won">
+        <item quantity="other">تم الفوز %1$d مرة</item>
+        <item quantity="zero">تم الفوز %1$d مرة</item>
+        <item quantity="one">تم الفوز %1$d مرة</item>
+        <item quantity="two">تم الفوز %1$d مرات</item>
+        <item quantity="few">تم الفوز %1$d مرات</item>
+        <item quantity="many">تم الفوز %1$d مرة</item>
+    </plurals>
+    <plurals name="min_in_simplify">
+        <item quantity="other">%1$dدق</item>
+        <item quantity="zero">%1$dدق</item>
+        <item quantity="one">%1$dدق</item>
+        <item quantity="two">%1$dدق</item>
+        <item quantity="few">%1$dدق</item>
+        <item quantity="many">%1$dدق</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">"%1$d دقيقة "</item>
+        <item quantity="zero">"%1$d دقيقة "</item>
+        <item quantity="one">"%1$d دقيقة "</item>
+        <item quantity="two">"%1$d دقائق "</item>
+        <item quantity="few">"%1$d دقائق "</item>
+        <item quantity="many">"%1$d دقيقة "</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="nfc_common_card_num">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="nfc_common_unit_word_des">
+        <item quantity="other">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+        <item quantity="zero">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+        <item quantity="one">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+        <item quantity="two">يمكنك إدخال ما يصل إلى %1$dحرفين</item>
+        <item quantity="few">يمكنك إدخال ما يصل إلى %1$dحروف</item>
+        <item quantity="many">يمكنك إدخال ما يصل إلى %1$dحرف</item>
+    </plurals>
+    <plurals name="nfc_issue_card_hold_on_">
+        <item quantity="other">&lt;Data>"اترك جهازك متصلاً بهاتفك.
+سيستغرق الأمر %1$d دقيقة."&lt;/Data></item>
+        <item quantity="zero">&lt;Data>"اترك جهازك متصلاً بهاتفك.
+سيستغرق الأمر %1$d دقيقة."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"اترك جهازك متصلاً بهاتفك.
+سيستغرق الأمر %1$d دقيقة."&lt;/Data></item>
+        <item quantity="two">&lt;Data>"اترك جهازك متصلاً بهاتفك.
+سيستغرق الأمر %1$d دقائق."&lt;/Data></item>
+        <item quantity="few">&lt;Data>"اترك جهازك متصلاً بهاتفك.
+سيستغرق الأمر %1$d دقائق."&lt;/Data></item>
+        <item quantity="many">&lt;Data>"اترك جهازك متصلاً بهاتفك.
+سيستغرق الأمر %1$d دقيقة."&lt;/Data></item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">%1$dثانية</item>
+        <item quantity="zero">%1$dثانية</item>
+        <item quantity="one">%1$dثانية</item>
+        <item quantity="two">%1$dثواني</item>
+        <item quantity="few">%1$dثواني</item>
+        <item quantity="many">%1$dثانية</item>
+    </plurals>
+    <plurals name="notify_unit_second">
+        <item quantity="other">ثانية</item>
+        <item quantity="zero">ثانية</item>
+        <item quantity="one">ثانية</item>
+        <item quantity="two">ثواني</item>
+        <item quantity="few">ثواني</item>
+        <item quantity="many">ثانية</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="pk_history_brief_win_percent">
+        <item quantity="other">وقت التنافس %1$d | الفوز %2$d%%</item>
+        <item quantity="zero">وقت التنافس %1$d | الفوز %2$d%%</item>
+        <item quantity="one">وقت التنافس %1$d | الفوز %2$d%%</item>
+        <item quantity="two">اوقات التنافس %1$d | الفوز %2$d%%</item>
+        <item quantity="few">اوقات التنافس %1$d | الفوز %2$d%%</item>
+        <item quantity="many">وقت التنافس %1$d | الفوز %2$d%%</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_unit">
+        <item quantity="other">خطوة</item>
+        <item quantity="zero">خطوة</item>
+        <item quantity="one">خطوة</item>
+        <item quantity="two">خطوتين</item>
+        <item quantity="few">خطوات</item>
+        <item quantity="many">خطوة</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_value">
+        <item quantity="other">الهدف: %1$d خطوة</item>
+        <item quantity="zero">الهدف: %1$d خطوة</item>
+        <item quantity="one">الهدف: %1$d خطوة</item>
+        <item quantity="two">الهدف: %1$d خطوتين</item>
+        <item quantity="few">الهدف: %1$d خطوات</item>
+        <item quantity="many">الهدف: %1$d خطوة</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">خطوة</item>
+        <item quantity="zero">خطوة</item>
+        <item quantity="one">خطوة</item>
+        <item quantity="two">خطوتين</item>
+        <item quantity="few">خطوات</item>
+        <item quantity="many">خطوة</item>
+    </plurals>
+    <plurals name="sport_adjustment_distance_detail">
+        <item quantity="other">إذا كانت قراءة المسافة غير دقيقة، فيمكنك تصحيحها يدويًا. نطاق المسافة المعتمد هو %1$.2f-%2$.2f كم.</item>
+        <item quantity="zero">إذا كانت قراءة المسافة غير دقيقة، فيمكنك تصحيحها يدويًا. نطاق المسافة المعتمد هو %1$.2f-%2$.2f كم.</item>
+        <item quantity="one">إذا كانت قراءة المسافة غير دقيقة، فيمكنك تصحيحها يدويًا. نطاق المسافة المعتمد هو %1$.2f-%2$.2f كم.</item>
+        <item quantity="two">إذا كانت قراءة المسافة غير دقيقة، فيمكنك تصحيحها يدويًا. نطاق المسافة المعتمد هو %1$.2f-%2$.2f كم.</item>
+        <item quantity="few">إذا كانت قراءة المسافة غير دقيقة، فيمكنك تصحيحها يدويًا. نطاق المسافة المعتمد هو %1$.2f-%2$.2f كم.</item>
+        <item quantity="many">إذا كانت قراءة المسافة غير دقيقة، فيمكنك تصحيحها يدويًا. نطاق المسافة المعتمد هو %1$.2f-%2$.2f كم.</item>
+    </plurals>
+    <plurals name="sport_local_sport_setting_speed">
+        <item quantity="other">%1$d km/h</item>
+        <item quantity="zero">%1$d km/h</item>
+        <item quantity="one">%1$d km/h</item>
+        <item quantity="two">%1$d km/h</item>
+        <item quantity="few">%1$d km/h</item>
+        <item quantity="many">%1$d km/h</item>
+    </plurals>
+    <plurals name="sport_unit_kilometer">
+        <item quantity="other">كم</item>
+        <item quantity="zero">كم</item>
+        <item quantity="one">كم</item>
+        <item quantity="two">كم</item>
+        <item quantity="few">كم</item>
+        <item quantity="many">كم</item>
+    </plurals>
+    <plurals name="sport_unit_meter">
+        <item quantity="other">م</item>
+        <item quantity="zero">م</item>
+        <item quantity="one">م</item>
+        <item quantity="two">م</item>
+        <item quantity="few">م</item>
+        <item quantity="many">م</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">قبل %1$d يوم</item>
+        <item quantity="zero">قبل %1$d يوم</item>
+        <item quantity="one">قبل %1$d يوم</item>
+        <item quantity="two">قبل %1$d أيام</item>
+        <item quantity="few">قبل %1$d أيام</item>
+        <item quantity="many">قبل %1$d يوم</item>
+    </plurals>
+    <plurals name="trail_hint_unit_kcal">
+        <item quantity="other">كيلو سعرة</item>
+        <item quantity="zero">كيلو سعرة</item>
+        <item quantity="one">كيلو سعرة</item>
+        <item quantity="two">كيلو سعرة</item>
+        <item quantity="few">كيلو سعرة</item>
+        <item quantity="many">كيلو سعرة</item>
+    </plurals>
+    <plurals name="trail_hint_unit_meter">
+        <item quantity="other">م</item>
+        <item quantity="zero">م</item>
+        <item quantity="one">م</item>
+        <item quantity="two">م</item>
+        <item quantity="few">م</item>
+        <item quantity="many">م</item>
+    </plurals>
+    <plurals name="trail_hint_unit_minute">
+        <item quantity="other">دق</item>
+        <item quantity="zero">دق</item>
+        <item quantity="one">دق</item>
+        <item quantity="two">دق</item>
+        <item quantity="few">دق</item>
+        <item quantity="many">دق</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trail_label_step">
+        <item quantity="other">خطوة</item>
+        <item quantity="zero">خطوة</item>
+        <item quantity="one">خطوة</item>
+        <item quantity="two">خطوتين</item>
+        <item quantity="few">خطوات</item>
+        <item quantity="many">خطوة</item>
+    </plurals>
+    <plurals name="trail_label_times">
+        <item quantity="other">تمرين</item>
+        <item quantity="zero">تمرين</item>
+        <item quantity="one">تمرين</item>
+        <item quantity="two">تمارين</item>
+        <item quantity="few">تمارين</item>
+        <item quantity="many">تمرين</item>
+    </plurals>
+    <plurals name="trail_row_energy_working_unit">
+        <item quantity="other">واط</item>
+        <item quantity="zero">واط</item>
+        <item quantity="one">واط</item>
+        <item quantity="two">واط</item>
+        <item quantity="few">واط</item>
+        <item quantity="many">واط</item>
+    </plurals>
+    <plurals name="trail_share_unit_kilometer">
+        <item quantity="other">" كم"</item>
+        <item quantity="zero">" كم"</item>
+        <item quantity="one">"  كم"</item>
+        <item quantity="two">" كم"</item>
+        <item quantity="few">" كم"</item>
+        <item quantity="many">" كم"</item>
+    </plurals>
+    <plurals name="trail_sport_data_group_count">
+        <item quantity="other">مجموعات</item>
+        <item quantity="zero">مجموعة</item>
+        <item quantity="one">مجموعة</item>
+        <item quantity="two">مجموعتان</item>
+        <item quantity="few">مجموعات</item>
+        <item quantity="many">مجموعات</item>
+    </plurals>
+    <plurals name="trail_sport_group_info_title_desc">
+        <item quantity="other">المجموعات: %d</item>
+        <item quantity="zero">المجموعات: %d</item>
+        <item quantity="one">المجموعات: %d</item>
+        <item quantity="two">المجموعات: %d</item>
+        <item quantity="few">المجموعات: %d</item>
+        <item quantity="many">المجموعات: %d</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%d س</item>
+        <item quantity="zero">%d س</item>
+        <item quantity="one">%d س</item>
+        <item quantity="two">%d س</item>
+        <item quantity="few">%d س</item>
+        <item quantity="many">%d س</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit_only">
+        <item quantity="other">س</item>
+        <item quantity="zero">س</item>
+        <item quantity="one">س</item>
+        <item quantity="two">س</item>
+        <item quantity="few">س</item>
+        <item quantity="many">س</item>
+    </plurals>
+    <plurals name="trail_sport_times">
+        <item quantity="other">%d تمارين</item>
+        <item quantity="zero">%d تمرين</item>
+        <item quantity="one">%d تمرين</item>
+        <item quantity="two">%d تمارين</item>
+        <item quantity="few">%d تمارين</item>
+        <item quantity="many">%d تمارين</item>
+    </plurals>
+    <plurals name="trail_sport_unit_speed_plurals">
+        <item quantity="other">%s كم/س</item>
+        <item quantity="zero">%s كم/س</item>
+        <item quantity="one">%s كم/س</item>
+        <item quantity="two">%s كم/س</item>
+        <item quantity="few">%s كم/س</item>
+        <item quantity="many">%s كم/س</item>
+    </plurals>
+    <plurals name="trail_unit_score_desc_new">
+        <item quantity="other">%1$s</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="two">%1$s</item>
+        <item quantity="few">%1$s</item>
+        <item quantity="many">%1$s</item>
+    </plurals>
+    <plurals name="trail_unit_time_rope_skipping">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">س</item>
+        <item quantity="zero">س</item>
+        <item quantity="one">س</item>
+        <item quantity="two">س</item>
+        <item quantity="few">س</item>
+        <item quantity="many">س</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">س</item>
+        <item quantity="zero">س</item>
+        <item quantity="one">س</item>
+        <item quantity="two">س</item>
+        <item quantity="few">س</item>
+        <item quantity="many">س</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d س</item>
+        <item quantity="zero">%1$d س</item>
+        <item quantity="one">%1$dس</item>
+        <item quantity="two">%1$dس</item>
+        <item quantity="few">%1$dس</item>
+        <item quantity="many">%1$d س</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d س</item>
+        <item quantity="zero">%1$d س</item>
+        <item quantity="one">%1$d س</item>
+        <item quantity="two">%1$d س</item>
+        <item quantity="few">%1$d س</item>
+        <item quantity="many">%1$d س</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">" كم"</item>
+        <item quantity="zero">" كم"</item>
+        <item quantity="one">"  كم"</item>
+        <item quantity="two">" كم"</item>
+        <item quantity="few">" كم"</item>
+        <item quantity="many">" كم"</item>
+    </plurals>
+    <plurals name="unit_kilometer_without_space">
+        <item quantity="other">كم</item>
+        <item quantity="zero">كم</item>
+        <item quantity="one">كم</item>
+        <item quantity="two">كم</item>
+        <item quantity="few">كم</item>
+        <item quantity="many">كم</item>
+    </plurals>
+    <plurals name="unit_meter_space">
+        <item quantity="other">"  متر"</item>
+        <item quantity="zero">"  متر"</item>
+        <item quantity="one">"  متر"</item>
+        <item quantity="two">"  أمتار"</item>
+        <item quantity="few">"  أمتار"</item>
+        <item quantity="many">"  متر"</item>
+    </plurals>
+    <plurals name="unit_meter_without_space">
+        <item quantity="other">م</item>
+        <item quantity="zero">م</item>
+        <item quantity="one">م</item>
+        <item quantity="two">م</item>
+        <item quantity="few">م</item>
+        <item quantity="many">م</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" دقيقة"</item>
+        <item quantity="zero">" دقيقة"</item>
+        <item quantity="one">" دقيقة"</item>
+        <item quantity="two">" دقائق"</item>
+        <item quantity="few">" دقائق"</item>
+        <item quantity="many">" دقيقة"</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" دقيقة"</item>
+        <item quantity="zero">" دقيقة"</item>
+        <item quantity="one">" دقيقة"</item>
+        <item quantity="two">" دقائق"</item>
+        <item quantity="few">" دقائق"</item>
+        <item quantity="many">" دقيقة"</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقائق</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="unit_point_desc">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">ثانية</item>
+        <item quantity="zero">ثانية</item>
+        <item quantity="one">ثانية</item>
+        <item quantity="two">ثواني</item>
+        <item quantity="few">ثواني</item>
+        <item quantity="many">ثانية</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$dثانية</item>
+        <item quantity="zero">%1$dثانية</item>
+        <item quantity="one">%1$dثانية</item>
+        <item quantity="two">%1$dثواني</item>
+        <item quantity="few">%1$dثواني</item>
+        <item quantity="many">%1$dثانية</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$dثانية</item>
+        <item quantity="zero">%1$dثانية</item>
+        <item quantity="one">%1$dثانية</item>
+        <item quantity="two">%1$dثواني</item>
+        <item quantity="few">%1$dثواني</item>
+        <item quantity="many">%1$dثانية</item>
+    </plurals>
+    <plurals name="unit_speed_meter_sed">
+        <item quantity="other">متر/ث</item>
+        <item quantity="zero">متر/ث</item>
+        <item quantity="one">متر/ث</item>
+        <item quantity="two">متر/ث</item>
+        <item quantity="few">متر/ث</item>
+        <item quantity="many">متر/ث</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="zero">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="two">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+        <item quantity="many">(%1$d)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$dسنة</item>
+        <item quantity="zero">%1$dسنة</item>
+        <item quantity="one">%1$dسنة</item>
+        <item quantity="two">%1$dسنوات</item>
+        <item quantity="few">%1$d سنوات</item>
+        <item quantity="many">%1$d سنة</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_calorie">
+        <item quantity="other">كيلوسعرة</item>
+        <item quantity="zero">كيلوسعرة</item>
+        <item quantity="one">كيلوسعرة</item>
+        <item quantity="two">كيلوسعرة</item>
+        <item quantity="few">كيلوسعرة</item>
+        <item quantity="many">كيلوسعرة</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_heart_rate">
+        <item quantity="other">" نبضة/دق"</item>
+        <item quantity="zero">" نبضة/دق"</item>
+        <item quantity="one">" نبضة/دق"</item>
+        <item quantity="two">" نبضة/دق"</item>
+        <item quantity="few">" نبضة/دق"</item>
+        <item quantity="many">" نبضة/دق"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">" خطوة"</item>
+        <item quantity="zero">" خطوة"</item>
+        <item quantity="one">"  خطوة"</item>
+        <item quantity="two">"  خطوات"</item>
+        <item quantity="few">"  خطوات"</item>
+        <item quantity="many">" خطوة"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_time">
+        <item quantity="other">س</item>
+        <item quantity="zero">س</item>
+        <item quantity="one">س</item>
+        <item quantity="two">س</item>
+        <item quantity="few">س</item>
+        <item quantity="many">س</item>
+    </plurals>
+    <plurals name="userinfo_target_calories_unit">
+        <item quantity="other">%1$d كيلوسعرة</item>
+        <item quantity="zero">%1$d كيلوسعرة</item>
+        <item quantity="one">%1$d كيلوسعرة</item>
+        <item quantity="two">%1$d كيلوسعرات</item>
+        <item quantity="few">%1$d كيلوسعرة</item>
+        <item quantity="many">%1$d كيلوسعرة</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">%1$d دق</item>
+        <item quantity="zero">%1$d دق</item>
+        <item quantity="one">%1$d دق</item>
+        <item quantity="two">%1$d دق</item>
+        <item quantity="few">%1$d دق</item>
+        <item quantity="many">%1$d دق</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">%1$d س</item>
+        <item quantity="zero">%1$d س</item>
+        <item quantity="one">%1$d س</item>
+        <item quantity="two">%1$d س</item>
+        <item quantity="few">%1$d س</item>
+        <item quantity="many">%1$d س</item>
+    </plurals>
+    <plurals name="userinfo_target_step_unit">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="userinfo_unit_heart_rate_space">
+        <item quantity="other">%1$d نبضة/دق</item>
+        <item quantity="zero">%1$d نبضة/دق</item>
+        <item quantity="one">%1$d نبضة/دق</item>
+        <item quantity="two">%1$d نبضة/دق</item>
+        <item quantity="few">%1$d نبضة/دق</item>
+        <item quantity="many">%1$d نبضة/دق</item>
+    </plurals>
+    <plurals name="userinfo_unit_min">
+        <item quantity="other">دقيقة</item>
+        <item quantity="zero">دقيقة</item>
+        <item quantity="one">دقيقة</item>
+        <item quantity="two">دقائق</item>
+        <item quantity="few">دقائق</item>
+        <item quantity="many">دقيقة</item>
+    </plurals>
+    <plurals name="userinfo_user_age_display_format_year">
+        <item quantity="other">%1$dسنة</item>
+        <item quantity="zero">%1$dسنة</item>
+        <item quantity="one">%1$dسنة</item>
+        <item quantity="two">%1$dسنوات</item>
+        <item quantity="few">%1$dسنوات</item>
+        <item quantity="many">%1$dسنة</item>
+    </plurals>
+</resources>
