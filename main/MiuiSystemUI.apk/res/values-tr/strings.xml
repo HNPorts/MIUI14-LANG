@@ -1692,7 +1692,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="over_one_week_timestamp">1 haftadan fazla bir süre önce</string>
     <string name="over_two_weeks_timestamp">2 haftadan fazla bir süre önce</string>
     <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
-    <string name="owner_info_settings_edit_text_hint">Örneğin: Hakan GÜVEN</string>
+    <string name="owner_info_settings_edit_text_hint"></string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="paused_by_dnd">Rahatsız etmeyin tarafından duraklatıldı</string>
     <string name="people_tile_description">Son mesajları, cevapsız aramaları ve durum güncellemelerini görün</string>
