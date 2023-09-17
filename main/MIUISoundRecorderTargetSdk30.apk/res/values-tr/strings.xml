@@ -442,7 +442,7 @@
     <string name="noon">Öğlen</string>
     <string name="not_allowed">Onaylama</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="notification_message_all_paused">Wifi bağlantısı için bekleniyor</string>
+    <string name="notification_message_all_paused">Wi-Fi bağlantısı için bekleniyor</string>
     <string name="notification_playback">Oynatılıyor</string>
     <string name="notification_recording">Kayıt ediliyor</string>
     <string name="notification_recording_ticker">Telefon sessiz moda alındı</string>
