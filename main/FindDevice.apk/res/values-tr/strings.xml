@@ -307,7 +307,7 @@ Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="night">ÖS</string>
     <string name="noon">ÖS</string>
     <string name="not_set">Ayarlanmadı</string>
-    <string name="open_wifi_settings">Wifi ayarlarını aç</string>
+    <string name="open_wifi_settings">Wi-Fi ayarlarını aç</string>
     <string name="passport_checking_vcode">Şifre kontrol ediliyor</string>
     <string name="passport_error_empty_vcode">Doğrulama kodunu girin</string>
     <string name="passport_notification_need_unlock_again">Yeniden kilit açmayı deneyin</string>
@@ -434,7 +434,7 @@ Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="unlock_error_user_name">Geçersiz kullanıcı adı</string>
     <string name="unlock_error_wrong_vcode">Girmiş olduğunuz kod hatalı</string>
     <string name="unlock_help">"Ağ bağlantınızı kapatmayın
-Çalışan bir Sim kartınız olduğundan ve cihazınızın kullanışsız bir wifi ağına bağlı olmadığından emin olun
+Çalışan bir Sim kartınız olduğundan ve cihazınızın kullanışsız bir Wi-Fi ağına bağlı olmadığından emin olun
 
 Şifrenizi mi unuttunuz?
 Şifrenizi sıfırlarmak için id.mi.com adresine gidin
