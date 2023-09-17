@@ -1598,7 +1598,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_homepage">Ana ekran</string>
     <string name="mw_miuichromium_error_page_mobile">Mobil Veri</string>
     <string name="mw_miuichromium_error_page_network_hijack">Mevcut ağ güvenli değil</string>
-    <string name="mw_miuichromium_error_page_network_off">Wifi veya mobil veri bağlantısını açın</string>
+    <string name="mw_miuichromium_error_page_network_off">Wi-Fi veya mobil veri bağlantısını açın</string>
     <string name="mw_miuichromium_error_page_no_network">Ağa bağlanılamıyor</string>
     <string name="mw_miuichromium_error_page_problem_access_denied">%s0 adresine erişim reddedildi</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Bu sayfanın önbelleğe alınmış sürümü yüklenemiyor</string>
@@ -1640,7 +1640,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">İnternet bağlantınızı kontrol edin</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobil veri) %s1 APN ayarlarınızı %s2 sıfırlayın</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Girmiş olduğunuz bağlantı adresini kontrol edin</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wifi) %s1 vekil sunucu ayarlarınızı %s2 kontrol edin</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1 vekil sunucu ayarlarınızı %s2 kontrol edin</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Önbelleği temizleyin</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Önbellek ve çerezleri temizle (Hesap bilgileriniz kaybolabilir)</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">İnternete bağlandıktan sonra tekrar yükleyin</string>
@@ -1650,7 +1650,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Bunları deneyin:</string>
     <string name="mw_miuichromium_error_page_title">Bir hata oluştu</string>
     <string name="mw_miuichromium_error_page_unknown_error">Bir şeyler ters gitti</string>
-    <string name="mw_miuichromium_error_page_wlan">Wifi bağlantısını aç</string>
+    <string name="mw_miuichromium_error_page_wlan">Wi-Fi bağlantısını aç</string>
     <string name="mw_month_picker_dialog_title">Ayı ayarla</string>
     <string name="mw_no_matches">Eşleşme yok</string>
     <string name="mw_older">Daha eski</string>
@@ -1707,8 +1707,8 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Git</string>
     <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
     <string name="net_error">Ağ hatası</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir wifi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Wifi ağı kullanılabilir</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir Wi-Fi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı kullanılabilir</string>
     <string name="new_update_available">Bir güncelleme mevcut</string>
     <string name="new_version_name">Yeni sürüm %s</string>
     <string name="news_flow_more_recommend">Daha fazla önerilen öge</string>
@@ -1997,7 +1997,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_adblock_summary">Bu özellik açıkken sayfalar daha yavaş yüklenebilir</string>
     <string name="pref_adblock_title">Reklam engelleyici</string>
     <string name="pref_auto_update">Otomatik olarak güncelle</string>
-    <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>
+    <string name="pref_auto_update_under_wifi">Wi-Fi kullanarak güncelle</string>
     <string name="pref_automatic_matching_searchengines_title">Sık kullanılan arama motoruna geç</string>
     <string name="pref_check_security_url_summary">İnternet sitesi bağlantı adreslerini güvenliklerini kontrol etmek amacıyla Mi sunucularına gönder</string>
     <string name="pref_check_security_url_summary_international">Tarayıcıya daha ilgili öneriler almak için ziyaret ettiğiniz internet sitelerinin bağlantı adreslerine ulaşım izni verin</string>
@@ -2776,7 +2776,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="url_suggest_indicator_bookmark">Yer imleri ve geçmiş</string>
     <string name="url_suggest_indicator_hoturl">Popüler</string>
     <string name="url_suggest_indicator_mostvisited">En çok ziyaret edilenler</string>
-    <string name="use_cellular_network_alert_message">Wifi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
+    <string name="use_cellular_network_alert_message">Wi-Fi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
     <string name="use_cellular_network_alert_title">Veri kullanımı</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
