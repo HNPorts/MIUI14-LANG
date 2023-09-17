@@ -86,8 +86,8 @@ Tekrar deneyin"</string>
     <string name="btn_restore_continue">Yine de geri yükle</string>
     <string name="btn_restore_resume">Devam et</string>
     <string name="btn_restore_retry">Tekrar dene</string>
-    <string name="btn_restore_wait">Wifi ağı bekleniliyor</string>
-    <string name="btn_restore_wait_china">Wifi ağı bekleniliyor</string>
+    <string name="btn_restore_wait">Wi-Fi ağı bekleniliyor</string>
+    <string name="btn_restore_wait_china">Wi-Fi ağı bekleniliyor</string>
     <string name="btn_retry">Tekrar kontrol et</string>
     <string name="btn_skip">Bu adımı atla</string>
     <string name="button_cancel">İptal et</string>
@@ -182,13 +182,13 @@ Tekrar deneyin"</string>
     <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
     <string name="cloud_app_restore_wifi_prompt">Bulut yedeklemesinden geri yükleyin</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-    <string name="cloud_back_up_detail_discription">"Cihazınız bir wifi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
+    <string name="cloud_back_up_detail_discription">"Cihazınız bir Wi-Fi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
 * Uygulamalar, ana ekran düzeni ve duvar kağıtları 
 * Alarmlar, saat ve zaman ayarları 
 * Bildirim ayarları 
 * MIUI ve sistem ayarları 
 Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedeklenmez"</string>
-    <string name="cloud_back_up_detail_discription_china">"Cihazınız bir wifi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
+    <string name="cloud_back_up_detail_discription_china">"Cihazınız bir Wi-Fi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
 * Uygulamalar, ana ekran düzeni ve duvar kağıtları 
 * Alarmlar, saat ve zaman ayarları 
 * Bildirim ayarları 
@@ -216,8 +216,8 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_no_time">Yedek kayıt yok</string>
     <string name="cloud_backup_detail_state">Otomatik yedekle</string>
-    <string name="cloud_backup_detail_state_summary">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
-    <string name="cloud_backup_detail_state_summary_china">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
+    <string name="cloud_backup_detail_state_summary_china">Wi-Fi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
     <string name="cloud_backup_detail_time">Son yedekleme: %1$s</string>
     <string name="cloud_backup_detail_title">Ana ekran, uygulamalar ve ayarlar</string>
 	<string name="cloud_backup_get_installed_apps_summary">Ana ekran uygulamalarını yedeklemek ve geri yüklemek içindir</string>
@@ -282,22 +282,22 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="dialog_get_installed_apps_consent_message">Otomatik olarak yedekleyebilmek için ayarlarda bu uygulamaya cihazınızda yüklü uygulamalar listesine erişme izni verin ve Her zaman izin veri seçin</string>
     <string name="dialog_get_installed_apps_consent_title">İzinler gerekli</string>
     <string name="dialog_msg_overwrite_backup">Yerel yedekleme Xiaomi buluttakinden farklı. Devam ederseniz geçerli yedekleme öncekinin üzerine yazacaktır</string>
-    <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
-    <string name="dialog_msg_restore_require_wlan_china">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
+    <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için Wi-Fi ağına bağlanmayı gerektirir</string>
+    <string name="dialog_msg_restore_require_wlan_china">Yedekleri geri yüklemek için Wi-Fi ağına bağlanmayı gerektirir</string>
     <string name="dialog_need_permission">Gerekli izinler</string>
     <string name="dialog_negative_btn_cancel_backup">Yedeklemeyi iptal et</string>
     <string name="dialog_negative_btn_cancel_restore">Geri yüklemeyi durdur</string>
     <string name="dialog_positive_btn_cancel_backup">İptal etme</string>
     <string name="dialog_positive_btn_cancel_restore">Durdurma</string>
-	<string name="dialog_recommend_wechat_backup_content">"Artık WeChat konuşmalarını ve diğer verileri Xiaomi bulut'a yedekleyebilirsiniz. Öğelerinizi yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan %s'den fazla pili olduğundan ve geceleri wifi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
-	<string name="dialog_recommend_wechat_backup_content_china">"Artık WeChat konuşmalarını ve diğer verileri Xiaomi bulut'a yedekleyebilirsiniz. Öğelerinizi yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan, %s'den fazla pili olduğundan ve geceleri wifi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
+	<string name="dialog_recommend_wechat_backup_content">"Artık WeChat konuşmalarını ve diğer verileri Xiaomi bulut'a yedekleyebilirsiniz. Öğelerinizi yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan %s'den fazla pili olduğundan ve geceleri Wi-Fi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
+	<string name="dialog_recommend_wechat_backup_content_china">"Artık WeChat konuşmalarını ve diğer verileri Xiaomi bulut'a yedekleyebilirsiniz. Öğelerinizi yedekleyebilmek için yeterli bulut depolama alanınız olduğundan ve bu cihazın kilitli olduğundan, %s'den fazla pili olduğundan ve geceleri Wi-Fi'e bağlı olduğundan emin olun. Ayrıca istediğiniz zaman manuel olarak da yedekleyebilirsiniz"</string>
 	<string name="dialog_recommend_wechat_backup_negative">Tamam</string>
 	<string name="dialog_recommend_wechat_backup_positive">Daha fazla bilgi edinin</string>
 	<string name="dialog_recommend_wechat_backup_title">WeChat verilerini yedekleyin</string>
     <string name="dialog_title_cancel_backup">Yedeklemeyi iptal et</string>
     <string name="dialog_title_cancel_restore">Geri yüklemeyi durdur</string>
-    <string name="dialog_title_require_wlan">Wifi ağına bağlan</string>
-    <string name="dialog_title_require_wlan_china">Wifi ağına bağlan</string>
+    <string name="dialog_title_require_wlan">Wi-Fi ağına bağlan</string>
+    <string name="dialog_title_require_wlan_china">Wi-Fi ağına bağlan</string>
     <string name="dialog_wechat_data_close_agree">Devam et</string>
     <string name="dialog_wechat_data_close_disagree">Kapat</string>
     <string name="dialog_wechat_data_close_message">"Bu özelliği kapatırsanız bulut yedeklemeyi bir sonraki kullanışınızda WeChat verileri yedeklenmeyecektir. Bu veri kaybına neden olabilir. WeChat yedeklemeleri şimdi kapatılsın mı?"</string>
