@@ -321,10 +321,10 @@
         <item>Bugün (Veri)</item>
         <item>Geçen ay (Veri)</item>
         <item>Bu ay (Veri)</item>
-        <item>Dün (Wifi)</item>
-        <item>Bugün (Wifi)</item>
-        <item>Geçen ay (Wifi)</item>
-        <item>Bu ay (Wifi)</item>
+        <item>Dün (Wi-Fi)</item>
+        <item>Bugün (Wi-Fi)</item>
+        <item>Geçen ay (Wi-Fi)</item>
+        <item>Bu ay (Wi-Fi)</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Dün "</item>
@@ -470,7 +470,7 @@
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobil veri kullanımı "</item>
-        <item>"Wifi kullanımı "</item>
+        <item>"Wi-Fi kullanımı "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
         <item>Önemli: Birden fazla sistem uygulaması düzgün çalışmayabilir</item>
@@ -821,7 +821,7 @@
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobil veri kullanımı "</item>
-        <item>"Wifi kullanımı "</item>
+        <item>"Wi-Fi kullanımı "</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
