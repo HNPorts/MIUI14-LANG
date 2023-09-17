@@ -67,7 +67,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="account_settings_background_attachments_security">account_settings_background_attachments_security</string>
     <string name="account_settings_background_attachments_security_summary">Güvenlik riskleri için kurulum paketleri içeren ekleri kontrol edin</string>
     <string name="account_settings_background_attachments_security_title">Ekleri risklere karşı kontrol edin</string>
-    <string name="account_settings_background_attachments_summary">Eklentileri wifi kullanarak indir</string>
+    <string name="account_settings_background_attachments_summary">Eklentileri Wi-Fi kullanarak indir</string>
     <string name="account_settings_background_attachments_title">Ekleri otomatik olarak indir</string>
     <string name="account_settings_bcc">account_settings_bcc</string>
     <string name="account_settings_body_load">account_settings_body_load</string>
@@ -1306,7 +1306,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="server_cet_data_exp">Bu sunucunun sertifikasının süresi doldu.</string>
     <string name="server_cet_domain">"Alan adı: "</string>
     <string name="server_cet_error_sug">"Aşağıdakileri deneyin:
-1. Farklı bir ağa bağlanın ve wifi yönlendiricinizi yeniden başlatın
+1. Farklı bir ağa bağlanın ve Wi-Fi yönlendiricinizi yeniden başlatın
 2. Geçerli sertifikaları kullandığınızdan emin olun"</string>
     <string name="server_cet_error_title_1">Sunucunun sertifikası bu alanı desteklemiyor</string>
     <string name="server_cet_error_title_2">Sertifikanın süresi doldu</string>
