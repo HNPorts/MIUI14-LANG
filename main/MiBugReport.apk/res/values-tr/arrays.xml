@@ -257,8 +257,8 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="net_diag_err_link_quality">
-        <item>Zayıf wifi bağlantısı. Kablosuz bantları değiştirin veya yönlendiriciyi yeniden başlatın</item>
-        <item>"Ağa erişilemiyor. Wifi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
+        <item>Zayıf Wi-Fi bağlantısı. Kablosuz bantları değiştirin veya yönlendiriciyi yeniden başlatın</item>
+        <item>"Ağa erişilemiyor. Wi-Fi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
         <item>Zayıf WLAN bağlantısı. Kablosuz bantları değiştirin veya yönlendiriciyi yeniden başlatın</item>
@@ -269,7 +269,7 @@
         <item>Ağ erişimi kısıtlı. Bu cihazda saati ayarlayın ve yönlendiricinin ağ ayarlarını kontrol edin</item>
         <item>Ağ hatası. HTTP proxy ayarlarını kontrol edin</item>
         <item>Ağ hatası. Yönlendiricinin internete erişip erişemediğini kontrol edin</item>
-        <item>"Ağa bağlanılamıyor. Wifi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
+        <item>"Ağa bağlanılamıyor. Wi-Fi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>Kimlik doğrulama ağ erişimi için gereklidir</item>
@@ -281,7 +281,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>DNS sunucu hatası. Yönlendiricinin DNS yapılandırmasını kontrol edin</item>
         <item>DNS sunucusundan gelen büyük gecikmeler. Yönlendiricinin DNS yapılandırmasını kontrol edin</item>
-        <item>"Ağ geçidine erişilemiyor. Wifi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
+        <item>"Ağ geçidine erişilemiyor. Wi-Fi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>DNS sunucu hatası. Yönlendiricinin DNS yapılandırmasını kontrol edin</item>
@@ -296,13 +296,13 @@
         <item>"Statik IP'den DHCP'ye geçiş yapın"</item>
     </string-array>
     <string-array name="net_diag_err_network_protocol">
-        <item>"Ağ protokolü hatası. Wifi'ye yeniden bağlanın veya cihazı yeniden başlatın"</item>
+        <item>"Ağ protokolü hatası. Wi-Fi'ye yeniden bağlanın veya cihazı yeniden başlatın"</item>
     </string-array>
     <string-array name="net_diag_err_network_protocol_china">
         <item>"Ağ protokolü hatası. WLAN'a yeniden bağlanın veya cihazı yeniden başlatın"</item>
     </string-array>
     <string-array name="net_diag_err_network_rssi">
-        <item>Daha iyi Wifi kapsama alanına sahip bir alana gidin</item>
+        <item>Daha iyi Wi-Fi kapsama alanına sahip bir alana gidin</item>
     </string-array>
     <string-array name="net_diag_err_network_rssi_china">
         <item>Daha iyi WLAN kapsama alanına sahip bir alana gidin</item>
