@@ -236,19 +236,19 @@
     <string-array name="micloud_entrance_subtitleArray">
         <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
         <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
-        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Wi-Fi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
         <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
-        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Wi-Fi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
         <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
-        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Wi-Fi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
@@ -258,7 +258,7 @@
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Kişilerinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
         <item>Uygulamalarınızı, ana ekran düzeninizi ve duvar kağıtlarınızı yedekleyin</item>
-        <item>Wifi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Wi-Fi ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybettiğiniz zaman uzaktan kolayca kilitleyin</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
@@ -439,14 +439,14 @@
         <item>Yetersiz depolama;Üyelik;Depolama;Depolama alanı;Bulut;Senkronizasyon;Bulut hizmetleri;Xiaomi bulut;Çöp kutusu;Silinen öğeler;Güvenlik</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Wifi ayarlarını Mi bulut ile senkronize et</item>
+        <item>Wi-Fi ayarlarını Mi bulut ile senkronize et</item>
         <item>Senkronizasyonu aç</item>
-        <item>Wifi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
+        <item>Wi-Fi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Wifi ayarlarını Mi bulut ile senkronize et</item>
+        <item>Wi-Fi ayarlarını Mi bulut ile senkronize et</item>
         <item>Senkronizasyonu aç</item>
-        <item>Wifi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
+        <item>Wi-Fi;Bulut;Senkronize;Bulut hizmetleri;Mi bulut</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
