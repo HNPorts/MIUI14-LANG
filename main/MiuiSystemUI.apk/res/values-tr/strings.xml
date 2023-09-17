@@ -1321,6 +1321,10 @@ EEEE"</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'ı seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="material_minute_selection">Dakika seçin</string>
     <string name="material_minute_suffix">%1$s dakika</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
@@ -1956,6 +1960,10 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
     <string name="quick_settings_sync_label">Senkronize</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için onu basılı tutun ve ardından panelin üst kısmına sürükleyin</string>
+	<string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="quick_settings_ui_mode_night_label">Koyu tema</string>
     <string name="quick_settings_user_title">Kullanıcı</string>
     <string name="quick_settings_vibrate_label">Titreşim</string>
@@ -1968,8 +1976,13 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Tekrar gösterme</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Ağlar arasında geçiş yap</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Çift bant Wi-Fi ağı hız artışı iki farklı Wi-Fi ağı bandı kullanması gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolacaktır</string>
+<<<<<<< HEAD
     <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
+=======
+    <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir Wi-Fii ağı yok</string>
+    <string name="quick_settings_wifi_label">Wi-Fii</string>
+>>>>>>> 20c77f5e9c91362926cf1226505ebd5a5593a5e7
     <string name="quick_settings_wifi_secondary_label_transient">Açılıyor</string>
     <string name="quick_settings_work_mode_label">Çalışma modu</string>
     <string name="quick_step_accessibility_toggle_overview">Genel bakışı değiştir</string>
@@ -2531,7 +2544,11 @@ Wi-Fi adresi (BSSID)
     <string name="wifi_not_in_range">Kapsama alanı dışında</string>
     <string name="wifi_passpoint_expired">Süresi doldu</string>
     <string name="wifi_remembered">Kaydedildi</string>
+<<<<<<< HEAD
     <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirin. Uygulamalar ve hizmetler Wi-Fi kapalıyken bile istedikleri zaman Wi-Fi ağlarını tarayabilir. Bunu Wi-Fi tarama ayarlarında değiştirebilirsiniz</string>
+=======
+    <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirin. Uygulamalar ve hizmetler Wi-Fi kapalıyken bile istedikleri zaman Wi-Fi ağlarını tarayabilir. Bunu wifi tarama ayarlarında değiştirebilirsiniz</string>
+>>>>>>> 20c77f5e9c91362926cf1226505ebd5a5593a5e7
     <string name="wifi_scan_throttling">Wi-Fi taramayı azalt</string>
     <string name="wifi_scan_throttling_summary">Pil tüketimini azaltır &amp; ağ performansını iyileştirir</string>
     <string name="wifi_security_none">Hiçbiri</string>
