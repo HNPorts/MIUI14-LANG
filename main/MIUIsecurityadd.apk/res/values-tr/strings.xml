@@ -589,9 +589,9 @@ Güvenli ve daha güvenli"</string>
     <string name="network_error">Bir ağ hatası oluştu</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="network_setting">Ağ ayarları</string>
-    <string name="network_wlan_net_checkbox_title">Wifi ağını etkinleştir</string>
+    <string name="network_wlan_net_checkbox_title">Wi-Fi ağını etkinleştir</string>
     <string name="night">Akşam</string>
-    <string name="no_net_dialog_msg">Önce bir çocuk alanı oluşturduğunuzda çocuk alanına ilgili içerik ve hizmetleri yüklemek için ağa bağlanmanız gerekir. Lütfen mobil ağa veya wifi ağına gidin</string>
+    <string name="no_net_dialog_msg">Önce bir çocuk alanı oluşturduğunuzda çocuk alanına ilgili içerik ve hizmetleri yüklemek için ağa bağlanmanız gerekir. Lütfen mobil ağa veya Wi-Fi ağına gidin</string>
     <string name="no_net_dialog_negative_text">İptal et</string>
     <string name="no_net_dialog_positive_text">Git</string>
     <string name="no_net_dialog_title">Hemen</string>
