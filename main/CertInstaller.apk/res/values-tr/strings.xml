@@ -49,8 +49,8 @@
     <string name="user_certificate">VPN &amp; uygulama kullanıcı sertifikası</string>
     <string name="userkey_type">Algoritma:</string>
     <string name="wifi_cancel_label">İptal et</string>
-    <string name="wifi_cert_is_added">Wifi sertifikası yüklendi</string>
-    <string name="wifi_certificate">Wifi sertifika</string>
+    <string name="wifi_cert_is_added">Wi-Fi sertifikası yüklendi</string>
+    <string name="wifi_certificate">Wi-Fi sertifika</string>
     <string name="wifi_config_text">"Ad: %1$s
 Tam nitelikli alan adı: %2$s
 Dolaşım konsorsiyumları: %3$s
@@ -61,17 +61,17 @@ Kimlik doğrulama yöntemi: EAP-%5$s
     <string name="wifi_detail_title">%s ayrıntıları</string>
     <string name="wifi_dismiss_label">Kapat</string>
     <string name="wifi_install_label">Yükle</string>
-    <string name="wifi_installer_detail">%1$s aracılığı ile kullanılabilen ağlara bağlanabilmek için wifi kimlik bilgilerini yükleyin</string>
+    <string name="wifi_installer_detail">%1$s aracılığı ile kullanılabilen ağlara bağlanabilmek için Wi-Fi kimlik bilgilerini yükleyin</string>
     <string name="wifi_installer_download_error">İndirilen dosyada sorunlar var ve yüklenemiyor. Dosyayı doğru kaynaktan indirdiğinizden emin olun</string>
-    <string name="wifi_installer_fail">Wifi kimlik bilgileri yüklenemiyor. Dosyayı tekrar indirmeyi deneyin</string>
-    <string name="wifi_installer_fail_no_wifi">Wifi bağlantısını açın ve tekrar deneyin</string>
+    <string name="wifi_installer_fail">Wi-Fi kimlik bilgileri yüklenemiyor. Dosyayı tekrar indirmeyi deneyin</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi bağlantısını açın ve tekrar deneyin</string>
     <string name="wifi_installer_fail_no_wifi_title">Yükleme işlemi iptal edildi</string>
     <string name="wifi_installer_fail_title">Yüklenemiyor</string>
     <string name="wifi_installing_label">Yükleniyor</string>
     <string name="wifi_no_config">Yok</string>
     <string name="wifi_sim_config_text">"Sim: %s
 "</string>
-    <string name="wifi_title">Wifi profili</string>
+    <string name="wifi_title">Wi-Fi profili</string>
     <string name="wifi_tls_config_text">"İstemci sertifikası:
 %1$s
 Anahtar: %2$s
