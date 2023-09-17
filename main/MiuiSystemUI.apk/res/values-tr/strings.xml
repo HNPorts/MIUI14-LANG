@@ -1321,6 +1321,10 @@ EEEE"</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'ı seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki WLAN ağlarını seçin</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Yakındaki WLAN ağlarını seçin</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
+    <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="material_minute_selection">Dakika seçin</string>
     <string name="material_minute_suffix">%1$s dakika</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
