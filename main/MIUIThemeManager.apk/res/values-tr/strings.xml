@@ -446,7 +446,7 @@
     <string name="exo_download_notification_channel_name">İndirilenler</string>
     <string name="exo_download_paused">İndirmeler duraklatıldı</string>
     <string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
-    <string name="exo_download_paused_for_wifi">Wifi için bekleyen indirmeler</string>
+    <string name="exo_download_paused_for_wifi">Wi-Fi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
@@ -1760,7 +1760,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="use_now">Ekle</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut</string>
     <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
-    <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>
+    <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda Wi-Fi ağı üzerinden otomatik olarak günceller</string>
     <string name="using_theme_show_ad">Öneriler</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
