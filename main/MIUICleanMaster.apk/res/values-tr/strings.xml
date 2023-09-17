@@ -430,7 +430,7 @@
     <string name="exo_download_notification_channel_name">İndirilenler</string>
     <string name="exo_download_paused">İndirmeler duraklatıldı</string>
     <string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
-    <string name="exo_download_paused_for_wifi">Wifi için bekleyen indirmeler</string>
+    <string name="exo_download_paused_for_wifi">Wi-Fi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirme kaldırılıyor</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="facebook_clean_exit_confirm_cancel">Taramaya devam et</string>
@@ -734,7 +734,7 @@
     <string name="label_image_list_none">Hiçbiri</string>
     <string name="label_preserve_the_best_image">En iyi fotoğrafları kaydet</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
-    <string name="load_only_under_wlan">Yalnızca wifi kullanarak yükle</string>
+    <string name="load_only_under_wlan">Yalnızca Wi-Fi kullanarak yükle</string>
     <string name="location_not_found">Dosya bulunamadı</string>
     <string name="login_immediately">Oturum aç</string>
     <string name="long_click_dialog_summary">İstisnalara eklemek için uzun basın</string>
