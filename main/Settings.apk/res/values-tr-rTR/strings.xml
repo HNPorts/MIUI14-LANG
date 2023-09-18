@@ -10279,7 +10279,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_ap_ssid_off">Kapalı</string>
     <string name="wifi_ap_ssid_on">Açık</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
-    <string name="wifi_api_test">WLAN API</string>
+    <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_ask_disable">%s kablosuz özelliğini kapatmak istiyor</string>
     <string name="wifi_ask_enable">%s kablosuz özelliğini açmak istiyor</string>
     <string name="wifi_assist">Wi-Fi yardımcısı</string>
