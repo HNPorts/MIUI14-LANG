@@ -484,7 +484,7 @@ Diğer şehirlerdeki oteller size gösterilmeyecek."</string>
   <string name="privacy_permission_storage_desc">Görüntüleri kaydetmek için</string>
   <string name="privacy_permission_storage_title">Depolama alanına erişim</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="privacy_policy_setting">Mahremiyet</string>
+  <string name="privacy_policy_setting">Gizlilik</string>
   <string name="privacy_revoke_dialog_content_cn">"Devam ederseniz %1$s Gizlilik Politikasına verdiğiniz onayı geri çekmiş olacaksınız. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe geçerli yasa ve düzenlemelere uygun olarak belirli bir süre içinde silinecektir. %2$s olarak  hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağlıyorsa, izninizi geri çekmeniz %3$s hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Onay şimdi geri çekilsin mi?"</string>
   <string name="privacy_revoke_dialog_positive_text">Geri çek</string>
   <string name="privacy_revoke_dialog_positive_text_numbers">Geri çekme (%ds)</string>
@@ -543,7 +543,7 @@ Diğer şehirlerdeki oteller size gösterilmeyecek."</string>
   <string name="settings_image_save_mode">Kaydedilen görüntülerin kalitesi</string>
   <string name="settings_image_save_mode_normal_and_super">Düzenli ve süper çözünürlüklü görüntüleri kaydedin</string>
   <string name="settings_one_finger_title">1 parmak</string>
-  <string name="settings_operation_mode_title">Jest yapmak</string>
+  <string name="settings_operation_mode_title">Hareket</string>
   <string name="settings_taplus_double_finger_summary">Taplusu kullanmak için bir öğeye iki parmağınızla basılı tutun</string>
   <string name="settings_taplus_introduction">Taplus, görüntüleri tanıyan, kopyalanan metinlerle çalışan ve bağlamsal bilgi ve hizmetler almanızı sağlayan bir sistem uygulamasıdır.</string>
   <string name="settings_taplus_introduction_title">Taplus, bağlamsal bilgi almak için ekranınızdaki öğelere basılı tutarak görüntüleri ve metinleri analiz etmenize olanak tanıyan bir sistem hizmetidir.</string>
