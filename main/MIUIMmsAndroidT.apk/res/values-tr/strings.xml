@@ -102,6 +102,7 @@ içeren mesajlar engellenenler listesine eklendi"</string>
     <string name="system_permission_perm_new_read_sms">Mesaj içeriğine erişim için</string>
     <string name="system_permission_perm_write_contact">Kişileri oluşturmak ve düzenlemek için</string>
     <string name="system_permission_perm_read_contact">Mesaj oluştururken kişilere erişmek için</string>
+    <string name="system_permission_perm_call_log">Mesaj oluştururken son kişilerinize erişmek için</string>
     <string name="system_permission_perm_calendar">Takvim etkinlikleri oluşturmak için</string>
     <string name="pref_title_perm_audio">Ses kaydı</string>
     <string name="pref_title_perm_send_mms">SMS gönder</string>
