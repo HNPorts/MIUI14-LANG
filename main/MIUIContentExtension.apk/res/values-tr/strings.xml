@@ -186,7 +186,7 @@ Bölgesel yapıların ve kurumların (örneğin, Haidian Bölgesi Halk Hükümet
   <string name="coverage_books_summary_feedback">Hataları bildirmek ve Taplusu daha iyi hale getirmemize yardımcı olmak için %s kullanın.</string>
   <string name="coverage_celebrity_summary">"Celebrity veritabanı 3 milyon kişiye ait bilgi içeriyor. Diğer Baike.com makaleleri mevcut değil. Birden fazla kişi aynı adı taşıdığında, daha popüler bir kişinin bilgileri görüntülenecektir. Ayrıca Baikei açabilir ve belirsizliği giderme özelliğini kullanabilirsiniz.  "</string>
   <string name="coverage_celebrity_summary_addition">Şu anda yalnızca basitleştirilmiş Çince adlar desteklenmektedir.</string>
-  <string name="coverage_celebrity_summary_feedback">Hataları bildirmek ve Tapusu daha iyi hale getirmemize yardımcı olmak için %s kullanın.</string>
+  <string name="coverage_celebrity_summary_feedback">Hataları bildirmek ve Taplusu daha iyi hale getirmemize yardımcı olmak için %s kullanın.</string>
   <string name="coverage_feedback">Geri bildirim</string>
   <string name="coverage_fiction_summary">Çeşitli kitapların benzer başlıkları veya versiyonları varsa, daha yeni ve popüler olanlara öncelik verilir.  Belirsizliği giderme seçenekleri de mevcuttur.</string>
   <string name="coverage_fiction_summary_feedback">"Taplus bazı kitap başlıklarını tanımıyorsa bu tür sorunları Geri Bildirimi kullanarak bildirebilirsiniz."</string>
@@ -458,7 +458,7 @@ Diğer şehirlerdeki oteller size gösterilmeyecek."</string>
   <string name="other_app_blacklist_category_add">Ekle</string>
   <string name="other_app_blacklist_category_empty">Burada öğe yok.</string>
   <string name="other_app_blacklist_category_title">Engellenenler listesi</string>
-  <string name="other_app_blacklist_declaration">"Not:Gereksiz eylemlerin tetiklenmesini önlemek için MIUI, Tapusu aşağıdaki durumlarda kısıtladı:1. Bir uygulama tam ekran modunda çalıştığında (ör. oyunlar ve videolar).2. Metin girebilmeniz için bir klavye görünebileceği zaman.3. Basılı tuttuğunuz nesne, düzenlenen metin olduğunda.4. Basılı tutulduğunda diğer yerel özellikler ve eylemler etkinleştirilir.Yukarıdaki kısıtlamalar, engellenenler listenize eklediğiniz öğelerle birleştirilecektir."</string>
+  <string name="other_app_blacklist_declaration">"Not:Gereksiz eylemlerin tetiklenmesini önlemek için MIUI, Taplusu aşağıdaki durumlarda kısıtladı:1. Bir uygulama tam ekran modunda çalıştığında (ör. oyunlar ve videolar).2. Metin girebilmeniz için bir klavye görünebileceği zaman.3. Basılı tuttuğunuz nesne, düzenlenen metin olduğunda.4. Basılı tutulduğunda diğer yerel özellikler ve eylemler etkinleştirilir.Yukarıdaki kısıtlamalar, engellenenler listenize eklediğiniz öğelerle birleştirilecektir."</string>
   <string name="other_app_blacklist_empty_title">"Uygulama bulunamadı."</string>
   <string name="other_app_blacklist_summary">"Taplus desteğine ihtiyaç duymadıklarını düşünüyorsanız uygulamaları engellenenler listesine ekleyin. Engellenenler listesi uyumluluk sorunlarından kaçınmanıza yardımcı olabilir."</string>
   <string name="other_app_blacklist_title">Uygulama engellenenler listesi</string>
