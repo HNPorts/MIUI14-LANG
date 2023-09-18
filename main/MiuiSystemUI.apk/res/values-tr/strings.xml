@@ -189,6 +189,8 @@ Ayarları görüntüle"</string>
     <string name="accessibility_quick_settings_dnd_alarms_on">Rahatsız etme. Sadece alarmlar</string>
     <string name="accessibility_quick_settings_dnd_none_on">Rahatsız etme. Tam sessizlik</string>
     <string name="accessibility_quick_settings_edit">Ayarların sırasını düzenle</string>
+	<string name="quick_settings_miui_wlan_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
+	<string name="quick_settings_miui_wifi_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
     <string name="accessibility_quick_settings_expand">Hızlı ayarları aç</string>
     <string name="accessibility_quick_settings_less_time">Daha az zaman</string>
     <string name="accessibility_quick_settings_more_time">Daha fazla zaman</string>
