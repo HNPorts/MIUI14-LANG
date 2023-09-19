@@ -1964,6 +1964,11 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için onu basılı tutun ve ardından panelin üst kısmına sürükleyin</string>
 	<string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
     <string name="quick_settings_state_wlan_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
+	<string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+	<string name="quick_settings_miui_wlan_label">Wi-Fi</string>
+	<string name="quick_settings_wifi_is_off">Wi-Fi kapalı</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+	<string name="quick_settings_wlan_is_off">Wi-Fi kapalıysa</string>
     <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="quick_settings_ui_mode_night_label">Koyu tema</string>
