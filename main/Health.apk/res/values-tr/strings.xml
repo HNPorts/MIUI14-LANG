@@ -3413,7 +3413,7 @@ Baştan başlayın."</string>
   <string name="login_common_region">Bölge</string>
   <string name="login_common_skip">Atla</string>
   <string name="login_common_step_next">İleri</string>
-  <string name="login_concise_desc_sub">Karakteri, Profil &amp;gt; Ayarlar menüsünden kaldırabilir veya ekleyebilirsiniz.</string>
+  <string name="login_concise_desc_sub">Karakteri, Profil Ayarlar menüsünden kaldırabilir veya ekleyebilirsiniz.</string>
   <string name="login_concise_mode">Sade</string>
   <string name="login_concise_title">Profil karakteri</string>
   <string name="login_enter_app">Başlat</string>
@@ -3427,11 +3427,11 @@ Baştan başlayın."</string>
   <string name="login_open_sport_health_cloud_sync_des">Egzersiz ve fitness verilerinizi tüm cihazlarınızda senkronize edin.</string>
   <string name="login_other">Başka bir Mi Hesabı</string>
   <string name="login_personalize_mode">Klasik</string>
-  <string name="login_privacy_add_experience_tips">"&amp;lt;Data&amp;gt;İstatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için &amp;lt;a href=\"%1$s\"&amp;gt;Kullanıcı Deneyimi Programı'na&amp;lt;/a&amp;gt; kaydolun.&amp;lt;/Data&amp;gt;"</string>
-  <string name="login_privacy_add_experience_tips_korea">"&amp;lt;Data&amp;gt;İstatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için &amp;lt;a href=\"%1$s\"&amp;gt;Kullanıcı Deneyimi Programı'na&amp;lt;/a&amp;gt; kaydolun (isteğe bağlı).&amp;lt;/Data&amp;gt;"</string>
+  <string name="login_privacy_add_experience_tips">"İstatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için Kullanıcı Deneyimi Programı'na kaydolun."</string>
+  <string name="login_privacy_add_experience_tips_korea">"İstatistiklerinizi bizimle paylaşarak ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için Kullanıcı Deneyimi Programı'na kaydolun (isteğe bağlı)"</string>
   <string name="login_privacy_agree_all">Hepsini kabul ediyorum</string>
-  <string name="login_privacy_agree_protocol_and_policy">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"%2$s\"&amp;gt;Gizlilik Politikası'nı&amp;lt;/a&amp;gt; okuyun ve kabul edin.&amp;lt;/Data&amp;gt;"</string>
-  <string name="login_privacy_agree_protocol_and_policy_modified">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"%2$s\"&amp;gt;Gizlilik Politikası'nı&amp;lt;/a&amp;gt; &amp;lt;a href=\"%3$s\"&amp;gt;(Gizlilik Politikası özeti'ni)&amp;lt;/a&amp;gt; okuyun ve kabul edin.&amp;lt;/Data&amp;gt;"</string>
+  <string name="login_privacy_agree_protocol_and_policy">"Kullanıcı Sözleşmesi ve Gizlilik Politikası'nı okuyun ve kabul edin."</string>
+  <string name="login_privacy_agree_protocol_and_policy_modified">"Kullanıcı Sözleşmesi ve Gizlilik Politikası'nı okuyun ve kabul edin."</string>
   <string name="login_privacy_agree_tips">"İzin tercihlerini istediğiniz zaman Ayarlar'da ayarlayabilirsiniz."</string>
   <string name="login_privacy_agree_to_terms_kr">Şartlar ve koşullar</string>
   <string name="login_privacy_click_to_understand">Daha fazla bilgi edinin</string>
@@ -3447,15 +3447,15 @@ Herhangi bir kişisel bilgi vermek istemiyorsanız Temel modu kullanmayı seçeb
   <string name="login_privacy_enter_easy_mode">Temel modu kullan</string>
   <string name="login_privacy_exit_app">Çıkış</string>
   <string name="login_privacy_necessary_authority">Uygulamayı kullanıyorken size ek hizmetler sağlamak için aşağıdaki izinlere ihtiyaç duyabiliriz:</string>
-  <string name="login_privacy_optional_agree_use_location">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Konum Bilgisinin Toplanması'nı&amp;lt;/a&amp;gt; kabul ediyorum (isteğe bağlı).&amp;lt;/Data&amp;gt;"</string>
+  <string name="login_privacy_optional_agree_use_location">"Konum Bilgisinin Toplanması'nı kabul ediyorum (isteğe bağlı)."</string>
   <string name="login_privacy_permission_cn_des">Ek hizmetler sağlamak için arama yapmak, ses kaydetmek, Bluetooth ve kamera kullanmak, bildirim ve SMS göndermek ve ayrıca konumunuza, etkinlik bilgilerinize, takviminize ve cihaz bilgilerinize erişmek için izin isteyebiliriz. İzin tercihlerinizi her zaman Ayarlar menüsünde ayarlayabilirsiniz.</string>
-  <string name="login_privacy_required_agree_collect_info">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Kişisel Bilgilerin Toplanması ve Kullanılması'nı&amp;lt;/a&amp;gt; kabul ediyorum (zorunlu).&amp;lt;/Data&amp;gt;"</string>
-  <string name="login_privacy_required_agree_policy">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Kullanıcı Sözleşmesi'ni&amp;lt;/a&amp;gt; kabul ediyorum (zorunlu).&amp;lt;/Data&amp;gt;"</string>
+  <string name="login_privacy_required_agree_collect_info">"Kişisel Bilgilerin Toplanması ve Kullanılması'nı kabul ediyorum (zorunlu)."</string>
+  <string name="login_privacy_required_agree_policy">"Kullanıcı Sözleşmesi'ni kabul ediyorum (zorunlu)."</string>
   <string name="login_privacy_rights_cn_des">"Mi Fitness'a hoş geldiniz! Cihazlarınızı yönetmek, egzersizlerinizi takip etmek ve fitness verilerini görüntülemek için bu uygulamayı kullanabilirsiniz. Bu uygulamanın normal çalışabilmesi için internete bağlanması gerekir."</string>
   <string name="login_privacy_rights_des">"Mi Fitness'a hoş geldiniz. Bu uygulamayı cihazlarınızı yönetmek, egzersizlerinizi takip etmek ve sağlık verilerinizi görüntülemek için kullanabilirsiniz. Kişisel bilgilerinizi ilgili yasa, yönetmelikler ve gizlilik politikalarına göre koruyacağız. Bu uygulamanın normal çalışabilmesi için internete bağlanması gerekir."</string>
   <string name="login_privacy_rights_kr_des">"Mi Fitness'a hoş geldiniz. Bu uygulamayı, cihazlarınızı yönetmek, egzersizlerini takip etmek ve egzersiz ve fitness verilerinizi görüntülemek için kullanabilirsiniz. Kişisel bilgilerinizi ilgili yasa, yönetmelikler ve gizlilik politikalarına göre koruyacağız."</string>
   <string name="login_privacy_rights_statement">Şartlar ve koşullar</string>
-  <string name="login_privacy_update_tips">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi hangi yollarla kullandığımızı tam olarak anlamak için, devam etmeden önce Gizlilik Politikası'nın yeni sürümünü okuyun ve kabul edin.&amp;lt;/Data&amp;gt;"</string>
+  <string name="login_privacy_update_tips">"Gizlilik Politikası güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi hangi yollarla kullandığımızı tam olarak anlamak için, devam etmeden önce Gizlilik Politikası'nın yeni sürümünü okuyun ve kabul edin."</string>
   <string name="login_privacy_update_title">Güncellenen Gizlilik Politikası</string>
   <string name="login_record_title">Ses kaydet</string>
   <string name="login_record_title_des">Uyku döngüsünü analiz ederken horlama ve konuşmayı kaydetmek için</string>
@@ -3481,7 +3481,7 @@ Herhangi bir kişisel bilgi vermek istemiyorsanız Temel modu kullanmayı seçeb
   <string name="main_common_open">Tamam</string>
   <string name="main_go_now">Aç</string>
   <string name="main_goto_common_app">Cihazınızı bağlayın</string>
-  <string name="main_goto_common_app_desc">"&amp;lt;Data&amp;gt;Cihazınızı bağlamak için Xiaomi Wear'ı açın.&amp;lt;br&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;Daha fazla bilgi edin&amp;lt;/a&amp;gt;&amp;lt;/Data&amp;gt;"</string>
+  <string name="main_goto_common_app_desc">"Cihazınızı bağlamak için Xiaomi Wear'ı açın."</string>
   <string name="main_open_sport_health_cloud_sync">Senkronizasyonu aç?</string>
   <string name="main_open_sport_health_cloud_sync_des">Egzersiz ve fitness verilerinizi tüm cihazlarınızda senkronize edin.</string>
   <string name="main_relative_care">Sağlık paylaşımı</string>
@@ -3909,8 +3909,8 @@ Bu ödülü kazan"</string>
   <string name="nfc_master_translations_empty">Veri yok</string>
   <string name="nfc_mastercard_add_number_dialog_msg">Yaklaşık 2 dk. sürer.</string>
   <string name="nfc_mi_pay_not_support">Bu özellik yalnızca Android 6.0 veya daha üstüne sahip telefonlarda desteklenmektedir</string>
-  <string name="nfc_mi_pay_proto_new">&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$sGizlilik Politikasını&amp;lt;/a&amp;gt; okudum ve kabul ediyorum.&amp;lt;/Data&amp;gt;</string>
-  <string name="nfc_mi_pay_user_proto_master_new">"&amp;lt;Data&amp;gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"%3$s\"&amp;gt;%4$s Kullanım Şartları'nı&amp;lt;/a&amp;gt; okudum ve kabul ediyorum.&amp;lt;/Data&amp;gt;"</string>
+  <string name="nfc_mi_pay_proto_new">Gizlilik Politikasını okudum ve kabul ediyorum.</string>
+  <string name="nfc_mi_pay_user_proto_master_new">" Gizlilik Politikası Kullanım Şartları'nı okudum ve kabul ediyorum."</string>
   <string name="nfc_mi_pay_user_proto_privacy">Gizlilik Politikası</string>
   <string name="nfc_mi_pay_user_proto_user">Kullanıcı Sözleşmesi</string>
   <string name="nfc_nextpay_more_settings_help">SSS</string>
