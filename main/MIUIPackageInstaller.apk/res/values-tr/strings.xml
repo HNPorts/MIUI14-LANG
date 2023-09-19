@@ -63,7 +63,6 @@
 	<string name="safe_space_tip_dialog_title">Aşağıdaki korumalar sizin için etkinleştirildi</string>
     <string name="safe_version_install">Güvenlik sürümü</string>	
 	<string name="set_management_measures">Yönetim önlemlerini belirleyin</string>
-	
     <string name="app_detail_other_version">Sürüm: %1$s</string>
     <string name="app_get_source">Uygulama kaynağı</string>
     <string name="app_info_permissions">İzinler</string>
