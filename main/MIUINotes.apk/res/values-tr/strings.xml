@@ -723,7 +723,7 @@
     <string name="pc_todo_fast_create_hint">Metin girin ve bitmemiş bir görev eklemek için girişe basın</string>
     <string name="pc_todo_set_remind_time_hint">Zamanı ayarla</string>
     <string name="permdesc_accessNote">Zararlı yazılımlar kişisel verilerinize ulaşmak için bunu kullanabilir</string>
-    <string name="permission_data_shared_desc">Notes üçüncü taraf veri paylaşım bildirimi</string>
+    <string name="permission_data_shared_desc">Notlar üçüncü taraf veri paylaşım bildirimi</string>
     <string name="permission_intro_contact">Aramalar sırasında alınan notları işaretlemek içindir</string>
     <string name="permission_intro_microphone">Sesli notları kaydetmek içindir</string>
     <string name="permission_intro_phone">Aramalar sırasında alınan notları işaretlemek içindir</string>
