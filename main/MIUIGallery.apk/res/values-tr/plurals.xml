@@ -165,6 +165,9 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+	<plurals name="delete_brust_title">
+        <item quantity="other">%d seri çekim silinsin mi ?</item>
+        <item quantity="one">%d seri çekim silinsin mi ?</item>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">%d seri çekimini Mi buluttan ve tüm senkronize edilmiş cihazlardan silmek istger misiniz?</item>
         <item quantity="one">%d seri çekimini Mi buluttan ve tüm senkronize edilmiş cihazlardan silmek istger misiniz?</item>
@@ -185,6 +188,9 @@
         <item quantity="other">%d öğe silinsin mi?</item>
         <item quantity="one">%d öğe silinsin mi?</item>
     </plurals>
+	<plurals name="delete_media_title">
+        <item quantity="other">%d öğe silinsin mi?</item>
+        <item quantity="one">%d öğe silinsin mi?</item>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">%d fotoğraf tüm cihazlardan ve Mi bulut alanından silinsin mi?</item>
         <item quantity="one">Bu fotoğraf tüm cihazlardan ve Mi bulut alanından silinsin mi?</item>
