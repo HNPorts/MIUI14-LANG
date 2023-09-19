@@ -25,6 +25,7 @@
     <string name="abc_searchview_description_submit">Sorguyu gönder</string>
     <string name="abc_searchview_description_voice">Sesli arama</string>
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+	<string name="web_view_reload_description_text">"Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin"</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accept_all_permission_content">Cihazı bul izinler olmadan düzgün çalışmayabilir. Bul cihazının tüm özelliklerini kullanabilmek için listelenen tüm izinleri seçin</string>
