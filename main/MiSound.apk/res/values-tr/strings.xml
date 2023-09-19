@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
+	<string name="effect_selection_headset">Kulaklık efektleri</string>
+	<string name="effect_selection_headset">Kulaklık efektleri</string>
     <string name="add_sound">Özel hazır ayar ekle</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
