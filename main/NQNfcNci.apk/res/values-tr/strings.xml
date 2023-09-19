@@ -26,6 +26,10 @@
     <string name="abc_searchview_description_voice">Sesli arama</string>
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+	<string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accessibility_nfc_enabled">NFC etkinleştirildi</string>
     <string name="action_bluetooth_pair">Eşleştir</string>

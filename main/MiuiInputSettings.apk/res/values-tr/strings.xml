@@ -37,6 +37,8 @@
     <string name="app_switch_key">Son kullanılanlar</string>
     <string name="application_label">Giriş ayarları</string>
     <string name="au_pay">veya ödeme</string>
+	<string name="auto_disable_screenbuttons_dialog_title">%s için ekran düğmeleri devre dışı bırakılsın mı?</string>
+	<string name="keyboard_layout_arabic">Arapça</string>
     <string name="auto_disable_screenbuttons_ask">Devre dışı bırakmak için sor</string>
     <string name="auto_disable_screenbuttons_auto">Her zaman devre dışı bırak</string>
     <string name="auto_disable_screenbuttons_cancel">İptal</string>

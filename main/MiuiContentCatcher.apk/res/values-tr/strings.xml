@@ -299,8 +299,7 @@
     <string name="search">Ara</string>
     <string name="search_menu_title">Ara</string>
     <string name="send">Gönder</string>
-    <string name="settings_clear_data_confirmation_description">"Şifrelerinizi şimdi silerseniz bir sonraki oturum açışınızda şifrenizi manuel olarak girmeniz gerekir
-Şifre silinsin mi?"</string>
+    <string name="settings_clear_data_confirmation_description">"Şifrelerinizi şimdi silerseniz bir sonraki oturum açışınızda şifrenizi manuel olarak girmeniz gerekir. Şifre silinsin mi?"</string>
     <string name="settings_clear_data_confirmation_title">Şifre siliniyor</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
