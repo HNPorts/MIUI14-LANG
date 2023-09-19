@@ -73,6 +73,7 @@
     <string name="backup_empty">Yedek yok</string>
     <string name="backup_empty_info"> Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin</string>
     <string name="backup_empty_info_onpad">" Verilerinizi, ayarlarınızı ve uygulamalarınızı yedekleyin"</string>
+	<string name="permission_restore_calendar_desc">Takvim etkinliklerini geri yükleyebilmek için önce bu uygulamanın takvim etkinliklerinizi düzenlemesine izin verin</string>
     <string name="backup_error">Yedek alınamadı</string>
     <string name="backup_failed">Yedeklenemedi</string>
     <string name="backup_file_error">Yedeklenemedi</string>

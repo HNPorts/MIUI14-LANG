@@ -27,6 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">Kişilerinizi değiştirir ve siler</string>
     <string name="HIPS_Perm_External_Storage">Dahili depolama dosyalarına eriş ve değiştir</string>
     <string name="HIPS_Perm_External_Storage_Desc">Cihazınızın dahili depolama alanına dosyalar ekler ve siler</string>
+	<string name="HIPS_Perm_operator_shake_Desc">Cihazın uzaydaki konumunu algılamak, titremeyi tanımak ve etkileşimli duyusal özellikler sağlamak içindir</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ses kaydet ve arama yap</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Uygulamaları arka planda otomatik olarak başlat</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Takvim etkinliklerine eriş</string>
