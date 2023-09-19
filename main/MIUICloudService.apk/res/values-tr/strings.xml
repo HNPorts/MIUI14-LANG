@@ -749,36 +749,36 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
   <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Xiaomi Bulut hizmetlerine hoş geldiniz!  Mesajlarınızı, notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, kayıtlarınızı, takvim etkinliklerinizi ve Engellenenler Listesi öğelerinizi tüm bağlı cihazlar arasında senkronize etmek için Xiaomi Cloud'u kullanabilirsiniz.</string>
   <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Xiaomi Bulut hizmetlerine hoş geldiniz!  Kişilerinizi, notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, kayıtlarınızı, takvim etkinliklerinizi ve Engellenenler Listesi öğelerinizi tüm bağlı cihazlar arasında senkronize etmek için Xiaomi Cloud'u kullanabilirsiniz.</string>
   <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Xiaomi Bulut hizmetlerine hoş geldiniz!  Notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, kayıtlarınızı, takvim etkinliklerinizi ve Engellenenler Listesi öğelerinizi tüm bağlı cihazlar arasında senkronize etmek için Xiaomi Cloud'u kullanabilirsiniz.</string>
-  <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Xiaomi bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişinizi, kişilerinizi, notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, Wi-Fi ayarlarınızı, kayıtlarınızı, ana ekran düzeninizi, programları, takvim etkinliklerini, engellenenler listesinin ve uygulama kasasını tüm bağlı olarak çoğaltmak  için Xiaomi bulutu kullanabilirsiniz.  xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi olmayan SMS&lt;/b&gt;&lt;/font&gt; gönderilecektir. SIM'i değiştirdiğinizde  &lt;xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi ücretli SMS&lt;/b&gt;&lt;/font&gt; yeniden etkinleştirme için otomatik olarak gönderilecektir  .
+  <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Xiaomi bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişinizi, kişilerinizi, notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, Wi-Fi ayarlarınızı, kayıtlarınızı, ana ekran düzeninizi, programları, takvim etkinliklerini, engellenenler listesinin ve uygulama kasasını tüm bağlı olarak çoğaltmak  için Xiaomi bulutu kullanabilirsiniz. Senkronize ettiğiniz öğelere &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; adresinden herhangi bir tarayıcıdan erişin.
+Bu hizmetleri etkinleştirmek için  , &lt;xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi ücretli SMS&lt;/b&gt;&lt;/font&gt; gönderilecektir. Geçiş yaptığınızda  SIM kartlar, &lt;xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi ücretli SMS&lt;/b&gt;&lt;/font&gt; için otomatik olarak gönderilecek  yeniden etkinleştirme.
 Yukarıda belirtilen işlemlerden kaynaklanan tüm SMS ücretleri operatörünüz tarafından tahsil edilecektir. Xiaomi bu mesajlar için sizden ücret talep etmeyecektir.
-Kişisel bilgilerinizi ilgili yasalara uygun olarak koruyacağız.  , düzenlemeler ve gizlilik politikaları.
+Kişisel bilgilerinizi ilgili mevzuat uyarınca koruyacağız.  yasalar, düzenlemeler ve gizlilik politikaları.
 Normal çalışabilmesi için bu hizmetlerin internete bağlanması ve kişisel bilgilerinizi toplamak üzere aşağıdaki izinleri gerektirmesi gerekir:
-• Takvim:
-Etkinlikleri senkronize etmek için
+• Takvim:&lt;br/ &gt;Etkinlikleri senkronize etmek için
 • SMS'e erişim:
 Mesajları senkronize etmek için
 • MMS'e erişme:
 Mesajları senkronize etmek için
 • Kişilere erişme:
-Kişileri senkronize etmek için&lt;br  /&gt;• Kişileri düzenleme:
+Kişileri senkronize etmek için&lt;  br /&gt;• Kişileri düzenleme:
 Kişileri senkronize etmek için
 • Depolama:
 Cihazınızdaki öğeleri kaydetmek için (ör.  resimler ve videolar)
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu hizmetleri kullanamayacaksınız.  Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar'daki izinleri kısıtlamayı seçebilirsiniz.
 &lt;a href=%2$s&gt;&lt;u&gt;Kullanıcı Sözleşmemizi&lt;/u&gt;&lt;/ okuyup kabul edin.  a&gt; ve hizmetlerimizi kullanmadan önce &lt;a href=%3$s&gt;&lt;u&gt;Gizlilik Politikası&lt;/u&gt;&lt;/a&gt;.
 "</string>
-  <string name="privacy_doc_cloudservice_china_with_charge_hint">"Xiaomi bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişinizi, kişilerinizi, notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, Wi-Fi ayarlarınızı, kayıtlarınızı, ana ekran düzeninizi, programları, takvim etkinliklerini, engellenenler listesinin ve uygulama kasasını tüm bağlı olarak çoğaltmak  için Xiaomi bulutu kullanabilirsiniz.  xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi olmayan SMS&lt;/b&gt;&lt;/font&gt; gönderilecektir. SIM'i değiştirdiğinizde  &lt;xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi ücretli SMS&lt;/b&gt;&lt;/font&gt; yeniden etkinleştirme için otomatik olarak gönderilecektir  .
+  <string name="privacy_doc_cloudservice_china_with_charge_hint">"Xiaomi bulut hizmetlerine hoş geldiniz! Mesajlarınızı, arama geçmişinizi, kişilerinizi, notlarınızı, Tarayıcı ayarlarınızı, fotoğraflarınızı ve videolarınızı, Wi-Fi ayarlarınızı, kayıtlarınızı, ana ekran düzeninizi, programları, takvim etkinliklerini, engellenenler listesinin ve uygulama kasasını tüm bağlı olarak çoğaltmak  için Xiaomi bulutu kullanabilirsiniz. Senkronize ettiğiniz şeylere &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; adresinden herhangi bir tarayıcıdan erişebilirsiniz.
+Bu hizmetleri etkinleştirmek için  , &lt;xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi ücretli SMS&lt;/b&gt;&lt;/font&gt; gönderilecektir. Geçiş yaptığınızda  SIM kartlar, &lt;xliff:g id=number_sms referto=1&gt;%1$d&lt;/xliff:g&gt;&lt;font color=#0097FF&gt;&lt;b&gt; yurt içi ücretli SMS&lt;/b&gt;&lt;/font&gt; için otomatik olarak gönderilecek  yeniden etkinleştirme.
 Yukarıda belirtilen işlemlerden kaynaklanan tüm SMS ücretleri operatörünüz tarafından tahsil edilecektir. Xiaomi bu mesajlar için sizden ücret talep etmeyecektir.
-Kişisel bilgilerinizi ilgili yasalara uygun olarak koruyacağız.  , düzenlemeler ve gizlilik politikaları.
+Kişisel bilgilerinizi ilgili mevzuat uyarınca koruyacağız.  yasalar, düzenlemeler ve gizlilik politikaları.
 Normal çalışabilmesi için bu hizmetlerin internete bağlanması ve kişisel bilgilerinizi toplamak üzere aşağıdaki izinleri gerektirmesi gerekir:
-• Takvim:
-Etkinlikleri senkronize etmek için
+• Takvim:&lt;br/ &gt;Etkinlikleri senkronize etmek için
 • SMS'e erişim:
 Mesajları senkronize etmek için
 • MMS'e erişme:
 Mesajları senkronize etmek için
 • Kişilere erişme:
-Kişileri senkronize etmek için&lt;br  /&gt;• Kişileri düzenleme:
+Kişileri senkronize etmek için&lt;  br /&gt;• Kişileri düzenleme:
 Kişileri senkronize etmek için
 • Depolama:
 Cihazınızdaki öğeleri kaydetmek için (ör.  resimler ve videolar)
