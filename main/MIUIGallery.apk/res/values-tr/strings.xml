@@ -53,6 +53,7 @@
     <string name="accept">Kabul et</string>
     <string name="accept_or_deny">%1$s sizinle %2$s albümünü paylaştı</string>
 	<string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+	<string name="cta_hybrid_feedback_network_declare">En sık karşılaşılan sorunların çözümlerini görüntülemek için önce bu uygulamanın ağa bağlanmasına izin verin</string>
     <string name="account_crop_user_avatar">Fotoğrafı kırp</string>
     <string name="account_empty_user_name">Mi hesabı kullanıcı adınızı girin</string>
     <string name="account_error_all_space_user_name">Kullanıcı adı yalnızca boşluk karakterleri içeremez</string>
