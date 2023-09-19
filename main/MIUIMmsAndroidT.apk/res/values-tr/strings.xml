@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="action_firewall_setting">Engellenenler listesi</string>
+	<string name="mms_user_agreement">Kullanıcı Sözleşmesi</string>
+	<string name="mms_smart_msg_privacy_policy">Akıllı Mesajlaşma Gizlilik Politikası</string>
     <string name="action_get_otp">Kodu al</string>
     <string name="action_sign_in">Oturum aç</string>
     <string name="action_sign_in_short">Oturum aç</string>
