@@ -32,6 +32,14 @@ toplam %2$d şarkı"</item>
         <item quantity="other">%d şarkı listeye eklendi</item>
         <item quantity="one">%d şarkı listeye eklendi</item>
     </plurals>
+	<plurals name="reward_seconds_remaining">
+        <item quantity="other">%d saniye içinde VIP üyeliği</item>
+        <item quantity="one">%d saniye içinde VIP üyeliği</item>
+    </plurals>
+	<plurals name="web_reward_dialog_title">
+        <item quantity="other">%d saniye boyunca izlerseniz ödül olarak VIP üyelik alacaksınız. Yine de çıkılsın mı?</item>
+        <item quantity="one">%d saniye boyunca izlerseniz ödül olarak VIP üyelik alacaksınız. Yine de çıkılsın mı?</item>
+    </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d şarkı</item>
         <item quantity="one">%d şarkı</item>
