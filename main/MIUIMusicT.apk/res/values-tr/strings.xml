@@ -162,10 +162,10 @@
     <string name="buffering">Çözümleniyor</string>
     <string name="button_cancel_download">İptal et</string>
     <string name="button_download_now">Şimdi indir</string>
-    <string name="button_queue_for_Wi-Fi">Sırada</string>
+    <string name="button_queue_for_wifi">Sırada</string>
     <string name="button_sort_by_date">Tarihe göre</string>
     <string name="button_sort_by_size">Boyuta göre</string>
-    <string name="button_wait_for_Wi-Fi">Bekle</string>
+    <string name="button_wait_for_wifi">Bekle</string>
     <string name="buy_vip_skip_ad">Reklamları kaldır</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_running_download">İptal et</string>
@@ -420,8 +420,8 @@
     <string name="download_completed">İndirildi</string>
     <string name="download_confirm_button_text">Yükle</string>
     <string name="download_confirm_text">Müzikler indirilecek ve %s kurulacak</string>
-    <string name="download_connect_Wi-Fi_dialog_message">Bu şarkıyı indirmek için Wi-Fi bağlantısına ihtiyacınız var. Şimdi bağlanılsın mı?</string>
-    <string name="download_connect_Wi-Fi_dialog_title">Wi-Fi ağına bağlan</string>
+    <string name="download_connect_wifi_dialog_message">Bu şarkıyı indirmek için Wi-Fi bağlantısına ihtiyacınız var. Şimdi bağlanılsın mı?</string>
+    <string name="download_connect_wifi_dialog_title">Wi-Fi ağına bağlan</string>
     <string name="download_dialog_fail">İndirilemedi</string>
     <string name="download_dialog_success">Başarıyla indirildi</string>
     <string name="download_done_btn">İndirildi</string>
@@ -561,7 +561,7 @@
     <string name="exo_download_notification_channel_name">İndirilenler</string>
     <string name="exo_download_paused">İndirmeler duraklatıldı</string>
     <string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
-    <string name="exo_download_paused_for_Wi-Fi">Wi-Fi için bekleyen indirmeler</string>
+    <string name="exo_download_paused_for_wifi">Wi-Fi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
@@ -1161,7 +1161,7 @@
     <string name="notification_download_complete">İndirme işlemi tamamlandı</string>
     <string name="notification_download_failed">İndirilemedi</string>
     <string name="notification_download_success_more">%1$d indirildi</string>
-    <string name="notification_need_Wi-Fi_for_size">İndirme boyutundan dolayı Wi-Fi ağı gerekli</string>
+    <string name="notification_need_wifi_for_size">İndirme boyutundan dolayı Wi-Fi ağı gerekli</string>
     <string name="notification_play_summary">Geçerli ve sonraki şarkıyı göster. Ana ekranda sözleri göster</string>
     <string name="notification_play_title">Bildirim alanı aracı</string>
     <string name="notification_recommend_summary">Yeni müzik trendleri ve uygulama promosyonları hakkında bilgi edinin</string>
@@ -1405,7 +1405,7 @@
     <string name="paused_by_app">Durduruldu</string>
     <string name="paused_in_power_save_mode">Güç tasarruf modunda durduruldu</string>
     <string name="paused_insufficient_space">Bekliyor</string>
-    <string name="paused_queued_for_Wi-Fi">Ağ için bekliyor</string>
+    <string name="paused_queued_for_wifi">Ağ için bekliyor</string>
     <string name="paused_unknown">Durduruldu</string>
     <string name="paused_waiting_for_network">Ağ için bekliyor</string>
     <string name="paused_waiting_to_retry">Tekrar denemek için bekliyor</string>
@@ -1869,10 +1869,10 @@ mutlu ol"</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s</string>
     <string name="whitelist_title">Dosya istisnaları</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="Wi-Fi_required_body" formatted="false">"Wi-Fi kullanarak %s dosyayı indirin
+    <string name="wifi_required_body" formatted="false">"Wi-Fi kullanarak %s dosyayı indirin
 
 Daha sonraki bir zamanda Wi-Fi ağına bağlanırsanız %s dokunarak indirebilirsiniz"</string>
-    <string name="Wi-Fi_required_title">Şebeke ağı için çok büyük indirme</string>
+    <string name="wifi_required_title">Şebeke ağı için çok büyük indirme</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticisine bağlanma başarısız oldu. Lütfen ıygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
