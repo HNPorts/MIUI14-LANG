@@ -189,6 +189,8 @@ EE"</string>
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
+	<string name="smart_style">Akıllı</string>
+	<string name="smart_style_summary">Cihazınızın cebinizde olduğu, ortam ışığının uzun süre düşük olduğu veya cihazınıza bakmadığınız durumlar dışında öğeleri her zaman görüntüleyin</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="deep_space_planet">Dış uzay</string>
     <string name="deep_space_planet_des">Dış uzay gün boyunca etrafınızda meydana gelen ışık değişimlerini yansıtır. Bu temadaki gün doğumları ve gün batımları konumunuz ile senkronize edilir</string>
