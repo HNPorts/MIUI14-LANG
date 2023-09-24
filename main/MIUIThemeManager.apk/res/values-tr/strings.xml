@@ -59,7 +59,7 @@
     <string name="ad_download_open">Aç</string>
     <string name="ad_download_pause">Duraklat</string>
     <string name="ad_download_pending">Beklemede</string>
-    <string name="ad_download_resume">Devam et</string>
+    <string name="ad_download_progress">%%%1$d</string>
     <string name="ad_download_resume">Devam et</string>
     <string name="ad_downloading_tip">Bu öğe indiriliyor. İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz</string>
     <string name="ad_experience_now">Aç</string>
