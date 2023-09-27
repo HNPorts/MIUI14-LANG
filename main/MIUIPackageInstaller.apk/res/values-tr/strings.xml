@@ -67,6 +67,7 @@
     <string name="app_get_source">Uygulama kaynağı</string>
     <string name="app_info_permissions">İzinler</string>
     <string name="app_info_permissions_format">%1$s %2$s</string>
+	<string name="features_introduce">&lt;u>Özellikler&lt;u/></string>
     <string name="app_info_size">Boyut: %1$s</string>
     <string name="app_info_version">Sürüm: %1$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
@@ -438,7 +439,7 @@
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="manage_device_administrators">Cihaz yöneticilerini yönet</string>
     <string name="manage_users">Kullanıcıları yönet</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
