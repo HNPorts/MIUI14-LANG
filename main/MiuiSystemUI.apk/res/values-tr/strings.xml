@@ -1391,15 +1391,15 @@ EEEE"</string>
     <string name="miui_keyboard_shortcut_system_dock">Uygulama yuvasını göster</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Son uygulamalar arasında geçiş yap</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
-    <string name="miui_lock_screen_date">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd/MM 
+    <string name="miui_lock_screen_date">dd MMM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd MMM EEEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM 
 EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd/MM 
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM 
 EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd/MM 
+    <string name="miui_lock_screen_large_date">"dd MMM 
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd/MM 
+    <string name="miui_lock_screen_large_date_12">"dd MMM 
 EEE"</string>
     <string name="miui_notification_menu_aggregate_feedback">Geri bildirim</string>
     <string name="miui_notification_menu_allow">İzin ver</string>
