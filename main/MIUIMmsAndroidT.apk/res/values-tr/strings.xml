@@ -26,6 +26,12 @@
     <string name="abc_searchview_description_voice">Sesli arama</string>
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+	<string name="search_sms">Mesajlarda ara</string>
+	<string name="pref_feedback_title">Geri bildirim</string>
+	<string name="cn_privacy_dialog_title">Dikkat</string>
+	<string name="dialog_revoke">Geri çek</string>
+	<string name="cancel">İptal</string>
+	<string name="dialog_cancel">İptal</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="action_firewall_setting">Engellenenler listesi</string>
 	<string name="mms_user_agreement">Kullanıcı Sözleşmesi</string>
@@ -926,7 +932,7 @@ Mi Mesaj hizmetini etkileştirmek için bir SMS mesajı gönderilmesi gerekebili
     <string name="priority_label">"Öncelik: "</string>
     <string name="priority_low">Düşük</string>
     <string name="priority_normal">Normal</string>
-    <string name="privacy_dialog_tips_revoke_1">"Devam ederseniz Mi Mesaj Gizlilik Politikası'na verdiğiniz izni geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, aksi gerekmedikçe uygulanabilir yasalar ve yönetmeliklerin gerektirdiği gibi belirli bir süre içinde silinecektir. Mi Mesaj ve Akıllı gönderici Kimliği tanıma, gerekli kişisel verilerin toplanmasına dayalı olarak hizmetlerini sağladığı için iznin geri çekilmesi, bu hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir."</string>
+    <string name="privacy_dialog_tips_revoke">"Devam ederseniz Mi Mesaj Gizlilik Politikası'na verdiğiniz izni geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, aksi gerekmedikçe uygulanabilir yasalar ve yönetmeliklerin gerektirdiği gibi belirli bir süre içinde silinecektir. Mi Mesaj ve Akıllı gönderici Kimliği tanıma, gerekli kişisel verilerin toplanmasına dayalı olarak hizmetlerini sağladığı için iznin geri çekilmesi, bu hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir."</string>
     <string name="privacy_mode_hint">Misafir modunda mesaj gönderilemiyor</string>
     <string name="privacy_password_message1">Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır.</string>
     <string name="privacy_password_message2">Gizlilik koruma şifresi kullanın. Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır.</string>
