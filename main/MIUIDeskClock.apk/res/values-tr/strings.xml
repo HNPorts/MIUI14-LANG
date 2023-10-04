@@ -384,6 +384,13 @@ mm"</string>
     <string name="module_download_cancel">Şimdi değil</string>
     <string name="module_download_failure">Ses dosyası indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="module_download_no_network">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
+	<string name="alarm_repeat_self_define_button">Özelleştir</string>
+	<string name="look_sleep_data">Uyku verilerini görüntüle</string>
+	<string name="notification_permission_dialog_content">Alarm bildirimlerini almak için bu uygulamanın bildirim göndermesine izin verin. Bu izni ayarlardan ayarlayabilirsiniz</string>
+    <string name="notification_permission_dialog_not_open">Şimdi değil</string>
+    <string name="notification_permission_dialog_open">Ayarlar</string>
+    <string name="notification_permission_dialog_title">İzinler gerekli</string>
+	<string name="upcoming_alarm_new">Yaklaşan alarm: %s</string>
     <string name="module_download_ok">Kabul et &amp; indir</string>
     <string name="module_download_success">Ek ses başarıyla indirildi</string>
     <string name="module_downloading">Ek ses indiriliyor</string>

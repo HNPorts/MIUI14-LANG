@@ -267,6 +267,7 @@ engellenenler listesine eklendi"</string>
     <string name="debug_category_others">Diğer</string>
     <string name="debug_close_success">Hata ayıklama devre dışı</string>
     <string name="debug_enable_success">Hata ayıklama etkin</string>
+	<string name="fail_to_add_image">Kopyalanan öğelere erişilemedi</string>
     <string name="debug_export_db">Veri tabanını dışa aktar</string>
     <string name="debug_title">Hata ayıklama</string>
     <string name="delete">Sil</string>
