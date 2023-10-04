@@ -268,8 +268,18 @@ engellenenler listesine eklendi"</string>
     <string name="debug_close_success">Hata ayıklama devre dışı</string>
     <string name="debug_enable_success">Hata ayıklama etkin</string>
 	<string name="fail_to_add_image">Kopyalanan öğelere erişilemedi</string>
+	    <string name="add_to_block_by_number_failed">"%s engellenenler listesine eklenemedi
+Tekrar deneyin"</string>
     <string name="debug_export_db">Veri tabanını dışa aktar</string>
+	    <string name="add_to_block_by_tag_failed">"%s içeren mesajlar engelleme listesine eklenemedi
+Tekrar deneyin"</string>
     <string name="debug_title">Hata ayıklama</string>
+	<string name="cloud_space_not_enough">Bulut depolama alanı dolu. En son öğeleri senkronize etmek için üyeliğinizi yükseltin</string>
+	<string name="copy_message">Kopyala</string>
+    <string name="copy_message_success">Kopyalandı</string>
+	<string name="pref_feedback_title">Geri bildirim</string>
+	<string name="search_sms">Mesajlarda ara</string>
+	<string name="title_timed_remind_message_dialog">Hatırlatma zamanını ayarla</string>
     <string name="delete">Sil</string>
     <string name="delete_block_conversation">Bu sohbeti sil</string>
     <string name="delete_bookmark">Favorilerden kaldır</string>
