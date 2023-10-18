@@ -46,8 +46,12 @@
     <string name="add_timing">Zamanlayıcı</string>
     <string name="add_to_block_by_number">"%s engellenenler
 listesine eklendi"</string>
+    <string name="add_to_block_by_number_failed">"%s engellenenler listesine eklenemedi
+Tekrar deneyin"</string>
     <string name="add_to_block_by_tag">"%s içeren mesajlar
 engellenenler listesine eklendi"</string>
+    <string name="add_to_block_by_tag_failed">"%s içeren mesajlar engelleme listesine eklenemedi
+Tekrar deneyin"</string>
     <string name="add_to_browser_favorite_failed">Eklenemedi</string>
     <string name="add_to_browser_favorite_success">Başarıyla eklendi</string>
     <string name="add_video">Video ekle</string>
@@ -63,6 +67,7 @@ engellenenler listesine eklendi"</string>
     <string name="allow_network_hint">Bilgileri otomatik olarak güncelle özelliğini açın veya ağ bağlantınızı kontrol edin</string>
     <string name="already_updated">Güncel</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Mesajlar</string>
     <string name="app_name">Mesajlar</string>
     <string name="application_list_title">Mini uygulamalar</string>
@@ -197,6 +202,7 @@ engellenenler listesine eklendi"</string>
     <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
     <string name="click_to_view">Görüntülemek için dokunun</string>
     <string name="close">Kapat</string>
+    <string name="cloud_space_not_enough">Bulut depolama alanı dolu. En son öğeleri senkronize etmek için üyeliğinizi yükseltin</string>
     <string name="cloud_state_disabled">Xiaomi bulut ile senkronizasyon kapalı</string>
     <string name="cm_privacy_dialog_allow">Kabul et</string>
     <string name="cm_privacy_dialog_cancel">İptal et</string>
@@ -227,6 +233,7 @@ engellenenler listesine eklendi"</string>
     <string name="confirm_send_mms">Alıcılarınızdan biri bir e-posta adresi içeriyor. Bu mesaj öperatörünüz tarafından ilave ücretlendirmeye neden olabilecek olan multimedya mesajı olarak gönderilecektir</string>
     <string name="contact_card_unknown_contact">Bilinmeyen kişi</string>
     <string name="contact_not_exists">Bu kişi bağlantılarınızda yok</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="context_menu_add_calendar">Takvime ekle</string>
     <string name="context_menu_add_contact">Kişilere ekle</string>
     <string name="context_menu_add_to_browser_favorite">Tarayıcı favorilerine ekle</string>
@@ -250,6 +257,8 @@ engellenenler listesine eklendi"</string>
     <string name="converting_to_text_message">Metin mesajına dönüştürülüyor</string>
     <string name="converting_vcard_failed">Kişi dönüştürülemedi</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_message">Kopyala</string>
+    <string name="copy_message_success">Kopyalandı</string>
     <string name="copy_message_text">Kopyala</string>
     <string name="copy_message_text_success">Kopyalandı</string>
     <string name="copy_to_sdcard">Eklentiyi kaydet</string>
@@ -267,19 +276,8 @@ engellenenler listesine eklendi"</string>
     <string name="debug_category_others">Diğer</string>
     <string name="debug_close_success">Hata ayıklama devre dışı</string>
     <string name="debug_enable_success">Hata ayıklama etkin</string>
-	<string name="fail_to_add_image">Kopyalanan öğelere erişilemedi</string>
-	    <string name="add_to_block_by_number_failed">"%s engellenenler listesine eklenemedi
-Tekrar deneyin"</string>
     <string name="debug_export_db">Veri tabanını dışa aktar</string>
-	    <string name="add_to_block_by_tag_failed">"%s içeren mesajlar engelleme listesine eklenemedi
-Tekrar deneyin"</string>
     <string name="debug_title">Hata ayıklama</string>
-	<string name="cloud_space_not_enough">Bulut depolama alanı dolu. En son öğeleri senkronize etmek için üyeliğinizi yükseltin</string>
-	<string name="copy_message">Kopyala</string>
-    <string name="copy_message_success">Kopyalandı</string>
-	<string name="pref_feedback_title">Geri bildirim</string>
-	<string name="search_sms">Mesajlarda ara</string>
-	<string name="title_timed_remind_message_dialog">Hatırlatma zamanını ayarla</string>
     <string name="delete">Sil</string>
     <string name="delete_block_conversation">Bu sohbeti sil</string>
     <string name="delete_bookmark">Favorilerden kaldır</string>
@@ -360,6 +358,7 @@ Tekrar deneyin"</string>
     <string name="expire_on">Sona erme tarihi: %s</string>
     <string name="exporting_progress_private_message">Dışa aktarılıyor</string>
     <string name="fail_to_add_attachment">Eklenti eklenemedi</string>
+    <string name="fail_to_add_image">Kopyalanan öğelere erişilemedi</string>
     <string name="fail_to_view_attachment">Eklenti mevcut değil</string>
     <string name="failed_to_add_media">Bu %1$s ögesini mesajınıza ekleyemezsiniz</string>
     <string name="failed_to_resize_image">Resim boyutlandırılamadı</string>
@@ -466,6 +465,7 @@ Tekrar deneyin"</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Gizli gönderen adresi</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hold_to_talk">Konuşmak için basılı tutun</string>
     <string name="home_tab_ad">Reklam</string>
     <string name="home_tab_common">Normal</string>
@@ -569,6 +569,10 @@ Sim kartınızı kontrol edin"</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
+    <string name="miuix_navigator_multiple_choice">Seç</string>
+    <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -655,13 +659,13 @@ Bu mesaj istenmeyen olabilir"</string>
     <string name="mx_activate_status_desc_prepare_sending_sms">Etkinleştirme mesajı gönderiliyor</string>
     <string name="mx_activate_status_desc_query_activte_info">Sim kart bilgileri kontrol ediliyor</string>
     <string name="mx_auto_resend_mms">Multimedya olarak gönder</string>
-    <string name="mx_auto_resend_mms_summary">Bir Wi-Fi ağına bağlı olmadığınızda multimedya mesajları mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
+    <string name="mx_auto_resend_mms_summary">Bir wifi ağına bağlı olmadığınızda multimedya mesajları mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
     <string name="mx_auto_resend_sms">Mesaj olarak gönder</string>
-    <string name="mx_auto_resend_sms_summary">Bir Wi-Fi ağına bağlı olmadığınızda mesajlar mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
+    <string name="mx_auto_resend_sms_summary">Bir wifi ağına bağlı olmadığınızda mesajlar mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
     <string name="mx_btn_enable_now">Etkinleştir</string>
     <string name="mx_count_dspt">Ücretsiz olarak %1$d mesaj ve %2$d multimedya mesajı gönderdiniz</string>
     <string name="mx_current_status">Ayarlar</string>
-    <string name="mx_dspt">Bir Wi-Fi ağına bağlı olduğunuzda diğer MIUI kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
+    <string name="mx_dspt">Bir wifi ağına bağlı olduğunuzda diğer MIUI kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
     <string name="mx_dspt_listview">Mesaj ücretlerinden kaçınarak diğer MIUI kullanıcılarına mesaj gönderin</string>
     <string name="mx_dspt_provision_ex2">Gizlilik politikası</string>
     <string name="mx_enable">Mi mesaj</string>
@@ -758,6 +762,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_collapse_sp_messages_summary">Mesaj bildirimlerini otomatik olarak gruplar</string>
     <string name="pref_delivery_ringtone">Teslim bildirim sesi</string>
     <string name="pref_edit_smsc_address">Kısa mesaj servis merkezi numarası</string>
+    <string name="pref_feedback_title">Geri bildirim</string>
     <string name="pref_forward_title">İlet</string>
     <string name="pref_hide_verification_code_summary">Güvenli kilit ekranında mesaj bildirimlerinde gelen tek seferlik şifreleri otomatik olarak gizle</string>
     <string name="pref_messages_to_save">Kaydedilecek mesaj sayısını belirleyin</string>
@@ -954,7 +959,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_chatlist_scan_error">Bu QR kodu okunamıyor</string>
     <string name="rcs_conversation_rcs_tip">Mini uygulama: %s</string>
     <string name="rcs_create_new_group">Yeni grup sohbeti</string>
-    <string name="rcs_dspt">5G kullanıcıları açıkken Wi-Fi veya mobil ağ üzerinden varsayılan olarak mesaj gönderin</string>
+    <string name="rcs_dspt">5G kullanıcıları açıkken wifi veya mobil ağ üzerinden varsayılan olarak mesaj gönderin</string>
     <string name="rcs_dspt_unavailable">Bu özelliği şimdi kullanamazsınız. 5G Sim kart varsayılan veri kartınız değil</string>
     <string name="rcs_file_link_as_sms">Size gönderilen RCS dosyasını görüntülemek için %s adresini ziyaret edin</string>
     <string name="rcs_file_not_exist_preview">Bu dosya mevcut değil</string>
@@ -1133,6 +1138,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_setting_description">Metin</string>
     <string name="search_show_more_results">Daha fazla göster</string>
+    <string name="search_sms">Mesajlarda ara</string>
     <string name="second_mms_introduction">İkinci alana git</string>
     <string name="second_mms_switch">Değiştir</string>
     <string name="secs">saniye</string>
@@ -1364,6 +1370,7 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="title_show_photo_word">Kişilere fotoğraf ekle</string>
     <string name="title_show_sms_template">Akıllı mesajlar</string>
     <string name="title_timed_message_dialog">Zaman ayarlı mesaj ayarlayın</string>
+    <string name="title_timed_remind_message_dialog">Hatırlatma zamanını ayarla</string>
     <string name="title_use_gsm_alphabet">GSM alfabesi</string>
     <string name="to_address_label">"Kime: "</string>
     <string name="to_send_wrapper">%s tarihinde gönderilecek</string>

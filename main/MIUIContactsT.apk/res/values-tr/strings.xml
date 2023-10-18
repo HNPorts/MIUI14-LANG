@@ -58,8 +58,8 @@
     <string name="ai_calllog_call_record_menu">Al arama kaydı</string>
     <string name="all_list_empty">Kişi yok</string>
     <string name="am">ÖÖ</string>
-    <string name="antispam_mark_my_contribution">İşaret bilgisi paylaşılıyor</string>
-    <string name="app_name">Geri yaylanma</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="antispam_mark_my_contribution">Bayrak bilgilerini paylaş</string>
     <string name="attach_photo_dialog_title">Kişi fotoğrafı</string>
     <string name="audio_chat">Sesli sohbet</string>
     <string name="auto_nickname">Otomatik</string>
@@ -507,6 +507,7 @@
     <string name="contacts_unavailable_import_contacts">Dosyadan içeri aktar</string>
     <string name="contacts_unavailable_import_from_old_device">Eski bir cihazdan içeri aktar</string>
     <string name="contacts_unavailable_import_sim_contacts">Sim kişilerini içe aktar</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="copy">Kopyala</string>
     <string name="copy_number">Kopyala</string>
     <string name="copy_text">Panoya kopyala</string>
@@ -789,6 +790,7 @@ Neden: %s"</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="hide_app_description_content">Kişiler bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra yelefon uygulaması aracılığıyla kullanmaya devam edebilirsiniz</string>
     <string name="hide_app_description_title">Kişiler ana ekrandan kaldırılsın mı?</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">Kişileri bul</string>
     <string name="hint_more_contact">Çoklu kişi kayıtlarını birleştir</string>
@@ -933,6 +935,10 @@ Neden: %s"</string>
     <string name="miuix_appcompat_select_item">Öüeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
+    <string name="miuix_navigator_multiple_choice">Seç</string>
+    <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1124,7 +1130,6 @@ Neden: %s"</string>
     <string name="preference_dial_pad_touch_tone_title">Tuş takımı tonları</string>
     <string name="preference_display_contact">Görüntüleme seçenekleri</string>
     <string name="preference_export">Dışa aktar</string>
-    <string name="preference_feedback_title">Geri bildirim</string>
     <string name="preference_import">İçe aktar</string>
     <string name="preference_import_export">İçe veya dışa aktar</string>
     <string name="preference_import_export_title">Kişileri içe veya dışa aktar</string>

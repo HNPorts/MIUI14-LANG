@@ -43,6 +43,7 @@
     <string name="back">Geri</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
+    <string name="btn_continue_record_description">Kaydı sürdür</string>
     <string name="button_queue_for_wifi">Bekle</string>
     <string name="button_start_now">İndir</string>
     <string name="call_record">Kaydedilen aramalar</string>
@@ -132,6 +133,7 @@
     <string name="cloud_status_full_dialog_msg">Bulut depolama alanınız dolu. Kayıtlar senkronize edilemiyor. Daha fazla depolama alanı için hesabınızı yükseltin</string>
     <string name="cloud_status_full_dialog_ok">Yükselt</string>
     <string name="cloud_status_full_dialog_title">Xiaomi bulut depolama alanı dolu</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="copy">Kopyala</string>
     <string name="data_connection_body">Bu dosyayı indirmek için mobil veri bağlantınızı kullanmanız veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım sınırını aşarsanız öperatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz</string>
     <string name="data_connection_button_text">Tamam</string>
@@ -263,9 +265,6 @@
     <string name="invisible_mode_dialog_title">Gizli durumdasınız</string>
     <string name="invisible_mode_error_tip">Mikrofonu kullanabilmek için ayarlardan gizli modu kapatın</string>
     <string name="item_view_role_description">Sekme</string>
-    <string name="keywords_search_call_record">Aramaları kaydet;Aramayı kaydet;Arama kaydı;Arama kayıtları</string>
-    <string name="keywords_search_record">Yeni kayıt;Kayıt ekle;Kayıt;Kayıtlar;Transkript;Kopyasını yaz;Kaydedici;Konuşma kaydedici;Ses kaydedici;Kayıt uygulaması;Kayıt etme uygulaması;Nasıl kayıt yaparım;Nasıl ses kaydederim;Kaydedici nerede;MIUI kaydedici</string>
-    <string name="keywords_search_record_list">Ses kaydedici;Transkript;Transkriptler;Kayıt;Kaydı paylaş;Kayıtları paylaş,Kayıt,Kayıtlar</string>
     <string name="korea_permission_phone">Telefon</string>
     <string name="korea_permission_phone_resc">Cihaz durumuna erişmek ve aramalar sırasında kayıtları kontrol etmek için</string>
     <string name="korea_permission_record">Mikrofon</string>
@@ -287,7 +286,7 @@
     <string name="low_battery_error_title">Düşük pil</string>
     <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="manage_external_storage">Tüm dosyalara erişin</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -333,6 +332,10 @@
     <string name="miuix_appcompat_select_item">Ögeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
+    <string name="miuix_navigator_multiple_choice">Seç</string>
+    <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -706,6 +709,8 @@
     <string name="time_picker_label_minute">D</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="toast_enter_silent_mode">Kayıt yapılıyor. Sessiz mod açık.</string>
+    <string name="toast_exit_silent_mode">Kayıt tamamlandı. Sessiz mod kapalı.</string>
     <string name="toast_max_record_time">%1$s, %2$s dakika civarı kayıt yapabilir</string>
     <string name="toast_uninstall_fileexplorer">Dosya Yöneticisi yüklü değil</string>
     <string name="today">Bugün</string>
@@ -713,6 +718,7 @@
     <string name="trash_box">Son silinen öğeler</string>
     <string name="trash_box_close_tip">İstemi kapat</string>
     <string name="trash_box_delete_all">Tüm öğeler çöp kutusundan kalıcı olarak silinsin mi?</string>
+    <string name="trash_delete">Sil</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>

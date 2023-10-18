@@ -61,6 +61,7 @@
     <string name="alert_title_restore">Notu geri yükle</string>
     <string name="all_terms">%1$s ve %2$s</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Notlar</string>
     <string name="app_notification_info">Notlar arka planda çalışıyor</string>
     <string name="app_widget_name_create_note">Not oluştur</string>
@@ -406,6 +407,8 @@
     <string name="image_annotation_edit_hint">Resim açıklaması</string>
     <string name="image_annotation_edit_length_warning">Resim açıklaması en fazla %d karakter içerebilir</string>
     <string name="info_note_enter_desktop">Ana ekrana eklendi</string>
+    <string name="insert_image_menu_take_photo_by_local_device">Bu cihazla fotoğraf çek</string>
+    <string name="insert_image_menu_take_photo_by_remote_device">%1$s ile fotoğraf çek</string>
     <string name="insert_image_size_limit_tip">"Bu görüntü %d MB'den fazla. Otomatik olarak sıkıştırıldı."</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="last_excerpt_unfinish_hint">En son alıntı eksik</string>
@@ -499,6 +502,7 @@
     <string name="miui_penengine_setting_show_grid_background">Noktalı</string>
     <string name="miui_penengine_setting_show_white_background">Beyaz</string>
     <string name="miui_penengine_tool_brush">Seçili araç</string>
+    <string name="miui_penengine_tool_brush">Seçilen araç</string>
     <string name="miui_penengine_tool_brush_stroke1">Kontur genişliği bir</string>
     <string name="miui_penengine_tool_brush_stroke2">Kontur genişliği iki</string>
     <string name="miui_penengine_tool_brush_stroke3">Kontur genişliği üç</string>
@@ -550,6 +554,10 @@
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
+    <string name="miuix_navigator_multiple_choice">Seç</string>
+    <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -681,6 +689,7 @@
     <string name="option_menu_save_as_pic">Resim olarak kaydet</string>
     <string name="option_menu_share">Paylaş</string>
     <string name="pad_collpase_navigation">Navigasyon panelini gizle</string>
+    <string name="pad_dialog_take_photo_by_device">%1$s ile fotoğraf çekiliyor</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Kamera kullanılıyor</string>
     <string name="pad_expand_navigation">Navigasyon panelini göster</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galeri</string>
@@ -723,7 +732,7 @@
     <string name="pc_todo_fast_create_hint">Metin girin ve bitmemiş bir görev eklemek için girişe basın</string>
     <string name="pc_todo_set_remind_time_hint">Zamanı ayarla</string>
     <string name="permdesc_accessNote">Zararlı yazılımlar kişisel verilerinize ulaşmak için bunu kullanabilir</string>
-    <string name="permission_data_shared_desc">Notlar üçüncü taraf veri paylaşım bildirimi</string>
+    <string name="permission_data_shared_desc">Notes üçüncü taraf veri paylaşım bildirimi</string>
     <string name="permission_intro_contact">Aramalar sırasında alınan notları işaretlemek içindir</string>
     <string name="permission_intro_microphone">Sesli notları kaydetmek içindir</string>
     <string name="permission_intro_phone">Aramalar sırasında alınan notları işaretlemek içindir</string>
@@ -736,6 +745,7 @@
     <string name="permission_storage_desc_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
     <string name="permission_storage_desc_pad_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
     <string name="permission_xiaoai_desc">Mi AI ses dosyalarını uyarlamak ve sesli not oluşturmak için ses kayıtlarınızı ve cihaz kimliğinizi toplar. Mi AI 1$s Gizlilik politikasında daha fazlasını öğrenin</string>
+    <string name="permission_xiaoai_desc_m">"Konuşmayı metne dönüştürme hizmetleri sağlamak için Mi AI'nin ses girişini ve cihazınızın IMEI'sini toplaması gerekir. Devam etmeden önce %1$s notların üçüncü taraf veri paylaşımı beyanını okuyup kabul edin. Ayrıca Mi AI %2$s Gizlilik politikasını okuyarak daha fazla bilgi edinebilirsiniz"</string>
     <string name="permission_xiaoai_desc_new">"Konuşmadan metne transkripsiyon hizmetleri sağlamak için Mi AI'nin ses girişi ve rastgele oluşturulan cihaz kimliğinizi toplaması gerekir. Devam etmeden önce %1$s notların üçüncü taraf veri paylaşım bildirimini okuyun ve kabul edin. Ayrıca Mi AI  %2$s Gizlilik politikasını okuyarak daha fazla bilgi edinebilirsiniz</string>
     <string name="permission_xiaoai_title">Konuşmadan yazıya</string>
     <string name="permlab_accessNote">Notlara erişim</string>
@@ -978,7 +988,6 @@
     <string name="toast_refuse_to_use_external_storage">"Depolama alanı izinleri kısıtlı
 Notlar uygulamasına SD kartınızdaki içerikleri okuma izni verin"</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Notlara resim ekleyebilmek için bu uygulamanın fotoğraflarınıza erişmesine izin verin</string>
-	<string name="toast_refuse_to_use_photos_in_excerpt_v14">Notlara resim ekleyebilmek için bu uygulamanın tüm fotoğraflara erişmesine izin verin</string>
     <string name="toast_refuse_to_use_record_audio">"Mikrofon izinleri kısıtlı
 Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">"Notlarınıza görüntü ekleyebilmesi için Notlar'a depolama alanına erişim izni verin"</string>

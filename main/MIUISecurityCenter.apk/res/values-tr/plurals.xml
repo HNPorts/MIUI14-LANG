@@ -367,8 +367,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
-        <item quantity="other">    +%1$d daha fazla karakter</item>
-        <item quantity="one">    +%1$d daha fazla karakter</item>
+        <item quantity="other">+%1$d daha fazla karakter</item>
+        <item quantity="one">+%1$d daha fazla karakter</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d izin</item>
@@ -626,6 +626,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">" dakika"</item>
         <item quantity="one">" dakika"</item>
     </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Cihazınızın pili bitmiş. %1$d saniye içinde hazırda bekletme moduna giriliyor</item>
         <item quantity="one">Cihazınızın pili bitmiş. %1$d saniye içinde hazırda bekletme moduna giriliyor</item>
@@ -689,6 +693,282 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="people_million">
         <item quantity="other">%1$d kişi tarafından indirildi</item>
         <item quantity="one">%1$d kişi tarafından indirildi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_activity_recognization">
+        <item quantity="other">%1$s | Bu uygulama antrenman bilgilerinize %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama antrenman bilgilerinize %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_autostart">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez otomatik olarak başlatıldı</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez otomatik olarak başlatıldı</item>
+    </plurals>
+    <plurals name="permission_usage_allow_body_sensor">
+        <item quantity="other">%1$s | Bu uygulama vücut sensörlerine %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama vücut sensörlerine %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_call_phone">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez telefon görüşmesi yaptı</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez telefon görüşmesi yaptı</item>
+    </plurals>
+    <plurals name="permission_usage_allow_camera">
+        <item quantity="other">%1$s | Bu uygulama kameraya %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama kameraya %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_clipboard">
+        <item quantity="other">%1$s | Bu uygulama panoya %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama panoya %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_delete_pic">
+        <item quantity="other">%1$s | Bu uygulama Ggalerideki fotoğrafları %2$d kez sildi</item>
+        <item quantity="one">%1$s | Bu uygulama galerideki fotoğrafları %2$d kez sildi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_device_sensor">
+        <item quantity="other">%1$s | Bu uygulama cihazın hareketine ve yönüne %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama cihazın hareketine ve yönüne %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_files">
+        <item quantity="other">%1$s | Bu uygulama dosya ve belgelere %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama dosya ve belgelere %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_installed">
+        <item quantity="other">%1$s | Bu uygulama bu cihazda yüklü uygulamaların listesine %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama bu cihazda yüklü uygulamaların listesine %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_number">
+        <item quantity="other">%1$s| Bu uygulama bu cihazın telefon numarasına %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama bu cihazın telefon numarasına %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_sms">
+        <item quantity="other">%1$s | Bu uygulama mesajı %2$d kez okudu</item>
+        <item quantity="one">%1$s | Bu uygulama mesajı %2$d kez okudu</item>
+    </plurals>
+    <plurals name="permission_usage_allow_location">
+        <item quantity="other">%1$s | Bu uygulama konumunuza %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama konumunuza %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Bu uygulama müzik ve sese %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama müzik ve sese %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_visual">
+        <item quantity="other">%1$s | Bu uygulama fotoğraflara ve videolara %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama fotoğraflara ve videolara %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_volume">
+        <item quantity="other">%1$s | Bu uygulama medya ses düzeyini %2$d kez ayarladı</item>
+        <item quantity="one">%1$s | Bu uygulama medya ses düzeyini %2$d kez ayarladı</item>
+    </plurals>
+    <plurals name="permission_usage_allow_mic">
+        <item quantity="other">%1$s | Bu uygulama mikrofona %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama mikrofona %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_nearby_device">
+        <item quantity="other">%1$s | Bu uygulama yakındaki cihazların listesine %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama yakındaki cihazların listesine %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_perm">
+        <item quantity="other">%1$s | %2$d kez erişildi</item>
+        <item quantity="one">%1$s | %2$d kez erişildi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_phone_state">
+        <item quantity="other">%1$s | Bu uygulama bu cihazın arama durumuna %2$d kez erişti</item>
+        <item quantity="one">"%1$s | Bu uygulama bu cihazın arama durumuna %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calendar">
+        <item quantity="other">%1$s | Bu uygulama takvime %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama takvime %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calllog">
+        <item quantity="other">%1$s | Bu uygulama arama geçmişinize %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama arama geçmişinize %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_contacts">
+        <item quantity="other">%1$s | Bu uygulama kişilerinize %2$d kez erişti</item>
+        <item quantity="one">%1$s | Bu uygulama kişilerinize %2$d kez erişti</item>
+    </plurals>
+    <plurals name="permission_usage_allow_receive_sms">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez mesaj aldı</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez mesaj aldı</item>
+    </plurals>
+    <plurals name="permission_usage_allow_send_sms">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez mesaj gönderdi</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez mesaj gönderdi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calendar">
+        <item quantity="other">%1$s | Bu uygulama takvimi %2$d kez düzenledi</item>
+        <item quantity="one">%1$s | Bu uygulama takvimi %2$d kez düzenledi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calllog">
+        <item quantity="other">%1$s| Bu uygulama arama geçmişinizi %2$d kez düzenledi</item>
+        <item quantity="one">%1$s| Bu uygulama arama geçmişinizi %2$d kez düzenledi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Bu uygulama kişilerinizi %2$d kez düzenledi</item>
+        <item quantity="one">%1$s | Bu uygulama kişilerinizi %2$d kez düzenledi</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wake_path">
+        <item quantity="other">%1$s | Bu uygulama %2$s %3$d kez otomatik olarak başlatıldı</item>
+        <item quantity="one">%1$s | Bu uygulama %2$s %3$d kez otomatik olarak başlatıldı</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wakepath">
+        <item quantity="other">%1$s | %2$d kez izin verildi</item>
+        <item quantity="one">%1$s | %2$d kez izin verildi</item>
+    </plurals>
+    <plurals name="permission_usage_delete_pic_more">
+        <item quantity="other">%1$s | Galerideki fotoğraflar %2$d kez silindi</item>
+        <item quantity="one">%1$s | Galerideki fotoğraflar %2$d kez silindi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_activity_recognization">
+        <item quantity="other">%1$s | Bu uygulamanın antrenman bilgilerinize %2$d kez erişmesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın antrenman bilgilerinize %2$d kez erişmesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_autostart">
+        <item quantity="other">%1$s | Bu uygulamanın %2$d kez otomatik olarak başlatılması reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın %2$d kez otomatik olarak başlatılması reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_body_sensor">
+        <item quantity="other">%1$s | Bu uygulamanın vücut sensörlerine erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın vücut sensörlerine erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_call_phone">
+        <item quantity="other">%1$s | Bu uygulamanın %2$d kez arama yapması reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın %2$d kez arama yapması reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_camera">
+        <item quantity="other">%1$s | Bu uygulamanın kameraya erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın kameraya erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_clipboard">
+        <item quantity="other">%1$s | Bu uygulamanın panoya erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın panoya erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_delete_pic">
+        <item quantity="other">%1$s | Bu uygulamanın galerideki fotoğrafları %2$d kez silmesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın galerideki fotoğrafları %2$d kez silmesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_device_sensor">
+        <item quantity="other">%1$s | Bu uygulamanın cihaz hareketine ve yönüne erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın cihaz hareketine ve yönüne erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_files">
+        <item quantity="other">%1$s | Bu uygulamanın dosya ve belgelere erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın dosya ve belgelere erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_installed">
+        <item quantity="other">%1$s | Bu uygulamanın bu cihazda yüklü uygulamalar listesine erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın bu cihazda yüklü uygulamalar listesine erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_number">
+        <item quantity="other">"%1$s | Bu uygulamanın bu cihazın telefon numarasına %2$d kez erişimi reddedildi"</item>
+        <item quantity="one">"%1$s | Bu uygulamanın bu cihazın telefon numarasına %2$d kez erişimi reddedildi"</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_sms">
+        <item quantity="other">%1$s | Bu uygulamanın mesajı %2$d kez okuması reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın mesajı %2$d kez okuması reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_location">
+        <item quantity="other">%1$s | Bu uygulamanın konumunuza %2$d kez erişmesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın konumunuza %2$d kez erişmesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_aural">
+        <item quantity="other">%1$s | Bu uygulamanın müziğe ve sese erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın müziğe ve sese erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_visual">
+        <item quantity="other">%1$s | Bu uygulamanın fotoğraf ve videolara erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın fotoğraf ve videolara erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_volume">
+        <item quantity="other">%1$s | Bu uygulamanın medya ses düzeyini %2$d kez ayarlaması reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın medya ses düzeyini %2$d kez ayarlaması reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_mic">
+        <item quantity="other">%1$s | Bu uygulamanın mikrofona erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın mikrofona erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_nearby_device">
+        <item quantity="other">%1$s | Bu uygulamanın yakındaki cihazlar listesine erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın yakındaki cihazlar listesine erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_perm">
+        <item quantity="other">%1$s | Erişim %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Erişim %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_phone_state">
+        <item quantity="other">%1$s | Bu uygulamanın bu cihazın arama durumuna erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın bu cihazın arama durumuna erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calendar">
+        <item quantity="other">%1$s | Bu uygulamanın takvime erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın takvime erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calllog">
+        <item quantity="other">%1$s | Bu uygulamanın arama geçmişinize erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın arama geçmişinize erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_contacts">
+        <item quantity="other">%1$s | Bu uygulamanın kişilerinize erişimi %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın kişilerinize erişimi %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_receive_sms">
+        <item quantity="other">%1$s | Bu uygulamanın %2$d kez mesaj alması reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın %2$d kez mesaj alması reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_send_sms">
+        <item quantity="other">%1$s | Bu uygulamanın %2$d kez mesaj göndermesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın %2$d kez mesaj göndermesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calendar">
+        <item quantity="other">%1$s | Bu uygulamanın takvimi %2$d kez düzenlemesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın takvimi %2$d kez düzenlemesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calllog">
+        <item quantity="other">%1$s | Bu uygulamanın arama geçmişinizi %2$d kez düzenlemesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın arama geçmişinizi %2$d kez düzenlemesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_contacts">
+        <item quantity="other">%1$s | Bu uygulamanın kişilerinizi %2$d kez düzenlemesi reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın kişilerinizi %2$d kez düzenlemesi reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wake_path">
+        <item quantity="other">%1$s | Bu uygulamanın %2$s %3$d kez otomatik olarak başlatılması reddedildi</item>
+        <item quantity="one">%1$s | Bu uygulamanın %2$s %3$d kez otomatik olarak başlatılması reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wakepath">
+        <item quantity="other">%1$s | %2$d kez reddedildi</item>
+        <item quantity="one">%1$s | %2$d kez reddedildi</item>
+    </plurals>
+    <plurals name="permission_usage_recent_day">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_camera">
+        <item quantity="other">%1$s | Bu uygulama bu cihazın kamerasını %2$d kez kullandı</item>
+        <item quantity="one">%1$s | Bu uygulama bu cihazın kamerasını %2$d kez kullandı</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_screen">
+        <item quantity="other">%1$s | Bu uygulama bu cihazın ekranını %2$d kez kullandı</item>
+        <item quantity="one">%1$s | Bu uygulama bu cihazın ekranını %2$d kez kullandı</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_calllog_more">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez boş arama kaydı döndürdü</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez boş arama kaydı döndürdü</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_common_more">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez boş bir mesaj döndürdü</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez boş bir mesaj döndürdü</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_contacts_more">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez boş bir kişiyi döndürdü</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez boş bir kişiyi döndürdü</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_phone_state_more">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez boş arama durumu döndürdü</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez boş arama durumu döndürdü</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_sms_more">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez boş mesaj döndürdü</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez boş mesaj döndürdü</item>
     </plurals>
     <plurals name="power_20s_shutdown">
         <item quantity="other">Cihazınız %d saniye içinde kapanacak</item>
@@ -813,6 +1093,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="pp_times">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
+    </plurals>
+    <plurals name="ppermission_usage_virtual_calendar_more">
+        <item quantity="other">%1$s | Bu uygulama %2$d kez boş bir takvim etkinliği döndürdü</item>
+        <item quantity="one">%1$s | Bu uygulama %2$d kez boş bir takvim etkinliği döndürdü</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d uygulama gizlendi</item>
@@ -958,6 +1242,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> parça</item>
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> parça</item>
     </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Odak modunu %d dakika boyunca aç</item>
         <item quantity="one">Odak modunu %d dakika boyunca aç</item>
@@ -1031,6 +1319,10 @@ Bir ara verin"</item>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">Seçilen %d uygulama temizlensin mi?</item>
         <item quantity="one">Seçilen %d uygulama temizlensin mi?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s uygulama</item>
+        <item quantity="one">%s uygulama</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Tehlikeli uygulamalar: %d</item>

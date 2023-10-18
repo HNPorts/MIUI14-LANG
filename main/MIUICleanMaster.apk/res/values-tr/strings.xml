@@ -58,8 +58,11 @@
     <string name="ad_install_success_dialog_title">%1$s başarıyla yüklendi. Şimdi açılsın mı?</string>
     <string name="ad_text_adx">Reklam</string>
     <string name="ad_text_btn_download">Yükle</string>
+    <string name="ad_text_btn_download">Yükle</string>
+    <string name="ad_text_btn_resume">Duraklat</string>
     <string name="ad_text_develop">Geliştirici: %1$s</string>
     <string name="ad_text_permission">Yetki</string>
+    <string name="ad_text_permission">İzinler</string>
     <string name="ad_text_privacy">Gizlilik</string>
     <string name="ad_text_version">Sürüm: %1$s</string>
     <string name="afternoon">Öğleden sonra</string>
@@ -79,7 +82,6 @@
     <string name="app_cleaned">Başarıyla temizlendi</string>
     <string name="app_description_content">Temizleyici cihazınızdaki çöpleri bulur ve depolama alanı boşaltır. Uygulamayı kaldırmadan önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Temizleyici hakkında</string>
-    <string name="app_name">Temizleyici</string>
     <string name="app_reset">Sıfırla</string>
     <string name="app_specific_clean">Uygulama temizleyici</string>
     <string name="app_unload">Kaldır</string>
@@ -734,8 +736,9 @@
     <string name="label_image_list_none">Hiçbiri</string>
     <string name="label_preserve_the_best_image">En iyi fotoğrafları kaydet</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
-    <string name="load_only_under_wlan">Yalnızca Wi-Fi kullanarak yükle</string>
+    <string name="load_only_under_wlan">Yalnızca wifi kullanarak yükle</string>
     <string name="location_not_found">Dosya bulunamadı</string>
+    <string name="lock_device_toast">Bu cihaz kilitlidir. Temizleyiciyi kullanmak için kilidi açın</string>
     <string name="login_immediately">Oturum aç</string>
     <string name="long_click_dialog_summary">İstisnalara eklemek için uzun basın</string>
     <string name="long_click_dialog_title">Uyarı</string>

@@ -89,6 +89,14 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
+    <string-array name="bubble_body_line_spacing_multiplier">
+        <item>1.1</item>
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.05</item>
+        <item>1</item>
+        <item>0.85</item>
+    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -255,6 +263,14 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
+    <integer-array name="floating_notification_sub_text_suggest_count">
+        <item>26</item>
+        <item>26</item>
+        <item>30</item>
+        <item>23</item>
+        <item>20</item>
+        <item>20</item>
+    </integer-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>
@@ -312,6 +328,17 @@
         <item>@string/month_october_shortest</item>
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
     </string-array>
     <string-array name="privacy_update_5g_mms">
         <item>@string/privacy_dialog_tips_update</item>

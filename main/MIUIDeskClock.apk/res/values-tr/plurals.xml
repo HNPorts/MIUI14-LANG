@@ -15,6 +15,10 @@
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içinde</item>
     </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Şimdi</item>
     </plurals>

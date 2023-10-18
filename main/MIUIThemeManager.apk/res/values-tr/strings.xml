@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">Zayıf</string>
+    <string name="UVI_level_1">Orta</string>
+    <string name="UVI_level_2">Güçlü</string>
+    <string name="UVI_level_3">Çok güçlü</string>
+    <string name="UVI_level_4">Şiddetli</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -27,7 +32,6 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
-	<string name="ad_installing">Yükleniyor</string>
     <string name="about_app_name">Hakkında</string>
     <string name="about_version_update">Yenilikler</string>
     <string name="accessibiliy_ad">Reklam</string>
@@ -64,13 +68,14 @@
     <string name="ad_download_resume">Devam et</string>
     <string name="ad_downloading_tip">Bu öğe indiriliyor. İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz</string>
     <string name="ad_experience_now">Aç</string>
-	<string name="ad_in_downloading">İndiriliyor</string>
-	<string name="ad_in_installing">Yükleniyor</string>
-	<string name="ad_sub_textview_ad">Görüntü</string>
-	<string name="ad_sub_textview_divider">m</string>
+    <string name="ad_in_downloading">İndiriliyor</string>
+    <string name="ad_in_installing">Yükleniyor</string>
+    <string name="ad_installing">Yükleniyor</string>
+    <string name="ad_sub_textview_ad">Görüntü</string>
+    <string name="ad_sub_textview_divider">m</string>
     <string name="ad_sub_textview_introduction">Tanıtım</string>
-	<string name="ad_sub_textview_permission">İzinler</string>
-	<string name="ad_sub_textview_privacy">Öncelik</string>
+    <string name="ad_sub_textview_permission">İzinler</string>
+    <string name="ad_sub_textview_privacy">Öncelik</string>
     <string name="ad_sub_textview_version_with_colon">Sürüm:</string>
     <string name="ad_tag_text_1">Popüler</string>
     <string name="ad_tag_text_2">Moda</string>
@@ -78,6 +83,7 @@
     <string name="add_home_icon_success">Eklendi</string>
     <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="air_quality_index_abbreviation">HKE</string>
     <string name="all_resources">Tümü</string>
     <string name="allow">İzin ver</string>
     <string name="already_latest_version">Güncel</string>
@@ -128,6 +134,10 @@
     <string name="apply_wallpaper_warning_use_super_wallpaper">Şu anda bir süper duvar kağıdı kullanıyorsunuz. Yeni bir duvar kağıdı seçerseniz hem ana hem de kilit ekranlarınıza uygulanacaktır. Şimdi uygulansın mı?</string>
     <string name="apply_warning_get_device_dialog_message">İndirilen içeriği kullanabilmek için önce bu özelliğin cihaz kimliğinize erişmesine izin verin. Bu izni Ayarlar > Gizlilikten verebilirsiniz</string>
     <string name="apply_warning_tip_get_device_status">"Bu uygulamanın önce Profil > Ayarlar'da cihaz kimliğinize erişmesine izin verin"</string>
+    <string name="aqi_format">HKE %s</string>
+    <string name="aqi_format_desc">Hava kalitesi endeksi %s</string>
+    <string name="atmosphere_pressure_unit">hPa</string>
+    <string name="atmospheric_pressure_desc">Hava basıncı %s hPa</string>
     <string name="audio_duration_minutes_format">%1$d dakika</string>
     <string name="audio_duration_seconds_format">%1$d saniye</string>
     <string name="audition_ringtone">Oynat</string>
@@ -241,6 +251,8 @@
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="chip_text">Çip metni</string>
+    <string name="classic_calendar_day_of_week_format">EE</string>
+    <string name="classic_calendar_month_of_year_format">MMM</string>
     <string name="classification_more_understand_you">Favori kategorinizi seçin</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
@@ -383,7 +395,7 @@
     <string name="download_failed">İndirilemedi</string>
     <string name="download_preview_failed">Önizleme yüklenemiyor</string>
     <string name="download_success">İndirme işlemi tamamlandı</string>
-    <string name="dynamic_large_icon_not_support_current_type">"%s bu dinamik simge için desteklenmiyor"</string>
+    <string name="dynamic_large_icon_not_support_current_type">%s bu dinamik simge için desteklenmiyor</string>
     <string name="dynamic_video_wallpaper">24 saat duvar kağıdı</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
@@ -568,6 +580,35 @@
     <string name="font_trial_end_purchase">Yazı tipi satın al</string>
     <string name="forbid_transparent_wallpaper_by_second_space">İlk alana şeffaf duvar kağıdı uygulayın</string>
     <string name="forbid_video_wallpaper_by_second_space">İlk alana dinamik duvar kağıdı uygulayın</string>
+    <string name="format_chs_day">%s gün</string>
+    <string name="format_chs_hour">%s saat</string>
+    <string name="format_chs_minute">%s dakika</string>
+    <string name="format_chs_month_day">%1$d ay %2$d gün</string>
+    <string name="format_chs_solar">t</string>
+    <string name="format_count_denominator">/ %s</string>
+    <string name="format_count_denominator_2">/%s</string>
+    <string name="format_day_desc">%s.gün</string>
+    <string name="format_day_week_desc">%1$s.gün，%2$s</string>
+    <string name="format_full_day_of_week">EEEE</string>
+    <string name="format_full_month_of_year">MMMM</string>
+    <string name="format_hour_minute">%1$s:%2$s</string>
+    <string name="format_lunar_calendar_month_day">N/e</string>
+    <string name="format_lunar_calendar_month_day_desc">Ay takvimi %s</string>
+    <string name="format_lunar_calendar_solar_terms">%1$s %2$s</string>
+    <string name="format_minute_desc">%s dakika</string>
+    <string name="format_month_and_day">%1$s/%2$s</string>
+    <string name="format_month_day_desc">%1$s%2$s.gün</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s%2$s gün. Ay takvimi %3$s, %4$s</string>
+    <string name="format_month_day_style1">MMM/d</string>
+    <string name="format_month_day_style2">M/d</string>
+    <string name="format_month_day_week">MMM dd, EEE</string>
+    <string name="format_month_day_week_desc">%1$s%2$s.gün，%3$s</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s%2$s.gün. %3$s, ay takvimi %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s%2$s.gün，%3$s，%4$s</string>
+    <string name="format_number_hour_desc">%s点</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">%1$s. Ay takvimi %2$s</string>
+    <string name="format_week_day_style1">EE d</string>
+    <string name="format_week_day_style1_desc">%1$s，%2$s.gün</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -586,6 +627,15 @@
     <string name="has_mamual_hide_theme">Gizli</string>
     <string name="has_mamual_hide_wallpaper">Gizli</string>
     <string name="head_portraits">Profil fotoğrafı</string>
+    <string name="health_chart_caloris_unit">Kalori</string>
+    <string name="health_chart_sleep_time_format">%1$s saat %2$s dakika</string>
+    <string name="health_chart_sleep_time_good">Yeterli</string>
+    <string name="health_chart_sleep_time_low">Yetersiz</string>
+    <string name="health_chart_sleep_time_normal">Normal</string>
+    <string name="health_chart_sleep_time_very_good">İyi</string>
+    <string name="health_chart_step_count_unit">Adımlar</string>
+    <string name="health_no_data">Sağlık verisi yok</string>
+    <string name="health_sleep_desc">Uyku süresi %1$s. uyku kalitesi %2$s</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -620,6 +670,8 @@
     <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
     <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
     <string name="home_daily">Günlük önemli noktalar</string>
+    <string name="humidity_format">Nem %s</string>
+    <string name="humidity_format_with_unit">%s</string>
     <string name="i_know">Tamam</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="icon_pad_setting_find_more_title">Daha fazla simge</string>
@@ -656,29 +708,29 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="kuyin_user_agreement_content_href">iFlytek gizlilik politikası</string>
     <string name="lab">Diğer</string>
     <string name="label">Etiket</string>
-	<string name="large_icon_apply_fail_for_in_dock">Uygulama yuvasındaki uygulamalar için süper simgeler kullanılamaz</string>
-	<string name="large_icon_apply_fail_for_in_folder">Klasörlerdeki uygulamalar için süper simgeler kullanılamaz</string>
-	<string name="large_icon_apply_fail_for_in_oldmode">Süper simgeler basit modda desteklenmez</string>
-	<string name="large_icon_apply_fail_for_not_in_launcher">Ana ekranda olmayan uygulamalar için süper simgeler kullanılamaz</string>
-	<string name="large_icon_card_image_bias">w,1:1</string>
-	<string name="large_icon_detail_title">%s süper simgeler</string>
-	<string name="large_icon_detail_warning_dialog_btn_keep">Süper simgeler</string>
-	<string name="large_icon_detail_warning_dialog_btn_not_keep">Varsayılan simgeler</string>
-	<string name="large_icon_detail_warning_dialog_msg">Bazı uygulamalar süper simgeler kullanıyor. Süper simgeler kullanmaya devam mı edeceksiniz yoksa temanızın varsayılan simgelerine mi döneceksiniz?</string>
-	<string name="large_icon_detail_warning_dialog_title">Süper simgeler ayarları</string>
-	<string name="large_icon_no_more">Burada henüz bir şey yok</string>
-	<string name="large_icon_no_network">"Ağa bağlanılamadı"</string>
-	<string name="large_icon_not_support">"%s için simgeler ayarlanamıyor"</string>
-	<string name="large_icon_not_support_current_type">%s bu simge için desteklenmiyor</string>
-	<string name="large_icon_official">Varsayılan</string>
-	<string name="large_icon_picker_haven">Mevcut simgeler</string>
-	<string name="large_icon_picker_more">Daha fazla</string>
-	<string name="large_icon_picker_size">Simge boyutu</string>
-	<string name="large_icon_theme">Temalar</string>
-	<string name="large_icon_to_find_more">Daha fazlasını görüntüleyin</string>
-	<string name="large_icon_warning_install">Yükle</string>
-	<string name="large_icon_warning_not_install">"%s'yi yükleyin"</string>
-	<string name="large_icon_warning_not_install_msg">Süper simge kullanabilmek için %s yükleyin. Şimdi yüklensin mi?</string>
+    <string name="large_icon_apply_fail_for_in_dock">Uygulama yuvasındaki uygulamalar için süper simgeler kullanılamaz</string>
+    <string name="large_icon_apply_fail_for_in_folder">Klasörlerdeki uygulamalar için süper simgeler kullanılamaz</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">Süper simgeler basit modda desteklenmez</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">Ana ekranda olmayan uygulamalar için süper simgeler kullanılamaz</string>
+    <string name="large_icon_card_image_bias">w,1:1</string>
+    <string name="large_icon_detail_title">%s süper simgeler</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Süper simgeler</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Varsayılan simgeler</string>
+    <string name="large_icon_detail_warning_dialog_msg">Bazı uygulamalar süper simgeler kullanıyor. Süper simgeler kullanmaya devam mı edeceksiniz yoksa temanızın varsayılan simgelerine mi döneceksiniz?</string>
+    <string name="large_icon_detail_warning_dialog_title">Süper simgeler ayarları</string>
+    <string name="large_icon_no_more">Burada henüz bir şey yok</string>
+    <string name="large_icon_no_network">Ağa bağlanılamadı</string>
+    <string name="large_icon_not_support">%s için simgeler ayarlanamıyor</string>
+    <string name="large_icon_not_support_current_type">%s bu simge için desteklenmiyor</string>
+    <string name="large_icon_official">Varsayılan</string>
+    <string name="large_icon_picker_haven">Mevcut simgeler</string>
+    <string name="large_icon_picker_more">Daha fazla</string>
+    <string name="large_icon_picker_size">Simge boyutu</string>
+    <string name="large_icon_theme">Temalar</string>
+    <string name="large_icon_to_find_more">Daha fazlasını görüntüleyin</string>
+    <string name="large_icon_warning_install">Yükle</string>
+    <string name="large_icon_warning_not_install">"%s'yi yükleyin"</string>
+    <string name="large_icon_warning_not_install_msg">Süper simge kullanabilmek için %s yükleyin. Şimdi yüklensin mi?</string>
     <string name="like_list">Beğendiklerim</string>
     <string name="live_wallpaper">Canlı duvar kağıtları</string>
     <string name="load_from_local_photos">Galeri</string>
@@ -693,9 +745,14 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="local_mode_hint">"Çevrimdışı modu kullanıyorsunuz
 Kapatmak için dokunun"</string>
     <string name="local_mode_open">Çevrimdışı mod</string>
+    <string name="local_notification_default_title">Temalar</string>
+    <string name="local_notification_font_trial_title">Yeni yazı tiplerine göz atın</string>
+    <string name="local_notification_update_theme_title">Temalarınızı güncelleyin</string>
     <string name="local_photos">Yerel fotoğraflar</string>
     <string name="local_resouce_creator_name">Geliştirici: %1$s</string>
     <string name="lock_screen_apply">Kilit ekranı olarak ayarla</string>
+    <string name="lock_screen_keyguard_guide_popup">Tamamen yeni, kişiselleştirilmiş kilit ekranı özelliklerine ve tasarımına göz atın</string>
+    <string name="lock_screen_keyguard_tip_title">Yeni kilit ekranı</string>
     <string name="lockscreen_apply_failured">Kilit ekranı duvar kağıdı uygulanamıyor</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Ana ekran duvar kağıdı uygulandı. Kilit ekranı duvar kağıdı uygulanamıyor</string>
     <string name="lockscreen_apply_success">Kilit ekranı duvar kağıdı uygulandı</string>
@@ -706,6 +763,7 @@ Kapatmak için dokunun"</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>
     <string name="lockscreen_magazine_system_title">Çevrimdışı</string>
     <string name="lockscreen_magazine_title">Duvar kağıdı döngüsü</string>
+    <string name="lockscreen_tip_content">Düzenlemeye başlamak için kilit ekranını basılı tutun. Yeni özelleştirme seçenekleri ve şablonlarla onu tamamen kendinize ait hale getirin</string>
     <string name="lockscreen_wallpaper">Kilit ekranı</string>
     <string name="lockstyle_personal_settings">Kişiselleştir</string>
     <string name="login_theme">Oturum aç</string>
@@ -757,17 +815,59 @@ Kapatmak için dokunun"</string>
     <string name="miui_clock_city_name_local">Yerel</string>
     <string name="miui_clock_city_name_second">İkinci saat</string>
     <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_clock_time_format_12">hh:mm</string>
+    <string name="miui_clock_time_format_24">HH:mm</string>
     <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd/MM
-EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd/MM
+    <string name="miui_lock_empty" />
+    <string name="miui_lock_screen_date">dd MMM EEE</string>
+    <string name="miui_lock_screen_date_12">dd MMM EEE</string>
+														 
+			  
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+			  
+													 
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd/MM
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
 EEE"</string>
+    <string name="miui_lock_screen_large_date">"d/M
+EEE"</string>
+    <string name="miui_lock_screen_large_date_12">"d/M
+EEE"</string>
+    <string name="miui_lock_solar_term_autumn_begins">Sonbaharın başlangıcı</string>
+    <string name="miui_lock_solar_term_autumn_equinox">秋分</string>
+    <string name="miui_lock_solar_term_clear_and_bright">清明</string>
+    <string name="miui_lock_solar_term_cold_dews">寒露</string>
+    <string name="miui_lock_solar_term_grain_buds">小满</string>
+    <string name="miui_lock_solar_term_grain_in_ear">芒种</string>
+    <string name="miui_lock_solar_term_grain_rain">谷雨</string>
+    <string name="miui_lock_solar_term_great_cold">大寒</string>
+    <string name="miui_lock_solar_term_great_heat">大暑</string>
+    <string name="miui_lock_solar_term_heavy_snow">大雪</string>
+    <string name="miui_lock_solar_term_hoar_frost_falls">霜降</string>
+    <string name="miui_lock_solar_term_insects_awaken">惊蛰</string>
+    <string name="miui_lock_solar_term_light_snow">小雪</string>
+    <string name="miui_lock_solar_term_slight_cold">小寒</string>
+    <string name="miui_lock_solar_term_slight_heat">小暑</string>
+    <string name="miui_lock_solar_term_spring_begins">立春</string>
+    <string name="miui_lock_solar_term_stopping_the_heat">处暑</string>
+    <string name="miui_lock_solar_term_summer_begins">立夏</string>
+    <string name="miui_lock_solar_term_summer_solstice">夏至</string>
+    <string name="miui_lock_solar_term_the_rains">雨水</string>
+    <string name="miui_lock_solar_term_vernal_equinox">春分</string>
+    <string name="miui_lock_solar_term_white_dews">白露</string>
+    <string name="miui_lock_solar_term_winter_begins">立冬</string>
+    <string name="miui_lock_solar_term_winter_solstice">冬至</string>
+    <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date">d/M EEEE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">dd MMM EEEE</string>
+    <string name="miui_magazine_clock_date">d/M</string>
+    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+    <string name="miui_magazine_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_week">EEE</string>
+    <string name="miui_rhombus_clock_week_full">EEEE</string>
+    <string name="miui_smart_frame_clock_date">d/M</string>
+    <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -931,6 +1031,9 @@ mm"</string>
     <string name="night">ÖS</string>
     <string name="no_cta_agreed">"GetApps'in CTA izinleri yok"</string>
     <string name="no_data">Ağa bağlanılamıyor</string>
+    <string name="no_data_placeholder_string">--</string>
+    <string name="no_data_placeholder_string_with_percent_sign">--%</string>
+    <string name="no_data_placeholder_string_with_temperature_unit">--℃</string>
     <string name="no_install_permission">Bu öğeyi yükleme izniniz yok</string>
     <string name="no_more_notice">Tekrar gösterme</string>
     <string name="no_net_work_connection">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -938,6 +1041,7 @@ mm"</string>
     <string name="no_network_please_retry">Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="no_wallpaper">Burada henüz öğe yok</string>
     <string name="noon">ÖS</string>
+    <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_allow">Reddet</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_incall_show">Bu duvar kağıdı profil videolarıyla çalışmıyor</string>
@@ -972,6 +1076,7 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="paying">Satın alınıyor</string>
+    <string name="percent_sign">%</string>
     <string name="personalize">Kişiselleştirme</string>
     <string name="personalize_alarm_ringtone_title">Alarmlar</string>
     <string name="personalize_aod_title">Her zaman açık</string>
@@ -981,6 +1086,7 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="personalize_fingerprint_style_title">Parmak izi</string>
     <string name="personalize_font_demo_content">Aa</string>
     <string name="personalize_icon_title">Simgeler</string>
+    <string name="personalize_item_more_setting">Ek ayarlar</string>
     <string name="personalize_notify_ringtone_title">Bildirimler</string>
     <string name="personalize_notify_style_title">Efektler</string>
     <string name="personalize_recommend_switch_desc">Cihaz kimliğine göre kişiselleştirilmiş içerik önerileri alın</string>
@@ -1135,6 +1241,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="pull_down_view_refresh">Yenile</string>
     <string name="pull_down_view_title">Yenilikler</string>
     <string name="purchased">Siparişler</string>
+    <string name="rain_probability_desc">Yağış olasılığı %s</string>
     <string name="read_and_agree_account_privacy">Mi hesabı %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikasını okuyun kabul edin</string>
     <string name="recently_used">Son kullanılanlar</string>
     <string name="recommend_bottom_tips">En altta</string>
@@ -1320,6 +1427,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Zil sesleri</string>
     <string name="resource_ringtone_playing_error">Hata</string>
+    <string name="resource_ringtone_too_large_waring">Zil sesi dosyaları %1$d MB veya daha küçük olmalıdır</string>
     <string name="resource_ringtone_volume_mute">Zil sesi susturuldu</string>
     <string name="resource_save_to_note">Notlara kaydet</string>
     <string name="resource_search_color_hint_blue">Mavi</string>
@@ -1380,6 +1488,10 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_waiting_download">Bekleniyor</string>
     <string name="resource_waiting_pause">Duraklat</string>
     <string name="resource_wallpaper_download">Duvar kağıdı indir</string>
+    <string name="restore_default_change_wallpaper_when_special_lockscreen">"Şu anda bir Kilit ekranı şablonu kullanıyorsunuz. Devam ederseniz, kilit ekranınız varsayılana geri dönecek ve ana ekran ile kilit ekranı duvar kağıtlarınız değiştirilecektir. Şimdi uygulansın mı?"</string >
+    <string name="restore_default_lock_style_apply_superwallpaper">"Bu kilit ekranı şablonu süper duvar kağıtlarını desteklemiyor. Uygulandıktan sonra kilit ekranınız varsayılana dönecek ve ana ekran ile kilit ekranı duvar kağıtlarınız değiştirilecektir. Şimdi uygulansın mı?"</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">"Şu anda bir kilit ekranı şablonu kullanıyorsunuz. Devam ederseniz kilit ekranınız varsayılana geri dönecek. Şimdi uygulansın mı?"</string>
+    <string name="restore_history_lock_screen_when_apply_theme">"Şu anda bir üçüncü taraf teması kullanıyorsunuz. Kilit ekranı duvar kağıdınızı değiştirirseniz bu kilit ekranı saatinin varsayılana döndürülmesine neden olabilir. Şimdi uygulansın mı?"</string>
     <string name="restore_home_icon_text">Ana ekran kısayolu ekle</string>
     <string name="restore_icon_later">Ana ekran kısayolunu ayarlardan tekrar ekleyebilirsiniz</string>
     <string name="ringtone_confirm_dialog_message">Bu zil sesinin süresi uzundur. Yine de kullanılsın mı?</string>
@@ -1490,6 +1602,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="solar_term_white_dews">Çiğ</string>
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
+    <string name="somatosensory_temperature_format">%s° gibi hissettiriyor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Uygula</string>
     <string name="storage_migration_exit_msg">Temaları androidin gelecek sürümleriyle uyumlu hale getirmek için indirdiğiniz öğeleri yeni bir konuma taşıdık. Değişiklikleri uygulamak ve indirdiğiniz içeriği görüntülemek için uygulamayı yeniden başlatın</string>
@@ -1498,6 +1611,11 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="sunrise_time_format">Gündoğumu %s</string>
+    <string name="sunrise_time_format_desc">Gün doğumu zamanı %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">Yarının gün doğumu zamanı %s</string>
+    <string name="sunset_time_format">Gün batımı %s</string>
+    <string name="sunset_time_format_desc">Gün batımı zamanı %s</string>
     <string name="super_wallpaper">Süper duvar kağıdı</string>
     <string name="super_wallpaper_dialog_content">Pil tasarrufu duvar kağıtlarının dinamik özelliklerini kapatır</string>
     <string name="super_wallpaper_download_progress">%%%1$d</string>
@@ -1532,7 +1650,9 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="system_precust">Önyüklüler</string>
     <string name="tag_ad">Reklam</string>
     <string name="task_already_exist">Bu görev zaten var</string>
+    <string name="temperature_unit">°</string>
     <string name="ten_thousand_unit">On bin</string>
+    <string name="text_slash">/</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
@@ -1741,6 +1861,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="uid_change_dialog_message">Güncellemeleri sildiniz. Temaları kullanabilmek için cihazı yeniden başlatın</string>
     <string name="uid_change_dialog_ok">Tamam</string>
     <string name="uid_change_dialog_title">Cihazı yeniden başlat</string>
+    <string name="ultraviolet_rays_abbreviation">UVI</string>
     <string name="unable_connect_network">Ağa bağlanılamadı</string>
     <string name="uninstall_theme">Temalar ana ekrandan kaldırılsın mı?</string>
     <string name="uninstall_theme_description">Temalar bir sistem uygulamasıdır. Duvar kağıtları ve çoklu kişiselleştirme seçenekleri sunar. Ana ekran kısayolunu kaldırdıktan sonra ayarlar aracılığıyla temaları kullanmaya devam edebilirsiniz</string>
@@ -1761,8 +1882,10 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="use_now">Ekle</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut</string>
     <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
-    <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda Wi-Fi ağı üzerinden otomatik olarak günceller</string>
+    <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>
     <string name="using_theme_show_ad">Öneriler</string>
+    <string name="uvi_format">UVI %1$s %2$s</string>
+    <string name="uvi_format_desc">UV indeksi %1$s seviye. %2$s</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="version_update">Güncellemeleri kontrol et</string>
@@ -1822,6 +1945,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_loop_title">Duvar kağıdı slaytı</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Ana ekran duvar kağıdı slaytı</string>
     <string name="wallpaper_loop_title_lock_walpaper">Kilit ekranı duvar kağıdı slaytı</string>
+    <string name="wallpaper_magic_mode_preview_tip">Kilit ekranı önizlemesi</string>
     <string name="wallpaper_no_favorite">Burada henüz öğe yok</string>
     <string name="wallpaper_no_record">Burada henüz öğe yok</string>
     <string name="wallpaper_online">Çevrimiçi duvar kağıtları</string>
@@ -1866,6 +1990,8 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="warning_miui_optimization_closed_dialog_message">MIUI optimizasyonunu açmamışsınız gibi görünüyor. Bu olmadan bu tema uygulandığında düzgün çalışmaz. Yine de uygulayabilir veya ayarlarda MIUI optimizasyonunu açabilirsiniz</string>
     <string name="warning_miui_optimization_closed_dialog_title">Dikkat</string>
     <string name="warning_subscribe_wallpaper_group_content">Ana ekran slayt gösterisini açtınız. %1$s ana ekranınıza uygulanacak</string>
+    <string name="weather_no_data">Hava durumu verisi yok</string>
+    <string name="weather_temperature_desc">Sıcaklık %1$s° %2$s</string>
     <string name="wechat_not_found">"Öncelikle WeChat'i yükleyin"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
@@ -1875,6 +2001,19 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wifi_check_confirm">Onayla</string>
     <string name="wifi_check_message">Güncellemeleri indirmek için mobil veri kullanılsın mı?</string>
     <string name="wifi_check_tip">Tekrar gösterme</string>
+    <string name="wind_direction_0">N rüzgâr</string>
+    <string name="wind_direction_1">NE rüzgâr</string>
+    <string name="wind_direction_1_f">NE rüzgâr</string>
+    <string name="wind_direction_2">E rüzgâr</string>
+    <string name="wind_direction_3">SE rüzgâr</string>
+    <string name="wind_direction_3_f">SE rüzgâr</string>
+    <string name="wind_direction_4">S rüzgâr</string>
+    <string name="wind_direction_5">SW rüzgâr</string>
+    <string name="wind_direction_5_f">SW rüzgâr</string>
+    <string name="wind_direction_6">W rüzgâr</string>
+    <string name="wind_direction_7">NW rüzgâr</string>
+    <string name="wind_direction_7_f">NW rüzgâr</string>
+    <string name="wind_format">%1$s | Seviye %2$s</string>
     <string name="xiaoai_speech_not_installed_download">İndir</string>
     <string name="xiaoai_speech_not_installed_message">Devam etmek için Mi AI yardımcısını indirin ve yükleyin</string>
     <string name="xiaoai_speech_not_installed_title">Mi AI yardımcısı yüklü değil</string>

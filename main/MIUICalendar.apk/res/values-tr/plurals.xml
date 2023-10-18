@@ -81,10 +81,6 @@
         <item quantity="other">%1$s yıl</item>
         <item quantity="one">%1$s yıl</item>
     </plurals>
-    <plurals name="birthday_age">
-        <item quantity="other">%d yaşında</item>
-        <item quantity="one">%d yaşında</item>
-    </plurals>
     <plurals name="birthday_event_description_days_ago">
         <item quantity="other">%1$d gün geçti</item>
         <item quantity="one">%1$d gün geçti</item>
@@ -92,102 +88,6 @@
     <plurals name="birthday_event_description_days_later">
         <item quantity="other">%1$d gün kaldı</item>
         <item quantity="one">%1$d gün kaldı</item>
-    </plurals>
-    <plurals name="birthday_event_info">
-        <item quantity="other">"%1$s'nin doğum günü (%2$d)"</item>
-        <item quantity="one">"%1$s'nin doğum günü (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_2tmrw">
-        <item quantity="other">"%1$s'nin doğum günü (%2$d) iki gün sonra olacak"</item>
-        <item quantity="one">"%1$s'nin doğum günü (%2$d) iki gün sonra olacak"</item>
-    </plurals>
-    <plurals name="birthday_event_info_2tmrw_lunar">
-        <item quantity="other">"%1$s'nin doğum günü iki gün sonra olacak (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%1$s'nin doğum günü iki gün sonra olacak (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_2ytd">
-        <item quantity="other">"%1$s'in doğum günü iki gün önceydi (%2$d)"</item>
-        <item quantity="one">"%1$s'in doğum günü iki gün önceydi (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_2ytd_lunar">
-        <item quantity="other">"%1$s adlı kişinin doğum günü iki gün önceydi (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%1$s adlı kişinin doğum günü iki gün önceydi (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_countdown">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün sonra (%3$s)"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün sonra (%3$s)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_countdown_lunar">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün sonra (%3$s — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün sonra (%3$s — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_countdown_lunar_noage">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün sonra (Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün sonra (Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_countdown_noage">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün sonra"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün sonra"</item>
-    </plurals>
-    <plurals name="birthday_event_info_inweek">
-        <item quantity="other">"%1$s'nin doğum günü bir hafta içinde olacak (%2$d)"</item>
-        <item quantity="one">"%1$s'nin doğum günü bir hafta içinde olacak (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_inweek_lunar">
-        <item quantity="other">"%1$s'nin doğum günü bir hafta içinde olacak (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%1$s'nin doğum günü bir hafta içinde olacak (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_lastweek">
-        <item quantity="other">"%1$s'in doğum günü bir hafta önceydi (%2$d)"</item>
-        <item quantity="one">"%1$s'in doğum günü bir hafta önceydi (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_lastweek_lunar">
-        <item quantity="other">"%1$s adlı kişinin doğum günü bir hafta önceydi (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%1$s adlı kişinin doğum günü bir hafta önceydi (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_lunar">
-        <item quantity="other">"%1$s adlı kişinin doğum günü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%1$s adlı kişinin doğum günü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_past">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün önceydi (%3$s)"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün önceydi (%3$s)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_past_lunar">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün önceydi (%3$s — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün önceydi (%3$s — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_past_lunar_noage">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün önceydi (Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün önceydi (Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_past_noage">
-        <item quantity="other">"%2$s'nin doğum günü %1$d gün önceydi"</item>
-        <item quantity="one">"%2$s'nin doğum günü %1$d gün önceydi"</item>
-    </plurals>
-    <plurals name="birthday_event_info_tmrw">
-        <item quantity="other">"Yarın %1$s'ın doğum günü (%2$d)"</item>
-        <item quantity="one">"Yarın %1$s'ın doğum günü (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_tmrw_lunar">
-        <item quantity="other">"Yarın %1$s'nin doğum günü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"Yarın %1$s'nin doğum günü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_today">
-        <item quantity="other">"Bugün %1$s adlı kişinin doğum günü (%2$d)"</item>
-        <item quantity="one">"Bugün %1$s adlı kişinin doğum günü (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_today_lunar">
-        <item quantity="other">"Bugün %1$s adlı kişinin doğum günü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"Bugün %1$s adlı kişinin doğum günü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_ytd">
-        <item quantity="other">"Dün %1$s'nin doğum günüydü (%2$d)"</item>
-        <item quantity="one">"Dün %1$s'nin doğum günüydü (%2$d)"</item>
-    </plurals>
-    <plurals name="birthday_event_info_ytd_lunar">
-        <item quantity="other">"Dün %1$s adlı kişinin doğum günüydü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
-        <item quantity="one">"Dün %1$s adlı kişinin doğum günüydü (%2$d yaşında — Geleneksel Çin takvimi)"</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s yaşında</item>
@@ -275,10 +175,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
-    </plurals>
-    <plurals name="other_all_day_events">
-        <item quantity="other">%d daha fazla etkinlik</item>
-        <item quantity="one">%d daha fazla etkinlik</item>
     </plurals>
     <plurals name="other_num_events">
         <item quantity="other">%d etkinlik daha</item>

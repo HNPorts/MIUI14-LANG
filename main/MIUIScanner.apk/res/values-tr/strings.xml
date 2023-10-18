@@ -53,6 +53,7 @@
     <string name="already_ocr_result">Otomatik olarak seçilen öğeler</string>
     <string name="always">Her zaman</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_description_content">Barkod okuyucu QR kodlarını, dökümanları, iş kartlarını ve daha fazlasını taramanıza olanak sağlar. Uygulamayı silmeden önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Barkod okuyucu hakkında</string>
     <string name="app_details">Uygulama:</string>
@@ -93,11 +94,8 @@
     <string name="change_wifi_info">Ağ ayrıntılarını değiştir</string>
     <string name="character_counter_content_description">Karakter sınırı %1$d/%2$d değerini aştı</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="check_WI_FI">Bir Wi-Fi ağı bulundu</string>
+    <string name="check_WI_FI">Bir wifi ağı bulundu</string>
     <string name="check_for_updates">Beta güncellemelerini kontrol et</string>
-	<string name="language_entry_russian">Rusça</string>
-	<string name="miuix_appcompat_edit">Düzenle</string>
-	<string name="share_utils_title">Paylaş</string>
     <string name="check_phone_num">Bir telefon numarası bulundu</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -352,7 +350,7 @@
     <string name="filename_cannot_beempty">Dosya adı boş bırakılamaz</string>
     <string name="flash_close">Kapat</string>
     <string name="flash_open">Aç</string>
-    <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken Wi-Fi ağını elle aç</string>
+    <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken wifi ağını elle aç</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -558,6 +556,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimi kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -998,6 +997,7 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="share_as_picture">Resim olarak paylaş</string>
     <string name="share_error">Paylaşılamadı</string>
     <string name="share_format">Paylaşım formatı</string>
+    <string name="share_utils_title">Paylaş</string>
     <string name="shop_price_high">Yüksekten düşüğe</string>
     <string name="shop_price_low">Düşükten yükseğe</string>
     <string name="shopping_searching">Aranıyor</string>
@@ -1203,10 +1203,10 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="weixin_qrcode_process_type_tip">Bu WeChat kodunu nasıl işlemek istediğinizi seçin</string>
     <string name="weixinqrcode_process_fail_tip">WeChat kodu işlenemedi</string>
     <string name="welcome_to_thesweepversion">Tarayıcı betaya hoş geldiniz</string>
-    <string name="Wi-Fi">Wi-Fi</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Wi-Fi bağlantı noktası %1$s zaten mevcut. Bunu silin ve tekrar deneyin</string>
-    <string name="wifi_low_version_prompt">Wi-Fi istemi</string>
+    <string name="wifi_low_version_prompt">wifi istemi</string>
     <string name="wifi_open_fail">Wi-Fi açılamıyor</string>
     <string name="wifi_psd_toolong">Bu şifre çok uzun. Şifreyi elle girin</string>
     <string name="wifi_pwd">Şifre:</string>

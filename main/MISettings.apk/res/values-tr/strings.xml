@@ -50,6 +50,7 @@
     <string name="anti_flicker_mode_summary">Göz yorgunluğunuzu düşürmek için düşük ışık durumlarında titreşimi azaltın. Bazı ögeler düzgün görünmeyebilir</string>
     <string name="anti_flicker_title">Titreşimsiz mod</string>
     <string name="app_name">Mi ayarlar</string>
+    <string name="app_use">Uygulama ekran süresi</string>
     <string name="application_sound">Uygulama bildirimleri</string>
     <string name="apply_ringtone">Uygula</string>
     <string name="arctic_fox">Kutup tilkisi</string>
@@ -423,8 +424,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="giant_panda">Dev panda</string>
     <string name="golden_eagle">Altın kartal</string>
     <string name="golden_headed_lion_tamarin">Tamarin</string>
-    <string name="golden_rumped_tinkerbird">Sarı kırmızılı tinkerbird</string>
-    <string name="great_frigatebird">Büyük frigatebird</string>
+    <string name="golden_rumped_tinkerbird">Sarı kırmızılı tamirci kuşu</string>
+    <string name="great_frigatebird">Büyük firkateyn kuşu</string>
     <string name="green_peafowl">Yeşil tavus kuşu</string>
     <string name="green_warbler_finch">Yeşil ötleğen ispinozu</string>
     <string name="grey_headed_flying_fox">Gri başlı uçan tilki</string>
@@ -517,6 +518,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="masked_palm_civet">Maskeli palmiye misk kedisi</string>
     <string name="max_fps_string">"%s Hz'e kadar"</string>
     <string name="medium_tree_finch">Orta ağaç ispinozu</string>
+    <string name="mi_transfer_banner_summary">Mi taşıyıcıyı açmak için dokunun</string>
+    <string name="mi_transfer_banner_title">Eski cihazınızdaki öğeleri aktar</string>
     <string name="midnight">Gece</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>

@@ -18,6 +18,10 @@
     <string name="HIPS_Perm_External_Storage_Group">Depolama izinlerini yönet</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Uygulamaların erişmesine izin verilen öğeleri seçin</string>
     <string name="HIPS_Perm_GetInstall_Desc">Bu cihazda yüklü olan uygulamalar hakkında bilgi alın</string>
+    <string name="HIPS_Perm_Intl_group_name_calendar">Takvim</string>
+    <string name="HIPS_Perm_Intl_group_name_call_log">Arama geçmişi</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">Kamera</string>
+    <string name="HIPS_Perm_Intl_group_name_contact">Kişiler</string>
     <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI’ye erişme</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişme</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Arama geçmişini okuyun</string>
@@ -28,7 +32,8 @@
     <string name="HIPS_Perm_add_voicemail_Desc">Sistem sesli mesajları ekleyin</string>
     <string name="HIPS_Perm_get_accounts_Desc">Cihazda depolanan tüm hesaplara erişme</string>
     <string name="HIPS_Perm_process_nfc_Desc">NFC kullan</string>
-    <string name="HIPS_Perm_tencentControl">Sosyal medya uygulamalarındaki mesajlara erişin</string>
+    <string name="HIPS_Perm_process_outgoing_calls">Telefon</string>
+    <string name="HIPS_Perm_tencentControl">Sosyal medya mesajları</string>
     <string name="HIPS_Perm_tencentControl_Desc">Bu uygulamanın WeChat ve QQ mesajlarınıza erişmesine izin verin</string>
     <string name="HIPS_Perm_use_sip_Desc">Video akışı için oturum başlatma protokolünü kullanın</string>
     <string name="Phonepass">Aramalara izin ver</string>
@@ -75,6 +80,8 @@
     <string name="abnormal_consume_type_wakelock">Sistem uyuyamıyor</string>
     <string name="about_autostart">Otomatik başlatma hakkında</string>
     <string name="about_autostart_gloabl">Otomatik başlatma hakkında</string>
+    <string name="about_securitycenter_phne">Müşteri hizmetleri yardım hattı: 400–100–5678</string>
+    <string name="about_securitycenter_title">Güvenlik hakkında</string>
     <string name="ac_enter_applock">Uygulama kilidini girin</string>
     <string name="ac_firstUseApplock_subTitle">Sistem seviyesi güvenlik araçlarını kullanın</string>
     <string name="ac_firstUseApplock_title">Uygulamalarınızı korumak için bir şifre belirleyin</string>
@@ -146,7 +153,7 @@
     <string name="ad_floating_window_title">Kilidi açmak için kayan pencereyi kapatın</string>
     <string name="ad_split_screen_title">Kilidi açmak için bölünmüş ekrandan çıkın</string>
     <string name="ad_text_adx">Reklam</string>
-    <string name="ad_text_btn_download">Şimdi kur</string>
+    <string name="ad_text_btn_cancel">İptal et</string>
     <string name="ad_text_btn_download">Yükle</string>
     <string name="ad_text_btn_resume">Devam et</string>
     <string name="ad_text_develop">Geliştirici: %1$s</string>
@@ -346,7 +353,7 @@
     <string name="app_behavior_key_camera">Fotoğraf çekme</string>
     <string name="app_behavior_key_location">Konum</string>
     <string name="app_behavior_key_protect">Kişisel bilgileri koru</string>
-    <string name="app_behavior_link_start">Tetiklenmiş başlangıç</string>
+    <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
     <string name="app_behavior_link_start">Zincirleme başlangıç</string>
     <string name="app_behavior_list_load_more">Daha fazla</string>
     <string name="app_behavior_location">%1s konum bilgisi almaya çalıştı</string>
@@ -465,14 +472,14 @@
     <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
     <string name="app_management_empty_desc">Bu uygulama bu özelliği desteklemiyor</string>
     <string name="app_management_for_chain_start">Diğer uygulamaları açmayı engelle</string>
-	<string name="app_management_for_chain_start_desc">Bu uygulamanın diğer uygulamalara bağlanmasını veya diğer uygulamaları açmasını engelle</string>
-	<string name="app_management_for_device_id">Tanımlayıcıları gizleyin ve izlemeyi önleyin</string>
-	<string name="app_management_for_device_id_desc">Bu uygulamanın telefon numaranıza ve kişisel olarak tanımlayıcı bilgilerinize erişmesini engelleyin</string>
-	<string name="app_management_for_in Depended_storage">Önbelleğe alınan verileri ayır</string>
-	<string name="app_management_for_in Depended_storage_desc">Uygulamanın yalnızca kendi dosyalarına ve verilerine erişmesine izin ver</string>
-	<string name="app_management_for_install">Uygulama indirmelerini engelle</string>
-	<string name="app_management_for_install_desc">Bu uygulamanın diğer uygulamaları indirmesini veya yüklemesini engelle</string>
-	<string name="app_management_measures">Uygulama yönetimi</string>
+    <string name="app_management_for_chain_start_desc">Bu uygulamanın diğer uygulamalara bağlanmasını veya diğer uygulamaları açmasını engelle</string>
+    <string name="app_management_for_device_id">Tanımlayıcıları gizleyin ve izlemeyi önleyin</string>
+    <string name="app_management_for_device_id_desc">Bu uygulamanın telefon numaranıza ve kişisel olarak tanımlayıcı bilgilerinize erişmesini engelleyin</string>
+    <string name="app_management_for_independent_storage">Önbelleğe alınmış verileri yalıtın</string>
+    <string name="app_management_for_independent_storage_desc">Uygulamanın yalnızca kendi dosyalarına ve verilerine erişmesine izin verin</string>
+    <string name="app_management_for_install">Uygulama indirmelerini engelle</string>
+    <string name="app_management_for_install_desc">Bu uygulamanın diğer uygulamaları indirmesini veya yüklemesini engelle</string>
+    <string name="app_management_measures">Uygulama yönetimi</string>
     <string name="app_manager_advanced_setting">Gelişmiş ayarlar</string>
     <string name="app_manager_allow">Evet</string>
     <string name="app_manager_anomaly_analysis">Uygulama anormalliklerini analiz et</string>
@@ -489,6 +496,7 @@
     <string name="app_manager_as_dlg_msg">Uygulamaların otomatik başlatılmasına izin vermeniz ek Ram ve pil gücü gerektirebilir. Yinede izin verilsin mi?</string>
     <string name="app_manager_as_dlg_msg_new">Bir uygulamanın otomatik olarak başlatılmasına izin vermek kullandığı bellek miktarını ve pil ömrünü artırabilir. MIUI cihazınızın performansını iyileştirmek için sık kullanmadığınız uygulamaların otomatik başlatma izinlerini optimize eder</string>
     <string name="app_manager_as_dlg_title">Uyarı</string>
+    <string name="app_manager_autostart_title">@string/app_manager_permission_startself_title</string>
     <string name="app_manager_back">Geri</string>
     <string name="app_manager_bipartition">Çift uygulamalar</string>
     <string name="app_manager_cache_size">Önbellek</string>
@@ -504,9 +512,6 @@
     <string name="app_manager_copy_pkg_to_clip">Panoya kopyalandı</string>
     <string name="app_manager_data_size">Kullanıcı verisi</string>
     <string name="app_manager_default_cleared">Temizlendi</string>
-    <string name="app_manager_default_close_summary">Varsayılanlar ayarlanmadı</string>
-    <string name="app_manager_default_open_summary">Bu uygulamayı bazı işlemleri gerçekleştirmek üzere varsayılan olarak seçtiniz</string>
-    <string name="app_manager_default_open_title">Varsayılanları temizle</string>
     <string name="app_manager_defaults_setting">Varsayılan uygulamalar</string>
     <string name="app_manager_details_electric_title">Pil</string>
     <string name="app_manager_details_storage_title">Depolama</string>
@@ -537,7 +542,6 @@
     <string name="app_manager_has_not_data">Veri yok</string>
     <string name="app_manager_have_not_consume">Yok</string>
     <string name="app_manager_hide_system_server">Sistem uygulamalarını gizle</string>
-    <string name="app_manager_install_other_app">Bilinmeyen kaynaklardan uygulama yükle</string>
     <string name="app_manager_manage_space">Alan yönetimi</string>
     <string name="app_manager_memory">Ram</string>
     <string name="app_manager_menu_clear_data">Verileri temizle</string>
@@ -550,6 +554,7 @@
     <string name="app_manager_not_allow">Hayır</string>
     <string name="app_manager_open_show_all_apps_immediate">Tüm sonuçları göster</string>
     <string name="app_manager_perm">İzinler</string>
+    <string name="app_manager_permission_backgroundstart_title">Arka planda otomatik başlat</string>
     <string name="app_manager_permission_dcimcontrol_title">Galeriye erişim</string>
     <string name="app_manager_permission_manager_title">İzinler</string>
     <string name="app_manager_permission_notify_title">Bildirimler</string>
@@ -566,25 +571,24 @@
     <string name="app_manager_reset_app_preferences_button">Sıfırla</string>
     <string name="app_manager_reset_app_preferences_desc">"Aşağıda belirtilen uygulama tercihlerini sıfırlayacaktır: 
  
-<li>Devre dışı bırakılan uygulamalar</li>
-<li>Devre dışı bırakılan uygulama bildirimleri</li>
-<li>İşlemler için varsayılan uygulamalar</li>
-<li>Uygulamalar için arka plan veri kısıtlamaları</li>
+"<li>Devre dışı bırakılan uygulamalar</li>"
+"<li>Devre dışı bırakılan uygulama bildirimleri</li>"
+"<li>İşlemler için varsayılan uygulamalar</li>"
+"<li>Uygulamalar için arka plan veri kısıtlamaları</li>"
  
 Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
     <string name="app_manager_restricted_settings_title">Kısıtlanmış ayarlara izin ver</string>
     <string name="app_manager_search_prompt">Aradığınızı bulamadınız mı? Uygulamaların tamamından deneyin</string>
+    <string name="app_manager_shortcut_manager">Ana ekran kısayollarını yönetin</string>
     <string name="app_manager_show_all_apps">Tüm uygulamaları göster</string>
     <string name="app_manager_show_all_apps_opened">Tüm uygulamalardan gösteriliyor</string>
     <string name="app_manager_show_detail_infos">Tümünü görüntüle</string>
     <string name="app_manager_start_by">%s tarafından başlatıldı</string>
     <string name="app_manager_system_mobile_disable">Veri bağlantısını kapat</string>
+    <string name="app_manager_systemapp_setting">Sistem uygulaması ayarları</string>
     <string name="app_manager_tab_app">Uygulamalar</string>
     <string name="app_manager_tab_manager">Yönetici</string>
-    <string name="app_manager_thumbnail_blur_summary">Son kullanılanlar bölümünde uygulama önizlemelerini bulanıklaştır</string>
-    <string name="app_manager_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
-    <string name="app_manager_thumbnail_shield_summary">Son aramalarda uygulama önizlemelerini maskele</string>
     <string name="app_manager_title">Uygulamaları yönet</string>
     <string name="app_manager_to_appstore">Daha fazla uygulama keşfedin</string>
     <string name="app_manager_total_size">Toplam</string>
@@ -801,7 +805,11 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_import_games">Tüm oyunlarınızı bir araya getirin</string>
     <string name="auto_send_correcting_msg">Eğer doldurulmazsa sistem otomatik olarak mesaj doğrulaması gönderecektir</string>
     <string name="auto_set_by_brand">Markanıza göre otomatik olarak akış ve serbest akış bilgilerini ayarlayın</string>
-    <string name="auto_start_tips">"MIUI cihaz performansını artırmak için sık kullanmadığınız uygulamaların otomatik başlatma izinlerini optimize eder</string>
+    <string name="auto_start_cancel">İptal et</string>
+    <string name="auto_start_close">Kısıtla</string>
+    <string name="auto_start_hint">Dikkat</string>
+    <string name="auto_start_hint_desc">Otomatik başlatmayı kapatırsanız %1$s üzerinden gelen mesajları gerçek zamanlı olarak alamayacaktır. Yine de kapatılsın mı?</string>
+    <string name="auto_start_tips">Bu özellik cihaz performansını artırmak için sık kullanmadığınız uygulamaların otomatik başlatma izinlerini optimize edecektir</string>
     <string name="auto_task_allow_suggestion">Akıllı görev önerileri</string>
     <string name="auto_task_available_device">Kullanılabilir cihazlar</string>
     <string name="auto_task_condition_choose_battery_level_down">Pil seviyesi belirli bir seviyeye ulaştığında</string>
@@ -824,13 +832,13 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_task_default_do_action">Sonra</string>
     <string name="auto_task_default_if_exclude">Eğer</string>
     <string name="auto_task_default_task_summary_driver_car">Bluetooth aracılığıyla araç sistemine bağlandığında taşınabilir erişim noktasını açın</string>
-    <string name="auto_task_default_task_summary_get_up">Rahatsız etme modunu kapatın ve bluetooth, Wi-Fi ve mobil verileri tekrar açın</string>
+    <string name="auto_task_default_task_summary_get_up">Rahatsız etme modunu kapatın ve bluetooth, wifi ve mobil verileri tekrar açın</string>
     <string name="auto_task_default_task_summary_listen_music">Müzik çalın ve kulaklık tipini seçin</string>
     <string name="auto_task_default_task_summary_meet">Toplantı saatini planlayın ve rahatsız etme modunu açın</string>
     <string name="auto_task_default_task_summary_noon_break">Şekerleme zamanını planlayın ve rahatsız etme modunu açın</string>
     <string name="auto_task_default_task_summary_save_power">"Pil %s'den düşük olduğunda pil tasarrufunu açın"</string>
     <string name="auto_task_default_task_summary_sleep">Uyku vaktini planlayın ve cihaz davranışını özelleştirin</string>
-    <string name="auto_task_default_task_summary_watch_video">Uygulamayı açın, Wi-Fi ağını açın ve ses seviyesini ayarlayın</string>
+    <string name="auto_task_default_task_summary_watch_video">Uygulamayı açın, wifi ağını açın ve ses seviyesini ayarlayın</string>
     <string name="auto_task_default_task_title_driver_car">Araç modu</string>
     <string name="auto_task_default_task_title_get_up">Uyanma modu</string>
     <string name="auto_task_default_task_title_listen_music">Müzik modu</string>
@@ -951,7 +959,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="back_sound_fail">Başarısız oldu</string>
     <string name="back_sound_success">Başarılı</string>
     <string name="back_sound_support">Mevcut ağ operatörü işlemi desteklemiyor</string>
-    <string name="back_sound_support_china">Önce Wi-Fi ağını kapatın</string>
+    <string name="back_sound_support_china">Önce wifi ağını kapatın</string>
     <string name="background_restrict_app_dialog_message">Bu uygulama için arka plan ağ erişimini kısıtlamak, uygulamanın normal çalışmasını, mesaj almasını, içerik indirmesini vb. imkansız hale getirebilir. Yine de kısıtlansın mı?</string>
     <string name="background_traffic">Arka plan %s</string>
     <string name="backsound_set_hint">Sesli uzakta bilgi mesajı %s olarak ayarlansın mı?</string>
@@ -1044,8 +1052,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="behavior_widget_read_write_external_storage">Erişilen dosyalar</string>
     <string name="best_booster_status">Oyun hızlandırıcı şimdi kullanılabilir</string>
     <string name="best_warning_dialog_button">Biliyorum</string>
-    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
-    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
+    <string name="best_warning_dialog_message">İpuçları: Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak elleriniz çok hızlıysa her defasında kırmızı bir zarf alan ilk kişi olacaksınız. <font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarflar iyi olsa da çok açgözlü olmayın~</string>
+    <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
     <string name="best_warning_dialog_title">İpuçları</string>
     <string name="bg_network_exception_title">Sınırlı arka plan ağ bağlantısı</string>
     <string name="bh_buy_order_fail_tips_text">Bir hata oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
@@ -1125,7 +1133,33 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="blacklist_prefix_add_hint">Bu ön ek ile başlayan numaraların tamamını engelle</string>
     <string name="block_message_number">Mesajlar: <font color="#5fab1b">%d</font></string>
     <string name="block_phone_number">Aramalar: <font color="#5fab1b">%d</font></string>
+    <string name="blur_clipboard1">Pano koruması</string>
+    <string name="blur_clipboard2">Panoyu koru</string>
+    <string name="blur_clipboard3">Akıllı pano koruması</string>
+    <string name="blur_connected_camera">Bağlı kamera</string>
+    <string name="blur_connected_screen">Bağlı ekran</string>
+    <string name="blur_cross_device_permissions">Cihaz ara bağlantı izinleri</string>
+    <string name="blur_double_space">Çizgi Film</string>
+    <string name="blur_external_storage">Harici depolama</string>
+    <string name="blur_key_words_oaid">OAID</string>
+    <string name="blur_key_words_permission_records">Uygulama davranışı kayıtları</string>
+    <string name="blur_location_off">Yaklaşık konumun yalnızca onu zaten kullanmış olan uygulamalar tarafından görülebilmesini sağlamak için kapatın</string>
+    <string name="blur_location_on">Yaklaşık konum seçeneğinin tüm uygulamalarda kullanılabilmesini sağlamak için açın</string>
     <string name="blur_location_title">Yaklaşık konum</string>
+    <string name="blur_message">Mesajlar</string>
+    <string name="blur_multiple_device_permissions">Birden fazla cihaz için izinler</string>
+    <string name="blur_phone_book">Kişiler</string>
+    <string name="blur_phone_record">Çağrı geçmişi</string>
+    <string name="blur_picture_video">Fotoğraflar ve videolar</string>
+    <string name="blur_place">Konum</string>
+    <string name="blur_read_storage">Depolama izinleri</string>
+    <string name="blur_read_write_storage">Depolamaya erişim</string>
+    <string name="blur_schedule">Etkinlikler</string>
+    <string name="blur_shake">Salla</string>
+    <string name="blur_shake_control">Cihazın titremesini yönetin</string>
+    <string name="blur_sim_card_protection">Sim güvenliği</string>
+    <string name="blur_special_permission">Özel izinler</string>
+    <string name="blur_take_photo">Video</string>
     <string name="boost_done">Hızlandırıldı</string>
     <string name="boost_stop">Hız artışını kapat</string>
     <string name="booster_immediately">Hızlandır</string>
@@ -1209,6 +1243,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="call_stranger_block">Yabancılardan gelen aramaları engelle</string>
     <string name="call_transfer_block">Yönlendirilen aramaları engelle</string>
     <string name="call_transfer_info">Bilinmeyen numaralardan yönlendirilen aramaları engelle</string>
+    <string name="camera">Kamera</string>
     <string name="cancal_to_setting_fingerprint">İptal et</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_button">İptal et</string>
@@ -1377,6 +1412,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="click_to_set_carrier">Ayarlamak için dokunun</string>
     <string name="click_to_set_personalized_reminder">Uyarıları ayarla</string>
     <string name="click_to_set_traffic">Ayarlamak için dokunun</string>
+    <string name="clipboard_ai_allow">Benim adıma karar ver</string>
     <string name="close">Kapat</string>
     <string name="close_callwait">Kapat</string>
     <string name="close_lucky_money_dialog_ok">Kapat</string>
@@ -1412,6 +1448,37 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="connect_internet_by_mobiledata">Mobil veri bağlantısı</string>
     <string name="connect_internet_by_usbshare">USB üzerinden paylaşılan internet</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
+    <string name="connected_device_application_flow_permission">Uygulama aktarma izinleri</string>
+    <string name="connected_device_camera_collaboration_permission">Bağlı kamera izinleri</string>
+    <string name="connected_device_camera_permission">Kamera izinleri</string>
+    <string name="connected_device_notification_permission">Bildirim izinleri</string>
+    <string name="connected_device_screen_permission">Ekran izinleri</string>
+    <string name="connected_device_share_desktop_permission">Ana ekran+ izinler</string>
+    <string name="connected_devices_camera">Kamera</string>
+    <string name="connected_devices_camera_desc">Aynı hesapta oturum açan yakındaki cihazların bu cihazda fotoğraf çekmesine ve video kaydetmesine izin ver</string>
+    <string name="connected_devices_camera_title">Yukarıdaki cihazın bu cihazda fotoğraf çekmesine ve video kaydetmesine izin verilsin mi?</string>
+    <string name="connected_devices_for_camera">"%1$s uygulamasının bu cihazın kamerasını kullanmasına izin verilsin mi?"</string>
+    <string name="connected_devices_for_camera_desc">Fotoğraf çekmek, video kaydetmek ve video görüşmeleri yapmak içindir</string>
+    <string name="connected_devices_for_empty_view">Bağlı cihaz yok</string>
+    <string name="connected_devices_for_notification">"%1$s uygulamasının bu cihazın bildirimlerini görüntülemesine izin verilsin mi?"</string>
+    <string name="connected_devices_for_notification_desc">"Bu cihaz kilitliyken bu cihazın bildirimlerini diğer cihazlarda görüntüleyin"</string>
+    <string name="connected_devices_for_record">%1$s uygulamasının bu cihazda ses kaydetmesine izin verilsin mi?</string>
+    <string name="connected_devices_for_record_desc">Sesli ve görüntülü arama yapmak içindir</string>
+    <string name="connected_devices_for_screen">"%1$s uygulamasının bu cihazın ekran içeriğini görüntülemesine ve etkileşimde bulunmasına izin verilsin mi?"</string>
+    <string name="connected_devices_for_screen_desc">Ekran içeriğini görüntülemek ve etkileşimde bulunmak içindir</string>
+    <string name="connected_devices_header_title">Bağlı cihazlar</string>
+    <string name="connected_devices_notification">Bildirimler</string>
+    <string name="connected_devices_notification_desc">"Bu cihazın bildirimlerini, aynı hesapta oturum açılmış yakındaki cihazlarda görüntüle"</string>
+    <string name="connected_devices_notification_title">"Yukarıdaki cihazın bu cihazın bildirimlerini görüntülemesine izin verilsin mi?"</string>
+    <string name="connected_devices_permission">Ara bağlantı ve izinler</string>
+    <string name="connected_devices_permission_settings">Ara bağlantı ve izinler</string>
+    <string name="connected_devices_record">Kayıt</string>
+    <string name="connected_devices_record_desc">Aynı hesapta oturum açan yakındaki cihazların bu cihazda ses kaydetmesine izin ver</string>
+    <string name="connected_devices_record_title">Yukarıdaki cihazın bu cihaza ses kaydetmesine izin verilsin mi?</string>
+    <string name="connected_devices_screen">Ekran</string>
+    <string name="connected_devices_screen_desc">Aynı hesapta oturum açan yakındaki cihazların, bu cihazın ekran içeriğini görüntülemesine ve bu içerikle etkileşimde bulunmasına izin ver</string>
+    <string name="connected_devices_screen_title">"Yukarıdaki cihazın, bu cihazın ekran içeriğini görüntülemesine ve bu içerikle etkileşimde bulunmasına izin verilsin mi?"</string>
+    <string name="connected_interconnection">Ara bağlantı</string>
     <string name="connecting">Bağlanılıyor</string>
     <string name="continue_install">Yükle</string>
     <string name="continue_set">Ayarlamaya devam et</string>
@@ -1466,7 +1533,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cta_dialog_positive">Kabul et</string>
     <string name="cta_dialog_title">İnternet bağlantısı</string>
     <string name="cta_main_purpose">Güvenlik uygulamasına hoşgeldiniz. Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz</string>
-    <string name="cta_main_purpose_new">"Güvenlik uygulamasına hoş geldiniz. Depolama alanını boşaltmak, cihazınızı virüslere karşı taramak, pil kullanımını kontrol etmek, cihazınızı oyun için optimize etmek, uygulamaları yönetmek, deprem erken uyarıları almak için Security ve modüllerini (MIUI güvenlik bileşenleri, güvenlik ve sistem hizmetleri ve Joyose dahil) kullanabilirsiniz. MIUI güvenlik bileşenleri siz uygulamaları yüklerken ve ödeme yaparken internete bağlanacak ve güvenlik taramaları gerçekleştirecektir"</string>
+    <string name="cta_main_purpose_new">Güvenlik uygulamasına hoş geldiniz. Depolama alanını boşaltmak, cihazınızı virüslere karşı taramak, pil kullanımını kontrol etmek, cihazınızı oyun için optimize etmek, uygulamaları yönetmek, deprem erken uyarıları almak için Security ve modüllerini (MIUI güvenlik bileşenleri, güvenlik ve sistem hizmetleri ve Joyose dahil) kullanabilirsiniz. MIUI güvenlik bileşenleri siz uygulamaları yüklerken ve ödeme yaparken internete bağlanacak ve güvenlik taramaları gerçekleştirecektir</string>
     <string name="cta_settings">İnternet bağlantısına izin ver</string>
     <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normaldir</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engellenenler listesine öğe eklemek içindir</string>
@@ -1557,6 +1624,7 @@ Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep ede
     <string name="delete_input">Sil</string>
     <string name="deleted_apps">Silinen uygulamalar</string>
     <string name="demo_number">241</string>
+    <string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
     <string name="descx_quick_scan_cancel">Tarama iptal edildi</string>
     <string name="descx_quick_scan_preparation">Yükleniyor</string>
     <string name="detail_app_button">Uygulama bilgisi</string>
@@ -1574,7 +1642,7 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_change_package_type_summary">Veri planı türünü değiştirmek tüm veri kullanım ayarlarını varsayılan değerlerine sıfırlar. Veri planı türü şimdi değiştirilsin mi?</string>
     <string name="dialog_change_package_type_title">Veri planı türü değiştiriliyor</string>
     <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının MIUI tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri ayarlar > uygulamalar menüsünde kontrol edin</string>
-    <string name="dialog_msg_auto_start_declare_global">"Bazı uygulamalar yanlış bir şekilde MIUI'nin başlamalarını engellediğini gösterebilir. Ayarlarda tek tek uygulamalara verilen izinleri kontrol edin</string>
+    <string name="dialog_msg_auto_start_declare_global">"Bazı uygulamalar yanlış bir şekilde MIUI'nin başlamalarını engellediğini gösterebilir. Ayarlarda tek tek uygulamalara verilen izinleri kontrol edin"</string>
     <string name="dialog_msg_create_icon_content">Şimdi bir ana ekran kısayolu eklensin mi?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Bir daha gösterme</string>
     <string name="dialog_msg_delete_icon_content_pad">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
@@ -1590,7 +1658,7 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_remove_luckymoney">Mevcut MIUI sürümü zaten sistem seviyesi kırmızı zarf asistanını destekliyor</string>
     <string name="dialog_restrict_all_mobile_summary">Bundan sonraki tüm uygulamalar için %s mobil veri bağlantısı kısıtlı olacaktır</string>
     <string name="dialog_restrict_all_mobile_title">%s mobil veri bağlantısını kısıtla</string>
-    <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için Wi-Fi bağlantısı kısıtlı olacaktır</string>
+    <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için wifi bağlantısı kısıtlı olacaktır</string>
     <string name="dialog_restrict_all_wlan_title">Wi-Fi bağlantısını kısıtla</string>
     <string name="dialog_restrict_negative">Kısıtla</string>
     <string name="dialog_restrict_positive">İptal et</string>
@@ -1957,7 +2025,7 @@ gönüllüsü"</string>
     <string name="ew_settings_set_level_summary">Şiddetleri %s veya daha yüksek olduğunda depremler hakkında uyarı alın</string>
     <string name="ew_settings_set_level_title">Deprem uyarı eşiğini ayarla</string>
     <string name="ew_signature_default">Chengdu Yüksek Teknoloji Afet Azaltma Araştırma Enstitüsü kıtasal deprem uyarı merkezi</string>
-    <string name="ew_sleep_mode_alert_content">MIUI deprem erken uyarılarını alabilmeniz için uyku modunu kapatacaktır. Arka plan uygulamaları, NFC, Bluetooth, GPS, mobil veri ve Wi-Fi siz uyurken bile normal şekilde çalışacaktır. Deprem uyarısı şimdi açılsın mı?</string>
+    <string name="ew_sleep_mode_alert_content">MIUI deprem erken uyarılarını alabilmeniz için uyku modunu kapatacaktır. Arka plan uygulamaları, NFC, Bluetooth, GPS, mobil veri ve wifi siz uyurken bile normal şekilde çalışacaktır. Deprem uyarısı şimdi açılsın mı?</string>
     <string name="ew_sleep_mode_alert_title">Deprem uyarısı</string>
     <string name="ew_subscribe_area_title">Eklenen alanları yönetin</string>
     <string name="ew_subscribe_city">Eklenen alanlar</string>
@@ -1993,7 +2061,7 @@ gönüllüsü"</string>
     <string name="exit_dialog_scan_message">Cihazınızın performans puanı 75 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_scan_positive_button">Optimize et</string>
     <string name="exit_dialog_scan_title">Performansı optimize et</string>
-	<string name="exit_notify">exit_notify</string>
+    <string name="exit_notify">exit_notify</string>
     <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
     <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırakın</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -2113,7 +2181,7 @@ gönüllüsü"</string>
     <string name="firewall_system_title">Sistem uygulamaları veri kullanımı</string>
     <string name="firewall_temp_rule_reason">%2$s, %1$s uygulamasının internet bağlantısını kısıtladı</string>
     <string name="firewall_wifi">Wi-Fi</string>
-    <string name="firewall_wifi_dialog_message">Bu anahtar kapalı olduğunda yüklü uygulama Wi-Fi kullanarak internete bağlanamayacaktır</string>
+    <string name="firewall_wifi_dialog_message">Bu anahtar kapalı olduğunda yüklü uygulama wifi kullanarak internete bağlanamayacaktır</string>
     <string name="first_aid_activity_title">İlk yardım</string>
     <string name="first_aid_card_airplane_button">Kapat</string>
     <string name="first_aid_card_airplane_summary">Arama yapabilmek ve ağa bağlanabilmek için Uçak modunu kapatın</string>
@@ -2137,7 +2205,7 @@ gönüllüsü"</string>
     <string name="first_aid_card_unable_install_summary">Yalnızca %s depolama alanı kullanılabilir. Uygulamaları yükleyebilmek için yer açın</string>
     <string name="first_aid_card_unable_install_title">Uygulamalar yüklenemiyor</string>
     <string name="first_aid_card_wifi_or_flow_button">Bağlan</string>
-    <string name="first_aid_card_wifi_or_flow_summary">Bağlanmak için Wi-Fi veya mobil veriyi açın</string>
+    <string name="first_aid_card_wifi_or_flow_summary">Bağlanmak için wifi veya mobil veriyi açın</string>
     <string name="first_aid_card_wifi_or_flow_title">İnternete bağlanılamıyor</string>
     <string name="first_aid_dialog_msg_stop_scan">Tarama durdurulsun mu?</string>
     <string name="first_aid_dialog_title_stop_scan">Taramayı durdur</string>
@@ -2406,9 +2474,9 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_vibration_4d">4D titreşim</string>
     <string name="gb_advance_settings_vibration_4d_summary">Titreşimi kullanarak oyun içinde eylemleri gösterin</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundaki öldürmeler sırasında titreşim</string>
-	<string name="gb_already_in_game_list_tips">Bu öğe zaten eklenen oyunlar arasında. Buraya eklenemez</string>
-	<string name="gb_already_in_video_list_tips">Bu öğe zaten eklenen video uygulamaları arasında. Buraya eklenemez</string>
-	<string name="gb_application_not_find">Burada henüz bir şey yok</string>
+    <string name="gb_already_in_game_list_tips">Bu öğe zaten eklenen oyunlar arasında. Buraya eklenemez</string>
+    <string name="gb_already_in_video_list_tips">Bu öğe zaten eklenen video uygulamaları arasında. Buraya eklenemez</string>
+    <string name="gb_application_not_find">Burada henüz bir şey yok</string>
     <string name="gb_audition_instruction">Kaydetmek için basılı tut (%1$s-%2$s saniye)</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
     <string name="gb_award_noti_message">Ödüller almak için oyun hızlandırıcıda barış için oyun arka plan güncellemelerini açın</string>
@@ -2548,7 +2616,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_predownload_dialog_cancel">Hayıt</string>
     <string name="gb_predownload_dialog_checked">Tekrar gösterme</string>
     <string name="gb_predownload_dialog_confirm">Aç</string>
-    <string name="gb_predownload_dialog_message_china">Bu oyun için güncellenmiş içerik Wi-Fi ağına bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece yeni sürümü çıkar çıkmaz kullanabileceksiniz. Bu özelliği kullanmadan önce arka plan güncellemeleriyle ilgili %1$s bildirimini okuyun ve kabul edin</string>
+    <string name="gb_predownload_dialog_message_china">Bu oyun için güncellenmiş içerik wifi ağına bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece yeni sürümü çıkar çıkmaz kullanabileceksiniz. Bu özelliği kullanmadan önce arka plan güncellemeleriyle ilgili %1$s bildirimini okuyun ve kabul edin</string>
     <string name="gb_predownload_dialog_title">Arka plan güncellemeleri artık kullanılabilir</string>
     <string name="gb_predownload_message_new">Cihaz kullanılmadığında uyumlu oyunları otomatik olarak güncelleyin</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB güncellenmiş içerik bu cihazda zaten var. Yeni sürüm yayınlanır yayınlanmaz onu kullanabileceksiniz</string>
@@ -2613,6 +2681,13 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_storage_game_uninstall">Oyun kaldırma</string>
     <string name="gb_storage_summary">Oyun uygulamasını oyun kutusunda saklayın. Oyun simgesi artık masaüstünde görüntülenmeyecek</string>
     <string name="gb_storage_title">Masaüstü oyun simgelerini düzenle</string>
+    <string name="gb_super_finger_up">Hızlı dokunma sesi</string>
+    <string name="gb_super_finger_up_msg">Sistem düzeyinde dokunma hassasiyetini artırın</string>
+    <string name="gb_super_follow_up">Hareket izleme</string>
+    <string name="gb_super_follow_up_msg">Tüm hareket boyunca daha iyi gerçek zamanlı yanıt alın</string>
+    <string name="gb_super_motion">SMotion kontrolleri</string>
+    <string name="gb_super_shake">Geliştirilmiş daha küçük hareketler</string>
+    <string name="gb_super_shake_msg">Özel algoritmayı kullanarak küçük hareketleri daha duyarlı hale getirin</string>
     <string name="gb_turbo_collimator_subtitle">Çekim mikro aynası ile birlikte gelir</string>
     <string name="gb_turbo_macro_subtitle">Tanrı düzeyinde operasyona ulaşmak kolay</string>
     <string name="gb_turbo_new_flag">Yeni</string>
@@ -2620,14 +2695,14 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_turbo_time_subtitle">Oyun süresini kaydedin</string>
     <string name="gb_turbo_voice_subtitle">Sesli açık mikrofon komik şov</string>
     <string name="gb_turbo_wonder_subtitle">Harika operasyonların akıllı kaydı</string>
-	<string name="gb_vision_enhance">Geliştirilmiş görseller</string>
-	<string name="gb_vision_enhance_desc">Görüntü kalitesini ve performansını artırın</string>
+    <string name="gb_vision_enhance">Geliştirilmiş görseller</string>
+    <string name="gb_vision_enhance_desc">Görüntü kalitesini ve performansını artırın</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Akıllı kare hızı
 %dFPS"</string>
-	<string name="gb_vision_enhance_smart_frame_insertion">Akıllı kare hızı</string>
-	<string name="gb_vision_enhance_smart_frame_insertion_desc">Hareketi daha akıcı hale getirmek için kare hızını otomatik olarak ayarlayın</string>
-	<string name="gb_vision_enhance_super_Definition">Süper çözünürlük</string>
-	<string name="gb_vision_enhance_super_Definition_desc">Daha ince ayrıntıları görüntülemek için çözünürlüğü artırın</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Akıllı kare hızı</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Hareketi daha akıcı hale getirmek için kare hızını otomatik olarak ayarlayın</string>
+    <string name="gb_vision_enhance_super_resolution">Süper çözünürlük</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Daha ince ayrıntıları görüntülemek için çözünürlüğü artırın</string>
     <string name="gb_voice_change_audition_tip">Yalnızca seçilen</string>
     <string name="gb_voice_change_settinged">Ses değiştirici açık</string>
     <string name="gb_voice_changer_cartoon">Karikatür</string>
@@ -2688,8 +2763,10 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gcm_defaultSenderId">436805358632</string>
     <string name="gd_app_edit_done">Bitti</string>
     <string name="gd_app_edit_title_new">Kayan pencere kısayollarını düzenleyin</string>
-	<string name="gd_setting_conversation">Konferans araçları</string>
-	<string name="gd_setting_conversation_desc">Tam ekran sesli ve görüntülü aramalarda kullanım için çeşitli özellikler sağlar</string>
+    <string name="gd_dock_shortcut_fullscreen">Tam ekran</string>
+    <string name="gd_dock_shortcut_splitescreen">Bölünmüş ekran</string>
+    <string name="gd_setting_conversation">Konferans araçları</string>
+    <string name="gd_setting_conversation_desc">Tam ekran sesli ve görüntülü aramalarda kullanım için çeşitli özellikler sağlar</string>
     <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
     <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
     <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
@@ -2707,7 +2784,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gd_sidebar_edit_quick_title">Kısayollar</string>
     <string name="gd_sidebar_long_press_tips">Cihazı dikey olarak tutarken hareket ettirmek için göstergeye basın ve basılı tutun</string>
     <string name="gd_splite_screen_tips">Bölünmüş ekran kayan pencereleri desteklemiyor</string>
-    <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın</string>
+    <string name="gdpr_msg">"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikamıza</a> göz atın"</string>
     <string name="ge">Daha</string>
     <string name="get_detail_by_click">Detaylar için tıklayın</string>
     <string name="get_phone_num_fail">Bilinmeyen telefon numarası</string>
@@ -2716,9 +2793,9 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranı kullanmak için yana sürükleyin
-· Press and hold the indicator to move the window around."</string>
+· Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
-· Pencereyi hareket ettirmek için göstergeyi basili tutun"</string>					 
+· Pencereyi hareket ettirmek için göstergeyi basili tutun"</string>
     <string name="global_satisfaction_notification_button">Oran</string>
     <string name="global_satisfaction_notification_channel">Kullanıcı memnuniyeti anketi</string>
     <string name="global_satisfaction_notification_subhead">Bize deneyiminizden bahsedin</string>
@@ -2743,7 +2820,28 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="google_base_app_toast">Google hizmetleri çerçevesi arka planda kuruluyor. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="google_crash_reporting_api_key">AIzaSyCLTk-WlTTx8UwHK2EdapM_Pu-CiQHYaio</string>
     <string name="google_storage_bucket">security-center-89b35.appspot.com</string>
+    <string name="grant_dialog_button_allow_onetime">Bir kez</string>
+    <string name="grant_dialog_button_deny_and_dont_ask_again">Reddet ve bir daha sorma</string>
+    <string name="group_audio">Müzik ve ses</string>
+    <string name="group_clipboard">Pano</string>
+    <string name="group_connect_device">Ara bağlantı</string>
+    <string name="group_file">Dosyalar ve belgeler</string>
     <string name="group_have_hongbao">Kırmızı zarf: %2$d (%1$s)</string>
+    <string name="group_head_data_ai_clipboard">Pano koruması</string>
+    <string name="group_head_data_ai_clipboard_desc">Sistemin uygulamaların panodaki öğelere erişip erişemeyeceğine karar vermesine izin ver</string>
+    <string name="group_head_data_camera_desc">Tüm uygulamaların kamera erişimini kısıtlamak için kapatın</string>
+    <string name="group_head_data_clipboard_desc">Tüm uygulamaların pano erişimini kısıtlamak için kapatın</string>
+    <string name="group_head_data_location_desc">Tüm uygulamaların konum erişimini kısıtlamak için kapatın</string>
+    <string name="group_head_data_location_service">Konum hizmetleri</string>
+    <string name="group_head_data_mic_desc">Tüm uygulamaların mikrofon erişimini kısıtlamak için kapatın</string>
+    <string name="group_image_video">Fotoğraflar ve videolar</string>
+    <string name="group_location">Konum</string>
+    <string name="group_microphone">Mikrofon</string>
+    <string name="group_nearby_device">Yakındaki cihazlar</string>
+    <string name="group_other">Diğer izinler</string>
+    <string name="group_settings">Ayarlar</string>
+    <string name="group_sms">Mesajlar</string>
+    <string name="group_sport_healthy">Sağlık ve aktivite</string>
     <string name="gs_advanced_setting_summary">Bireysel oyunlar için ayarlar</string>
     <string name="gs_advanced_setting_title">Ek ayarlar</string>
     <string name="gs_anto_clean_memory_whitelist">İstisnalar</string>
@@ -2839,7 +2937,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_setting_item_title_brightness">Ekran parlaklığını otomatik olarak azalt</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">"İkincil Sim'i engelle"</string>
     <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
-    <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi hız artışı</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Mi wifi hız artışı</string>
     <string name="gtb_spring_festival_back_game">Oyuna dön</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Ağa bağlanılamadı</string>
     <string name="gtb_spring_festival_goto_gameturbo">Görüntüle</string>
@@ -2858,7 +2956,7 @@ manzara moduna geçin"</string>
     <string name="gtb_stop_accelerate">Durdur</string>
     <string name="gtb_timer">Zamanlayıcı</string>
     <string name="gtb_voice_changer">Ses değiştirici</string>
-    <string name="gtb_wlan_speed_tips">Mi Wi-Fi kullanılıyor</string>
+    <string name="gtb_wlan_speed_tips">Mi wifi kullanılıyor</string>
     <string name="guide_get_operator_error"><font color="'#33b4ff'">Yanlış taşıyıcı mı?</font></string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_quck_open">Aç</string>
@@ -2986,6 +3084,10 @@ manzara moduna geçin"</string>
     <string name="intl_perm_privacy_control_storage">Uygulama yalnızca siz kullanırken dahili depolama alanından öğelere erişebilir veya bunları düzenleyebilir</string>
     <string name="intl_perm_privacy_control_title">Gizliliği kontrol et</string>
     <string name="invalid_charger">USB üzerinden şarj edilemiyor. Cihazınızla birlikte verilen şarj cihazını kullanın</string>
+    <string name="invisible_mode_close_summary_compact">Mevcut sistem sürümü yalnızca tüm uygulamalar için kamera, konum ve mikrofon izinlerinin aynı anda açılmasını destekler. Bu izinlerden birini etkinleştirdiğinizde hepsi de etkinleştirilecektir</string>
+    <string name="invisible_mode_close_title_compact">İzin hatırlatıcısı</string>
+    <string name="invisible_mode_open_summary_compact">Mevcut sistem sürümü yalnızca tüm uygulamalar için kamera, konum ve mikrofon izinlerinin aynı anda kapatılmasını destekler. Bu izinlerden birinin kapatılması hepsinin kapatılmasına neden olur</string>
+    <string name="invisible_mode_open_title_compact">İzin hatırlatıcısı</string>
     <string name="ip_address_exception_summary">IP adresi alınamadı. Bu sorunla tekrar karşılaşmanız halinde statik IP adresi kullanmayı deneyin</string>
     <string name="item_app_permission">Uygulama izinleri</string>
     <string name="item_dev_mode">Geliştirici seçenekleri</string>
@@ -3010,6 +3112,7 @@ manzara moduna geçin"</string>
     <string name="label_mi_stats">Mi analitik</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
     <string name="launch_instant_app">Aç</string>
+    <string name="layoutDirection">rtl</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Tatil günleri</string>
     <string name="legal_workday_invalidate">Pazartesi-Cuma (Tatil bilgileri geçersiz)</string>
@@ -3021,10 +3124,11 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="leisure_usage_dialog_title">İndirimli veri kullanım sınırını aştınız. Veri bağlantısı kapatıldı</string>
     <string name="limit_speed_by_quota">Sınırsız trafik kullanımında eşik aşılırsa hız düşürülecek</string>
     <string name="list_empty_text">Boş</string>
-    <string name="load_only_under_wlan">Yalnızca Wi-Fi kullanarak yükle</string>
+    <string name="load_only_under_wlan">Yalnızca wifi kullanarak yükle</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan gizli bilgileri kaldırılıyor (%d/%d)</string>
     <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. Sorunu MIUI'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
+    <string name="location">Konum</string>
     <string name="lock_all_title">Tüm uygulamaları kilitle</string>
     <string name="lock_mode_title">Kilit ayarları</string>
     <string name="lock_screen_business_hongbao_message">%1$s kaynağından</string>
@@ -3157,32 +3261,32 @@ bekleniyor"</string>
     <string name="main_toolbar_statistic">Veri kullanım istatistikleri</string>
     <string name="main_traffic_detail">Veri kullanımı</string>
     <string name="make_sure_package_type">Veri türünüzü onaylayın</string>
-	<string name="malicious_access_accessibility">Erişilebilirlik hizmetini etkinleştir</string>
-	<string name="malicious_access_install">Uygulama listesini oku</string>
-	<string name="malicious_access_location">Konumu oku</string>
-	<string name="malicious_access_pay">Ödemeyi başlat</string>
-	<string name="malicious_access_wakelock">Uyandırma kilidi kullanın</string>
-	<string name="malicious_activity_too_many">Sık kullanılan ön plan</string>
-	<string name="malicious_auto_start">otomatik başlatma</string>
-	<string name="malicious_bg_start">Arka planda açılan pencere</string>
-	<string name="malicious_chain">Zincirleme</string>
-	<string name="malicious_cold_start">Soğuk başlatma</string>
-	<string name="malicious_hot_start">Sıcak başlatma</string>
-	<string name="malicious_keyguard_show">kilit ekranı görüntüsü</string>
-	<string name="malicious_push_notification">Bildirim Çubuğu PUSH</string>
-	<string name="malicious_read_calendar">Takvimi oku</string>
-	<string name="malicious_read_contacts">Kişileri oku</string>
-	<string name="malicious_read_phone_info">Telefon bilgilerini alın</string>
-	<string name="malicious_read_sms">Mesajları oku</string>
-	<string name="malicious_run_long">Çalışma süresi çok uzun</string>
-	<string name="malicious_set_android_widget">Yüksek riskli sahne-Android yerel gereci</string>
-	<string name="malicious_system_grant_third_uri">Sistem tarafından yetkilendirilen üç taraflı uri</string>
-	<string name="malicious_system_third_call">Sistem uygulamaları ile üçüncü taraf uygulamaları arasındaki etkileşim</string>
-	<string name="malicious_time_bg_run">Arka plan süresi</string>
-	<string name="malicious_time_fg_run">Ön plan saatleri</string>
-	<string name="malicious_use_native">Yerel canlı tutma</string>
-	<string name="malicious_win_large">Pencere çok büyük</string>
-	<string name="malicious_win_small">Pencere çok küçük</string>
+    <string name="malicious_access_accessibility">Erişilebilirlik hizmetini etkinleştir</string>
+    <string name="malicious_access_install">Uygulama listesini oku</string>
+    <string name="malicious_access_location">Konumu oku</string>
+    <string name="malicious_access_pay">Ödemeyi başlat</string>
+    <string name="malicious_access_wakelock">Uyandırma kilidi kullanın</string>
+    <string name="malicious_activity_too_many">Sık kullanılan ön plan</string>
+    <string name="malicious_auto_start">otomatik başlatma</string>
+    <string name="malicious_bg_start">Arka planda açılan pencere</string>
+    <string name="malicious_chain">Zincirleme</string>
+    <string name="malicious_cold_start">Soğuk başlatma</string>
+    <string name="malicious_hot_start">Sıcak başlatma</string>
+    <string name="malicious_keyguard_show">kilit ekranı görüntüsü</string>
+    <string name="malicious_push_notification">Bildirim Çubuğu PUSH</string>
+    <string name="malicious_read_calendar">Takvimi oku</string>
+    <string name="malicious_read_contacts">Kişileri oku</string>
+    <string name="malicious_read_phone_info">Telefon bilgilerini alın</string>
+    <string name="malicious_read_sms">Mesajları oku</string>
+    <string name="malicious_run_long">Çalışma süresi çok uzun</string>
+    <string name="malicious_set_android_widget">Yüksek riskli sahne-Android yerel gereci</string>
+    <string name="malicious_system_grant_third_uri">Sistem tarafından yetkilendirilen üç taraflı uri</string>
+    <string name="malicious_system_third_call">Sistem uygulamaları ile üçüncü taraf uygulamaları arasındaki etkileşim</string>
+    <string name="malicious_time_bg_run">Arka plan süresi</string>
+    <string name="malicious_time_fg_run">Ön plan saatleri</string>
+    <string name="malicious_use_native">Yerel canlı tutma</string>
+    <string name="malicious_win_large">Pencere çok büyük</string>
+    <string name="malicious_win_small">Pencere çok küçük</string>
     <string name="man_add_application">Otomatik başlatma uygulamalarını manuel olarak ekleyin</string>
     <string name="manage_hybrid_permissions">Uygulamanın izinlerini yönet</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
@@ -3335,9 +3439,11 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="mi_sim_link">"%1$s Mi Sim'i doldurmak için dokunun"</string>
     <string name="mi_sim_link_custom">%1$s %2$s</string>
     <string name="mian_page_primary_txt">Uluslararası dolaşım</string>
+    <string name="mic">Mikrofon</string>
     <string name="midnight">Gece</string>
     <string name="midrop_post_notification_contentTitle">Dosyaları paylaşmanız mı gerekiyor?</string>
     <string name="miliao_lucky_warning">Mi kırmızı paket</string>
+    <string name="miui_blur_location">Yaklaşık konum</string>
     <string name="miui_optimization_close_final_tip">MIUI optimizasyonu kapatılsın mı?</string>
     <string name="miui_optimization_close_title">Bu özellik geliştiriciler içindir ve genel kullanıcılar için uygun olmayabilir. MIUI optimizasyonunun kapatılması aşağıdaki değişiklikleri getirebilir:</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -3496,7 +3602,7 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="net_boosting">Hız artırılıyor</string>
     <string name="net_delay_title">Gecikme</string>
     <string name="net_overdue">Sonlandırıldı</string>
-    <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, Wi-Fi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve Wi-Fi ve mobil veri açık olduğunda gibi bilgileri toplarız. Bu bilgiler cihazınızda yerel olarak saklanır</string>
+    <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, wifi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve wifi ve mobil veri açık olduğunda gibi bilgileri toplarız. Bu bilgiler cihazınızda yerel olarak saklanır</string>
     <string name="network_assistant_privacy_title">Uygulama, ağ kullanımı ve tanılama verilerini gönderin</string>
     <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlanıldı</string>
     <string name="network_blocked_notification_summary">Ağ testi</string>
@@ -3522,19 +3628,19 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="network_roaming_exception_tips">Dolaşım sırasında mobil veri kullanılarak ağa bağlanılamıyor</string>
     <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
  
-<b>1. Halka açık Wi-Fi ağ sorunları</b>
-Eğer halka açık bir Wi-Fi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
+"<b>1. Halka açık wifi ağ sorunları</b>"
+Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
  
-<b>2. İnternet servis sağlayıcısı sorunları</b>
+"<b>2. İnternet servis sağlayıcısı sorunları</b>"
 İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
  
-<b>3. Yönlendirici donanım sorunları</b>
+"<b>3. Yönlendirici donanım sorunları</b>"
 Yönlendiricinizin yönetici ayarlarını kontrol edin veya yönlendiricinizi yeniden başlatmayı deneyin 
  
-<b>4. Diğer yönlendirici sorunları</b>
+"<b>4. Diğer yönlendirici sorunları</b>"
 Yönlendiriciniz ile birlikte gelen yönergeleri gözden geçirin ve yönlendiricinizi fabrika ayarlarına geri döndürün 
  
-<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>
+"<b>5. Yönlendiricinizin doğru şekilde çalıştığından ve bağlandığından emin olun</b>"
 Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu değiştirmeyi deneyin. Eğer ev ağınızda bir sorun olduğundan şüpheleniyorsanız internet servis sağlayıcınızla iletişime geçin"</string>
     <string name="network_sim_exception_detail">"Sim kartınızda bir sorun olabilir: 
 
@@ -3563,6 +3669,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="new_result_screen_display">Ekran</string>
     <string name="new_result_setting_item">Ayar</string>
     <string name="new_result_sound_and_vibration">Ses &amp; titreşim</string>
+    <string name="new_result_sound_only">Ses</string>
     <string name="new_task_condition_name">Eğer</string>
     <string name="new_task_result_name">Sonra</string>
     <string name="news_change">Değiştir</string>
@@ -3574,6 +3681,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="no_privacy_permission">Gizlilik politikasına onay gerekli değil</string>
     <string name="no_sim_card_by_tips">Telefon bakiyesini ve veri kullanım uyarılarını ayarlayabilmek için önce bir SIM kart takın</string>
     <string name="noon">Gün ortası</string>
+    <string name="normal1">Kısıtlı izinler: %1s. Değiştirmek için dokunun</string>
+    <string name="normal2" formatted="false">Kısıtlı izinler: %1s, %2s. Değiştirmek için dokunun</string>
+    <string name="normal3" formatted="false">Kısıtlı izinler: %1s, %2s, %3s. Değiştirmek için dokunun</string>
+    <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Değiştirmek için dokunun</string>
     <string name="normal_package_usage_summary" formatted="false">%2s - %1s (%3s)</string>
     <string name="not_available">Hayır</string>
     <string name="not_closed">Devam et</string>
@@ -3746,7 +3857,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
     <string name="open_shut_down_password">@string/ew_guide_start_agree</string>
-    <string name="open_wlan_title">Bu uygulamanın Wi-Fi ağını açıp kapatmasına izin ver</string>
+    <string name="open_wlan_title">Bu uygulamanın wifi ağını açıp kapatmasına izin ver</string>
     <string name="operator_location_settings">Taşıyıcıyı ve konumu ayarla</string>
     <string name="operator_location_settings_message">Operatörünüz ve konumunuz tanınamadı. Telefon bakiyesi ve veri kullanımı uyarıları şu anda ayarlanamıyor</string>
     <string name="operator_name_cbn">Çin Broadnet</string>
@@ -3758,8 +3869,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
-	<string name="opt_antivirus_scan_antivirus_notification_summary">Kötü amaçlı uygulamaların kullanılması güvenlik riskleri oluşturur</string>
-	<string name="opt_antivirus_scan_single_antivirus_notification_title">%s kötü niyetli bir uygulama olabilir</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Kötü amaçlı uygulamaların kullanılması güvenlik riskleri oluşturur</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s kötü niyetli bir uygulama olabilir</string>
     <string name="optimize_manage_title">Hızlandır</string>
     <string name="optimize_result_available_memory_info">Kullanılabilir bellek:</string>
     <string name="optimize_result_button_cloudspace">Bulut depolama alanı ekle</string>
@@ -3802,14 +3913,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="other_milink_connect">Yansıtılamadı. Şuan başka bir özellik yansıtılıyor</string>
     <string name="other_operator_name_virtual_operator">Diğer sanal taşıyıcılar</string>
     <string name="over_package_reminder_type">Veri planı kullanıldığında</string>
-	<string name="overlay_permission_dialog_comment">Güvenliğin öğeleri diğer uygulamalara göre göstermesine izin verin</string>
-	<string name="overlay_permission_dialog_comment_pad">Güvenliğin öğeleri diğer uygulamalara göre göstermesine izin verin</string>
-	<string name="overlay_permission_dialog_comment_security_service">Güvenlik araçlarının diğer uygulamalar üzerinde öğe göstermesine izin verin. Bu izni ayarlardan verebilirsiniz</string>
-	<string name="overlay_permission_dialog_message">Güvenliğin normal çalışabilmesi için izinlere ihtiyacı var</string>
-	<string name="overlay_permission_dialog_message_pad">Güvenliğin normal çalışabilmesi için izinlere ihtiyacı var</string>
-	<string name="overlay_permission_dialog_message_security_service">Güvenliğin normal çalışması için belirli izinlere ihtiyacı var</string>
-	<string name="overlay_permission_dialog_open">Ayarlar</string>
-	<string name="overlay_permission_dialog_title">İzinler gerekli</string>
+    <string name="overlay_permission_dialog_comment">Güvenliğin öğeleri diğer uygulamalara göre göstermesine izin verin</string>
+    <string name="overlay_permission_dialog_comment_pad">Güvenliğin öğeleri diğer uygulamalara göre göstermesine izin verin</string>
+    <string name="overlay_permission_dialog_comment_security_service">Güvenlik araçlarının diğer uygulamalar üzerinde öğe göstermesine izin verin. Bu izni ayarlardan verebilirsiniz</string>
+    <string name="overlay_permission_dialog_message">Güvenliğin normal çalışabilmesi için izinlere ihtiyacı var</string>
+    <string name="overlay_permission_dialog_message_pad">Güvenliğin normal çalışabilmesi için izinlere ihtiyacı var</string>
+    <string name="overlay_permission_dialog_message_security_service">Güvenliğin normal çalışması için belirli izinlere ihtiyacı var</string>
+    <string name="overlay_permission_dialog_open">Ayarlar</string>
+    <string name="overlay_permission_dialog_title">İzinler gerekli</string>
     <string name="package_change_notification_summary">Daha fazla bilgi edinmek için dokunun</string>
     <string name="package_change_notification_title">Veri limitini otomatik olarak ayarla</string>
     <string name="package_setted_error_notification_summary">Veri kullanım istatistiklerini görüntülemek için dokunun</string>
@@ -3840,9 +3951,12 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_abnormal_scan_reason_use_GPS">Konum servislerini çok sık kullanır</string>
     <string name="pc_abnormal_scan_reason_wake_system">Sistemi çok sık uyandırır</string>
     <string name="pc_activity_title">Pili optimize et</string>
+    <string name="pc_batery_information">Pil bilgisi</string>
+    <string name="pc_batery_protection">Pil koruması</string>
     <string name="pc_battery_chart_loading">Yükleniyor</string>
     <string name="pc_battery_detail_curve_reference_now">Şimdi</string>
     <string name="pc_battery_detail_device_item_title">Pil kullanım istatistikleri</string>
+    <string name="pc_battery_health_revise_title">Pil sağlığı bilgilerini kalibre edin</string>
     <string name="pc_battery_history_battery_detail_menu_item">Ayrıntılar</string>
     <string name="pc_battery_history_battery_software_menu_item">Yazılım</string>
     <string name="pc_battery_history_consume_all_menu_item">Tümü</string>
@@ -3857,25 +3971,29 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_show_imei">İmei:</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
+    <string name="pc_battery_low_health_reminder">Pilinizi değiştirme zamanı geldi</string>
     <string name="pc_category_charge_settings">Şarj ayarları</string>
-	<string name="pc_close_notifi_action">Kapat</string>
-	<string name="pc_continuity_has_open_save_mode_notifi_sumary">%1$s %2$s olduğunda veya tamamen şarj olduğunda pil tasarrufu kapatılacak</string>
-	<string name="pc_continuity_has_open_save_mode_notifi_title">"%s'de Pil tasarrufu açıldı"</string>
-	<string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s'nin pili %2$s'den daha düşük. %3$s %4$s eklemek için Pil tasarrufunu açın"</string>
-	<string name="pc_continuity_open_save_mode_notifi_title">%s pil zayıf</string>
-	<string name="pc_emergency_call">Acil durum</string>
-	<string name="pc_endurance_calculation">Hesaplanıyor</string>
-	<string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
-	<string name="pc_entered_extreme_mode_summary">Cihazınızın pili bitti ve Hazırda Bekletme moduna girdi. Uygulamalar arka planda çalışacak ve bildirim göndermeyecek</string>
-	<string name="pc_extreme_exit_and_power_off">Çıkış</string>
-	<string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
-	<string name="pc_extreme_mode_entering">Hazırda bekletme çalıştırılıyor</string>
-	<string name="pc_extreme_mode_exit_risk_title">Dikkat</string>
-	<string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın pili bitmiş. Hazırda bekletme modundan çıkarsanız cihazınız kapanacaktır</string>
-	<string name="pc_extreme_mode_exiting">Hazırda bekletme geçişinden çıkılıyor</string>
-	<string name="pc_extreme_mode_find_charger">Cihazınızı en kısa sürede şarj edin</string>
-	<string name="pc_extreme_mode_runtime">Hazırda bekleme modu %1$s %2$s için açık</string>
-	<string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
+    <string name="pc_charged_auto_close_summary">Pil ​%1$s olduğunda veya tamamen şarj olduğunda kapatın</string>
+    <string name="pc_charged_auto_close_title">Şarj edildiğinde kapat</string>
+    <string name="pc_close_notifi_action">Kapat</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">%1$s %2$s olduğunda veya tamamen şarj olduğunda pil tasarrufu kapatılacak</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">"%s'de Pil tasarrufu açıldı"</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s'nin pili %2$s'den daha düşük. %3$s %4$s eklemek için Pil tasarrufunu açın"</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s pil zayıf</string>
+    <string name="pc_current_power_mode">Mevcut mod</string>
+    <string name="pc_emergency_call">Acil durum</string>
+    <string name="pc_endurance_calculation">Hesaplanıyor</string>
+    <string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
+    <string name="pc_entered_extreme_mode_summary">Cihazınızın pili bitti ve Hazırda Bekletme moduna girdi. Uygulamalar arka planda çalışacak ve bildirim göndermeyecek</string>
+    <string name="pc_extreme_exit_and_power_off">Çıkış</string>
+    <string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
+    <string name="pc_extreme_mode_entering">Hazırda bekletme çalıştırılıyor</string>
+    <string name="pc_extreme_mode_exit_risk_title">Dikkat</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın pili bitmiş. Hazırda bekletme modundan çıkarsanız cihazınız kapanacaktır</string>
+    <string name="pc_extreme_mode_exiting">Hazırda bekletme geçişinden çıkılıyor</string>
+    <string name="pc_extreme_mode_find_charger">Cihazınızı en kısa sürede şarj edin</string>
+    <string name="pc_extreme_mode_runtime">Hazırda bekleme modu %1$s %2$s için açık</string>
+    <string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
     <string name="pc_fast_charge_notifi_action_text_off">Durdur</string>
     <string name="pc_fast_charge_notifi_action_text_on">Hızlandır</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Hatırlatma için pil seviyesi</string>
@@ -3890,9 +4008,11 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_fast_charge_switch_title">Şarj hızını arttır</string>
     <string name="pc_fast_charge_switch_toast_message">Bu cihazı bir sonraki şarj edişinizde değişiklikler uygulanacaktır</string>
     <string name="pc_fast_charge_title">Şarj hızını arttır</string>
-	<string name="pc_going_to_exit_extreme_mode">Hazırda bekletme modundan çıkılıyor</string>
-	<string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
+    <string name="pc_going_to_exit_extreme_mode">Hazırda bekletme modundan çıkılıyor</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
     <string name="pc_going_to_extreme_mode">Hazırda bekletme moduna giriliyor</string>
+    <string name="pc_have_no_battery_issue">Sorun yok</string>
+    <string name="pc_hide_more_power_rank_apps">Gizle</string>
     <string name="pc_hidemode_normal">Dengeli</string>
     <string name="pc_hidemode_normal_title">Dengeli</string>
     <string name="pc_hidemode_performance">Performas</string>
@@ -3906,10 +4026,10 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_hight_refresh_rate_reminder_summary">Daha yüksek bir yenileme hızı kullanılıyor. Bu güç tüketimini ve cihaz sıcaklığını artırabilir</string>
     <string name="pc_hight_refresh_rate_reminder_title">Yüksek kare hızına sahip bir video izleme</string>
     <string name="pc_install_manager">USB üzerinden yükleme</string>
-	<string name="pc_low_batterty_got_it">Tamam</string>
-	<string name="pc_low_battery_fast_charge">Şarjı hızlandırın</string>
-	<string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
-	<string name="pc_main_activity_back">Geri</string>
+    <string name="pc_low_batterty_got_it">Tamam</string>
+    <string name="pc_low_battery_fast_charge">Şarjı hızlandırın</string>
+    <string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
+    <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$sd eklendi. Yaklaşık %2$s gün kaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$sd eklendi. Yaklaşık %2$s gün %3$s saat kaldı</string>
     <string name="pc_main_battery_text_hour">%1$sd eklendi. Yaklaşık %2$s saat kaldı</string>
@@ -3919,21 +4039,32 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$s saat %2$s dakika kaldı</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s gün %2$s saat kaldı</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s saat %2$s dakika kaldı</string>
+    <string name="pc_more_battery_feature">Ek özellikler</string>
+    <string name="pc_more_power_rank_apps">Diğer uygulamalar</string>
+    <string name="pc_night_sleep_mode_summary">Uyku algılandığında pilden tasarruf etmek için bazı özellikleri otomatik olarak kapatın</string>
+    <string name="pc_night_sleep_mode_title">Gece modu</string>
     <string name="pc_no_more_remind">Hatırlatma</string>
     <string name="pc_performance_mode_dialog_summary">Cihazınız performans modunda %s çalışabilecek. Performans modunun güç tüketimini artırdığını ve aşırı ısınmaya neden olabileceğini unutmayın</string>
     <string name="pc_performance_mode_dialog_summary2">Cihaz performansı artacaktır. Bu güç tüketimini artırabilir ve aşırı ısınma sorunlarına yol açabilir. Yine de açılsın mı?</string>
     <string name="pc_performance_mode_dialog_title">Performans modu</string>
     <string name="pc_performance_mode_noti_summary">Performans modu güç tüketimini artırabilir ve aşırı ısınma sorunlarına yol açabilir</string>
     <string name="pc_performance_mode_noti_title">Geliştirilmiş cihaz performansı</string>
+    <string name="pc_power_consume_check">Pil kontrolü</string>
+    <string name="pc_power_consume_check_ing">Kontrol ediliyor</string>
+    <string name="pc_power_save_settings_new">Pil tasarrufu ayarları</string>
     <string name="pc_remind_close_cover_to_charge_summary">Daha hızlı ve daha istikrarlı bir şarj deneyimi için şarj etmeden önce cihazı katlayın</string>
     <string name="pc_remind_close_cover_to_charge_title">Şarj etmek için katlayın</string>
+    <string name="pc_save_charge">Şarj oluyor</string>
+    <string name="pc_save_other_setting">Diğer ayarlar</string>
+    <string name="pc_save_power">Pil tasarrufu</string>
+    <string name="pc_screen_on_time">Ekran süresi</string>
     <string name="pc_search_keywords_battery">Pil</string>
     <string name="pc_search_keywords_battery_save">Pil tasarrufu</string>
     <string name="pc_search_keywords_battery_use">Pil kullanımı</string>
     <string name="pc_search_keywords_capacity">Pil kapasitesi</string>
     <string name="pc_search_keywords_property">Performans</string>
     <string name="pc_settings_title">Pil &amp; performans ayarları</string>
-	<string name="pc_smart_discharge_checkbox_summary">Navigasyon uygulamaları kullanılırken pil seçilen bir düzeye ulaştığında şarj işlemi otomatik olarak duracaktır. Pil tasarrufu veya ultra pil tasarrufu açıkken bu özellik çalışmaz</string>
+    <string name="pc_smart_discharge_checkbox_summary">Navigasyon uygulamaları kullanılırken pil seçilen bir düzeye ulaştığında şarj işlemi otomatik olarak duracaktır. Pil tasarrufu veya ultra pil tasarrufu açıkken bu özellik çalışmaz</string>
     <string name="pc_smart_discharge_checkbox_title">Otomatik bağlantı kesme şarj ediliyor</string>
     <string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme ayarları</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Pili korumak için navigasyon uygulamaları kullanılırken şarj işlemi seçilen seviyede otomatik olarak duracaktır</string>
@@ -3943,11 +4074,15 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_statistics_battery_use_hour_minute">Son şarjdan bu yana %1$d saat %2$d dakika</string>
     <string name="pc_statistics_battery_use_summary">Son şarjdan bu yana %s</string>
     <string name="pc_statistics_battery_use_title">Pil kullanımı</string>
+    <string name="pc_suggest_open_fast_charge">%dW hızlı şarjı açın</string>
     <string name="pc_temperature_too_high">Cihaz aşırı ısındı</string>
     <string name="pc_to_phone_install">USB üzerinden %s yüklemesi engellendi</string>
+    <string name="pc_toady_charge_time_title">Günlük şarj sayısı</string>
     <string name="pc_wait_device_cools_down">Bu özelliği kullanabilmek için cihazınızın soğumasını bekleyin</string>
     <string name="pc_wireless_charge_adjust_position_summary">Kablosuz şarj cihazına takın</string>
     <string name="pc_wireless_charge_adjust_position_title">Cihazınızı daha hızlı şarj edin</string>
+    <string name="pc_work_in_save_mode">Pil tasarrufu</string>
+    <string name="pc_work_in_super_save_mode">Ultra pil tasarrufu</string>
     <string name="pc_xiaoai_create_auto_task">"Mi AI'dan yeni görev"</string>
     <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
     <string name="percent_formatted_text">%%%s</string>
@@ -3963,6 +4098,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="perm_intercept_unknown_title">"%1s'nin bilinmeyen kaynaklardan uygulama yüklemesine izin vermek aşağıdaki risklere neden olabilir:"</string>
     <string name="perm_list_header_title">Uygulamalar</string>
     <string name="perm_list_header_title_has_storage">Depolama alanı olan uygulamalar</string>
+    <string name="permdesc_get_installed_apps">%1$s uygulamasının yüklü uygulamalar hakkındaki bilgilere erişmesine izin verilsin mi?</string>
     <string name="permdesc_in_calls">Gelen aramaları izleyin</string>
     <string name="permdesc_out_calls">Giden aramaları izleyin</string>
     <string name="permgroupdesc_calendar">Takvim etkinliklerine erişme</string>
@@ -3978,6 +4114,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permgroupdesc_sensors">Vücut sensör verilerine erişme</string>
     <string name="permgroupdesc_sms">Mesaj oku veya gönder</string>
     <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişme</string>
+    <string name="permisison_usage_menu_all">Tümü</string>
+    <string name="permisison_usage_menu_camera">@string/camera</string>
+    <string name="permisison_usage_menu_location">@string/location</string>
+    <string name="permisison_usage_menu_mic">@string/mic</string>
+    <string name="permisison_usage_menu_terminal">Ara bağlantı</string>
+    <string name="permisison_usage_now_camera">Bu uygulama şu anda kameraya erişiyor</string>
+    <string name="permisison_usage_now_location">Bu uygulama şu anda konumunuza erişiyor</string>
+    <string name="permisison_usage_now_mic">Bu uygulama şu anda mikrofona erişiyor</string>
     <string name="permission_action_accept">Kabul et</string>
     <string name="permission_action_ai_prompt">İzin kullanıldığında bildir</string>
     <string name="permission_action_always">Herzaman izin ver</string>
@@ -3991,9 +4135,23 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_action_reject">Reddet</string>
     <string name="permission_action_tag">Gizlilik koruması</string>
     <string name="permission_action_virtual">Boş bilgi yetkisi</string>
+    <string name="permission_action_virtual_phone_summary">Uygulamalara ilgili izinleri verin ancak Sim kartın gerçek telefon numarasına erişmelerine izin vermeyin</string>
     <string name="permission_close_permission_control_dialog_msg">İzin yöneticisi kapatıldığında, uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden ya da kamera ve diğer kaynaklara erişmeden önce izninizi istemeyecektir</string>
     <string name="permission_close_permission_control_dialog_title">Kapatılsın mı?</string>
     <string name="permission_exception_title">Uygulamalar için sınırlı ağ bağlantısı</string>
+    <string name="permission_group_audio">Bu izin uygulamaların bu cihazda depolanan müzik ve diğer ses dosyalarına erişmesine olanak tanır</string>
+    <string name="permission_group_calendar">Bu izin uygulamaların takvim etkinliklerine erişmesine, bunları eklemesine, silmesine ve düzenlemesine olanak tanır</string>
+    <string name="permission_group_call_log">Bu izin uygulamaların çağrı geçmişine erişmesine veya bunları düzenlemesine olanak tanır</string>
+    <string name="permission_group_camera">Bu izin uygulamaların fotoğraf çekmek veya video kaydetmek için kamerayı kullanmasına olanak tanır</string>
+    <string name="permission_group_contact">Bu izin uygulamaların kişilere erişmesine veya kişileri düzenlemesine, ayrıca bu cihazda oluşturulan uygulama kişilerini görüntülemesine olanak tanır.</string>
+    <string name="permission_group_file">Bu izin uygulamaların bu cihazda depolanan tüm dosyalara erişmesine olanak tanır.</string>
+    <string name="permission_group_image_video">Bu izin uygulamaların bu cihazda depolanan fotoğraflara ve videolara erişmesine olanak tanır</string>
+    <string name="permission_group_location">Bu izin uygulamaların ağ veya uydu aracılığıyla konum bilgilerine erişmesine olanak tanır</string>
+    <string name="permission_group_microphone">Bu izin uygulamaların ses kaydetmek için mikrofonu kullanmasına olanak tanır.</string>
+    <string name="permission_group_nearby_device">Bu izin uygulamaların yakındaki cihazları keşfetmesine ve bunlara bağlanmasına, ayrıca konumlarını belirlemesine olanak tanır</string>
+    <string name="permission_group_phone">Bu izin uygulamaların arama yapmasına, aramaları yanıtlamasına ve sonlandırmasına, ayrıca telefon numaranıza, cihaz durumunuza ve mobil ağ bilgilerinize erişmesine olanak tanır</string>
+    <string name="permission_group_sms">Bu izin uygulamaların SMS ve MMS göndermesine ve görüntülemesine olanak tanır</string>
+    <string name="permission_group_sport_healthy">Bu izin uygulamaların etkinlik bilgilerinize erişmesine olanak tanır</string>
     <string name="permission_instruction_access_notification">Bu izin uygulamaların tüm bildirimlerinizi okumasına, aramasına ve temizlemesine izin verir. Bildirimlerin özel bilgiler içerebileceğini unutmayın</string>
     <string name="permission_instruction_activity_recognition">Bu izin uygulamaların fiziksel aktivitenizi algılayan yerleşik sensörler tarafından toplanan bilgilere erişmesine izin verir. Fiziksel aktiviteniz hakkındaki bilgilerin kişisel olduğunu unutmayın</string>
     <string name="permission_instruction_add_voicemail">Bu izin uygulamaların sisteme sesli posta eklemesine izin verir</string>
@@ -4004,7 +4162,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_body_sensors">Bu izin uygulamaların sensörler tarafından toplanan vücudunuz hakkındaki bilgilere erişmesine izin verir. Vücudunuzla ilgili bilgilerin kişisel olduğunu unutmayın</string>
     <string name="permission_instruction_call_phone">Bu izin uygulamaların istenmeyen aramalar yapmasına izin verir ve bu da ek ücretler doğurabilir. Bu iznin, uygulamaların acil durum telefon numaralarını aramasına izin vermediğini unutmayın. Kötü amaçlı uygulamalar izniniz olmadan ücretli arama yapmak için bu izni kullanabilir</string>
     <string name="permission_instruction_camera">Bu izin uygulamaların fotoğraf çekmek veya video kaydetmek için kamerayı kullanmasına izin verir</string>
-    <string name="permission_instruction_change_wifi_state">"Bu izin uygulamaların onayınız olmadan Wi-Fi'yi açıp kapatmasına izin verir"</string>
+    <string name="permission_instruction_change_wifi_state">"Bu izin uygulamaların onayınız olmadan wifi'yi açıp kapatmasına izin verir"</string>
     <string name="permission_instruction_device_admin">Bu izin uygulamaların cihazınızı kontrol etmesine izin verir. Bu verileri temizleme, cihazın kilidini açma ve şifreleri değiştirme dahil olabilir. Bu yüksek riskli bir izindir</string>
     <string name="permission_instruction_dont_disturb">Bu izin uygulamaların rahatsız etme modunu açıp kapatmasına izin verir</string>
     <string name="permission_instruction_draw_overlay">Bu izin uygulamaların diğer uygulamaların normal kullanımını etkileyebilecek şekilde, cihazınızdaki diğer herhangi bir arayüz üzerinde yüzen pencereler görüntülemesine izin verir. Kötü amaçlı uygulamalar bu izni şeffaf kayan pencereler aracılığıyla özel bilgileri okumak veya toplamak için kullanabilir</string>
@@ -4032,10 +4190,12 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_read_media_pic">Bu iznin verilmesi uygulamaların telefonunuzdaki fotoğraflara ve videolara erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_read_notify_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan bildirim metin mesajlarını okumasına izin verir</string>
     <string name="permission_instruction_read_phone_state">Bu izin uygulamaların telefon numaranıza, IMEI, IMSI ve diğer cihaz tanımlayıcılara erişmesine izin verir. Uygulamalar normalde bu izni çağrılarınızın yönlendirilip yönlendirilmediğini belirlemek için kullanır. Bir sanal cihaz kimliği kullanıyorsanız uygulamalar gerçek cihaz tanımlayıcılarınıza erişemez</string>
+    <string name="permission_instruction_read_read_calendar">This permission allows apps to add, delete, and edit calendar events.</string>
     <string name="permission_instruction_read_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm metin mesajlarını okumasına izin verir. Bu tür mesaj şifreleri banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
     <string name="permission_instruction_read_write_calendar">Bu izin uygulamaların takviminize erişmesinin yanı sıra takvim etkinliklerini okumasına, eklemesine, kaldırmasına, düzenlemesine, paylaşmasına ve kaydetmesine olanak tanır. Kötü amaçlı uygulamalar izniniz olmadan adınızdan mesaj göndermek veya takvim etkinliklerini düzenlemek için bu izni kullanabilir</string>
     <string name="permission_instruction_receive_mms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm multimedya mesajlarını okumasına izin verir. Bu tür mesaj şifreleri banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
     <string name="permission_instruction_receive_sms">Mesaj ve multimedya mesajlarını alın</string>
+    <string name="permission_instruction_receive_sms_mms">This permission allows apps to read all SMS and MMS. These messages might contain passwords, bank account details, and other personal information.</string>
     <string name="permission_instruction_record_audio">Bu izin uygulamaların ses kaydetmek için mikrofonu kullanmasına izin verir. Bu iznin uygulamaların başkalarıyla yaptığınız görüşmeler dahil her şeyi kaydetmesine izin verdiğini unutmayın. Uygulamaların bu izni yalnızca siz uygulamaları kullanırken kullanmasına izin vermek en iyisidir</string>
     <string name="permission_instruction_record_screen">Ekran içeriği erişimi</string>
     <string name="permission_instruction_running_background">Bu izin uygulamaların arka planda çalışmasına izin verir. Bunu yaparken uygulamalar veri toplayabilir ve hizmet sağlayabilir. Bu tür faaliyetlerin güç tüketimini artırdığını unutmayın</string>
@@ -4059,12 +4219,87 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_write_settings">Bu izin uygulamaların sistem ayarlarını değiştirmesine izin verir. Kötü amaçlı uygulamalar bu izin özelliğini sistem ayarlarınızla birlikte kullanabilir ve cihazınızın normal kullanımını etkileyebilir</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden yada kamera veya diğer kaynaklara erişimden önce izninizi sormayacak. İzin ayarlarından bu özelliği kullanılabilir hale getirebilirsiniz</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi</string>
+    <string name="permission_precise_location">Hassas konum</string>
     <string name="permission_privacy_link">%1$s %2$s</string>
+    <string name="permission_share_uid">Hassas konum</string>
     <string name="permission_upgrade_more">Daha fazla gizlilik koruma özelliğine bakın</string>
     <string name="permission_upgrade_privacy_title">Kişisel gizlilik bilgilerinizi korumak için kayıt, kişiler ve diğer izinler desteği yalnızca kullanıldığında izin ver olarak ayarlanmış. Bu durumu ayarladıktan sonra uygulama bu izni arka planda kullanamaz</string>
     <string name="permission_upgrade_runtime">İzin için başvururken bu zamana izin ver olarak ayarlanmış konumlandırma ve kamera izinleri desteği ayarladıktan sonra uygulamayı kapatırsanız izinler sor seçeneğine geri döner</string>
     <string name="permission_upgrade_title">Yetkilendirme yönetimi işlevini yükseltme</string>
     <string name="permission_upgrade_virtual">Adres defteri ve arama kayıtları gibi gerçek bilgiler vermek istemiyorsanız ilgili makam boş bilgi yetkilendirme olarak ayarlanabilir. Uygulama izinleri verin ancak gizliliği korumak için boş bilgiler gönderin</string>
+    <string name="permission_usage_allow_activity_recognization_once">%1$s | Bu uygulama antrenman bilgilerinize erişti</string>
+    <string name="permission_usage_allow_autostart_once">%1$s | Bu uygulama otomatik olarak başlatıldı</string>
+    <string name="permission_usage_allow_body_sensor_once">%1$s | Bu uygulama vücut sensörlerine erişti</string>
+    <string name="permission_usage_allow_call_phone_once">%1$s | Bu uygulama arama yaptı</string>
+    <string name="permission_usage_allow_camera_once">%1$s | Bu uygulama kameraya erişti</string>
+    <string name="permission_usage_allow_clipboard_once">%1$s | Bu uygulama panoya erişti</string>
+    <string name="permission_usage_allow_delete_pic_once">%1$s | Bu uygulama galerideki fotoğrafları sildi</string>
+    <string name="permission_usage_allow_device_sensor_once">%1$s | Bu uygulama cihazın hareket ve yön sensörlerine erişti</string>
+    <string name="permission_usage_allow_files_once">%1$s | Bu uygulama dosyalara ve dokümanlara erişti</string>
+    <string name="permission_usage_allow_get_installed_once">%1$s | Bu uygulama bu cihazda yüklü uygulamaların listesine erişti</string>
+    <string name="permission_usage_allow_get_number_once">"%1$s | Bu uygulama bu cihazın telefon numarasına erişti"</string>
+    <string name="permission_usage_allow_get_sms_once">%1$s | Bu uygulama mesaj okuyor</string>
+    <string name="permission_usage_allow_location_once">%1$s | Bu uygulama konumunuza erişti</string>
+    <string name="permission_usage_allow_media_aural_once">%1$s | Bu uygulama müzik ve sese erişti</string>
+    <string name="permission_usage_allow_media_visual_once">%1$s | Bu uygulama fotoğraflara ve videolara erişti</string>
+    <string name="permission_usage_allow_media_volume_once">%1$s | Bu uygulama medya ses düzeyini ayarladı</string>
+    <string name="permission_usage_allow_mic_once">%1$s | Bu uygulama mikrofona erişti</string>
+    <string name="permission_usage_allow_nearby_device_once">%1$s | Bu uygulama yakındaki cihazların listesine erişti</string>
+    <string name="permission_usage_allow_perm_once">%1$s | Erişildi</string>
+    <string name="permission_usage_allow_phone_state_once">"%1$s | Bu uygulama, bu cihazın çağrı durumuna erişti"</string>
+    <string name="permission_usage_allow_r_calendar_once">%1$s | Bu uygulama takvime erişti</string>
+    <string name="permission_usage_allow_r_calllog_once">%1$s | Bu uygulama çağrı geçmişinize erişti</string>
+    <string name="permission_usage_allow_r_contacts_once">%1$s | Bu uygulama kişilerinize erişti</string>
+    <string name="permission_usage_allow_receive_sms_once">%1$s | Bu uygulama mesaj aldı</string>
+    <string name="permission_usage_allow_send_sms_once">%1$s | Bu uygulama mesaj gönderdi</string>
+    <string name="permission_usage_allow_w_calendar_once">%1$s | Bu uygulama takvimi düzenledi</string>
+    <string name="permission_usage_allow_w_calllog_once">%1$s | Bu uygulama arama geçmişinizi düzenledi</string>
+    <string name="permission_usage_allow_w_contacts_once">%1$s | Bu uygulama kişilerinizi düzenledi</string>
+    <string name="permission_usage_allow_wake_path_once">"%1$s | Bu uygulama %2$s'i otomatik olarak başlattı"</string>
+    <string name="permission_usage_allow_wakepath_once">%1$s | İzin verildi</string>
+    <string name="permission_usage_delete_pic">Fotoğraflar galeriden silindi</string>
+    <string name="permission_usage_deny_activity_recognization_once">%1$s | Bu uygulamanın antrenman bilgilerinize erişimi reddedildi</string>
+    <string name="permission_usage_deny_autostart_once">%1$s | Bu uygulamanın otomatik başlatılması reddedildi</string>
+    <string name="permission_usage_deny_body_sensor_once">%1$s | Bu uygulamanın vücut sensörlerine erişimi reddedildi</string>
+    <string name="permission_usage_deny_call_phone_once">%1$s | Bu uygulamanın arama yapması reddedildi</string>
+    <string name="permission_usage_deny_camera_once">%1$s | Bu uygulamanın kameraya erişimi reddedildi</string>
+    <string name="permission_usage_deny_clipboard_once">%1$s | Bu uygulamanın panoya erişimi reddedildi</string>
+    <string name="permission_usage_deny_delete_pic_once">%1$s | Bu uygulamanın galeriden fotoğraf silmesi reddedildi</string>
+    <string name="permission_usage_deny_device_sensor_once">%1$s | Bu uygulamanın cihaz hareketine ve yönüne erişimi reddedildi</string>
+    <string name="permission_usage_deny_files_once">%1$s | Bu uygulamanın dosya ve belgelere erişimi reddedildi</string>
+    <string name="permission_usage_deny_get_installed_once">%1$s | Bu uygulamanın, bu cihazda yüklü uygulamalar listesine erişimi reddedildi</string>
+    <string name="permission_usage_deny_get_number_once">"%1$s | Bu uygulamanın bu cihazın telefon numarasına erişimi reddedildi"</string>
+    <string name="permission_usage_deny_get_sms_once">%1$s | Bu uygulamanın mesaj okuması reddedildi</string>
+    <string name="permission_usage_deny_location_once">%1$s | Bu uygulamanın konumunuza erişmesi reddedildi</string>
+    <string name="permission_usage_deny_media_aural_once">"%1$s | Bu uygulamanın müzik ve ses'e erişimi reddedildi"</string>
+    <string name="permission_usage_deny_media_visual_once">%1$s | Bu uygulamanın fotoğraflara ve videolara erişimi reddedildi</string>
+    <string name="permission_usage_deny_media_volume_once">%1$s | Bu uygulamanın medya ses düzeyini ayarlaması reddedildi</string>
+    <string name="permission_usage_deny_mic_once">%1$s | Bu uygulamanın mikrofona erişimi reddedildi</string>
+    <string name="permission_usage_deny_nearby_device_once">%1$s | Bu uygulamanın yakındaki cihazlar listesine erişimi reddedildi</string>
+    <string name="permission_usage_deny_perm_once">%1$s | Erişim reddedildi</string>
+    <string name="permission_usage_deny_phone_state_once">%1$s | Bu uygulamanın bu cihazın arama durumuna erişimi reddedildi</string>
+    <string name="permission_usage_deny_r_calendar_once">%1$s | Bu uygulamanın takvime erişimi reddedildi</string>
+    <string name="permission_usage_deny_r_calllog_once">%1$s | Bu uygulamanın arama geçmişinize erişimi reddedildi</string>
+    <string name="permission_usage_deny_r_contacts_once">%1$s | Bu uygulamanın kişilerinize erişmesi reddedildi</string>
+    <string name="permission_usage_deny_receive_sms_once">%1$s | Bu uygulamanın mesaj alması reddedildi</string>
+    <string name="permission_usage_deny_send_sms_once">%1$s | Bu uygulamanın mesaj göndermesi reddedildi</string>
+    <string name="permission_usage_deny_w_calendar_once">%1$s | Bu uygulamanın takvimi düzenlemesi reddedildi</string>
+    <string name="permission_usage_deny_w_calllog_once">%1$s | Bu uygulamanın arama geçmişinizi düzenlemesi reddedildi</string>
+    <string name="permission_usage_deny_w_contacts_once">%1$s | Bu uygulamanın kişilerinizi düzenlemesi reddedildi</string>
+    <string name="permission_usage_deny_wake_path_once">%1$s Bu uygulamanın %2$s otomatik olarak başlatılması reddedildi</string>
+    <string name="permission_usage_deny_wakepath_once">%1$s | Reddedildi</string>
+    <string name="permission_usage_now">Şimdi</string>
+    <string name="permission_usage_now_access">Şimdi erişiliyor</string>
+    <string name="permission_usage_terminal_camera_once">%1$s | Bu uygulama bu cihazın kamerasını kullandı</string>
+    <string name="permission_usage_terminal_camera_use">"Bu uygulama bu cihazın kamerasını kullanıyor"</string>
+    <string name="permission_usage_terminal_screen_once">%1$s | Bu uygulama bu cihazın ekranını kullandı</string>
+    <string name="permission_usage_terminal_screen_use">Bu uygulama bu cihazın ekranını kullanıyor</string>
+    <string name="permission_usage_virtual_calendar_once">%1$s | Bu uygulama boş bir takvim etkinliği döndürdü</string>
+    <string name="permission_usage_virtual_calllog_once">%1$s | Bu uygulama boş bir arama kaydı döndürdü</string>
+    <string name="permission_usage_virtual_common_once">%1$s | Bu uygulama boş bir mesaj döndürdü</string>
+    <string name="permission_usage_virtual_contacts_once">%1$s | Bu uygulama boş bir kişi döndürdü</string>
+    <string name="permission_usage_virtual_phone_state_once">%1$s | Bu uygulama boş bir arama durumu döndürdü</string>
+    <string name="permission_usage_virtual_sms_once">%1$s | Bu uygulama boş bir mesaj döndürdü</string>
     <string name="permission_with_SMS_and_MMS">Mesaj ve multimedya mesajı ile ilgili izinler</string>
     <string name="permission_with_call_and_contact">Aramalar, kişiler ve arama kayıtları ile ilgili izinler</string>
     <string name="permission_with_read_write_clipboard">Uygulamaların öğelere erişmesine ve panoya kaydetmesine izin verin</string>
@@ -4086,6 +4321,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="phone_manage_system_tool_title">Araçlar</string>
     <string name="phone_manager_edit_commonly_used_func_title">Ortak özellikleri düzenle</string>
     <string name="phone_manager_title">Araç kutusu</string>
+    <string name="phone_number_protect">Telefon numarasını gizli yap</string>
     <string name="phone_type_fold">Katlanabilir telefon</string>
     <string name="phone_type_normal">Normal telefon</string>
     <string name="pkg_traffic">Veri kullanım limitini ayarlayın</string>
@@ -4336,6 +4572,9 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_optimize_save_on_lockscreen">Cihaz kilitliyken güç tasarrufu yapın</string>
     <string name="power_optimize_set_lockscreen_time_holder">%s saniye işlem yapılmadığında cihazı kilitle</string>
     <string name="power_phone">Sesli arama</string>
+    <string name="power_port_damp_dialog_btn">Anladım</string>
+    <string name="power_port_damp_notify_msg">Güvenliği sağlamak ve pilin zarar görmesini önlemek için şarj etmeden önce bağlantı noktasını kurulayın</string>
+    <string name="power_port_damp_notify_title">Şarj bağlantı noktası ıslak</string>
     <string name="power_rank_surface_flinger">İşleniyor</string>
     <string name="power_rank_system">Android sistemi</string>
     <string name="power_save_mode">Pil tasarrufu</string>
@@ -4355,6 +4594,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_save_mode_other_optimization">İsteğe bağlı optimizasyon</string>
     <string name="power_save_mode_start_time">Başlat</string>
     <string name="power_save_mode_summary">Arka plan işlemlerini takip eder ve senkronizasyonu kapatır</string>
+    <string name="power_save_model_open">Pil tasarrufu açık</string>
     <string name="power_save_on_time_end_time_summary_na">Bitiş</string>
     <string name="power_save_on_time_start_time_summary_na">Başlangıç</string>
     <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
@@ -4431,7 +4671,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_block_mac">MAC adresine erişimi kısıtlayın</string>
     <string name="pp_block_mac_summary">MAC adresinize erişim tüm uygulamalar için varsayılan olarak kısıtlanmıştır</string>
     <string name="pp_call_phone_msg">Arama geçmişi</string>
-    <string name="pp_capability_approved_title">Gizlilik koruma önlemlerimiz, sektörün önde gelen uzmanları tarafından test edilmiş ve onaylanmıştır</string>
+    <string name="pp_capability_approved_title">Gizlilik koruma önlemlerimiz sektörün önde gelen uzmanları tarafından test edilmiş ve onaylanmıştır</string>
     <string name="pp_chain_start_is_prohibited">Zincir başlangıcını kısıtlayın</string>
     <string name="pp_chain_start_is_prohibited_detail">Üçüncü taraf uygulamaların birbirini başlattığı durumları kontrol edin ve bilginiz olmadan kişisel bilgilerinizi alın</string>
     <string name="pp_clipboard">Pano</string>
@@ -4643,6 +4883,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="priority_storage_settings_summary">SD kart algılanmazsa verileriniz otomatik olarak cihazınızın dahili belleğine kaydedilir</string>
     <string name="priority_storage_summary">Verilerinizi kaydedeceğiniz konumu seçin</string>
     <string name="priority_storage_title">Depolama ayarları</string>
+    <string name="privacy">Gizlilik</string>
+    <string name="privacy_and_safety">Gizlilik &amp; güvenlik</string>
     <string name="privacy_app_behavior_summary">Otomatik başlatma, izinler ve daha fazlası</string>
     <string name="privacy_app_behavior_title">Uygulama davranışı geçmişi</string>
     <string name="privacy_app_permission_manage_summary">Yüklü uygulamaların izinlerini yönet</string>
@@ -4859,6 +5101,12 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_risk_uninstall_dialog_title">Tamam</string>
     <string name="privacy_risk_uninstall_title">Uygulamaları kaldır</string>
     <string name="privacy_risk_work_encryption">Sosyal medya ve ofis dosyalarını korunmaz</string>
+    <string name="privacy_screen_share_notification_content">Başka bir cihaza yayın yapıyorsunuz. Gizlilik koruması açık</string>
+    <string name="privacy_screen_share_notification_protect_content">Hassas öğeler harici cihazda görüntülenmeyecek</string>
+    <string name="privacy_screen_share_notification_protect_title">Ekran içeriği korunmaktadır</string>
+    <string name="privacy_screen_share_notification_title">Ekran içeriği yayınlanıyor</string>
+    <string name="privacy_screen_share_protect_tip">Korumalı</string>
+    <string name="privacy_screen_share_tip">Yayınla</string>
     <string name="privacy_search_key_1">Gizlilik</string>
     <string name="privacy_search_key_10">Cihaz kimliği</string>
     <string name="privacy_search_key_2">Ağ müdahalesi</string>
@@ -4888,8 +5136,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_thumbnail_blur_search_empty">Sonuçlar bulunamadı</string>
     <string name="privacy_thumbnail_blur_title">Önizleme bulanıklığı</string>
     <string name="privacy_thumbnail_blur_top_tip">Son kullanılan uygulamalarda önizlemelerinin bulanıklaştırılacağı uygulamaları seçin</string>
-	<string name="privacy_thumbnail_shield_title">Önizleme maskeleme</string>
-	<string name="privacy_thumbnail_shield_top_tip">Son kullanılanlarda görüntülenen uygulamalar için önizlemeleri maskele</string>
+    <string name="privacy_thumbnail_shield_title">Önizleme maskeleme</string>
+    <string name="privacy_thumbnail_shield_top_tip">Son kullanılanlarda görüntülenen uygulamalar için önizlemeleri maskele</string>
     <string name="privacy_type_open">Aç</string>
     <string name="privacy_update_dialog_content_1">%s gizlilik politikası güncellendi:</string>
     <string name="privacy_update_dialog_content_2">Devam etmeden önce <a href="%1$s">gizlilik politikasının</a> yeni sürümünü okuyun ve kabul edin</string>
@@ -4949,6 +5197,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="real_location_off">Yaklaşık konum açık</string>
     <string name="real_location_on">Yaklaşık konum kapalı</string>
     <string name="receive_now">Al</string>
+    <string name="recent_app_behavior">7 günlük izin geçmişi</string>
     <string name="recently_reject_message">%1$s ve diğer %2$d uygulamanın yükleme işlemi reddedildi</string>
     <string name="recently_reject_message_one">%1$s yükleme isteği reddedildi</string>
     <string name="recommend_news">Öneriler</string>
@@ -5037,6 +5286,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="safe_result_item_info_system_version">MIUI güncel</string>
     <string name="safepay_alert_dialog_button_continue">Devam et</string>
     <string name="safepay_alert_dialog_button_fix">Düzelt</string>
+    <string name="safety">Güvenlik</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>
@@ -5146,6 +5396,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="shake_send_sticker_summary">"WeChat ve QQ'da komik ifadeler rastgele belirdi. Her yeni yıl arifesinde ifadelerle savaşmak hiç bu kadar kolay olmamıştı"</string>
     <string name="share_uid_app">Paylaşılan izinlere sahip uygulamalar</string>
     <string name="share_uid_instruction">Bu uygulamanın ilgili sistem hizmetlerini sağlamak için izinleri aşağıdaki uygulamalarla paylaşması gerekir. Bu uygulama için bir iznin durumunu her değiştirdiğinizde aşağıdaki uygulamalar için de ilgili durum değişecektir</string>
+    <string name="share_uid_sec">Bu uygulama izinleri %1s ile paylaşıyor. Değişiklikler senkronize edilecek</string>
     <string name="shield_keyboard_detail">Tuşları yeniden açmak için çift dokunun</string>
     <string name="shield_keyboard_summary">Oyunlar sırasında düğmeleri ve tam ekran hareketlerini kısıtla</string>
     <string name="shield_keyboard_title">Tuşları kapat</string>
@@ -5334,14 +5585,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="sp_antispam_scan_title">Engelli listesi</string>
     <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin</string>
     <string name="sp_background_risk_dialog_summary_new">Mevcut ödeme ortamı güvenlik riski oluşturabilir. Mevcut sorunları çözmek için bir dakikanızı ayırın</string>
-    <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu Wi-Fi ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun</string>
+    <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu wifi ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun</string>
     <string name="sp_background_risk_dialog_title">Uyarı</string>
-    <string name="sp_background_risk_dialog_title_wifi_approve">Genel Wi-Fi uyarı</string>
+    <string name="sp_background_risk_dialog_title_wifi_approve">Genel wifi uyarı</string>
     <string name="sp_background_risk_type_messaging">Sistem mesajlaşma uygulaması değiştirildi</string>
     <string name="sp_background_risk_type_root">Sisteme root erişimi sağlandı</string>
     <string name="sp_background_risk_type_sign">Resmi olmayan uygulama çalışıyor</string>
     <string name="sp_background_risk_type_virus">Arka planda virüs çalışıyor</string>
-    <string name="sp_background_risk_type_wifi">Bu Wi-Fi ağı tehlikeli</string>
+    <string name="sp_background_risk_type_wifi">Bu wifi ağı tehlikeli</string>
     <string name="sp_basestation_scan_summary">Cihazınızı sahte baz istasyonlarından koruyun</string>
     <string name="sp_basestation_scan_title">Sahte baz istasyonları</string>
     <string name="sp_button_text_ignore_alert_title">Bu öğe yoksayılsın mı?</string>
@@ -5364,6 +5615,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="sp_more_security_settings">Ek ayarlar</string>
     <string name="sp_network_privacy_dialog_message">Güvenlik uygulaması internet erişimini kısıtladığınızdan düzgün çalışamıyor. Güvenlik uygulamasının internete bağlanmasına izin verilsin mi?</string>
     <string name="sp_network_privacy_dialog_title">Güvenlik taraması kullanılamıyor</string>
+    <string name="sp_payment_detection_title">Ödeme güvenliği kontrolü</string>
     <string name="sp_payment_protect_summary">Çevrimiçi ödeme ortamını koruyun</string>
     <string name="sp_payment_protect_title">Güvenli ödeme</string>
     <string name="sp_person_security_title">Kişisel güvenlik</string>
@@ -5374,6 +5626,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="sp_privacy_protect_summary">Kişisel bilgilerinizi koruyun</string>
     <string name="sp_privacy_protect_title">Gizlilik koruması</string>
     <string name="sp_property_security_title">Finansal güvenlik</string>
+    <string name="sp_safe_install_mode_title">Mi koruma</string>
     <string name="sp_scan_item_monitor">Ödemeleri takip et</string>
     <string name="sp_scan_item_url_antispam">Kötü niyetli bağlantı adreslerinden korunma</string>
     <string name="sp_security_center_title">Güvenlik</string>
@@ -5431,7 +5684,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="special_perm_intercept_analyze_title">Tercihlerinizi ve davranışlarınızı analiz edin</string>
     <string name="special_perm_intercept_app_msg">Sosyal medya ve bankacılık uygulamalarından bildirimler dahil</string>
     <string name="special_perm_intercept_app_title">Tüm bildirimleri okuyun</string>
-    <string name="special_perm_intercept_barrier_free">Erişilebilirlik</string>
+    <string name="special_perm_intercept_autostart_msg">Uygulamanın kısıtlama olmaksızın istediğiniz zaman arka planda başlamasına izin verin</string>
     <string name="special_perm_intercept_autostart_title">Sınırsız otomatik başlat</string>
     <string name="special_perm_intercept_barrier_free">Erişilebilirlik</string>
     <string name="special_perm_intercept_camera_msg">Herhangi bir kamera etkinliğini kısıtlayın</string>
@@ -5728,6 +5981,9 @@ Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_system_memory_expansion_tip">"Depolama alanını işgal ederek Ram'i arttırın"</string>
     <string name="storage_system_other_tip">Sistemin normal çalışması için gerekli veriler (Dosya boyutu zamanla değişebilir)</string>
     <string name="storage_system_other_tip_new">Sistemin çalışması ve yükseltmeleri için gerekli depolama alanını içerir. Bu bölümün boyutu sistem durumuna göre değişiklik gösterecektir</string>
+    <string name="storage_ufs_msg">UFS depolama uzantısı teknolojimizi ve depolama optimizasyonu algoritmalarımızı kullanarak bu cihaza en fazla %1$s depolama alanı ekleyebilirsiniz</string>
+    <string name="storage_ufs_tip">Ek depolama alanı</string>
+    <string name="storage_ufs_title">UFS depolama uzantısı</string>
     <string name="storage_unmount_failure">%1$s bağlantısı kaldırılamadı</string>
     <string name="storage_unmount_success">%1$s bağlantısı başarıyla kaldırıldı</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 sıfırla</string>
@@ -5980,6 +6236,8 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="tc_sms_report_upload_when_net">Geri bildiriminiz için teşekkürler</string>
     <string name="tc_web_correct_error">Kalibre edilemedi</string>
     <string name="ten_percent_total_pkg">%s (Aylık verinin %%10 oranı)</string>
+    <string name="terminal_behavior_camera">%1s bu cihazın kamerasına erişti</string>
+    <string name="terminal_behavior_screen">%1s bu cihazın ekranına erişti</string>
     <string name="terminal_privacy">Cihazda gizlilik koruması</string>
     <string name="terminal_privacy_ability">Özellikler ve mekanizmalar</string>
     <string name="terminal_privacy_ability_img">Görüntü işleme</string>
@@ -6006,6 +6264,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="tether_over_limit_dialog_title">Veri kullanım uyarısı</string>
     <string name="tether_over_limit_warning_notify_message">Kişisel bağlantı noktasını kapat</string>
     <string name="tether_over_limit_warning_notify_title">Kişisel bağlantı noktası veri sınırına ulaşıldı</string>
+    <string name="textDirection">ltr</string>
     <string name="text_alarm_after">"Bu yılki kırmızı zarf etkinliğinin sona erdi
 Seneye tekrar bir araya gelmek için sabırsızlanıyorum"</string>
     <string name="text_alarm_before">"Bu yılki kırmızı zarf etkinliği başlamak üzere
@@ -6338,6 +6597,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="txv_dnd_type_title">Rahatsız etme</string>
     <string name="txv_lucky_money_group_text">Yalnızca grup kırmızı zarfını hatırlatın</string>
     <string name="type_face_condition_summary">Metin boyutunu ve yazı tipi ağırlığını ayarlayın</string>
+    <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="unable_connect_internet">İnternet bağlantısı yok</string>
     <string name="uninstall_app_dialog_msg">Kaldırma işlemi uygulama verilerinin tamamını silecektir</string>
     <string name="uninstall_app_dialog_title">Şimdi kaldırılsın mı?</string>
@@ -6481,11 +6741,11 @@ Bu özellik hareket yumuşatma ile çalışmaz
 Çözünürlüğü yükseltmeyi deneyin"</string>
     <string name="verify_allow">@string/app_behavior_allowed</string>
     <string name="verify_denied">@string/app_behavior_denied</string>
-    <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını gerektirir</string>
+    <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını zorunlu kılın</string>
     <string name="verify_shut_down_password_title">Kapatma onayı</string>
     <string name="verify_sms_cancel">@string/cancel_button</string>
     <string name="verify_sms_ensure_allow">Gönder</string>
-    <string name="verify_sms_title">%1$s bir ileti göndermeye çalışıyor</string>
+    <string name="verify_sms_title">%1$s bir mesaj göndermeye çalışıyor</string>
     <string name="verify_wlan_allow">@string/app_behavior_allowed</string>
     <string name="verify_wlan_denied">@string/app_behavior_denied</string>
     <string name="video_repeat">Tekrar oynat</string>
@@ -6527,7 +6787,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_type_title">Tür</string>
     <string name="virus_update_tips_title">Uyarı</string>
-    <string name="virus_wait_network_dialog_message">"Telefonunuz artık Wi-Fi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
+    <string name="virus_wait_network_dialog_message">"Telefonunuz artık wifi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_ai_subtitle">Alt yazılar</string>
     <string name="vtb_func_desc">Bu özellik hakkında</string>
@@ -6545,7 +6805,17 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="vtb_function_video_translation">Gerçek zamanlı çeviri</string>
     <string name="vtb_other_milink_connect">Şimdi video yayınlanamıyor</string>
     <string name="vtb_stop_milink_connect">Yayınlama videosunu durdurdu</string>
+    <string name="wake_path_start_callee">%1$s otomatik olarak başlatıldı</string>
+    <string name="wakepath_all">Tüm izinleri kaldır</string>
+    <string name="wakepath_allow_start_app">%s uygulaması otomatik olarak açılabilir</string>
+    <string name="wakepath_allow_start_apps">Uygulamaların diğer uygulamaları açmasına izin ver</string>
     <string name="wakepath_confirm_start_activity">%1$s uygulamasının %2$s uygulamasını açmasına izin verilsin mi?</string>
+    <string name="wakepath_delete">İzinleri kaldır</string>
+    <string name="wakepath_delete_all">Tüm izinleri kaldır</string>
+    <string name="wakepath_delete_all_tips">"Devam ederseniz her uygulamaya diğer uygulamaları açma izni vermeniz gerekecek. Yine de devam edilsin mi?"</string>
+    <string name="wakepath_delete_app_start_all">"Devam ederseniz, %s'e başka uygulamaları açma izni vermeniz gerekecek. Yine de devam edilsin mi?"</string>
+    <string name="wakepath_delete_app_start_other_app">"Devam ederseniz %2$s'yi açmak için %1$s'a tekrar izin vermeniz gerekecek. Yine de devam edilsin mi?"</string>
+    <string name="wakepath_manager_title">Zincir başlangıcını yönet</string>
     <string name="warn_function_no_work"><u>Kırmızı zarf geldiğinde hatırlatılamaz</u></string>
     <string name="warningcenter_action_check">Görünüm</string>
     <string name="warningcenter_alert_home">Konum</string>
@@ -6707,10 +6977,10 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="widget_safe_size_1">23.6</string>
     <string name="widget_safe_title">Cep telefonu çöpü</string>
     <string name="widget_safe_title_1">Hafıza kullanımı</string>
-    <string name="wifi_danger_dialog_messgae">Mevcut Wi-Fi ağı güvenlik riski oluşturabilir. Dikkatli kullanın</string>
+    <string name="wifi_danger_dialog_messgae">Mevcut wifi ağı güvenlik riski oluşturabilir. Dikkatli kullanın</string>
     <string name="wifi_danger_dialog_tips">"Wi-Fi güvenliğini Güvenlik > Güvenlik taraması > Ayarlar > Wi-Fi'den yönetebilirsiniz"</string>
     <string name="wifi_danger_dialog_title">Wi-Fi ağı güvenli değil</string>
-    <string name="wifi_exception_summary">Kullanılabilir Wi-Fi ağlarını test et</string>
+    <string name="wifi_exception_summary">Kullanılabilir wifi ağlarını test et</string>
     <string name="wifi_exception_title">Wi-Fi ağı testi</string>
     <string name="wifi_item_status_connection_no">Bağlı değil</string>
     <string name="wifi_item_title_arp_attack">ARP saldırıları</string>
@@ -6720,7 +6990,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="wifi_item_title_fake">Sahte Wi-Fi ağlarını tespit et</string>
     <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok</string>
     <string name="wifi_optizition_loading">Xunyou ağ hızlandırıcı açılıyor</string>
-    <string name="wifi_optizition_tip">Wi-Fi bağlantısını daha stabil hale getirmek için Wi-Fi hız artırımını açın. Küçük bir miktar mobil veri kullanılacaktır</string>
+    <string name="wifi_optizition_tip">Wi-Fi bağlantısını daha stabil hale getirmek için wifi hız artırımını açın. Küçük bir miktar mobil veri kullanılacaktır</string>
     <string name="wifi_optizition_title">Wi-Fi hızlandırıcı</string>
     <string name="wireless_charging_connected_message">Cihazınız kablosuz olarak şarj olurken ters kablosuz şarj kullanılamaz</string>
     <string name="wireless_charging_fg_control_cancel">İptal et</string>
@@ -6733,7 +7003,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="wireless_charging_saver_ok">Tut</string>
     <string name="wl_no_whitelist">İstisna yok</string>
     <string name="wlan_booster">Wi-Fi optimizasyonu</string>
-    <string name="wlan_change_protection_detail">Mobil ağa bağlanıldığında otomatik olarak Wi-Fi ağına bağlanma</string>
+    <string name="wlan_change_protection_detail">Mobil ağa bağlanıldığında otomatik olarak wifi ağına bağlanma</string>
     <string name="wlan_change_protection_title">Ağ arası geçiş yapmaktan kaçın</string>
     <string name="wlan_optimization_summary">Wi-Fi ağ gecikmesini azaltın</string>
     <string name="wlan_optimization_title">Wi-Fi optimizasyonu</string>
