@@ -33,6 +33,18 @@
         <item quantity="other">%1$d dosya</item>
         <item quantity="one">%1$d dosya</item>
     </plurals>
+    <plurals name="filter_diy_import_toast_success">
+        <item quantity="other">%1$d filtre başarıyla içe aktarıldı</item>
+        <item quantity="one">%1$d filtre başarıyla içe aktarıldı</item>
+    </plurals>
+    <plurals name="filter_images_ratio_unsupport">
+        <item quantity="other">Desteklenmeyen resim oranına sahip %d resim engellendi</item>
+        <item quantity="one">Desteklenmeyen resim oranına sahip %d resim engellendi</item>
+    </plurals>
+    <plurals name="filter_images_unsupport">
+        <item quantity="other">Desteklenmeyen %d görsel engellendi</item>
+        <item quantity="one">Desteklenmeyen %d görsel engellendi</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
@@ -163,5 +175,13 @@
     <plurals name="send_zip_dialog_desc_receiving">
         <item quantity="other">%1$s klasöründen %2$d arşiv alınıyor (%3$s)</item>
         <item quantity="one">%1$s klasöründen %2$d arşiv alınıyor (%3$s)</item>
+    </plurals>
+    <plurals name="vlog_filter_diy_lut_import_success_toast">
+        <item quantity="other">%1$d filtre başarıyla içe aktarıldı</item>
+        <item quantity="one">%1$d filtre başarıyla içe aktarıldı</item>
+    </plurals>
+    <plurals name="vlog_talkback_crop_scale_value">
+        <item quantity="other">%d derece döndür</item>
+        <item quantity="one">%d derece döndür</item>
     </plurals>
 </resources>

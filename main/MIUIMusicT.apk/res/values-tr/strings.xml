@@ -64,6 +64,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_close">Kapat</string>
     <string name="ad_data_exception">Reklam veri hatası</string>
+    <string name="ad_flag_text">Reklam</string>
     <string name="ad_recommend">Önerilenler</string>
     <string name="ad_setting">Ek ayarlar</string>
     <string name="add">Ekle</string>
@@ -411,8 +412,8 @@
     <string name="download_auto_after_favorite_summary">Otomatik olarak favori şarkılar indirilsin</string>
     <string name="download_auto_after_favorite_title">Favorileri indir</string>
     <string name="download_auto_cancel">Favorileri indirme kapalı</string>
-    <string name="download_auto_message">Wi-Fi bağlı olduğunuzda favoriler otomatik yüklenecektir. Bunu ayarlardan değiştirebilirsiniz</string>
-    <string name="download_auto_when_free_network">Yalnızca Wi-Fi</string>
+    <string name="download_auto_message">Wifi bağlı olduğunuzda favoriler otomatik yüklenecektir. Bunu ayarlardan değiştirebilirsiniz</string>
+    <string name="download_auto_when_free_network">Yalnızca wifi</string>
     <string name="download_auto_when_free_network_summary">Favori şarkılar için ek ayarlar</string>
     <string name="download_complete">İndirme tamamlandı</string>
     <string name="download_complete_btn">Yüklendi</string>
@@ -420,8 +421,8 @@
     <string name="download_completed">İndirildi</string>
     <string name="download_confirm_button_text">Yükle</string>
     <string name="download_confirm_text">Müzikler indirilecek ve %s kurulacak</string>
-    <string name="download_connect_wifi_dialog_message">Bu şarkıyı indirmek için Wi-Fi bağlantısına ihtiyacınız var. Şimdi bağlanılsın mı?</string>
-    <string name="download_connect_wifi_dialog_title">Wi-Fi ağına bağlan</string>
+    <string name="download_connect_wifi_dialog_message">Bu şarkıyı indirmek için wifi bağlantısına ihtiyacınız var. Şimdi bağlanılsın mı?</string>
+    <string name="download_connect_wifi_dialog_title">Wifi ağına bağlan</string>
     <string name="download_dialog_fail">İndirilemedi</string>
     <string name="download_dialog_success">Başarıyla indirildi</string>
     <string name="download_done_btn">İndirildi</string>
@@ -461,7 +462,7 @@
     <string name="download_traffic_dialog_msg_beyond">Mobil veri limitinizi şimdiye kadar %s aştınız. Şarkıları indirmek için mobil veri kullanılsın mı?</string>
     <string name="download_traffic_dialog_msg_serious">Sadece %s mobil veri kaldı. Şarkıları indirmek için mobil veri kullanılsın mı?</string>
     <string name="download_traffic_dialog_msg_without_data">Şarkıları indirmek için mobil veri kullanıyorsunuz. Yine de indirilsin mi?</string>
-    <string name="download_traffic_dialog_negative_button">Wi-Fi için bekle</string>
+    <string name="download_traffic_dialog_negative_button">Wifi için bekle</string>
     <string name="download_traffic_dialog_position_button">İndir</string>
     <string name="download_traffic_dialog_position_button_serious">Yine de indir</string>
     <string name="download_traffic_dialog_title">Veri Kullanım Uyarısı</string>
@@ -561,7 +562,7 @@
     <string name="exo_download_notification_channel_name">İndirilenler</string>
     <string name="exo_download_paused">İndirmeler duraklatıldı</string>
     <string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
-    <string name="exo_download_paused_for_wifi">Wi-Fi için bekleyen indirmeler</string>
+    <string name="exo_download_paused_for_wifi">Wifi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
@@ -703,7 +704,7 @@
     <string name="get_more_favorite_content_after_login">Daha fazla şarkı ve videoyu keşfetmek için oturum açın</string>
     <string name="get_one_day_vip">%d günlük VIP üyelik aldınız</string>
     <string name="get_one_hour_vip">%d saatlik VIP üyelik aldınız</string>
-	<string name="get_one_minute_vip">%d dakikalık VIP üyelik kazandınız</string>
+    <string name="get_one_minute_vip">%d dakikalık VIP üyelik kazandınız</string>
     <string name="get_vip">VIP üyelik al</string>
     <string name="go_agree">Tamam</string>
     <string name="google_account_login">Google ile giriş yap</string>
@@ -885,7 +886,7 @@
     <string name="loading_reached_the_bottom">Şimdilik bu kadar</string>
     <string name="loading_text">Yükleniyor</string>
     <string name="local_download_download">İndir</string>
-    <string name="local_download_hint">İndirmeden önce Wi-Fi ağını açın</string>
+    <string name="local_download_hint">İndirmeden önce wifi ağını açın</string>
     <string name="local_download_item">Ücretsiz indirin</string>
     <string name="local_download_title">İndirilecek şarkıları seçin</string>
     <string name="local_download_toast">İndiriliyor</string>
@@ -1161,7 +1162,7 @@
     <string name="notification_download_complete">İndirme işlemi tamamlandı</string>
     <string name="notification_download_failed">İndirilemedi</string>
     <string name="notification_download_success_more">%1$d indirildi</string>
-    <string name="notification_need_wifi_for_size">İndirme boyutundan dolayı Wi-Fi ağı gerekli</string>
+    <string name="notification_need_wifi_for_size">İndirme boyutundan dolayı wifi ağı gerekli</string>
     <string name="notification_play_summary">Geçerli ve sonraki şarkıyı göster. Ana ekranda sözleri göster</string>
     <string name="notification_play_title">Bildirim alanı aracı</string>
     <string name="notification_recommend_summary">Yeni müzik trendleri ve uygulama promosyonları hakkında bilgi edinin</string>
@@ -1182,12 +1183,7 @@
     <string name="ok">Tamam</string>
     <string name="one_day_vip">%d günlük VIP</string>
     <string name="one_hour_vip">%d saatlik VIP</string>
-	<string name="one_minute_vip">%d dakikalık VIP</string>
-	<string name="reward_received">VIP üyelik kazandınız</string>
-	<string name="skip_ad">Atla</string>
-	<string name="video_loading_fail">Video yüklenemedi</string>
-	<string name="web_reward_dialog_cancle">İptal et</string>
-    <string name="web_reward_dialog_ok">Çıkış</string>
+    <string name="one_minute_vip">%d dakikalık VIP</string>
     <string name="online_apk_acquired">Yüklendi: %%%d</string>
     <string name="online_apk_acquiring">Yükleniyor: %%%d</string>
     <string name="online_apk_download_error_no_enough_space">Yetersiz depolama alanı nedeniyle indirilemedi</string>
@@ -1510,6 +1506,7 @@ mutlu ol"</string>
     <string name="retry_after_network_available">Ağa bağlanamıyor. Veri bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="retry_download">Tekrar dene</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilmeyecek</string>
+    <string name="reward_received">VIP üyelik kazandınız</string>
     <string name="ringtone_editing">Zil sesi düzenleyici</string>
     <string name="ringtone_not_support">Bu şarkının formatı desteklenmiyor</string>
     <string name="ringtone_selected">Seçildi</string>
@@ -1603,6 +1600,7 @@ mutlu ol"</string>
     <string name="similar_songs">Benzer şarkılar</string>
     <string name="similar_videos">Benzer videolar</string>
     <string name="skip">Atla</string>
+    <string name="skip_ad">Atla</string>
     <string name="sleep_mode">Uyku modu</string>
     <string name="sleep_mode_canceled">Uyku modu kapatıldı</string>
     <string name="sleep_mode_summary">Ayarlanan süre bitince oynatıcı durdurulur</string>
@@ -1841,7 +1839,8 @@ mutlu ol"</string>
     <string name="v7_preference_on">Açık</string>
     <string name="version_info">Sürüm</string>
     <string name="vhigh_sound_quality">HD</string>
-    <string name="video_play_cellular">Cihazınız Wi-Fi ağına bağlı değil. Mobil veri kullanılsın mı?</string>
+    <string name="video_loading_fail">Video yüklenemedi</string>
+    <string name="video_play_cellular">Cihazınız wifi ağına bağlı değil. Mobil veri kullanılsın mı?</string>
     <string name="video_replay_btn">Tekrar oynat</string>
     <string name="video_retry_btn">Yeniden dene</string>
     <string name="view_album">Albümü görüntüle</string>
@@ -1849,6 +1848,8 @@ mutlu ol"</string>
     <string name="vip_required_with_song">Ayrıcalıklı şarkı paketindeki %s sizin olsun. Şimdi bu şarkı atlandı</string>
     <string name="voice_search_first_hint">Sesli aramayı deneyin</string>
     <string name="watch_video">Video izle</string>
+    <string name="web_reward_dialog_cancle">İptal et</string>
+    <string name="web_reward_dialog_ok">Çıkış</string>
     <string name="wechat_application_id" />
     <string name="wechat_scope" />
     <string name="wechat_state" />
@@ -1869,21 +1870,11 @@ mutlu ol"</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s</string>
     <string name="whitelist_title">Dosya istisnaları</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="wifi_required_body" formatted="false">"Wi-Fi kullanarak %s dosyayı indirin
+    <string name="wifi_required_body" formatted="false">"Wifi kullanarak %s dosyayı indirin
 
-Daha sonraki bir zamanda Wi-Fi ağına bağlanırsanız %s dokunarak indirebilirsiniz"</string>
+Daha sonraki bir zamanda wifi ağına bağlanırsanız %s dokunarak indirebilirsiniz"</string>
     <string name="wifi_required_title">Şebeke ağı için çok büyük indirme</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticisine bağlanma başarısız oldu. Lütfen ıygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Tanıtımı sürümü: %1$s
-Boyut: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtımı sürümü: %1$s
-Delta güncelleme boyutu: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleme</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor. Lütfen SD kartı kontrol edin</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
     <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
@@ -1936,6 +1927,6 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="youtube_tab_explore">Keşfet</string>
     <string name="youtube_tab_playlist">Oynatma listeleri</string>
     <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_shorts">Kısalar</string>
     <string name="youtube_tab_trend">Trendler</string>
-	<string name="youtube_tab_shorts">Kısalar</string>
 </resources>

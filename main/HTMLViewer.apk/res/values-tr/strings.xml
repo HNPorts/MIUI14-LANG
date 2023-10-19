@@ -273,7 +273,7 @@ başka bir bağlı cihazda %s adresine gidin"</string>
     <string name="morning">Sabah</string>
     <string name="night">Akşam</string>
     <string name="noon">Öğlen</string>
-    <string name="open_wifi_connect_and_use_data_summary">Mobil veri kullanılıyor. Wi-Fi ağına geçmek için dokunun</string>
+    <string name="open_wifi_connect_and_use_data_summary">Mobil veri kullanılıyor. Wifi ağına geçmek için dokunun</string>
     <string name="open_wifi_connect_summary">Ayrıntıları görüntülemek için dokunun</string>
     <string name="open_wifi_connect_title">%1$s ağına bağlanıldı</string>
     <string name="permdesc_accessDrm">Uygulamanın DRM korumalı içeriğe erişmesine izin verin</string>

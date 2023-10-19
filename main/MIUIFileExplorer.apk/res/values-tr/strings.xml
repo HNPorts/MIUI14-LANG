@@ -727,7 +727,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="no_network_error_message">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
     <string name="no_network_error_title">Ağa bağlanılamadı</string>
     <string name="no_permission">Bu özelliğe erişmek için gerekli izinleri verin</string>
-    <string name="no_wifi">Wi-Fi ağı bulunamadı</string>
+    <string name="no_wifi">Wifi ağı bulunamadı</string>
     <string name="noon">öğlen</string>
     <string name="not_added_category">Kullanılabilir</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -740,12 +740,12 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="notification_title_syncing_with_count">Öğeler senkronize ediliyor. Kalan dosya: %1$s</string>
     <string name="online_not_support">Bu dosya şu anda görüntülenemiyor</string>
     <string name="open_cloud_drive">Mi sürücüyü aç</string>
-    <string name="open_or_close_wlan">Wi-Fi ağını açma ve kapatma</string>
+    <string name="open_or_close_wlan">Wifi ağını açma ve kapatma</string>
     <string name="open_private_folder">Gizli klasörleri görüntülemek için bırakın</string>
     <string name="operation_add_fav">Favorilere ekleniyor</string>
     <string name="operation_batch_failed_err">Bu işlem birden fazla dosya için tamamlanamadı</string>
     <string name="operation_cache_use_data">İndir</string>
-    <string name="operation_cache_use_free_network">Wi-Fi bağlantısını bekle</string>
+    <string name="operation_cache_use_free_network">Wifi bağlantısını bekle</string>
     <string name="operation_cancel">İptal et</string>
     <string name="operation_cloud_copy_to_local">Şu konuma kaydet</string>
     <string name="operation_compress">Sıkıştır</string>
@@ -1161,7 +1161,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="widget_choose_fragment_title">Dosya türünü seçin</string>
     <string name="widget_finish">Bitti</string>
     <string name="widget_name">Son görüntülenen dosyalar</string>
-    <string name="wifi_state">Wi-Fi durumu</string>
+    <string name="wifi_state">Wifi durumu</string>
     <string name="withdraw">Geri al</string>
     <string name="withdraw_consent">İzinleri geri al</string>
     <string name="withdraw_consent_content">Devam ederseniz dosyalar uygulamasının gizlilik politikasına verdiğiniz izinleri geri alırsınız. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosyaların hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izinleri geri almanız dosyaların hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir</string>

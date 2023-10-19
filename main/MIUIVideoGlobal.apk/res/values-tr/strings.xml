@@ -695,7 +695,7 @@ Videolar uygulamasının size temel hizmetleri sağlamak için gerekli kişisel 
     <string name="galleryplus_globalvideo_controller_tip">Ek özellikleri görüntüle</string>
     <string name="galleryplus_is_higher_definition">HD önizleme açıldı</string>
     <string name="galleryplus_network_connect_check">Ağa bağlanılamadı</string>
-    <string name="galleryplus_network_connect_confirm">Ağ ayarlarında Wi-Fi ağına bağlanın veya mobil veriyi açın</string>
+    <string name="galleryplus_network_connect_confirm">Ağ ayarlarında wifi ağına bağlanın veya mobil veriyi açın</string>
     <string name="galleryplus_network_error">Ağa bağlanılamadı</string>
     <string name="galleryplus_network_not_wifi">Videoları akışı için mobil veri kullanmanız ek veri ücretlerine neden olabilir</string>
     <string name="galleryplus_next_step">Sonraki</string>
@@ -882,7 +882,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="item_card_more_trailers">Daha fazla fragman</string>
     <string name="item_card_open_in">"Aç "</string>
     <string name="item_card_related">Benzer</string>
-    <string name="item_download_only_wify">Yalnızca Wi-Fi üzerinden indir</string>
+    <string name="item_download_only_wify">Yalnızca wifi üzerinden indir</string>
     <string name="item_download_path">Konum indir</string>
     <string name="item_download_path_setting">Konum ayarlarını indir</string>
     <string name="item_setting_go_back">İzni geri al</string>
@@ -1153,7 +1153,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="mgmi_feed_install_app">Yükle</string>
     <string name="mgmi_feed_replay">Tekrar oynat</string>
     <string name="mgmi_feed_scheme_app">Uygulamayı aç</string>
-    <string name="mgmi_feed_wifi_notice">Wi-Fi bağlandığında otomatik oynat</string>
+    <string name="mgmi_feed_wifi_notice">Wifi bağlandığında otomatik oynat</string>
     <string name="mgmi_file_not_exists">Dosya kayboldu</string>
     <string name="mgmi_float_vote">Oylama</string>
     <string name="mgmi_have_a_rest">Reklamdan sonra biraz ara verin</string>
@@ -1779,7 +1779,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="settings_inline_auto_play_tip_open">Açık</string>
     <string name="settings_inline_auto_play_tip_title">Mobil veri kullanımı hatırlatıcıları</string>
     <string name="settings_inline_auto_play_title">Otomatik oynat</string>
-    <string name="settings_inline_auto_play_wify">"Yalnızca Wi-Fi'de otomatik oynat"</string>
+    <string name="settings_inline_auto_play_wify">"Yalnızca wifi'de otomatik oynat"</string>
     <string name="settings_inline_title">Sayfayı otomatik oynatmayı başlat</string>
     <string name="settings_manager_hidden_folder">Gizli videoları yönet</string>
     <string name="share">Paylaş</string>

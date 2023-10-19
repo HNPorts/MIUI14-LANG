@@ -147,10 +147,10 @@
 	<string name="cloud_storage_upgrade_text_now">Yükselt</string>
 	<string name="cloud_storage_zero_upgrade_button_text_now">Ücretsiz olarak yükseltin</string>
     <string name="confirm_save">Tut</string>
-    <string name="connect_network">Wi-Fi ağına bağlanın veya Sim kart takın</string>
-    <string name="connect_network_china">Wi-Fi ağına bağlanın veya Sim kart takın</string>
-    <string name="connect_wlan">Wi-Fi ağına bağlan</string>
-    <string name="connect_wlan_china">Wi-Fi ağına bağlan</string>
+    <string name="connect_network">Wifi ağına bağlanın veya Sim kart takın</string>
+    <string name="connect_network_china">Wifi ağına bağlanın veya Sim kart takın</string>
+    <string name="connect_wlan">Wifi ağına bağlan</string>
+    <string name="connect_wlan_china">Wifi ağına bağlan</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Senkronizasyonu açarsanız bu cihazdan yüklenen kişiler bulutta depolanan kişilerle birleştirilir. Yine de senkronizasyon açılsın mı?</string>
     <string name="copy">Kopyala</string>
     <string name="cta_notification_content_text">Öğeleri geri yükleyebilmek için %s uygulamasının internete bağlanmasına izin verin</string>
@@ -373,7 +373,7 @@
     <string name="ks_name_fido">Fido</string>
     <string name="ks_name_high_precise_position">Yüksek hassas pozisyon</string>
     <string name="ks_name_keybox">Anahtar kutusu</string>
-    <string name="ks_name_passpoint">Wi-Fi geçiş noktası</string>
+    <string name="ks_name_passpoint">Wifi geçiş noktası</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Mevcut</string>
@@ -529,8 +529,8 @@
     <string name="micloud_notif_content_depend_wifi">Senkronizasyon için wifi ağına bağlanın</string>
     <string name="micloud_notif_content_depend_wifi_china">Senkronizasyon için wifi ağına bağlanın</string>
     <string name="micloud_notif_content_dirty_data">Ayrıntılar</string>
-    <string name="micloud_notif_content_master_depend_wifi">Wi-Fi ağına bağlanın veya senkronizasyon ayarlarını değiştirin. Değiştirmek için dokunun</string>
-    <string name="micloud_notif_content_master_depend_wifi_china">Wi-Fi ağına bağlanın veya senkronizasyon ayarlarını değiştirin. Değiştirmek için dokunun</string>
+    <string name="micloud_notif_content_master_depend_wifi">Wifi ağına bağlanın veya senkronizasyon ayarlarını değiştirin. Değiştirmek için dokunun</string>
+    <string name="micloud_notif_content_master_depend_wifi_china">Wifi ağına bağlanın veya senkronizasyon ayarlarını değiştirin. Değiştirmek için dokunun</string>
     <string name="micloud_notif_content_memory_low">Yeterli depolama alanı yok</string>
     <string name="micloud_notif_content_multi_user_error">İlk alanda oturum açmış olduğunuz aynı hesapta oturum açtınız</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Detayları göster</string>
@@ -575,8 +575,8 @@
     <string name="micloud_setting_recorder_summary">Ses ve arama kayıtları</string>
     <string name="micloud_setting_sms_summary">Mesaj ve multimedya mesajları</string>
     <string name="micloud_setting_sms_summary_for_google_csp">Metin mesajları</string>
-    <string name="micloud_setting_wifi_summary">Wi-Fi ayarları</string>
-    <string name="micloud_setting_wifi_summary_china">Wi-Fi ayarları</string>
+    <string name="micloud_setting_wifi_summary">Wifi ayarları</string>
+    <string name="micloud_setting_wifi_summary_china">Wifi ayarları</string>
     <string name="micloud_share_cloud_storage_entrance_title">Bulut depolamayı aile grubunuzla paylaşın</string>
     <string name="micloud_space_applist_detail">Ana ekranınızdaki uygulamaları yönetin</string>
     <string name="micloud_space_duokan_detail">Duokan uygulamasıyla elektronik kitapları indirin ve organize edin</string>
@@ -604,8 +604,8 @@
     <string name="micloud_sync_result_get_sim_info_error">Sim kart bilgisi alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="micloud_sync_result_secure_space_limit">İkinci alandan gelen öğeleri senkronize yapma</string>
     <string name="micloud_sync_result_sim_activated_error">Sim kart etkinleştirilemedi</string>
-    <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. Wi-Fi ağına bağlandığınızda senkronize edin</string>
-    <string name="micloud_sync_result_wifi_only_china">Bu öğe çok büyük. Wi-Fi ağına bağlandığınızda senkronize edin</string>
+    <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. Wifi ağına bağlandığınızda senkronize edin</string>
+    <string name="micloud_sync_result_wifi_only_china">Bu öğe çok büyük. Wifi ağına bağlandığınızda senkronize edin</string>
     <string name="micloud_upgrade_storage">Depolama alanını yükseltin</string>
     <string name="micloud_wipe_data_confirm_label">Xiaomi buluttan verileri kaldır</string>
     <string name="micloud_wipe_data_confirm_title">Aşağıdaki uygulamalardan bazı öğeler Xiaomi bulut ile senkronize edilir. Bunları bulutta tutarak bu cihazdan silebilirsiniz</string>

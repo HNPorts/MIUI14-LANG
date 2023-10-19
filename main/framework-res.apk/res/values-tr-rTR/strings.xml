@@ -1280,7 +1280,7 @@ Gelişmiş bildirimler, kişi adları ve mesajlar gibi kişisel bilgiler dahil o
     <string name="permdesc_mediaLocation">Uygulamanın medya koleksiyonunuzdaki konumları okumasına izin verir</string>
     <string name="permdesc_modifyAudioSettings">Uygulamaya ses düzeyi ve ses çıkışı için kullanılan hoparlör gibi genel ses ayarlarını değiştirme izni verir</string>
     <string name="permdesc_modifyNetworkAccounting">Uygulamaya ağın uygulamalara göre nasıl kullanılacağını değiştirme izni verir. Normal uygulamalar tarafından kullanılmak için değildir</string>
-    <string name="permdesc_nearby_wifi_devices">Uygulamaya yakındaki Wi-Fi cihazlarının reklamını yapma, bağlanma ve bunların göreli konumunu belirleme izni verir</string>
+    <string name="permdesc_nearby_wifi_devices">Uygulamaya yakındaki wifi cihazlarının reklamını yapma, bağlanma ve bunların göreli konumunu belirleme izni verir</string>
     <string name="permdesc_nfc">Uygulamaya NFC etiketleri, kartlar ve okuyucular ile iletişim kurma izni verir</string>
     <string name="permdesc_persistentActivity">Uygulamaya kendisinin bir bölümünü bellekte kalıcı yapma izni verir. Bu izin diğer uygulamaların kullanabileceği belleği sınırlandırarak telefonun yavaş çalışmasına neden olabilir</string>
     <string name="permdesc_postNotification">Uygulamanın bildirimleri göstermesine izin verir</string>
@@ -1459,7 +1459,7 @@ izin isteğinde bulunuldu"</string>
     <string name="permlab_mediaLocation">Medya koleksiyonunuzdaki konumları okuma</string>
     <string name="permlab_modifyAudioSettings">Ses ayarlarınızı değiştirin</string>
     <string name="permlab_modifyNetworkAccounting">Ağ kullanım hesaplamasını değiştir</string>
-    <string name="permlab_nearby_wifi_devices">Yakındaki Wi-Fi cihazlarıyla etkileşime geçin</string>
+    <string name="permlab_nearby_wifi_devices">Yakındaki wifi cihazlarıyla etkileşime geçin</string>
     <string name="permlab_nfc">Yakın alan iletişimini denetle</string>
     <string name="permlab_persistentActivity">Uygulamayı her zaman çalıştırma</string>
     <string name="permlab_postNotification">Bildirimleri göster</string>
@@ -1959,13 +1959,13 @@ Kapatmak ister misiniz?"</string>
     <string name="wfcSpnFormat_spn_wifi">%s Kablosuz</string>
     <string name="wfcSpnFormat_spn_wifi_calling">%s Kablosuz arama</string>
     <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Kablosuz Arama</string>
-    <string name="wfcSpnFormat_spn_wlan_call">%s Wi-Fi Üzerinden arama</string>
+    <string name="wfcSpnFormat_spn_wlan_call">%s wifi Üzerinden arama</string>
     <string name="wfcSpnFormat_vowifi">VoWifi</string>
     <string name="wfcSpnFormat_wifi">Kablosuz</string>
     <string name="wfcSpnFormat_wifi_calling">Kablosuz arama</string>
     <string name="wfcSpnFormat_wifi_calling_bar_spn">Kablosuz arama | %s</string>
     <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Kablosuz arama</string>
-    <string name="wfcSpnFormat_wlan_call">Wi-Fi Üzerinden arama</string>
+    <string name="wfcSpnFormat_wlan_call">Wifi Üzerinden arama</string>
     <string name="wfc_mode_cellular_preferred_summary">Mobil ağ üzerinden arama</string>
     <string name="wfc_mode_ims_preferred_summary">Tercih edilen ims</string>
     <string name="wfc_mode_wifi_only_summary">Yalnızca kablosuz</string>

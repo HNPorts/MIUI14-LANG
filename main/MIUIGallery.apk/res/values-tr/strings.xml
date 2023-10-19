@@ -355,7 +355,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_no_network_title">Mi buluta bağlanılamıyor</string>
     <string name="backup_no_wifi_btn_text">Mobil veri kullan</string>
     <string name="backup_no_wifi_desc">Öğeleri mobil veri kullanarak da yedekleyebilirsiniz</string>
-    <string name="backup_no_wifi_title">Wi-Fi ağına bağlanmak için dokunun</string>
+    <string name="backup_no_wifi_title">Wifi ağına bağlanmak için dokunun</string>
     <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için sadece wifi ağını kullanın</string>
     <string name="backup_only_in_wifi_summary">Fotoğraf veya videoları yedeklemek için hiçbir zaman mobil veriyi kullanmaz</string>
     <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanıyor musunuz?</string>
@@ -1344,7 +1344,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="error_no_network_tip">Ağa bağlanılamadı</string>
     <string name="error_no_wifi_action">Mobil veri kullan</string>
     <string name="error_no_wifi_msg">"Cihazınız wifi'ye bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir"</string>
-    <string name="error_no_wifi_tip">Wi-Fi ağına bağlanılamadı</string>
+    <string name="error_no_wifi_tip">Wifi ağına bağlanılamadı</string>
     <string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı</string>
     <string name="error_not_synced_action">Şimdi senkronize et</string>
     <string name="error_not_synced_msg">Bilgi senkronize edilmedi. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
@@ -1549,7 +1549,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="filter_sky_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="filter_sky_download_failed_msg">İndirilemedi. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="filter_sky_download_finish">Eklenti başarıyla indirildi</string>
-    <string name="filter_sky_download_sdk_without_wifi_msg">Wi-Fi ağına bağlı değilseniz fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi indirmek için mobil veriyi kullanabilirsiniz (%1$dMB)</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">Wifi ağına bağlı değilseniz fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi indirmek için mobil veriyi kullanabilirsiniz (%1$dMB)</string>
     <string name="filter_sky_download_sdk_without_wifi_title">Eklentiyi indir</string>
     <string name="filter_sky_download_with_metered_network_msg">Orijinal dosyaları indirmek için mobil verilerin kullanılması ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
     <string name="filter_sky_download_with_metered_network_title">Mobil verileri kullan</string>
@@ -1911,7 +1911,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="loading_image">İmaj indirliyor</string>
     <string name="loading_image_thumbnail">Küçük resim indiriliyor</string>
     <string name="loading_members">Üyeler yükleniyor</string>
-    <string name="loading_suspend">İndirme duraklatıldı. Wi-Fi kullanılabilir olduğunda devam edilecektir</string>
+    <string name="loading_suspend">İndirme duraklatıldı. Wifi kullanılabilir olduğunda devam edilecektir</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan gizli bilgiler kaldırılıyor (%d/%d)</string>
     <string name="loading_video">Video indiriliyor</string>
     <string name="loading_video_compress_lib">Video sıkıştırma eklentisi indiriliyor</string>
@@ -2610,7 +2610,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_common_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Eklenti başarıyla indirildi</string>
-    <string name="photo_editor_common_download_sdk_without_wifi_msg">Wi-Fi ağına bağlı olmadığınız anlaşılıyor. Eklenti mobil veri kullanarak indirilsin mi? (%1$d MB)</string>
+    <string name="photo_editor_common_download_sdk_without_wifi_msg">Wifi ağına bağlı olmadığınız anlaşılıyor. Eklenti mobil veri kullanarak indirilsin mi? (%1$d MB)</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_compare_tip">Orijinal resmi görüntülemek için basılı tutun</string>
     <string name="photo_editor_crop_and_rotate">Kırp</string>
@@ -2653,7 +2653,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_navigator_module_download_failed">%s indirilemedi</string>
     <string name="photo_editor_navigator_module_download_now">İndir</string>
     <string name="photo_editor_navigator_module_download_success">Başarıyla indirildi</string>
-    <string name="photo_editor_navigator_module_download_wait_wlan">Wi-Fi bağlantısı bekle</string>
+    <string name="photo_editor_navigator_module_download_wait_wlan">Wifi bağlantısı bekle</string>
     <string name="photo_editor_navigator_module_downloading">%s indiriliyor</string>
     <string name="photo_editor_navigator_need_download">%s indirmek için internete bağlanın</string>
     <string name="photo_editor_navigator_sticker_download_failed">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -2668,7 +2668,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_remover2_download_failed">AI silgi 2.0 indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_remover2_download_failed_msg">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_remover2_download_finish">AI silgi 2.0 başarıyla indirildi</string>
-    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wi-Fi ağına bağlı değilsiniz gibi görünüyor. AI silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wifi ağına bağlı değilsiniz gibi görünüyor. AI silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">"AI silgi 2.0'ı indirin"</string>
     <string name="photo_editor_remover2_edit_type_free">Daire</string>
     <string name="photo_editor_remover2_edit_type_line">Çizgi</string>

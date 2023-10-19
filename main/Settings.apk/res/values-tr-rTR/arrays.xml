@@ -524,9 +524,9 @@
         <item>Bugün (Mobil veri)</item>
         <item>Bu ay (Mobil veri)</item>
         <item>Geçen ay (Mobil veri)</item>
-        <item>Bugün (Wi-Fi)</item>
-        <item>Bu ay (Wi-Fi)</item>
-        <item>Geçen ay (Wi-Fi)</item>
+        <item>Bugün (Wifi)</item>
+        <item>Bu ay (Wifi)</item>
+        <item>Geçen ay (Wifi)</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Bugün "</item>
@@ -1060,7 +1060,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobil kullanımı "</item>
-        <item>"Wi-Fi kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Kapalı</item>
@@ -1198,23 +1198,23 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Yüzde (Bildirim gölgesindeki simgenin yanında)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
-        <item>Wi-Fi</item>
+        <item>Wifi</item>
         <item>Mobil</item>
-        <item>Sadece Wi-Fi ağı</item>
+        <item>Sadece wifi ağı</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
         <item>Tercih edilen ims</item>
-        <item>Wi-Fi</item>
+        <item>Wifi</item>
         <item>Mobil</item>
-        <item>Sadece Wi-Fi</item>
+        <item>Sadece wifi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>Wi-Fi</item>
+        <item>Wifi</item>
         <item>Mobil</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
         <item>Tercih edilen ims</item>
-        <item>Wi-Fi</item>
+        <item>Wifi</item>
         <item>Mobil</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
@@ -1244,8 +1244,8 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Tam</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>Sadece Wi-Fi sinyali zayıf olduğunda mobil veri kullanarak hızı artırın</item>
-        <item>Wi-Fi ve mobil veriyi birleştirerek bağlantı hızını artırın</item>
+        <item>Sadece wifi sinyali zayıf olduğunda mobil veri kullanarak hızı artırın</item>
+        <item>Wifi ve mobil veriyi birleştirerek bağlantı hızını artırın</item>
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>Otomatik olarak algıla</item>

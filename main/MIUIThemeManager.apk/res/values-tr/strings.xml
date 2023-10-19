@@ -459,7 +459,7 @@
     <string name="exo_download_notification_channel_name">İndirilenler</string>
     <string name="exo_download_paused">İndirmeler duraklatıldı</string>
     <string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
-    <string name="exo_download_paused_for_wifi">Wi-Fi için bekleyen indirmeler</string>
+    <string name="exo_download_paused_for_wifi">Wifi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>

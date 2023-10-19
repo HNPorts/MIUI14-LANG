@@ -93,22 +93,6 @@
     <string name="action_menu_text_speed_test">Ağ testi</string>
     <string name="action_menu_text_video">Video</string>
     <string name="action_menu_text_video_download">Video indir</string>
-	<string name="ad_flag_text">Reklam</string>
-	<string name="native_body">Gövde</string>
-	<string name="skip_ad">Atla</string>
-	<string name="watermark_label_prefix">"AdMob - "</string>
-    <string name="native_headline">Başlık</string>
-    <string name="native_media_view">Medya görünümü</string>
-	<string name="browser_wallpaper">Duvar kağıtları</string>
-    <string name="browser_wallpaper_application">Uygula</string>
-    <string name="browser_wallpaper_art">Sanat</string>
-    <string name="browser_wallpaper_currently_in_use">Uygulandı</string>
-    <string name="browser_wallpaper_landscape">Manzara</string>
-    <string name="browser_wallpaper_more_btn">Daha fazla görüntüle</string>
-    <string name="browser_wallpaper_preview">Önizleme</string>
-    <string name="browser_wallpaper_subtitle">Tarayıcıyı güzel duvar kağıtları ile kişiselleştirin</string>
-    <string name="browser_wallpaper_system_default">Varsayılan</string>
-    <string name="browser_wallpaper_title">Duvar kağıtları</string>
     <string name="action_menu_text_web_mode">Masaüstü modu</string>
     <string name="action_menu_toolbox">Araçlar</string>
     <string name="action_menu_useful_page">Kısayol ekle</string>
@@ -119,6 +103,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activate_email_notice">Hesabınızı 24 saat içerisinde etkinleştirdiğinizden emin olun</string>
     <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
+    <string name="ad_flag_text">Reklam</string>
     <string name="ad_loading_tips_text">Reklam yükleniyor</string>
     <string name="ad_mark">Reklam</string>
     <string name="ad_permission_name">Reklamları engelle</string>
@@ -309,6 +294,16 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfada halen gönderilmemiş veriler bulunmaktadır. Veriyi yeniden gönderdiğinizde önceki işlemler tekrarlanacaktır (Örneğin: Arama veya satın alma işlemleri)</string>
     <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
+    <string name="browser_wallpaper">Duvar kağıtları</string>
+    <string name="browser_wallpaper_application">Uygula</string>
+    <string name="browser_wallpaper_art">Sanat</string>
+    <string name="browser_wallpaper_currently_in_use">Uygulandı</string>
+    <string name="browser_wallpaper_landscape">Manzara</string>
+    <string name="browser_wallpaper_more_btn">Daha fazla görüntüle</string>
+    <string name="browser_wallpaper_preview">Önizleme</string>
+    <string name="browser_wallpaper_subtitle">Tarayıcıyı güzel duvar kağıtları ile kişiselleştirin</string>
+    <string name="browser_wallpaper_system_default">Varsayılan</string>
+    <string name="browser_wallpaper_title">Duvar kağıtları</string>
     <string name="btn_agree">Kabul et</string>
     <string name="btn_cancel">İptal</string>
     <string name="camera_permission_name">Kamerayı kullan</string>
@@ -444,8 +439,6 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="clear_result_page_show_more">Daha fazla görüntüle</string>
     <string name="clear_search_history">Geçmişi temizle</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
-    <string name="clear_transfer_summary">Sistem ayarları bayraklarını temizleyin. Böylece yeniden aktarabilirsiniz</string>
-    <string name="clear_transfer_title">Aktarım bayraklarını temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="cleared_garbage">%d MB çöp kutusu temizlendi</string>
     <string name="click_always">Her zaman seçeneğine dokunun</string>
@@ -782,7 +775,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="download_status_pending">Bekleniyor</string>
     <string name="download_title">İndirilenler</string>
     <string name="download_unknown_title">Bilinmeyen</string>
-    <string name="download_update_background">Güncellemeler arka planda indiriliyor</string>
     <string name="download_video_from_social_site">Sosyal medyadan videoları indirin</string>
     <string name="download_videos_from_here">Bu hizmetlerden video indirebilirsiniz</string>
     <string name="download_wait_connect">Bağlantı bekleniyor</string>
@@ -1614,7 +1606,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_homepage">Ana ekran</string>
     <string name="mw_miuichromium_error_page_mobile">Mobil Veri</string>
     <string name="mw_miuichromium_error_page_network_hijack">Mevcut ağ güvenli değil</string>
-    <string name="mw_miuichromium_error_page_network_off">Wi-Fi veya mobil veri bağlantısını açın</string>
+    <string name="mw_miuichromium_error_page_network_off">Wifi veya mobil veri bağlantısını açın</string>
     <string name="mw_miuichromium_error_page_no_network">Ağa bağlanılamıyor</string>
     <string name="mw_miuichromium_error_page_problem_access_denied">%s0 adresine erişim reddedildi</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Bu sayfanın önbelleğe alınmış sürümü yüklenemiyor</string>
@@ -1656,7 +1648,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">İnternet bağlantınızı kontrol edin</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobil veri) %s1 APN ayarlarınızı %s2 sıfırlayın</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">Girmiş olduğunuz bağlantı adresini kontrol edin</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1 vekil sunucu ayarlarınızı %s2 kontrol edin</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wifi) %s1 vekil sunucu ayarlarınızı %s2 kontrol edin</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Önbelleği temizleyin</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Önbellek ve çerezleri temizle (Hesap bilgileriniz kaybolabilir)</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">İnternete bağlandıktan sonra tekrar yükleyin</string>
@@ -1666,7 +1658,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_suggestion_title">Bunları deneyin:</string>
     <string name="mw_miuichromium_error_page_title">Bir hata oluştu</string>
     <string name="mw_miuichromium_error_page_unknown_error">Bir şeyler ters gitti</string>
-    <string name="mw_miuichromium_error_page_wlan">Wi-Fi bağlantısını aç</string>
+    <string name="mw_miuichromium_error_page_wlan">Wifi bağlantısını aç</string>
     <string name="mw_month_picker_dialog_title">Ayı ayarla</string>
     <string name="mw_no_matches">Eşleşme yok</string>
     <string name="mw_older">Daha eski</string>
@@ -1707,6 +1699,9 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="my_channel">Kanallarım</string>
     <string name="my_prize_entry">Ödüllerim</string>
     <string name="name_empty">Yeni bir isim girmelisiniz</string>
+    <string name="native_body">Gövde</string>
+    <string name="native_headline">Başlık</string>
+    <string name="native_media_view">Medya görünümü</string>
     <string name="nav_bottom_bar_back">Geri</string>
     <string name="nav_bottom_bar_close_all">Tümünü kapat</string>
     <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
@@ -1723,10 +1718,9 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Git</string>
     <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
     <string name="net_error">Ağ hatası</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir Wi-Fi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı kullanılabilir</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir wifi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Wifi ağı kullanılabilir</string>
     <string name="new_update_available">Bir güncelleme mevcut</string>
-    <string name="new_version_name">Yeni sürüm %s</string>
     <string name="news_flow_more_recommend">Daha fazla önerilen öge</string>
     <string name="news_load_failed">Tekrar denemek için dokunun</string>
     <string name="news_loading">Yükleniyor</string>
@@ -2013,7 +2007,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_adblock_summary">Bu özellik açıkken sayfalar daha yavaş yüklenebilir</string>
     <string name="pref_adblock_title">Reklam engelleyici</string>
     <string name="pref_auto_update">Otomatik olarak güncelle</string>
-    <string name="pref_auto_update_under_wifi">Wi-Fi kullanarak güncelle</string>
+    <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>
     <string name="pref_automatic_matching_searchengines_title">Sık kullanılan arama motoruna geç</string>
     <string name="pref_check_security_url_summary">İnternet sitesi bağlantı adreslerini güvenliklerini kontrol etmek amacıyla Mi sunucularına gönder</string>
     <string name="pref_check_security_url_summary_international">Tarayıcıya daha ilgili öneriler almak için ziyaret ettiğiniz internet sitelerinin bağlantı adreslerine ulaşım izni verin</string>
@@ -2066,8 +2060,6 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_js_downloader">Fotoğraf ve video indir</string>
-    <string name="pref_js_downloader_detail">Sosyal medya sitelerinde fotoğraflarda ve videolarda indirme tuşu gösterir</string>
     <string name="pref_key_gesture_title">Tuşlar &amp; hareketler</string>
     <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">Her zaman</string>
@@ -2535,6 +2527,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="simple_page_toast">Ayarlar > Başlangıç sayfası ayarlarında varsayılana geçebilirsiniz</string>
     <string name="site_content_has_update">Sayfa içeriği güncellendi</string>
     <string name="skip">Atla</string>
+    <string name="skip_ad">Atla</string>
     <string name="skip_current_version">Bu sürümü atla</string>
     <string name="sku_price_everymonth">%1$s her ay</string>
     <string name="slide_card">Daha fazlası için kaydırın</string>
@@ -2792,7 +2785,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="url_suggest_indicator_bookmark">Yer imleri ve geçmiş</string>
     <string name="url_suggest_indicator_hoturl">Popüler</string>
     <string name="url_suggest_indicator_mostvisited">En çok ziyaret edilenler</string>
-    <string name="use_cellular_network_alert_message">Wi-Fi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
+    <string name="use_cellular_network_alert_message">Wifi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
     <string name="use_cellular_network_alert_title">Veri kullanımı</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
@@ -2825,7 +2818,6 @@ Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz"</s
     <string name="version_check_button_resume_download">İndirme işlemine devam et</string>
     <string name="version_check_button_update">Güncelle</string>
     <string name="version_check_failed">Güncellemeler kontrol edilemedi</string>
-    <string name="version_dialog_4G_checkbox">Sistem uygulamalarını mobil veri kullanarak güncelleyebilirsiniz. Bu işlem ek veri ücretlerine neden olabilir</string>
     <string name="version_dialog_buttion_ok">Tamam</string>
     <string name="version_dialog_buttion_update">Güncelle</string>
     <string name="version_update_file_download_toast">İndiriliyor</string>
@@ -2887,6 +2879,7 @@ https://forum.miuitr.info/"</string>
     <string name="vpn_subscribe_tips_3">Yüksek hızın tadını çıkarın</string>
     <string name="vpn_used_all_free_data_toast">Trafik dışısınız. Devam etmek için abone olun</string>
     <string name="vpn_used_all_toast">Trafik dışısınız</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="weather_card_aqi">AQI</string>
     <string name="weather_card_baro">Basınç</string>
     <string name="weather_card_dew_pt">Çiy noktası</string>

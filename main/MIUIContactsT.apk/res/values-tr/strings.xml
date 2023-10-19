@@ -1399,9 +1399,9 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="t9_search_empty_send_sms">Mesaj gönder</string>
     <string name="t9_search_empty_video_call">Görüntülü arama</string>
     <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için rakam girin</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">"Aramak için %d ve %d girin"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">"Hakan GÜVEN'i aramak için %d ve %d girin"</string>
     <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için numaraları girin</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">"Aramak için %d ve %d girin"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">"Hakan GÜVEN'i aramak için %d ve %d girin"</string>
     <string name="take_new_photo">Yeni fotoğraf çek</string>
     <string name="take_photo">Fotoğraf çek</string>
     <string name="text_msim_balance">Bugün kullanıldı</string>

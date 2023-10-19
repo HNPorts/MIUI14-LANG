@@ -32,7 +32,7 @@
     <string name="am">ÖÖ</string>
     <string name="app_label">İndirme yöneticisi</string>
     <string name="app_name">İndirme yöneticisi</string>
-    <string name="auto_restart_under_wifi">Wi-Fi bu dosyayı otomatik olarak indirecektir</string>
+    <string name="auto_restart_under_wifi">Wifi bu dosyayı otomatik olarak indirecektir</string>
     <string name="button_cancel_download">İptal et</string>
     <string name="button_download_now">Şimdi indir</string>
     <string name="button_queue_for_wifi">Kuyruk</string>
@@ -128,7 +128,7 @@
     <string name="dialog_confirm_delete_the_download_item_message">Bu görevleri sil</string>
     <string name="dialog_content_limit0">İndirmeleri kısıtla</string>
     <string name="dialog_content_limit_max">Sınırsız</string>
-    <string name="dialog_data_limit_button1">Wi-Fi ağını bekle</string>
+    <string name="dialog_data_limit_button1">Wifi ağını bekle</string>
     <string name="dialog_data_limit_button2">Şimdi indir</string>
     <string name="dialog_data_limit_msg1">%s dosyasını indirmek için mobil veri kullanılacak. Şimdi indirilsin mi?</string>
     <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
@@ -341,13 +341,13 @@
     <string name="notification_download_complete">İndirme işlemi tamamlandı</string>
     <string name="notification_download_failed">İndirme işlemi tamamlanamadı</string>
     <string name="notification_download_success_more">%1$d indirildi</string>
-    <string name="notification_need_wifi_for_size">İndirme boyutu Wi-Fi bağlantısını gerektiriyor</string>
+    <string name="notification_need_wifi_for_size">İndirme boyutu wifi bağlantısını gerektiriyor</string>
     <string name="notification_paused_in_background">Arka planda duraklatıldı</string>
     <string name="notify_disabled_net_by_app">İnternet bağlantısı güvenlik uygulaması tarafından kısıtlandı</string>
     <string name="notify_install_guide_forward_text">Aç</string>
     <string name="notify_install_guide_msg">Yüklendi</string>
     <string name="notify_install_guide_title">%s yükleme tamamlandı</string>
-    <string name="notify_only_wifi_download">Wi-Fi ağı bekleniyor</string>
+    <string name="notify_only_wifi_download">Wifi ağı bekleniyor</string>
     <string name="paused_by_app">Duraklatıldı</string>
     <string name="paused_insufficient_space">Bekleniyor</string>
     <string name="paused_queued_for_wifi">Ağ bekleniyor</string>
@@ -474,7 +474,7 @@ indirilenler yükleyin"</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="warning_tip_cancel">İndir</string>
-    <string name="warning_tip_content">Wi-Fi ağına bağlı değilsiniz. Bu indirmeyi tamamlamak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Planınızın veri sınırını aşarsanız operatörünüz size ek ücret talep edebilir</string>
+    <string name="warning_tip_content">Wifi ağına bağlı değilsiniz. Bu indirmeyi tamamlamak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Planınızın veri sınırını aşarsanız operatörünüz size ek ücret talep edebilir</string>
     <string name="warning_tip_ok">Duraklat</string>
     <string name="warning_tip_title">Veri kullanımı uyarısı</string>
     <string name="wednesday">Çarşamba</string>
@@ -482,11 +482,11 @@ indirilenler yükleyin"</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_recommended_body">"Bu %1$s indirmesinin şimdi başlatılması mobil veri bağlantınızın aşırı kullanılmasına neden olabilir ve bu veri planınıza bağlı olarak mobil operatörünüz tarafından ücretlendirmeye neden olabilir
 
-Bir Wi-Fi ağına bir sonraki bağlanışınızda bu indirmeyi başlatmak için %2$s öğesine dokunun"</string>
+Bir wifi ağına bir sonraki bağlanışınızda bu indirmeyi başlatmak için %2$s öğesine dokunun"</string>
     <string name="wifi_recommended_title">Sonraki indirme için kuyruktamıydı?</string>
-    <string name="wifi_required_body">"Bu %1$s indirmesini tamamlamak için Wi-Fi ağına bağlanın
+    <string name="wifi_required_body">"Bu %1$s indirmesini tamamlamak için wifi ağına bağlanın
 
-Bir Wi-Fi ağına bir sonraki bağlanışınızda bu indirmeyi başlatmak için %2$s öğesine dokunun"</string>
+Bir wifi ağına bir sonraki bağlanışınızda bu indirmeyi başlatmak için %2$s öğesine dokunun"</string>
     <string name="wifi_required_title">İndirme boyutu operatör ağı için çok büyük</string>
     <string name="xl_speedup_experience_notify_context">Xunlei üyesi olduğunuzda her indirme için hız artar</string>
     <string name="xl_speedup_experience_notify_title">Xunlei üyelik</string>

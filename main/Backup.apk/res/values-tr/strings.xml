@@ -247,7 +247,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="confirm_exit_link_msg">Uygulamadan şimdi ayrılmak devam eden aktarımı kesecektir. İki cihaz arasında tekrar bağlantı kurmanız gerekecek. Yine de uygulamadan ayırılırsın mı?</string>
     <string name="confirm_exit_link_title">Aktarma kesiliyor</string>
     <string name="connect_soft_ap_label">Yeni cihaza bağlanılıyor</string>
-    <string name="connect_wifi">"Wi-Fi'ye bağlan"</string>
+    <string name="connect_wifi">"Wifi'ye bağlan"</string>
     <string name="connect_wifi_tip">"Ağa bağlanılamıyor. iCloud alanından içe aktarım yapmak için wifi'ye bağlanın"</string>
     <string name="contact_title">Kişiler</string>
     <string name="copy">Kopyala</string>
@@ -461,7 +461,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="icloud_need_sync">"iOS cihazından veri aktarmak için
 öncelikle iCloud yedeği oluşturmanız gerekmektedir"</string>
     <string name="icloud_need_wifi_message">"Şu anda wifi'ye bağlı değilsiniz. iCloud alanından veri aktarımı yapmak için wifi'ye bağlanın"</string>
-    <string name="icloud_need_wifi_title">"Wi-Fi'ye bağlan"</string>
+    <string name="icloud_need_wifi_title">"Wifi'ye bağlan"</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="import_again">Yeniden içeri aktar</string>
     <string name="import_data_from_icloud">iCloud alanından veri aktar</string>
@@ -749,7 +749,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="notif_icloud_loaded_summary">Bekleniyor</string>
     <string name="notif_icloud_loading_summary">Veri yükleniyor</string>
     <string name="notif_icloud_logining">Eski iOS cihazındaki iCloud hesabında oturum açılıyor</string>
-    <string name="notif_icloud_need_wifi_summary">Wi-Fi bekleniyor</string>
+    <string name="notif_icloud_need_wifi_summary">Wifi bekleniyor</string>
     <string name="notif_icloud_saved_summary">Başarıyla içe aktarıldı</string>
     <string name="notif_icloud_saving_summary">Veri geri yükleniyor</string>
     <string name="notif_miasist_try_to_connect">Mi PC Suite cihazınıza bağlanmaya çalışıyor</string>
@@ -874,7 +874,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="save_finish_with_failing_items">"Aktarım kesintiye uğradı
 İçe aktarılmayan veriler yeniden içeri aktarılmalıdır"</string>
     <string name="saving_data">"iCloud alanından veri aktarılıyor
-Wi-Fi'yi kapatmayın"</string>
+Wifi'yi kapatmayın"</string>
     <string name="saving_data_no_time">Veri geri yükleniyor</string>
     <string name="saving_data_space_low">"Yeterli depolama alanı yok
 En az %s yer açın"</string>
@@ -885,7 +885,7 @@ En az %s yer açın"</string>
     <string name="sc_precondition_failed">Öncelikle Mi hesabınıza bir e-posta adresi eklemeniz gerekmektedir</string>
     <string name="sc_request_timeout">İstek zaman aşımına uğradı</string>
     <string name="sc_service_unavailable">Xiaomi bulut kullanılamıyor</string>
-    <string name="sc_unaccess_password_file">Wi-Fi ağ şifresi bulunamıyor</string>
+    <string name="sc_unaccess_password_file">Wifi ağ şifresi bulunamıyor</string>
     <string name="sc_unauthorized">Tekrar oturum açın</string>
     <string name="scan_soft_ap">Yeni cihaz aranıyor</string>
     <string name="scan_soft_ap_label">Eski cihaza bağlan</string>
@@ -1214,7 +1214,7 @@ Aktarımı daha hızlı yapmak için yalnızca önemli öğeleri seçin"</string
     <string name="trans_sender_searching_ensurance">"Eski cihazın açık olduğundan emin olun
 Eski cihazın bağlanması bekleniyor"</string>
     <string name="trans_sender_time_remained">"%s kaldı
-Wi-Fi ağını kapatmayın
+Wifi ağını kapatmayın
 Cihazları birbirine yakın konumda tutun"</string>
     <string name="trans_sending_completed">Başarıyla gönderildi</string>
     <string name="trans_show_qr_code_label">Eski cihaza bağlan</string>
@@ -1238,7 +1238,7 @@ Aktarım bekleniyor"</string>
 açık olduğundan emin olun"</string>
     <string name="trans_waiting_for_sender">Eski cihazın bağlanması bekleniyor</string>
     <string name="trans_wlan_tips_message">"Aktarım sırasında wifi'yi kapatmayın veya ağ değiştirmeyin. Aksi taktirde Mi taşıyıcı veri aktarımı yapamayacaktır"</string>
-    <string name="trans_wlan_tips_title">"Wi-Fi'yi kapatmayın"</string>
+    <string name="trans_wlan_tips_title">"Wifi'yi kapatmayın"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
@@ -1271,7 +1271,7 @@ Bağlantı kurulmadan önce sayfayı kapatmayın"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
-    <string name="wifi_title">Wi-Fi ayarları</string>
+    <string name="wifi_title">Wifi ayarları</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_router">Mi yönlendirici</string>
     <string name="xiaomi_router_location">Mi yönlendirici %s</string>

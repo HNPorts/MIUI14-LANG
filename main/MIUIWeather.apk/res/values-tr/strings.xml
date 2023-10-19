@@ -601,7 +601,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="no_internet_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
     <string name="no_network_btn">Yeniden dene</string>
     <string name="no_vote_ratio">Tekrar: %%%1$s</string>
-    <string name="non_wifi_environment">Wi-Fi ağına bağlı olunmadığından yağmur sesi kaynakları indirilemiyor</string>
+    <string name="non_wifi_environment">Wifi ağına bağlı olunmadığından yağmur sesi kaynakları indirilemiyor</string>
     <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="open">Aç</string>

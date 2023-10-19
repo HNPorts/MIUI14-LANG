@@ -185,7 +185,7 @@
     <string name="classes_topTitle">Ders programınızı tarayın</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
-    <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi ağını açın</string>
+    <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wifi ağını açın</string>
     <string name="code_always">Bu seçenek bir dahaki sefere varsayılan olarak ayarlanmıştır ve sorulmayacaktır</string>
     <string name="code_determine">Geri al</string>
     <string name="code_result">Tanıma sonucu</string>
@@ -521,7 +521,7 @@
     <string name="lite_code_guard">QR kodu barkodu tarama desteği</string>
     <string name="local_ocr_recognition">Yerel ocr tanıma</string>
     <string name="local_ocr_recognition_str">Çevrimdışı çeviriye geçildi</string>
-    <string name="location_permission_message">Wi-Fi kodunu bağlamak için</string>
+    <string name="location_permission_message">Wifi kodunu bağlamak için</string>
     <string name="location_permissions_text">Taramayı normal şekilde kullanmak için konum izninin etkinleştirilmesi gerekmektedir. Etkinleştirmek için ayarlar düğmesini tıklayın</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="logout_service">İzni geri al</string>
@@ -1203,11 +1203,11 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="weixin_qrcode_process_type_tip">Bu WeChat kodunu nasıl işlemek istediğinizi seçin</string>
     <string name="weixinqrcode_process_fail_tip">WeChat kodu işlenemedi</string>
     <string name="welcome_to_thesweepversion">Tarayıcı betaya hoş geldiniz</string>
-    <string name="wifi">Wi-Fi</string>
-    <string name="wifi_details">Wi-Fi:</string>
-    <string name="wifi_exist_fail">Wi-Fi bağlantı noktası %1$s zaten mevcut. Bunu silin ve tekrar deneyin</string>
+    <string name="wifi">Wifi</string>
+    <string name="wifi_details">Wifi:</string>
+    <string name="wifi_exist_fail">Wifi bağlantı noktası %1$s zaten mevcut. Bunu silin ve tekrar deneyin</string>
     <string name="wifi_low_version_prompt">wifi istemi</string>
-    <string name="wifi_open_fail">Wi-Fi açılamıyor</string>
+    <string name="wifi_open_fail">Wifi açılamıyor</string>
     <string name="wifi_psd_toolong">Bu şifre çok uzun. Şifreyi elle girin</string>
     <string name="wifi_pwd">Şifre:</string>
     <string name="wifi_security">Güvenlik:</string>

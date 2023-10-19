@@ -71,8 +71,8 @@
     <string name="carousel_privacy">Duvar kağıdı döngüsünü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesi belgelerini okuyun ve kabul edin</string>
     <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
     <string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
-    <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. MIUI sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini Wi-Fi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
-    <string name="check_box_label">Bu özelliği açarak Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
+    <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. MIUI sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini wifi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
+    <string name="check_box_label">Bu özelliği açarak %1$s Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -145,7 +145,7 @@
     <string name="clock_introduction">Zamanlayıcıyı ile dünya saatini, kronometreyi, alarmları ayarlamak ve daha pek çok şeyi kullanmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="close">Kapalı</string>
     <string name="close_location_service_setting">Konum erişimini kapat seçeneğini Ayarlar > Ek ayarlar > Gizlilikten seçebilir veya güvenlikteki bireysel uygulamalar için izinleri kısıtlayabilirsiniz</string>
-    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini Wi-Fi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
+    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini wifi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
     <string name="cm_terms_title">Mobil ağ operatör dözleşmesi</string>
     <string name="compass_introduction">Navigasyon için bu uygulamayı, ayrıca koordinatları, atmosferik basıncı ve rakımı görüntülemek için kullanabilirsiniz</string>
     <string name="config_set_location_permissions_package" />
@@ -162,12 +162,12 @@
     <string name="content_description_start">Başlat</string>
     <string name="content_introduction">İçerik merkezi ile içeriği ve hizmetleri birden fazla kanaldan toplar. Burada makaleler okuyabilir, videolar izleyebilir, günlük öne çıkan öğeleri görüntüleyebilir ve içerik önerileri alabilirsiniz</string>
     <string name="continue_to_enable_accessibility">Erişilebilirliği etkinleştirmek için iki parmağınızı basılı tutmaya devam edin</string>
-    <string name="cookies_content_one">Duvar kağıdı döngüsü resimlere ve hikayelere dokunduğunuzda tarayıcınızda tam sürümlerini açacaktır. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Taboolanın çerez politikasında açıklandığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz duvar kağıdı döngüsü öğeleri kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak ancak ek öneriler sizin için özel olarak seçilmeyecektir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
+    <string name="cookies_content_one">Duvar kağıdı döngüsü resimlere ve hikayelere dokunduğunuzda tarayıcınızda tam sürümlerini açacaktır. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Taboolanın %1$s çerez politikasında açıklandığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz duvar kağıdı döngüsü öğeleri kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak ancak ek öneriler sizin için özel olarak seçilmeyecektir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
     <string name="cookies_content_two">Güvenilir üçüncü taraf içerik sağlayıcılarımızın, ilgi alanlarınıza göre içerik önerilerini ve reklamları kişiselleştirmek için çerezleri kullanmasını isteyip istemediğinize karar verin</string>
     <string name="cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
     <string name="copy">Kopyala</string>
     <string name="create_shortcut">Ana ekran kısayolu</string>
-    <string name="data_traffic_enable_dialog_title">Şimdi Wi-Fi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
+    <string name="data_traffic_enable_dialog_title">Şimdi wifi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -308,8 +308,8 @@
 <string name="interconnection_service_summary">"Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşim kurmasına olanak tanır. Bu hizmetler arasında Mi akıllı ses, Mi akıllı oynatma, MIUI+ Beta, Mi Share ve yansıtma yer alır
 Normal bir şekilde çalışabilmek için bu servislerin internete bağlanması ve aşağıdaki izinleri gerektirmesi gerekir:
 * Mi akıllı merkez:
-* Wi-Fi ağını açın ve kapatın
-* Wi-Fi üzerinden öğe aktarımı içindir
+* Wifi ağını açın ve kapatın
+* Wifi üzerinden öğe aktarımı içindir
 * Ses kaydı
 * Yayınlama veya ekran yansıtma sırasında ses kayıttan yürütmeyi bağlı cihazlara aktarmak içindir
 * Depoya erişimi
@@ -318,17 +318,17 @@ Normal bir şekilde çalışabilmek için bu servislerin internete bağlanması 
 * Cihazınızdaki dosyalara ve fotoğraflara erişin ve bunları
 * kablosuz olarak aktarmak ve almak içindir
 * Konum erişimi
-* Öğeleri Wi-Fi ve Bluetooth üzerinden yakındaki cihazlara aktarmak içindir
+* Öğeleri Wifi ve Bluetooth üzerinden yakındaki cihazlara aktarmak içindir
 * Bluetooth'u açın ve kapatın
 * Yakındaki cihazları bulmak içindir
-* Wi-Fi ağını açın ve kapatın
+* Wifi ağını açın ve kapatın
 * Yakındaki cihazları bulmak ve dosyaları kablosuz olarak aktarmak içindir
 * Yakındaki cihazlara bağlanın
 * Yakındaki cihazları bulmak ve onlara bağlanmak içindir
 * Kadro:
 * Bluetooth'u açın ve kapatın
 * Yakındaki cihazları bulmak içindir
-* Wi-Fi ağını açın ve kapatın
+* Wifi ağını açın ve kapatın
 * Yakındaki cihazları bulmak içindir
 * Konum erişimi
 * Yakındaki cihazlar hakkında bilgi almak içindir
@@ -463,10 +463,6 @@ Bu tür izinleri vermeyi kabul etmezseniz Xiaomi bağlantı hizmetlerini kullana
     <string name="other_settings_ad_disable_summary">Reklamları kişiselleştirmek için aç</string>
     <string name="other_settings_ad_enable">Kişiselleştirilmiş reklam tavsiyesi</string>
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
-	<string name="other_settings_alarm_assistance">Acil durum konumu</string>
-	<string name="other_settings_alarm_assistance_privacy">Gizlilik Politikası</string>
-	<string name="other_settings_alarm_assistance_summary">"110, 120, 119 veya 122'yi ararken konum bilginizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a> okuyun ve kabul edin"</string>
-	<string name="other_settings_alarm_assistance_user">Kullanıcı sözleşmesi</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en iyi zamanı seçer</string>
     <string name="other_settings_auto_update_summary_v1">"MIUI'nin güncellemeleri indirmek ve yüklemek için en iyi zamanı seçmesine izin verin. Değişiklikleri uygulamak için cihazınız otomatik olarak yeniden başlatılacaktır"</string>
@@ -527,10 +523,10 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_interaction_introduction">Cihazdaki fotoğrafları ve videoları kaydetmek içindir</string>
     <string name="permission_location">Konum erişimi:</string>
     <string name="permission_location_describe">Konum erişimi</string>
-    <string name="permission_location_describe_desktop_summary">Wi-Fi ağı adlarına erişmek içindir;</string>
+    <string name="permission_location_describe_desktop_summary">Wifi ağı adlarına erişmek içindir;</string>
     <string name="permission_location_describe_fast_application_summary">Hızlı uygulamaların konumunuza erişmesine izin vermek içindir;</string>
     <string name="permission_location_describe_fast_pairing_summary">Mevcut düşük güç tüketen Bluetooth cihazlarını görüntülemek içindir;</string>
-    <string name="permission_location_describe_interconnection_communication_summary">Bluetooth veya Wi-Fi ağını kullanarak keşif ve bağlantı hizmetleri sağlamak üzere konumunuza erişmek içindir;</string>
+    <string name="permission_location_describe_interconnection_communication_summary">Bluetooth veya wifi ağını kullanarak keşif ve bağlantı hizmetleri sağlamak üzere konumunuza erişmek içindir;</string>
     <string name="permission_location_describe_location_summary">Çeşitli konum tabanlı hizmetler sağlamak üzere tam konumunuza erişmek içindir</string>
     <string name="permission_location_introduction">Konum tabanlı hizmetler sağlamak içindir</string>
     <string name="permission_log_introduction">Günlükleri kaydetmek içindir</string>
