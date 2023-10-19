@@ -257,7 +257,7 @@
         <item>@string/month_december_shortest</item>
     </string-array>
     <string-array name="net_diag_err_link_quality">
-        <item>Zayıf Wi-Fi bağlantısı. Kablosuz bantları değiştirin veya yönlendiriciyi yeniden başlatın</item>
+        <item>Zayıf wifi bağlantısı. Kablosuz bantları değiştirin veya yönlendiriciyi yeniden başlatın</item>
         <item>"Ağa erişilemiyor. Wi-Fi'ye yeniden bağlanın veya yönlendiriciyi yeniden başlatın"</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">

@@ -14,7 +14,6 @@
     <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
-	<string name="miuix_appcompat_edit">Düzenle</string>
     <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
     <string name="abc_menu_space_shortcut_label">Boşluk</string>
     <string name="abc_menu_sym_shortcut_label">Sembol+</string>
@@ -300,6 +299,7 @@ almak için dokunun"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -617,7 +617,7 @@ almak için dokunun"</string>
     <string name="tips_prompt_enable_midrop">Mi paylaşım</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="toast_download_with_metered_network_btn_continue">İndir</string>
-    <string name="toast_download_with_metered_network_msg">Görünüşe göre cihazınız Wi-Fi bağlı değil. Öğeler mobil veri kullanılarak indirilsin mi?</string>
+    <string name="toast_download_with_metered_network_msg">Görünüşe göre cihazınız wifi bağlı değil. Öğeler mobil veri kullanılarak indirilsin mi?</string>
     <string name="toast_download_with_metered_network_title">Veri kullanımı uyarısı</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>

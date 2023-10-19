@@ -40,10 +40,12 @@
     <string name="ads_install_button_waiting">Bekleniliyor</string>
     <string name="after_install_to_delete">Kurulum paketini sil</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="aleady_this_install">Bu uygulamanın kurulumuna izin verildi</string>
     <string name="aleady_understand_the_app_is_hight_risk">Bu uygulamanın yüksek riskli olduğu biliniyor</string>
     <string name="allow_current_install">Bir kez izin ver</string>
     <string name="allowed_this_time">Bir kez izin ver</string>
     <string name="already_understand_the_risks">Bu yükleme paketinin algılanmadığını ve riskli olabileceğini anlıyoruz</string>
+    <string name="already_understand_the_risks_market_unknown">Bu kurulum paketi güvenlik açısından kontrol edilmediği anlaşılıyor</string>
     <string name="already_understood_bundle_app">Bu uygulamanın toplu yükleme davranışına sahip olabileceğini anlıyoruz</string>
     <string name="am">ÖÖ</string>
     <string name="anonymous_source_continue">Devam et</string>
@@ -56,18 +58,10 @@
     <string name="app_detail_other_info">Diğer bilgiler</string>
     <string name="app_detail_other_publish">Geliştirici: %1$s</string>
     <string name="app_detail_other_update_time">Güncellenmiş: %1$s</string>
-	<string name="aleady_this_install">Bu uygulamanın kurulumuna izin verildi</string>
-	<string name="already_understand_the_risks_market_unknown">Bu kurulum paketi güvenlik açısından kontrol edilmediği anlaşılıyor</string>
-	<string name="click_tip_toast">Kontrol edip kuruluma devam etmek için lütfen tıklayın</string>
-	<string name="safe_space_tip_dialog_description">%1$s Xiaomi tarafından incelenmedi ve güvenliği doğrulanamıyor. Cihaz güvenliğini ve gizliliğini korumak için aşağıdaki koruma önlemleri etkinleştirildi:</string>
-	<string name="safe_space_tip_dialog_title">Aşağıdaki korumalar sizin için etkinleştirildi</string>
-    <string name="safe_version_install">Güvenlik sürümü</string>	
-	<string name="set_management_measures">Yönetim önlemlerini belirleyin</string>
     <string name="app_detail_other_version">Sürüm: %1$s</string>
     <string name="app_get_source">Uygulama kaynağı</string>
     <string name="app_info_permissions">İzinler</string>
     <string name="app_info_permissions_format">%1$s %2$s</string>
-	<string name="features_introduce">&lt;u>Özellikler&lt;u/></string>
     <string name="app_info_size">Boyut: %1$s</string>
     <string name="app_info_version">Sürüm: %1$s</string>
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
@@ -197,6 +191,7 @@
     <string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="click_tip_toast">Kontrol edip kuruluma devam etmek için lütfen tıklayın</string>
     <string name="close">Kapat</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">İptal et</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Tamam</string>
@@ -310,6 +305,7 @@
     <string name="face_verify_retry_tips">Lütfen tıklayın ve tekrar deneyin</string>
     <string name="facebook_application_id" />
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="features_introduce">&lt;u>Özellikler&lt;u/></string>
     <string name="fingerprint_authrioze_done">Doğrulama tamamlandı</string>
     <string name="fingerprint_authrioze_retry">Lütfen tekrar deneyin</string>
     <string name="fingerprint_authrioze_tips">Lütfen parmak izinizi sensöre yerleştirin</string>
@@ -963,6 +959,9 @@
     <string name="safe_mode_tip_title_off_msg">Güvenli mod kapalı</string>
     <string name="safe_mode_tip_title_on_msg">Güvenli mod açık</string>
     <string name="safe_mode_title_text">Güvenli mod</string>
+    <string name="safe_space_tip_dialog_description">%1$s Xiaomi tarafından incelenmedi ve güvenliği doğrulanamıyor. Cihaz güvenliğini ve gizliliğini korumak için aşağıdaki koruma önlemleri etkinleştirildi:</string>
+    <string name="safe_space_tip_dialog_title">Aşağıdaki korumalar sizin için etkinleştirildi</string>
+    <string name="safe_version_install">Güvenlik sürümü</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>
@@ -1061,6 +1060,7 @@ güvenilirlik ve güvenlik"</string>
     <string name="service_mode_risk_app_remind_summary">Riskli, zararlı ve virüs uygulamaları açarken ve çalıştırırken bariz uyarılar verin</string>
     <string name="service_mode_telecom_fraud_protection">Telekomünikasyon dolandırıcılık koruması</string>
     <string name="service_mode_telecom_fraud_protection_summary">Telekomünikasyon dolandırıcılık risklerini belirleyin, dolandırıcılık uygulamalarına müdahale edin ve riskli transferleri koruyun</string>
+    <string name="set_management_measures">Yönetim önlemlerini belirleyin</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_security_mode_recent_install_app">Son yüklenen uygulamalar: %1$s</string>
     <string name="settings_security_mode_service_list_title_off_msg">Aşağıdaki hizmetler sizin için açılacak</string>

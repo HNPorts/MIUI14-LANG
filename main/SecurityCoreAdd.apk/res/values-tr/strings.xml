@@ -56,7 +56,6 @@ ikinci alana otomatik olarak eklenir"</string>
     <string name="can_not_delete_when_calling">Arama sırasında alan silinemiyor</string>
     <string name="can_not_switch_when_calling">Arama sırasında alan değiştirilemiyor</string>
     <string name="can_not_switch_when_green_kid_active">İkinci alana geçmek aile koruyucusu tarafından sınırlandırılmıştır</string>
-    <string name="can_not_switch_when_green_kid_active_new">İkinci alana geçmek aile koruyucusu tarafından sınırlandırılmıştır</string>
     <string name="can_not_switch_when_super_power_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamıyorum</string>
     <string name="cancelClosePassword">Kapatma</string>
     <string name="cancel_button">İptal et</string>
@@ -729,7 +728,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="the_international_womens_day">Kadınlar Günü</string>
     <string name="the_laba_festival">Laba festivali</string>
     <string name="the_labour_day">İşçi bayramı</string>
-    <string name="the_lantern_festival">Fener Festivali</string>
+    <string name="the_lantern_festival">Fener festivali</string>
     <string name="the_mid_autumn_festival">Sonbahar ortası festivali</string>
     <string name="the_national_day">Ulusal gün</string>
     <string name="the_national_father_day">Babalar günü</string>

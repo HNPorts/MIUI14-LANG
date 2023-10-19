@@ -221,7 +221,7 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_cta_premission_storage_pad_title">Depolama alanına eriş ve ögeleri kaydet</string>
     <string name="circulate_cta_premission_storage_subtitle">Aktarılan dosyaları göndermek ve almak için kullanılır</string>
     <string name="circulate_cta_premission_storage_title">Cihazdaki fotoğrafları ve dosyaları okuyun ve yazın</string>
-    <string name="circulate_cta_premission_wlan_subtitle">Cihazları taramak ve ses ve video akışı yapmak için Wi-Fi ağını kullanın</string>
+    <string name="circulate_cta_premission_wlan_subtitle">Cihazları taramak ve ses ve video akışı yapmak için wifi ağını kullanın</string>
     <string name="circulate_cta_premission_wlan_title">Wi-Fi ağını aç veya kapat</string>
     <string name="circulate_cta_user_agreement">"Devam etmeden önce Kullanıcı Sözleşmesi'ni ve Gizlilik Politikası'nı okuyun ve kabul edin."</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
@@ -311,10 +311,10 @@ bulamıyor musunuz?"</string>
     <string name="close_invisible_mode_dialog_message">Mi akıllı ses şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
     <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">Gizlisin</string>
-    <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı Wi-Fi ağları ile bağlantıyı kesin</string>
-    <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı Wi-Fi ağları ile bağlantıyı kesin</string>
-    <string name="config_wifi_label_china">MiPaiPai Wi-Fi ağını yapılandırın</string>
-    <string name="config_wifi_label_global">MiPaiPai Wi-Fi ağını yapılandırın</string>
+    <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
+    <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
+    <string name="config_wifi_label_china">MiPaiPai wifi ağını yapılandırın</string>
+    <string name="config_wifi_label_global">MiPaiPai wifi ağını yapılandırın</string>
     <string name="connect_device_fail">Cihaza bağlanılamadı</string>
     <string name="console_guide_btn_got_it">Tamam</string>
     <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır</string>
@@ -369,9 +369,9 @@ bulamıyor musunuz?"</string>
     <string name="dialog_miplay_permission_title">İzin gerekli</string>
 	<string name="dialog_nearbydevice_permission_message">Yayınlama özelliklerini kullanabilmek için bu cihazın yakındaki cihazlara erişmesine izin verin</string>
 	<string name="dialog_nearbydevice_permission_title">İzinler gerekli</string>
-    <string name="dialog_nfc_cast_wifi_off">NCF kullanarak yayın yapabilmek için Wi-Fi açın. Şimdi açılsın mı?</string>
-    <string name="dialog_no_device_message">"&lt;Data>1. Telefonunuzu ve TV'yi aynı Wi-Fi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
-    <string name="dialog_no_device_message_china">"&lt;Data>1. Telefonunuzu ve TV'yi aynı Wi-Fi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
+    <string name="dialog_nfc_cast_wifi_off">NCF kullanarak yayın yapabilmek için wifi açın. Şimdi açılsın mı?</string>
+    <string name="dialog_no_device_message">"&lt;Data>1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
+    <string name="dialog_no_device_message_china">"&lt;Data>1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_only_suport_content">Fotoğraf, video veya müzik yayınlayın</string>
     <string name="dialog_open_wifi_bt">Aç</string>
@@ -379,22 +379,22 @@ bulamıyor musunuz?"</string>
 Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="dialog_recent_connected">Son kullanılanlar</string>
     <string name="dialog_retry">Tekrar dene</string>
-    <string name="dialog_scan_message">"1. Telefonunuzu ve TV'yi aynı Wi-Fi ağına bağlayın
+    <string name="dialog_scan_message">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın
 
 2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi için yardımı görüntüleyin"</string>
-    <string name="dialog_scan_message_china">"1. Telefonunuzu ve TV'yi aynı Wi-Fi ağına bağlayın.
+    <string name="dialog_scan_message_china">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.
 
 2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi için yardımı görüntüleyin"</string>
     <string name="dialog_scanning_device">Yakınlardaki cihazlar aranıyor</string>
-    <string name="dialog_scanning_precondition">Kablosuz ekranı kullanmak için telefonunuzdaki Wi-Fi veya Bluetooth bağlantısını açın</string>
-    <string name="dialog_scanning_precondition_new_china">Yansıtmayı kullanabilmek için Wi-Fi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
-    <string name="dialog_scanning_precondition_new_global">Yansıtmayı kullanabilmek için Wi-Fi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
+    <string name="dialog_scanning_precondition">Kablosuz ekranı kullanmak için telefonunuzdaki wifi veya Bluetooth bağlantısını açın</string>
+    <string name="dialog_scanning_precondition_new_china">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
+    <string name="dialog_scanning_precondition_new_global">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
     <string name="dialog_select_tv">Cihaz seçin (%d)</string>
     <string name="dialog_show_help">Yardım</string>
     <string name="dialog_title">İşbirlikçi girdi</string>
     <string name="disconnect">Yansıtmayı durdur</string>
-    <string name="dual_wifi_warning_china">Çift Wi-Fi ağını kapatın ve tekrar deneyin</string>
-    <string name="dual_wifi_warning_global">Çift Wi-Fi ağını kapatın ve tekrar deneyin</string>
+    <string name="dual_wifi_warning_china">Çift wifi ağını kapatın ve tekrar deneyin</string>
+    <string name="dual_wifi_warning_global">Çift wifi ağını kapatın ve tekrar deneyin</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -420,7 +420,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="err_toast_msg_not_support_audio_protocol">Ses oynatma bu cihaza aktarılamıyor</string>
     <string name="err_toast_msg_not_support_video_protocol">"Bu cihaz MIUI+'ı desteklemiyor"</string>
     <string name="err_toast_msg_retry_later">Aktarım başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
-    <string name="err_toast_msg_try_switch_network">Hem mobil cihazınızı hem de bilgisayarınızı aynı Wi-Fi ağına bağlayın</string>
+    <string name="err_toast_msg_try_switch_network">Hem mobil cihazınızı hem de bilgisayarınızı aynı wifi ağına bağlayın</string>
     <string name="err_toast_msg_upgrade_pc_version">"Bu özelliği kullanabilmek için bilgisayarınızda MIUI+'ı güncelleyin"</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
@@ -512,8 +512,8 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="guide_exit_button_content_description">Çık</string>
     <string name="guide_next_button_text">Devam et</string>
     <string name="guide_page_subtitle_0">Cihazlar arasında video, ses ve uygulama aktarımının özel işlevlerini deneyimleyebileceğiniz küresel cihazların ara bağlantısını ve birlikte çalışabilirliğini gerçekleştirir</string>
-    <string name="guide_page_subtitle_0_pad">"Cihazlar arasında ses ve video aktarımını ve küresel cihazların birbirine bağlanmasını gerçekleştirmiştir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı Wi-Fi altında görebilirsiniz"</string>
-    <string name="guide_page_subtitle_0_pad_global">"Cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı Wi-Fi ağı altında görebilirsiniz\""</string>
+    <string name="guide_page_subtitle_0_pad">"Cihazlar arasında ses ve video aktarımını ve küresel cihazların birbirine bağlanmasını gerçekleştirmiştir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi altında görebilirsiniz"</string>
+    <string name="guide_page_subtitle_0_pad_global">"Cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi ağı altında görebilirsiniz\""</string>
     <string name="guide_page_subtitle_1">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_1_pad">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_2">"Büyük ekran projeksiyonu ve ekranlar arası işbirliğini kolayca gerçekleştirmek için telefon ekran kartını tablete, bilgisayara ve TV'ye sürükleyip bırakın"</string>
@@ -550,32 +550,32 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="help_page_text_04">Ögeleri daha büyük bir ekrana nasıl yansıtırım?</string>
     <string name="help_page_text_05">Adım 1: Cihazlarınızı ve ağ koşullarını kontrol edin</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TV'ler, set üstü kutular, projektörler:
-En iyi etki için hem mobil cihazınızı hem de harici monitörünüzü aynı Wi-Fi ağına bağlayın. Farklı ağlara bağlılarsa harici monitörün bulunması ve bağlanması daha fazla zaman alabilir
+En iyi etki için hem mobil cihazınızı hem de harici monitörünüzü aynı wifi ağına bağlayın. Farklı ağlara bağlılarsa harici monitörün bulunması ve bağlanması daha fazla zaman alabilir
 Not: Daha eski TV modelleri farklı ağlar arasında yayınlamayı desteklemeyebilir
-%2$d. Başka marka TV'ler, set üstü kutular veya projektörler kullanıyorsanız hem mobil cihazınızı hem de harici monitörünüzü aynı Wi-Fi ağına bağlayın
+%2$d. Başka marka TV'ler, set üstü kutular veya projektörler kullanıyorsanız hem mobil cihazınızı hem de harici monitörünüzü aynı wifi ağına bağlayın
 İki cihaz aynı ağa bağlanamıyorsa harici monitörünüzde yansıtmayı açın. Yansıtma işlevinin adlandırılması değişiklik gösterebilir"</string>
     <string name="help_page_text_06_global">"%1$d. Xiaomi TV'ler, set üstü kutular ve projektörler:
-Mobil cihazınızı ve harici monitörü en iyi etki için aynı Wi-Fi ağına bağlayın. Eğer farklı ağlara bağlı iseler harici monitörü bulmak ve bağlanmak daha fazla zaman alabilir
+Mobil cihazınızı ve harici monitörü en iyi etki için aynı wifi ağına bağlayın. Eğer farklı ağlara bağlı iseler harici monitörü bulmak ve bağlanmak daha fazla zaman alabilir
 Not: Eski TV'ler farklı ağlarda yayın yapmayı desteklemeyebilir
-%2$d. Eğer diğer markalardan TV'leri, set üstü kutuları veya projektörleri kullanıyorsanız, mobil cihazınızı ve harici monitörü aynı Wi-Fi ağına bağlayın
+%2$d. Eğer diğer markalardan TV'leri, set üstü kutuları veya projektörleri kullanıyorsanız, mobil cihazınızı ve harici monitörü aynı wifi ağına bağlayın
 İki cihaz aynı ağa bağlanamıyorsa harici monitörünüzde yansıtmayı açın. Yansıtma işlevlerinin adlandırılması farklılık gösterebilir"</string>
     <string name="help_page_text_08">Adım %1$d: Yansıtmayı açın</string>
-    <string name="help_page_text_09">"Telefonunuzun bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için Wi-Fi ve Bluetooth'u açın"</string>
-    <string name="help_page_text_09_global">"Mobil cihazınızın bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için Wi-Fi ve Bluetooth'u açın"</string>
+    <string name="help_page_text_09">"Telefonunuzun bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
+    <string name="help_page_text_09_global">"Mobil cihazınızın bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
     <string name="help_page_text_10">Galeri veya Videolardaki öğeleri yansıtmak istiyorsanız bu uygulamalardaki dahili yansıtma özelliğini kullanabilirsiniz</string>
     <string name="help_page_text_11">Adım 3: Cihazı seçin</string>
     <string name="help_page_text_12">Yansıtmaya başlamak için kullanılabilir cihazlar listesinden bir harici cihaz seçin</string>
     <string name="help_page_text_13">Harici cihaza bağlanamıyor musunuz?</string>
     <string name="help_page_text_14">"1. Eğer bir Xiaomi cihazını kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız şunları deneyin:
-Telefonunuzu ve harici ekranı aynı Wi-Fi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir Wi-Fi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin
+Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir wifi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin
 2. Eğer bir Xiaomi cihazına ilk defa yansıtıyorsanız, doğrulama işlemini tamamlamalısınız
 3. Eğer Xiaomi dışında bir cihaz kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:
-Telefonunuzu ve harici ekranı aynı Wi-Fi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Bu da yardımcı olmadıysa televizyonunuzda LeEco yansıtma uygulamasını kurun ve talimatları izleyin"</string>
+Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Bu da yardımcı olmadıysa televizyonunuzda LeEco yansıtma uygulamasını kurun ve talimatları izleyin"</string>
     <string name="help_page_text_14_global">"1. Eğer bir Xiaomi cihazını kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:
-Telefonunuzu ve harici ekranı aynı Wi-Fi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir Wi-Fi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin
+Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın. Eğer kullanılabilir bir wifi ağı mevcut değilse veya iki cihazı da aynı ağa bağlayamıyorsanız, harici ekranınızdaki yansıtma özelliğinin güncel olduğundan emin olun, hem telefonunuzda hem de harici ekranınızda Bluetooth'u açın ve televizyonunuzda Miracast özelliğini etkinleştirin
 2. Eğer bir Xiaomi cihazına ilk defa yansıtıyorsanız, doğrulama işlemini tamamlamalısınız
 3. Eğer Xiaomi dışında bir cihaz kullanmak istiyor fakat kullanılabilir cihazlar listesinde bulamıyorsanız, şunları deneyin:
-Telefonunuzu ve harici ekranı aynı Wi-Fi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın"</string>
+Telefonunuzu ve harici ekranı aynı wifi ağına bağlayın veya harici ekranı telefonunuzun bağlantı noktasına bağlayın"</string>
     <string name="help_page_text_15">Farklı cihazlardaki Miracast özelliği</string>
     <string name="help_page_text_16">Mi TV/Mi Projektör</string>
     <string name="help_page_text_17">"Mi telefonunuzdaki öğeleri, Miracast özelliğini manuel olarak açmadan Bluetooth ile birçok Mi TV modeline yansıtabilirsiniz
@@ -600,7 +600,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="help_page_text_34">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde Uygulamalar > Yansıtma > Android cihaz > Miracast menüsünden seçebilirsiniz</string>
     <string name="help_page_text_35">Skyworth müşteri hizmetleri: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde uzaktan kumandadaki [SOURCE] tuşuna bastıktan sonra \"Ekran Yansıtma\" seçeneğini seçebilirsiniz. Bazı modellerde, bu özelliği Ağ > Wi-Fi Yönlendirme ayarlarından açabilirsiniz. Bu özellik çeşitli modellerde varsayılan olarak açıktır</string>
+    <string name="help_page_text_37">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde uzaktan kumandadaki [SOURCE] tuşuna bastıktan sonra \"Ekran Yansıtma\" seçeneğini seçebilirsiniz. Bazı modellerde, bu özelliği Ağ > WiFi Yönlendirme ayarlarından açabilirsiniz. Bu özellik çeşitli modellerde varsayılan olarak açıktır</string>
     <string name="help_page_text_38">Sony müşteri hizmetleri: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde Uygulamalar > Ekran Yansıtma seçeneklerini seçebilirsiniz</string>
@@ -612,7 +612,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="help_page_text_46">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde Uygulamalar > Kablosuz Ekran seçeneklerini seçebilirsiniz</string>
     <string name="help_page_text_47">TCL müşteri hizmetleri: 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bu özelliği açmak için Uygulamalarım > Wi-Fi Ekran menüsüne gidin</string>
+    <string name="help_page_text_49">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bu özelliği açmak için Uygulamalarım > WiFi Ekran menüsüne gidin</string>
     <string name="help_page_text_50">AODIN müşteri hizmetleri: 400-810-5858</string>
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde bu özelliği Sistem > Ağlar > Çoklu Ekranlar > Kablosuz Ekran menüsünde açabilirsiniz</string>

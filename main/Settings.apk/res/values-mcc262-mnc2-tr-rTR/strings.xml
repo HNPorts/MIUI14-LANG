@@ -3,5 +3,5 @@
     <string name="wifi_calling_off_explanation_2">"
 
 Kablosuz arama ile acil durum aramaları yapamazsınız. Acil durum araması yapmaya çalışırsanız cihazınız otomatik olarak mobil ağa geçecektir. Acil durum aramaları yalnızca mobil ağ kapsamında olan yerlerden yapılabilir"</string>
-    <string name="wifi_calling_settings_title">Wifi arama</string>
+    <string name="wifi_calling_settings_title">Wi-Fi arama</string>
 </resources>

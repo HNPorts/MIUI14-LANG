@@ -32,14 +32,6 @@ toplam %2$d şarkı"</item>
         <item quantity="other">%d şarkı listeye eklendi</item>
         <item quantity="one">%d şarkı listeye eklendi</item>
     </plurals>
-	<plurals name="reward_seconds_remaining">
-        <item quantity="other">%d saniye içinde VIP üyeliği</item>
-        <item quantity="one">%d saniye içinde VIP üyeliği</item>
-    </plurals>
-	<plurals name="web_reward_dialog_title">
-        <item quantity="other">%d saniye boyunca izlerseniz ödül olarak VIP üyelik alacaksınız. Yine de çıkılsın mı?</item>
-        <item quantity="one">%d saniye boyunca izlerseniz ödül olarak VIP üyelik alacaksınız. Yine de çıkılsın mı?</item>
-    </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d şarkı</item>
         <item quantity="one">%d şarkı</item>
@@ -194,6 +186,10 @@ Not: Dosya cihazdan da silinecektir"</item>
         <item quantity="other">%d takipçi</item>
         <item quantity="one">%d takipçi</item>
     </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">%d saniye içinde VIP üyeliği</item>
+        <item quantity="one">%d saniye içinde VIP üyeliği</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d şarkı gönderilecek</item>
         <item quantity="one">%d şarkı gönderilecek</item>
@@ -229,6 +225,10 @@ Not: Dosya cihazdan da silinecektir"</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d gün kaldı</item>
         <item quantity="one">%d gün kaldı</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">%d saniye boyunca izlerseniz ödül olarak VIP üyelik alacaksınız. Yine de çıkılsın mı?</item>
+        <item quantity="one">%d saniye boyunca izlerseniz ödül olarak VIP üyelik alacaksınız. Yine de çıkılsın mı?</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">%d dosya eklendi</item>

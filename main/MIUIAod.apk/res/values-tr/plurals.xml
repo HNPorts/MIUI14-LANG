@@ -22,34 +22,6 @@
         <item quantity="other">%d dakika içerisinde</item>
         <item quantity="one">1 dakika içerisinde</item>
     </plurals>
-	    <plurals name="health_chart_calories_schedule_format">
-        <item quantity="other">%1$s/%2$s kcal</item>
-        <item quantity="one">%1$s/%2$s kcal</item>
-    </plurals>
-    <plurals name="health_chart_calories_schedule_format_desc">
-        <item quantity="other">Yakılan kalori %1$s kcal. Hedef %2$s kcal</item>
-    </plurals>
-    <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s dakika</item>
-        <item quantity="one">%1$s/%2$s dakika</item>
-    </plurals>
-    <plurals name="health_chart_sport_time_schedule_format_desc">
-        <item quantity="other">Mevcut etkinlik süresi %1$s dakika. Hedef %2$s dakika</item>
-    </plurals>
-    <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s saat</item>
-        <item quantity="one">%1$s/%2$s saat</item>
-    </plurals>
-    <plurals name="health_chart_stand_schedule_format_desc">
-        <item quantity="other">Şu anda %1$s kez duruyor. %2$s kez hedefleyin</item>
-    </plurals>
-    <plurals name="health_chart_step_count_schedule_format">
-        <item quantity="other">%1$s/%2$s adım</item>
-        <item quantity="one">%1$s/%2$s adım</item>
-    </plurals>
-    <plurals name="health_chart_step_count_schedule_format_desc">
-        <item quantity="other">Geçerli adım numarası %1$s adım. Hedef %2$s adım</item>
-    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
@@ -81,6 +53,34 @@ Daha uzun animasyonlar bu noktada durdurulacaktır"</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format_desc">
+        <item quantity="other">Yakılan kalori %1$s kcal. Hedef %2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s dakika</item>
+        <item quantity="one">%1$s/%2$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format_desc">
+        <item quantity="other">Mevcut etkinlik süresi %1$s dakika. Hedef %2$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s saat</item>
+        <item quantity="one">%1$s/%2$s saat</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format_desc">
+        <item quantity="other">Şu anda %1$s kez duruyor. %2$s kez hedefleyin</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s adım</item>
+        <item quantity="one">%1$s/%2$s adım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format_desc">
+        <item quantity="other">Geçerli adım numarası %1$s adım. Hedef %2$s adım</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat içerisinde</item>

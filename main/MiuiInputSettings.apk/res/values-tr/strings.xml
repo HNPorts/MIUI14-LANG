@@ -37,11 +37,10 @@
     <string name="app_switch_key">Son kullanılanlar</string>
     <string name="application_label">Giriş ayarları</string>
     <string name="au_pay">veya ödeme</string>
-	<string name="auto_disable_screenbuttons_dialog_title">%s için ekran düğmeleri devre dışı bırakılsın mı?</string>
-	<string name="keyboard_layout_arabic">Arapça</string>
     <string name="auto_disable_screenbuttons_ask">Devre dışı bırakmak için sor</string>
     <string name="auto_disable_screenbuttons_auto">Her zaman devre dışı bırak</string>
     <string name="auto_disable_screenbuttons_cancel">İptal</string>
+    <string name="auto_disable_screenbuttons_dialog_title">%s için ekran düğmeleri devre dışı bırakılsın mı?</string>
     <string name="auto_disable_screenbuttons_no">Hiçbir zaman devre dışı bırakma</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Cihazınız manzara modundayken navigasyon tuşları engellenecektir</string>
     <string name="auto_disable_screenbuttons_rotation_title">Manzara modunda navigasyon tuşlarını engelle</string>
@@ -306,6 +305,7 @@ Oluşturulan kayıtları dosyalardan görüntüleyebilirsiniz"</string>
     <string name="keyboard_function_summary_first_line">·Kısayolları görüntülemek için basılı tutun</string>
     <string name="keyboard_function_summary_second_line">·Ekranı aktarmak için aynı hesapta oturum açmış bir telefonla klavyenin NFC alanına dokunun. Cihazlar arasında kolayca aktarmak için bir dosya veya fotoğraf seçin</string>
     <string name="keyboard_funtion_key">Fonksiyon tuşu</string>
+    <string name="keyboard_layout_arabic">Arapça</string>
     <string name="keyboard_layout_default_label">Varsayılan</string>
     <string name="keyboard_layout_dialog_setup_button">Klavye düzenlerini ayarlayın</string>
     <string name="keyboard_layout_dialog_switch_hint">Değiştirmek için Cntrl+Boşluk tuşuna basın</string>

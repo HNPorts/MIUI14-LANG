@@ -6,7 +6,7 @@
     <string name="a2dp_not_pair_desc">"Lütfen konuşmacıya "Little Ai" deyin: Bluetooth'u açın
 Hoparlör ürün yazılımının en son sürüme yükseltilmesi gerekiyor"</string>
     <string name="a2dp_not_pair_desc_same_wifi">"Lütfen telefonunuzu ve cihazınızı
-aynı Wi-Fi ağına bağlayın ve tekrar deneyin"</string>
+aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>

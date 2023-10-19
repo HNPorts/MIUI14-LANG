@@ -28,8 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
-	<string name="effect_selection_headset">Kulaklık efektleri</string>
-	<string name="effect_selection_headset">Kulaklık efektleri</string>
     <string name="add_sound">Özel hazır ayar ekle</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
@@ -155,6 +153,7 @@
     <string name="effect_misound">Mi ses</string>
     <string name="effect_none">Hiçbiri</string>
     <string name="effect_selection">Ses efektleri</string>
+    <string name="effect_selection_headset">Kulaklık efektleri</string>
     <string name="effect_virtual_surround">Sanal sürükleyici ses</string>
     <string name="effect_virtual_surround_summary">Kulaklıklarda ses ve video oynatma için ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
     <string name="effect_virtual_surround_summary_spk">Ses ve video oynatma için ses derinliğini zenginleştirin</string>
@@ -609,6 +608,7 @@
     <string name="sound_id_function_description">EQ eğrisini tercihlerinize göre kişiselleştirin</string>
     <string name="sound_id_function_name">Kişiselleştirilmiş ses</string>
     <string name="sound_id_headset_status">Mevcut kulaklıklar</string>
+    <string name="sound_id_hz"> %d Hz</string>
     <string name="sound_id_hz_high">Tiz %d Hz</string>
     <string name="sound_id_hz_low">Bas %d Hz</string>
     <string name="sound_id_hz_media">Orta seviye %d Hz</string>

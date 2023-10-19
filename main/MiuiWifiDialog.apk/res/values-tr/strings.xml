@@ -31,7 +31,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">Miui Wi-Fi diyalog</string>
+    <string name="app_name">Miui wifi diyalog</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -301,7 +301,7 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
-	<string name="wifiResourcesAppLabel">Sistem Wi-Fi kaynakları</string>
+	<string name="wifiResourcesAppLabel">Sistem wifi kaynakları</string>
 	<string name="wifi_available_action_all_networks">Tüm ağlar</string>
 	<string name="wifi_available_action_connect">Bağlan</string>
 	<string name="wifi_available_content_failed_to_connect">Tüm ağları görmek için dokunun</string>
@@ -349,7 +349,7 @@
 	<string name="wifi_ca_cert_notification_title">Ağın doğrulanması gerekiyor</string>
 	<string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik ayarlarını değiştirmek ve yeniden denemek için dokunun</string>
 	<string name="wifi_cannot_connect_with_randomized_mac_title">%1$s ile bağlantı kurulamıyor</string>
-	<string name="wifi_connect_alert_message">%1$s uygulaması %2$s Wi-Fi ağına bağlanmak istiyor</string>
+	<string name="wifi_connect_alert_message">%1$s uygulaması %2$s wifi ağına bağlanmak istiyor</string>
 	<string name="wifi_connect_alert_title">Bağlantıya izin verilsin mi?</string>
 	<string name="wifi_connect_default_application">Bir uygulama</string>
 	<string name="wifi_disable_mac_randomization_dialog_confirm_text">Ayarı değiştir</string>
@@ -382,7 +382,7 @@ Bu değişiklik cihazınızın konumunun yakındaki cihazlar tarafından izlenme
 	<string name="wifi_interface_priority_reject">İzin verme</string>
 	<string name="wifi_interface_priority_title">%1$s bir ağ kaynağı kullanmak istiyor</string>
 	<string name="wifi_p2p_enter_pin_message">Gerekli PIN'i yazın:</string>
-	<string name="wifi_p2p_frequency_conflict_message">Telefon %1$s'ye bağlıyken geçici olarak Wi-Fi bağlantısını kesecek</string>
+	<string name="wifi_p2p_frequency_conflict_message">Telefon %1$s'ye bağlıyken geçici olarak wifi bağlantısını kesecek</string>
 	<string name="wifi_p2p_from_message">Kimden:</string>
 	<string name="wifi_p2p_invitation_sent_title">Davetiye gönderildi</string>
 	<string name="wifi_p2p_invitation_to_connect_title">Bağlanma daveti</string>
@@ -400,7 +400,7 @@ Bu değişiklik cihazınızın konumunun yakındaki cihazlar tarafından izlenme
 	<string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Bağlanma</string>
 	<string name="wifi_suggestion_content">%s önerilen ağ. Cihaz otomatik olarak bağlanabilir</string>
 	<string name="wifi_suggestion_imsi_privacy_content">Bu ağlar cihazın konumunu izlemek için kullanılabilecek bir Sim kimliği alır</string>
-	<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlanırsanız %s Wi-Fi ağı Sim'inizle ilişkili benzersiz bir kimliğe erişebilir veya bu kimliği paylaşabilir. Bu cihazınızın konumunun izlenmesine olanak sağlayabilir"</string>
+	<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlanırsanız %s wifi ağı Sim'inizle ilişkili benzersiz bir kimliğe erişebilir veya bu kimliği paylaşabilir. Bu cihazınızın konumunun izlenmesine olanak sağlayabilir"</string>
 	<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Bağlantı onaylansın mı?</string>
 	<string name="wifi_suggestion_imsi_privacy_title">%s kablosuz ağına bağlanılsın mı?</string>
 	<string name="wifi_suggestion_title">Önerilen kablosuz ağlara izin verilsin mi?</string>

@@ -440,11 +440,11 @@
     <string name="fold_pair_installed_shortcut_launcher">Bu kısayol zaten var</string>
     <string name="folder_name">Klasör</string>
     <string name="folder_not_edit_icon_tip">Düzenlemek için önce uygulamayı klasörün dışına taşıyın</string>
-    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_2x2_9_text">Büyük</string>
     <string name="folder_picker_big_text">Genişletilmiş</string>
     <string name="folder_picker_default_text">Normal</string>
     <string name="folder_picker_options_tab_text">Boyut</string>
-    <string name="folder_picker_sliding_button_tab_text">Vurgulanan uygulamaları öner</string>
+    <string name="folder_picker_sliding_button_tab_text">Uygulamala önerileri</string>
     <string name="folder_picker_tab_text">Klasör</string>
     <string name="free_style_apps_title">Uygulama seçin</string>
     <string name="free_style_unavailable_message">Mi alan artık bu sürümde desteklenmemektedir. Yine de bu temayı kullanmaya devam edebilirsiniz</string>
@@ -560,8 +560,8 @@ Arttırılmış güvenlik"</string>
     <string name="maml_download_dialog_confirm_text">İndir</string>
     <string name="maml_download_dialog_message">Bu öğeyi indirmek için %s MB mobil veri kullanılacak. Yine de indirilsin mi?</string>
     <string name="maml_download_dialog_title">Veri kullanımı uyarısı</string>
-    <string name="maml_download_tip_wait_wifi">Bu öğe Wi-Fi ağına bağlandığınızda indirilecek</string>
-    <string name="maml_download_tip_wait_wifi_china">Bu öğe Wi-Fi ağına bağlandığınızda indirilecek</string>
+    <string name="maml_download_tip_wait_wifi">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
+    <string name="maml_download_tip_wait_wifi_china">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
     <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>

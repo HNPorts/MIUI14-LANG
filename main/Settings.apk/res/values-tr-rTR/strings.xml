@@ -63,15 +63,14 @@
     <string name="accept_new_connection_detail">Kontrol merkezinde yeni bağlantılar kısıtlandı</string>
     <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
     <string name="access_control_app_entry_single">Uygulama aç</string>
-    <string name="access_control_need_password">"%s korunuyor"</string>
+    <string name="access_control_need_password">"%s korunuyor
+"</string>
     <string name="access_control_need_to_unlock">Şifre gerekli:</string>
     <string name="access_control_no_back_footer">Çıkmak için [icon] simgesine dokunun</string>
     <string name="access_control_password_title">Şifre</string>
     <string name="access_control_recording_intro_header">Kilit açma deseni çizin:</string>
     <string name="access_control_reset_by_account">Şifrenizi sıfırlamak için Mi hesabınızda oturum açın</string>
     <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
-    <string name="reduce_bright_colors_preference_intro_text">Okumanın daha rahat olması için ekranınızı karartın</string>
-    <string name="reduce_bright_colors_shortcut_title">Ekstra loş kısayolu</string>
     <string name="access_point_names">Erişim noktası adları</string>
     <string name="accessibility_alarm_vibration_title">Alarm titreşimi</string>
     <string name="accessibility_audio_adjustment_title">Ses ayarı</string>
@@ -457,7 +456,7 @@ Sadece tasarımların nasıl geldiğini kontrol etmek istedim. Yeni balonları i
     <string name="active">Aktif</string>
     <string name="active_device_admin_msg">Cihaz yönetimi uygulaması</string>
     <string name="active_input_method_subtypes">Etkin giriş yöntemleri</string>
-    <string name="activity_check_context">Cihazınız şu anda internete bağlanmaya çalışıyor. Mobil veri kullanıyorsanız bu işlem beklenenden daha uzun sürebilir. Bunun yerine geri dönüp bir Wi-Fi ağına bağlanabilir veya mobil veri bağlantısı kurulana kadar beklemeye devam edebilirsiniz</string>
+    <string name="activity_check_context">Cihazınız şu anda internete bağlanmaya çalışıyor. Mobil veri kullanıyorsanız bu işlem beklenenden daha uzun sürebilir. Bunun yerine geri dönüp bir wifi ağına bağlanabilir veya mobil veri bağlantısı kurulana kadar beklemeye devam edebilirsiniz</string>
     <string name="activity_check_title">İnternet bağlantısı</string>
     <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
     <string name="activity_picker_label">Etkinlik seçin</string>
@@ -1075,7 +1074,7 @@ Uygulamayı kısıtlamak için önce pil optimizasyonunu açın"</string>
     <string name="backup_configure_account_title">Yedekleme hesabı</string>
     <string name="backup_data">Yedekler</string>
     <string name="backup_data_management_title">Yedek hesabı yönet</string>
-    <string name="backup_data_summary">Uygulama verilerini, Wi-Fi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
+    <string name="backup_data_summary">Uygulama verilerini, wifi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
     <string name="backup_data_title">Verilerimi yedekle</string>
     <string name="backup_difference_content">"Yerel yedekler:
 Yerel yedeklemeler uygulama verilerini veya normalde daha fazla öğede içerebilir. Yedekleme dosyaları MIUI-backup-AllBackup'da saklanır ve yedekleme işlemi tamamlandıktan sonra bir bilgisayara kopyalanması gerekir
@@ -2248,8 +2247,8 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="change_security_lock">Kilit açma yöntemini değiştir</string>
     <string name="change_storage">Depolamayı değiştirin</string>
     <string name="change_theme_reboot">Temayı değiştirmek için yeniden başlatma gerekiyor</string>
-    <string name="change_wifi_state_app_detail_summary">Bu uygulamanın kablosuz bağlantıyı açmasına veya kapatmasına, Wi-Fi ağları taramasına eklemesine veya kaldırmasına, Wi-Fi ağlara bağlanmasına ya da yalnızca yerel bağlantı noktası bağlantısını başlatmasına izin verin</string>
-    <string name="change_wifi_state_app_detail_switch">Uygulamanın Wi-Fi bağlantısını kontrol etmesine izin ver</string>
+    <string name="change_wifi_state_app_detail_summary">Bu uygulamanın kablosuz bağlantıyı açmasına veya kapatmasına, wifi ağları taramasına eklemesine veya kaldırmasına, wifi ağlara bağlanmasına ya da yalnızca yerel bağlantı noktası bağlantısını başlatmasına izin verin</string>
+    <string name="change_wifi_state_app_detail_switch">Uygulamanın wifi bağlantısını kontrol etmesine izin ver</string>
     <string name="change_wifi_state_title">Wi-Fi kontrolü</string>
     <string name="channel_group_notifications_off_desc">İsteğiniz üzerine Android bu bildirim grubunun bu cihazda görünmesini engelliyor</string>
     <string name="channel_notifications_off_desc">İsteğiniz üzerine Android bu kategorideki bildirimlerin bu cihazda görünmesini engelliyor</string>
@@ -2381,7 +2380,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="close_optimization_message">"Bu özelliği kapatmanızdan sonra metin arayüzü, hesaplar ve MIUI'nin diğer kısımları bu işlemden etkilenebilir"</string>
     <string name="close_optimization_option">Kapat</string>
     <string name="close_privacy_thumbnail_blur_title">Önizlemeler bulanıklaştırılmadı</string>
-    <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı Wi-Fi ağlarının bağlantısını kesin</string>
+    <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı wifi ağlarının bağlantısını kesin</string>
     <string name="closed_beta">Kararlı (Dahili)</string>
     <string name="cloud_backup_section_title">Xiaomi bulut yedekleme</string>
     <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
@@ -2478,13 +2477,13 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="computer_backup_summary">Bilgisayar kullanarak öğeleri yedekleme ve geri yükleme</string>
     <string name="computer_backup_title">Bilgisayar</string>
     <string name="computing_size">Hesaplanıyor</string>
-    <string name="condition_airplane_summary">Uçak modu açıkken Wi-Fi, bluetooth ve mobil ağ kapatılır. Wi-Fi ve bluetooth tekrar açılabilir</string>
+    <string name="condition_airplane_summary">Uçak modu açıkken wifi, bluetooth ve mobil ağ kapatılır. Wi-Fi ve bluetooth tekrar açılabilir</string>
     <string name="condition_airplane_title">Uçak modu açık</string>
     <string name="condition_battery_summary">Pil tasarrufu bazı cihaz özelliklerini devre dışı bırakır ve uygulamaları sınırlar</string>
     <string name="condition_battery_title">Pil tasarrufu açık</string>
-    <string name="condition_bg_data_summary">Arka plan veriler yalnızca Wi-Fi bağlantısı üzerinden kullanılabilir. Bu durum Wi-Fi bağlantısı mevcut olmadığında bazı uygulamaları veya hizmetleri etkileyebilir</string>
+    <string name="condition_bg_data_summary">Arka plan veriler yalnızca wifi bağlantısı üzerinden kullanılabilir. Bu durum wifi bağlantısı mevcut olmadığında bazı uygulamaları veya hizmetleri etkileyebilir</string>
     <string name="condition_bg_data_title">Ver tasarrufu açık</string>
-    <string name="condition_cellular_summary">İnternet yalnızca Wi-Fi bağlantısı üzerinden kullanılabilir</string>
+    <string name="condition_cellular_summary">İnternet yalnızca wifi bağlantısı üzerinden kullanılabilir</string>
     <string name="condition_cellular_title">Mobil veri kapalı</string>
     <string name="condition_device_muted_action_turn_on_sound">Sesi aç</string>
     <string name="condition_device_muted_summary">Aramalar ve bildirimlerin sesi kapalı olacak</string>
@@ -2753,7 +2752,7 @@ Aşağı indirilen alanı açmak için ekranın üst kısmından aşağı kaydı
     <string name="dark_ui_title">Karanlık mod</string>
     <string name="dark_wallpaper_mode">Duvar kağıdı karanlık efekti</string>
     <string name="dashboard_title">Ayarlar</string>
-    <string name="data_acceleration_summery">Wi-Fi bağlantısı zayıf olduğunda hızı artırmak için hem Wi-Fi ağını hem de mobil veriyi kullanın</string>
+    <string name="data_acceleration_summery">Wi-Fi bağlantısı zayıf olduğunda hızı artırmak için hem wifi ağını hem de mobil veriyi kullanın</string>
     <string name="data_during_calls_summary">Bu Sim kartını yalnızca aramalar sırasında mobil veriler için kullanılmasına izin ver</string>
     <string name="data_during_calls_title">Aramalar sırasındaki veriler</string>
     <string name="data_limit">Veri sınırı</string>
@@ -2831,19 +2830,19 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="data_usage_menu_sim_cards">Sim kartlar</string>
     <string name="data_usage_menu_split_4g">Ayrı 4G kullanımı</string>
     <string name="data_usage_metered_auto">Otomatik</string>
-    <string name="data_usage_metered_body">Hangi Wi-Fi ağlarının paylaşımlı ağ olduğunu belirtin. Uygulamaların arkaplanda bu ağları kullanımı kısıtlanmış olabilir. Ayrıca bu ağlar kullanılarak yapılacak olan büyük boyutlu indirme işlemlerinden önce uygulamalar uyarı görüntüleyecektir</string>
+    <string name="data_usage_metered_body">Hangi wifi ağlarının paylaşımlı ağ olduğunu belirtin. Uygulamaların arkaplanda bu ağları kullanımı kısıtlanmış olabilir. Ayrıca bu ağlar kullanılarak yapılacak olan büyük boyutlu indirme işlemlerinden önce uygulamalar uyarı görüntüleyecektir</string>
     <string name="data_usage_metered_mobile">Mobil ağlar</string>
     <string name="data_usage_metered_no">Sınırsız</string>
     <string name="data_usage_metered_title">Ağ kısıtlamaları</string>
     <string name="data_usage_metered_wifi">Wi-Fi ağları</string>
-    <string name="data_usage_metered_wifi_disabled">Paylaşımlı ağları seçmek için Wi-Fi bağlantısını açın</string>
+    <string name="data_usage_metered_wifi_disabled">Paylaşımlı ağları seçmek için wifi bağlantısını açın</string>
     <string name="data_usage_metered_yes">Sınırlı</string>
     <string name="data_usage_ota">Sistem güncellemeleri</string>
     <string name="data_usage_other_apps">Kullanıma dahil olan diğer uygulamalar</string>
     <string name="data_usage_pick_cycle_day">Ayın veri kullanım döneminin sıfırlandığı günü:</string>
     <string name="data_usage_received_sent">%1$s alındı. %2$s gönderildi</string>
-    <string name="data_usage_restrict_background">Arka plan verilerini kısıtlarsanız bazı uygulamalar veya hizmetler bir Wi-Fi ağına bağlanılana kadar çalışmayacaktır</string>
-    <string name="data_usage_restrict_background_multiuser">Arka plan verilerini kısıtlarsanız bazı uygulamalar veya hizmetler bir Wi-Fi ağına bağlanılana kadar düzgün çalışmayacaktır</string>
+    <string name="data_usage_restrict_background">Arka plan verilerini kısıtlarsanız bazı uygulamalar veya hizmetler bir wifi ağına bağlanılana kadar çalışmayacaktır</string>
+    <string name="data_usage_restrict_background_multiuser">Arka plan verilerini kısıtlarsanız bazı uygulamalar veya hizmetler bir wifi ağına bağlanılana kadar düzgün çalışmayacaktır</string>
     <string name="data_usage_restrict_background_title">Arka plan verileri kısıtlansın mı?</string>
     <string name="data_usage_restrict_denied_dialog">Arka plan verilerini sınırlama özelliği yalnızca mobil ağ veri sınırı ayarladığınızda kullanılabilir</string>
     <string name="data_usage_summary_format">%1$s veri kullanıldı</string>
@@ -2980,8 +2979,8 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
 	<string name="desc_no_available_supported_locale">Bu uygulama için dil seçimi Ayarlar'dan yapılamaz</string>
     <string name="detail_app_button">Uygulama bilgisi</string>
     <string name="detail_question">Ayrıntılar</string>
-    <string name="detailed_wifi_logging_disabled">Ayrıntılı Wi-Fi günlüğü kapalı</string>
-    <string name="detailed_wifi_logging_enabled">Ayrıntılı Wi-Fi günlüğü açık</string>
+    <string name="detailed_wifi_logging_disabled">Ayrıntılı wifi günlüğü kapalı</string>
+    <string name="detailed_wifi_logging_enabled">Ayrıntılı wifi günlüğü açık</string>
     <string name="details_subtitle">Kullanım ayrıntıları</string>
     <string name="dev_logpersist_clear_warning_message">Kalıcı kayıt aracını artık izlemediğimizde cihazınızda bulunan kalıcı kayıt verilerini silmemiz gerekiyor</string>
     <string name="dev_logpersist_clear_warning_title">Kalıcı depolama alanını temizlensin mi?</string>
@@ -3069,7 +3068,7 @@ Bu sorunu çözmek için %1$s uygulamasını durdurabilir ve arka planda çalı�
     <string name="dialog_check_button_negative">Tekrar dene</string>
     <string name="dialog_check_button_positive">Wi-Fi ağına bağlan</string>
     <string name="dialog_check_context">"Cihazınız şu anda internete bağlanamıyor
-1. Kullanılabilir ağlardan birini seçmek için Wi-Fi ağına bağlana dokunun
+1. Kullanılabilir ağlardan birini seçmek için wifi ağına bağlana dokunun
 2. Mobil veri kullanmak istiyorsanız tekrar deneye dokunun veya Sim kartınızı çıkarıp yeniden takın"</string>
     <string name="dialog_check_title">İnternete bağlanılamıyor</string>
     <string name="dialog_chose_item">Görüntülenecek öğe seçin</string>
@@ -3296,7 +3295,7 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="dpp_cannot_connect_target">Hedef ağa bağlanılamıyor</string>
     <string name="dpp_connect_success">Başarıyla bağlandı</string>
     <string name="dpp_not_support">Bu ağ paylaşılamıyor</string>
-    <string name="dpp_qr_code_summary">Diğer kişiden Wi-Fi ayarlarında tarayıcıyı kullanarak bu QR kodunu taramasını isteyin</string>
+    <string name="dpp_qr_code_summary">Diğer kişiden wifi ayarlarında tarayıcıyı kullanarak bu QR kodunu taramasını isteyin</string>
     <string name="dpp_qrcode_generator_summary">Bu QR kodunu kolay bağlantı destekleyen bir cihazla tarayın</string>
     <string name="dpp_scanner_summary">QR kodunu çerçevenin içine yerleştirin</string>
     <string name="dpp_shared_fail">Wi-Fi paylaşılamadı</string>
@@ -3337,22 +3336,22 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="dual_clock_open_message">Çift saat, kilit ekranı ve ana ekranda gösterilir</string>
     <string name="dual_setting_simcard1">Sim 1</string>
     <string name="dual_setting_simcard2">Sim 2</string>
-    <string name="dual_wifi">Çift bant ile Wi-Fi hızını arttır</string>
+    <string name="dual_wifi">Çift bant ile wifi hızını arttır</string>
     <string name="dual_wifi_acceleration">Hız artırma</string>
     <string name="dual_wifi_auto_disable">Otomatik hız artırmayı durdur</string>
-    <string name="dual_wifi_auto_disable_summary">Güç tasarrufu için ekran kapalıyken yardımcı Wi-Fi ağlarının bağlantısını kesin</string>
+    <string name="dual_wifi_auto_disable_summary">Güç tasarrufu için ekran kapalıyken yardımcı wifi ağlarının bağlantısını kesin</string>
     <string name="dual_wifi_avaliable_slave_wifi">Mevcut yardımcı ağlar</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Mevcut yardımcı ağlar (2.4G bant)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Mevcut yardımcı ağlar (5G bant)</string>
-    <string name="dual_wifi_enabler_summary">Ağları birleştirerek Wi-Fi hızını arttırın</string>
+    <string name="dual_wifi_enabler_summary">Ağları birleştirerek wifi hızını arttırın</string>
     <string name="dual_wifi_off">Kapalı</string>
     <string name="dual_wifi_on">Açık</string>
-    <string name="dual_wifi_primary_wifi_connected">Ana Wi-Fi ağı</string>
-    <string name="dual_wifi_slave_wifi_connected">Yardımcı Wi-Fi ağı</string>
-    <string name="dual_wifi_summary">Yardımcı ağlara bağlanarak Wi-Fi hızını artırın</string>
+    <string name="dual_wifi_primary_wifi_connected">Ana wifi ağı</string>
+    <string name="dual_wifi_slave_wifi_connected">Yardımcı wifi ağı</string>
+    <string name="dual_wifi_summary">Yardımcı ağlara bağlanarak wifi hızını artırın</string>
     <string name="dual_wifi_switching_not_remind">Tekrar gösterme</string>
     <string name="dual_wifi_switching_prompt">Ağlar arasında geçiş yapılıyor</string>
-    <string name="dual_wifi_switching_summary">Çift bant ile Wi-Fi hız artışı için iki farklı Wi-Fi bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolur</string>
+    <string name="dual_wifi_switching_summary">Çift bant ile wifi hız artışı için iki farklı wifi bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolur</string>
     <string name="dump_log">Sorunla alakalı kayıtları al</string>
     <string name="dump_log_summary">"Bu özellik MIUI'nin Alfa ve Beta sürümlerinde 284 kayıt oluşturmak üzere tasarlandı. Kullanırken dikkatli olunuz
 Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
@@ -3862,7 +3861,7 @@ Daha fazla bilgi edinmek için kredi sağlayıcınızla iletişime geçin"</stri
     <string name="firewall_set_bg_firewall_default_dialog_title">Yeni uygulamalar için arkaplan bağlantısını kısıtla</string>
     <string name="firewall_temp_rule_reason">%2$s, %1$s uygulamasının internet bağlantısını kısıtladı</string>
     <string name="firewall_wifi">Wi-Fi</string>
-    <string name="firewall_wifi_dialog_message">Yüklü uygulama bu anahtar kapalı olduğunda Wi-Fi kullanarak internete bağlanamaz</string>
+    <string name="firewall_wifi_dialog_message">Yüklü uygulama bu anahtar kapalı olduğunda wifi kullanarak internete bağlanamaz</string>
     <string name="firmware_version">Android sürümü</string>
     <string name="fiveg_nrca_switch_summary">Test ortamları için 5G bağlantısını iyileştirin</string>
     <string name="fiveg_nrca_switch_title">5G taşıyıcı toplama</string>
@@ -3993,12 +3992,12 @@ At veya başka bir hayvan görünmüyordu. Erkekler önlerinde ittikleri küçü
     <string name="free_wifi_confirm">Tamam</string>
     <string name="free_wifi_connect">Bağlan</string>
     <string name="free_wifi_connect_dialog_summary">%1$s ağı %2$s tarafından sağlanmaktadır</string>
-    <string name="free_wifi_connect_dialog_title">Kullanılabilir Wi-Fi ağı</string>
+    <string name="free_wifi_connect_dialog_title">Kullanılabilir wifi ağı</string>
     <string name="free_wifi_connect_fail">Ağa bağlanılamıyor. Veri bağlantınızı kontrol edin ve ardından tekrar deneyin</string>
     <string name="free_wifi_connect_fail2">Giriş yapılamıyor. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
     <string name="free_wifi_connect_summary">%1$s ağına bağlanmak için dokunun</string>
-    <string name="free_wifi_connect_title">Kullanılabilir Wi-Fi ağı</string>
-    <string name="free_wifi_connected">Ücretsiz Wi-Fi ağına bağlanıldı</string>
+    <string name="free_wifi_connect_title">Kullanılabilir wifi ağı</string>
+    <string name="free_wifi_connected">Ücretsiz wifi ağına bağlanıldı</string>
     <string name="free_wifi_connected_time">Süre: %1$s</string>
     <string name="free_wifi_connecting">Bağlanılıyor</string>
     <string name="free_wifi_login_again">Tekrar oturum açın</string>
@@ -4138,7 +4137,7 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="groupaudio_unpair_dialog_body">Telefonunuz artık %1$s grubuyla eşleştirilmeyecek</string>
     <string name="groupaudio_unpair_dialog_forget_confirm_button">Grubu unut</string>
     <string name="groupaudio_unpair_dialog_title">Grup unutulsun mu?</string>
-    <string name="gsm_to_wifi_connect_type_title">"GSM'den Wi-Fi'ye"</string>
+    <string name="gsm_to_wifi_connect_type_title">"GSM'den wifi'ye"</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Ağ modu</string>
     <string name="gsm_umts_network_preferences_title">Ağ Modu</string>
     <string name="guest_exit_guest">Misafir oturumunu kaldır</string>
@@ -4684,7 +4683,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keywords_ignore_optimizations">Optimizasyonları yoksayma, doz, uygulamayı beklemeye alma</string>
     <string name="keywords_imei_info">Imei, meid, min, prl sürümü, imei sv</string>
     <string name="keywords_install_other_apps">Uygulamalar yükleme bilinmeyen kaynaklar</string>
-    <string name="keywords_internet">Ağ bağlantısı, internet, kablosuz, veri, Wi-Fi, wi-fi, wi fi, hücresel, mobil, hücresel operatör, 4g, 3g, 2g, lte</string>
+    <string name="keywords_internet">Ağ bağlantısı, internet, kablosuz, veri, wifi, wi-fi, wi fi, hücresel, mobil, hücresel operatör, 4g, 3g, 2g, lte</string>
     <string name="keywords_keyboard_and_ime">Metin düzeltme, düzeltme, ses, titreşim, otomatik, dil, hareket, öner, öneri, tema, rahatsız edici, kelime, tür, emoji, uluslararası</string>
     <string name="keywords_live_caption">Altyazı, altyazılar, alt yazılar, Canlı Altyazı, duyma zorluğu, duyma kaybı, gerçek zamanlı altyazı, sesle yazma, alt yazı</string>
     <string name="keywords_location">Etrafımda, konum, geçmiş, raporlama</string>
@@ -4743,7 +4742,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keywords_vr_listener">VR sanal gerçeklik dinleyici stereo yardımcı hizmeti</string>
     <string name="keywords_wallet">Cüzdan</string>
     <string name="keywords_wallpaper">Arka plan, ekran, kilit ekranı, tema</string>
-    <string name="keywords_wifi">Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi</string>
+    <string name="keywords_wifi">Wi-Fi;wifi;Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi</string>
     <string name="keywords_wifi_calling">Kablosuz, kablosuz, arama, telefon etme</string>
     <string name="keywords_wifi_data_usage">Veri kullanımı</string>
     <string name="keywords_wifi_display_settings">Ayna</string>
@@ -4850,7 +4849,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="line_breaking_summary">Paragraf satır atlamalarını optimize et</string>
     <string name="line_breaking_title">Metin iyileştirme</string>
     <string name="link_speed">%1$d Mbps</string>
-    <string name="link_turbo_prompt">Bu sayfadaki istatistikler yalnızca Wi-Fi bağlantı hızını artırmak için kullanılan veri miktarını gösterir. Bu istatistikler gerçek mobil veri kullanımını yansıtmaz</string>
+    <string name="link_turbo_prompt">Bu sayfadaki istatistikler yalnızca wifi bağlantı hızını artırmak için kullanılan veri miktarını gösterir. Bu istatistikler gerçek mobil veri kullanımını yansıtmaz</string>
     <string name="link_turbo_settings_all_app_display_loading">Yükleniyor</string>
     <string name="link_turbo_settings_all_app_reach_max">15 uygulamaya kadar seçebilirsiniz</string>
     <string name="link_turbo_usage_state_month">Bu ay</string>
@@ -4920,9 +4919,9 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_indicator_settings_description">Ağ ve bağlantı dahil olmak üzere tüm konumlar için göster</string>
     <string name="location_indicator_settings_title">Durum çubuğu konum göstergesi</string>
     <string name="location_low_battery_use">Düşük pil kullanımı</string>
-    <string name="location_mode_battery_saving_description">Konumu belirlemek için Wi-Fi ve mobil veri ağları kullanın</string>
+    <string name="location_mode_battery_saving_description">Konumu belirlemek için wifi ve mobil veri ağları kullanın</string>
     <string name="location_mode_battery_saving_title">Pil tasarrufu</string>
-    <string name="location_mode_high_accuracy_description">Konumu belirlemek için GPS, Wi-Fi ve mobil veri ağları kullanın</string>
+    <string name="location_mode_high_accuracy_description">Konumu belirlemek için GPS, wifi ve mobil veri ağları kullanın</string>
     <string name="location_mode_high_accuracy_title">Yüksek doğruluk</string>
     <string name="location_mode_location_off_title">Konum kapalı</string>
     <string name="location_mode_screen_title">Konum modu</string>
@@ -4930,8 +4929,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_mode_sensors_only_title">Yalnızca cihaz</string>
     <string name="location_modem_summary">Operatörler baz istasyonları aracılığıyla konumunuzu öğrenecek</string>
     <string name="location_modem_title">Konum bilgilerini operatörle paylaş</string>
-    <string name="location_neighborhood_level">Uygulamalara yaklaşık konumunuzu belirlemek için Wi-Fi ve mobil ağlar gibi kaynaklardan gelen verileri kullanma izin ver</string>
-    <string name="location_neighborhood_level_wifi">Konum Wi-Fi tarafından belirlendi</string>
+    <string name="location_neighborhood_level">Uygulamalara yaklaşık konumunuzu belirlemek için wifi ve mobil ağlar gibi kaynaklardan gelen verileri kullanma izin ver</string>
+    <string name="location_neighborhood_level_wifi">Konum wifi tarafından belirlendi</string>
     <string name="location_network_based">Wi-Fi &amp; mobil ağ</string>
     <string name="location_no_recent_accesses">Yakın zamanda konum bilgilerine herhangi bir uygulama erişmedi</string>
     <string name="location_no_recent_apps">Yakın zamanda konum bilgisi isteği yok</string>
@@ -6036,13 +6035,13 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="multi_face_name_prefix">"Yüz "</string>
     <string name="multi_face_number_reach_limit">"2'den fazla yüz için veri eklenemiyor"</string>
     <string name="multi_network_acceleration_app_settings">Uygulamalar için ağ hızlandırma</string>
-    <string name="multi_network_acceleration_summery">Hızı artırmak için aynı anda birden çok Wi-Fi ağına bağlanın</string>
+    <string name="multi_network_acceleration_summery">Hızı artırmak için aynı anda birden çok wifi ağına bağlanın</string>
     <string name="multi_touch_points_category_title">Çoklu dokunma noktaları</string>
     <string name="multi_touch_points_preference">Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>
     <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
     <string name="multi_window_cvw_summary_global">Yüzer bir pencereye geçmek ve boyutunu ayarlamak için köşeye sürükleyin</string>
     <string name="multi_window_cvw_title">Yüzer pencere</string>
-    <string name="multifunction_keyboard">Çok fonksiyonlu</string>
+    <string name="multifunction_keyboard">Ek düğme</string>
     <string name="multiple_users_main_switch_title">Birden çok kullanıcı kullan</string>
     <string name="music_equalizer">Ekolayzır</string>
     <string name="music_playback_control_cross_device_flow">Cihazlar arasında ses çalmasını aktarın</string>
@@ -6129,7 +6128,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="network_connection_connecting_message">Cihaza bağlanıyor</string>
     <string name="network_connection_errorstate_dialog_message">Bir sorun oluştu. Uygulama cihaz seçme isteğini iptal etti</string>
     <string name="network_connection_request_dialog_showall">Tümünü göster</string>
-    <string name="network_connection_request_dialog_summary">%1$s uygulaması cihazınıza bağlanmak için geçici bir Wi-Fi ağını kullanmak istiyor</string>
+    <string name="network_connection_request_dialog_summary">%1$s uygulaması cihazınıza bağlanmak için geçici bir wifi ağını kullanmak istiyor</string>
     <string name="network_connection_request_dialog_title">Cihaza bağlan</string>
     <string name="network_connection_searching_message">Cihaz aranıyor</string>
     <string name="network_connection_timeout_dialog_message">Hiçbir cihaz bulunamadı. Cihazların açık ve bağlanmaya hazır olduğundan emin olun</string>
@@ -6618,7 +6617,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="overlay_settings_summary">Diğer uygulamalar üzerinden görüntülenebilen uygulamaların ayarlarda ekran kaplamasına izin verir</string>
     <string name="overlay_settings_title">Ayarlarda ekran kaplamaları</string>
     <string name="overlay_toast_failed_to_apply">Yer paylaşımı uygulanamadı</string>
-    <string name="owner_info_settings_edit_text_hint"></string>
+    <string name="owner_info_settings_edit_text_hint">"..."</string>
     <string name="owner_info_settings_summary">Yok</string>
     <string name="owner_info_settings_title">Kilit ekranı imzası</string>
     <string name="owner_space">İlk alan</string>
@@ -6639,13 +6638,13 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="page_layout_23">Gruplarım</string>
     <string name="page_layout_24">Favoriler</string>
     <string name="page_layout_25"></string>
-    <string name="page_layout_26"></string>
-    <string name="page_layout_27"></string>
-    <string name="page_layout_28"></string>
-    <string name="page_layout_29"></string>
+    <string name="page_layout_26">Gökhan Güven</string>
+    <string name="page_layout_27">Barış Güven</string>
+    <string name="page_layout_28">Hüseyin Güven</string>
+    <string name="page_layout_29">Rüzgar Güven</string>
     <string name="page_layout_3">Galeri</string>
-    <string name="page_layout_30"></string>
-    <string name="page_layout_31"></string>
+    <string name="page_layout_30">Gamze Güven</string>
+    <string name="page_layout_31">Duru Güven</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
     <string name="page_layout_34">Telefon</string>
@@ -6827,7 +6826,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin"</string>
     <string name="power_discharging_duration">Yaklaşık %1$s kaldı (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Kullanımınıza göre %1$s kaldı (%2$s)</string>
     <string name="power_flashlight">El feneri</string>
-    <string name="power_hide_mode_summary">Uygulamaların arkaplan işlemlerini, Wi-Fi ve mobil veri bağlantılarını ve GPS özelliğini sınırlandırarak pil tasarrufu sağlayın</string>
+    <string name="power_hide_mode_summary">Uygulamaların arkaplan işlemlerini, wifi ve mobil veri bağlantılarını ve GPS özelliğini sınırlandırarak pil tasarrufu sağlayın</string>
     <string name="power_hide_mode_title">Uygulamaların pil kullanımını yönet</string>
     <string name="power_idle">Telefon boşta</string>
     <string name="power_key_how_power_force_off">Cihazınız nasıl zorla yeniden başlatılır</string>
@@ -7264,16 +7263,16 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="recommend_tip">Diğer ayarlara mı ihtiyacınız var?</string>
     <string name="recommend_tip_wakeup_xiaoai">Mi AI ile etkileşim için düğmeler kullanmak tam ekran hareketlerini kapatmanızı ve gezinme yönteminiz olarak düğmeleri seçmenizi gerektirir</string>
     <string name="recompute_size">Boyut yeniden hesaplanıyor</string>
-    <string name="reduce_bright_colors_about_title">Ekstra loş hakkında</string>
+    <string name="reduce_bright_colors_about_title">About extra dim</string>
     <string name="reduce_bright_colors_intensity_end_label">Daha parlak</string>
     <string name="reduce_bright_colors_intensity_preference_title">Yoğunluk</string>
     <string name="reduce_bright_colors_intensity_start_label">Daha loş</string>
     <string name="reduce_bright_colors_persist_preference_title">Cihaz yeniden başladığında devam et</string>
-    <string name="reduce_bright_colors_preference_intro_text">Okumanın daha rahat olması için ekranınızı karartın</string>
+    <string name="reduce_bright_colors_preference_intro_text">Make your screen dimmer so it’s more comfortable to read</string>
     <string name="reduce_bright_colors_preference_subtitle">Daha rahat okuyabilmek için ekranınızın parlaklığını azaltın.&lt;br/>&lt;br/> Bu özelliğin kullanışlı olacağı durumlar: &lt;ol> &lt;li> Telefonunuzun varsayılan minimum parlaklığı çok açık&lt;/li> &lt;li> Telefonunuzu gece veya uyumadan önce karanlık bir oda gibi ışıksız ortamda kullanıyorsunuz&lt;/li> &lt;/ol></string>
     <string name="reduce_bright_colors_preference_summary">Ekranı telefonunuzun minimum parlaklığından daha loş yapın</string>
     <string name="reduce_bright_colors_preference_title">Ekstra loş</string>
-    <string name="reduce_bright_colors_shortcut_title">Ekstra loş kısayolu</string>
+    <string name="reduce_bright_colors_shortcut_title">Extra dim shortcut</string>
     <string name="reduce_bright_colors_switch_title">Ekranı ekstra loş yap</string>
     <string name="refresh_group">Grubu yenile</string>
     <string name="regional_screen_shot">Kısmi ekran görüntüsü kaydet</string>
@@ -7351,7 +7350,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="reset_network_final_button_text">Ayarları sıfırla</string>
     <string name="reset_network_final_desc">Tüm ağ ayarları şimdi sıfırlansın mı? Bu işlem birkaç saniye sürebilir. Bu eylemi geri alamayacaksınız</string>
     <string name="reset_network_final_desc_esim">"Tüm ağ ayarları sıfırlansın ve indirilen Sim'ler silinsin mi? Bu işlemi geri alamazsınız"</string>
-    <string name="reset_network_title">Bluetooth, Wi-Fi ve mobil veriyi sıfırla</string>
+    <string name="reset_network_title">Bluetooth, wifi ve mobil veriyi sıfırla</string>
     <string name="reset_network_title_noSim">"Wi-Fi ve Bluetooth'u sıfırla"</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Yukarıda listelenen tüm öğeler kalıcı olarak silinecektir. Devam etmeden önce tüm önemli öğeleri bilgisayarınıza veya Xiaomi buluta yedekleyin</string>
@@ -7844,7 +7843,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="search_oldman_mode_entry_name">Basit mod;Yaşlı mod;Yaşlımodu</string>
     <string name="search_onekey_migrate">Aktar;Mi Mover;Eski telefon;Yeni telefon;Dosyaları aktar</string>
     <string name="search_other_advanced_settings">Ek ayarlar;Daha fazla</string>
-    <string name="search_other_settings_sync_settings">Senkronizasyon;Otomatik;Yalnızca Wi-Fi</string>
+    <string name="search_other_settings_sync_settings">Senkronizasyon;Otomatik;Yalnızca wifi</string>
     <string name="search_owner_info_settings_title">Sahip bilgisi</string>
     <string name="search_page_layout_settings">Metin boyutu;Yazı tipi boyutu;Küçük yazı tipi;Büyük yazı tipi;Orta yazı tipi;Çok büyük yazı tipi;Devasa yazı tipi;Yazı tipi boyutları</string>
     <string name="search_permission_manager">İzinler;Root erişimi;İndir;İndirmeler</string>
@@ -7899,7 +7898,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Dokunmadan sonra kapat;kapat;gizle</string>
     <string name="search_status_bar_settings_toggle_position">Konumu düzenle;Konumlar;konum;konumları değiştir</string>
     <string name="search_storage_settings">Depolama;Hafıza</string>
-    <string name="search_sync_settings">Senkronizasyon;Otomatik;Yalnızca Wi-Fi</string>
+    <string name="search_sync_settings">Senkronizasyon;Otomatik;Yalnızca wifi</string>
     <string name="search_system_app_settings">Sistem uygulamaları</string>
     <string name="search_theme_settings_title">Temalar;Tema;Kişiselleştirme;Kişiselleştir</string>
     <string name="search_title_font_settings">yazı tipi boyutu; yazı tipi kalınlığı; yazı tipi stili</string>
@@ -7924,13 +7923,13 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="search_wfd_settings_title">Kablosuz ekran;Kablosuz ekranı aç;WiDi;Yayınla;Wi-Fi ekran;Uzaktan görüntüleme;Ekran</string>
     <string name="search_wifi_advanced_ip_address_title">IP adresi;IP</string>
     <string name="search_wifi_advanced_mac_address_title">Wi-Fi MAC adresi;Wi-Fi MAC adresi</string>
-    <string name="search_wifi_enable">"Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi'yi aç;Wi-Fi'yi aç;Wi-Fi'ı aç"</string>
+    <string name="search_wifi_enable">"WiFi;Wi-Fi;Wi-Fi;Wi-Fi'yi aç;Wi-Fi'yi aç;Wi-Fi'ı aç"</string>
     <string name="search_wifi_install_credentials">Sertifikaları yükle;Sertifikalar</string>
     <string name="search_wifi_menu_p2p">Wi-Fi yönlendirme;Wi-Fi yönlendirme</string>
     <string name="search_wifi_menu_wps_pin">WPS Pin girişi;WPS;WPS Pin</string>
     <string name="search_wifi_scan_always_available">Tarama her zaman kullanılabilir;Ağları ara;Wi-Fi ara;Wi-Fi ara</string>
-    <string name="search_wifi_setting_frequency_band_title">Wi-Fi frekans bandı;Wi-Fi frekansı;Wi-Fi frekansı;Wi-Fi frekansı;Frekans bandı</string>
-    <string name="search_wifi_setting_sleep_policy_title">"Uyku modunda Wi-Fi'yi açık tut;Uykuda Wi-Fi'yi açık tut;Uyku modunda Wi-Fi'ı açık tut;Uykuda Wi-Fi açık;Uykuda Wi-Fi açık;Uykuda Wi-Fi açık"</string>
+    <string name="search_wifi_setting_frequency_band_title">Wi-Fi frekans bandı;WIFI frekansı;Wi-Fi frekansı;Wi-Fi frekansı;Frekans bandı</string>
+    <string name="search_wifi_setting_sleep_policy_title">"Uyku modunda wifi'yi açık tut;Uykuda WiFi'yi açık tut;Uyku modunda Wi-Fi'ı açık tut;Uykuda Wi-Fi açık;Uykuda WiFi açık;Uykuda Wi-Fi açık"</string>
     <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Gelişmiş ayarlar;Wi-Fi;Kablosuz;Kablosuz ağlar;Kablosuz</string>
     <string name="search_wifi_tether_checkbox">Kişisel bağlantı noktası;bağlantı noktası;kişisel bağlantı</string>
     <string name="search_wifi_tether_configure_ap_text">Kişisel bağlantı noktası ayarla;Bağlantı noktası ayarla;Bağlantı noktası ekle;Bağlantı noktasını düzenle</string>
@@ -8733,7 +8732,7 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
     <string name="status_bt_address">Bluetooth adresi</string>
     <string name="status_data_network_type">Mobil veri ağ türü</string>
     <string name="status_data_state">Mobil ağ durumu</string>
-    <string name="status_device_wifi_mac_address">Cihazın Wi-Fi MAC adresi</string>
+    <string name="status_device_wifi_mac_address">Cihazın wifi MAC adresi</string>
     <string name="status_latest_area_info">Operatör bilgileri</string>
     <string name="status_meid_number">MEID</string>
     <string name="status_min_number">MIN</string>
@@ -9148,7 +9147,7 @@ Google'nin kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz
     <string name="sync_settings">Hesaplar &amp; senkronizasyon</string>
     <string name="sync_success">Başarıyla senkronize edildi</string>
     <string name="sync_wifi_label">Wi-Fi</string>
-    <string name="sync_wifi_only">Sadece Wi-Fi</string>
+    <string name="sync_wifi_only">Sadece wifi</string>
     <string name="system">Sistem</string>
     <string name="system_alert_window_access_title">Diğer uygulamaların üzerinde göster</string>
     <string name="system_alert_window_apps_title">Uygulamalar</string>
@@ -9849,7 +9848,7 @@ veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="user_add_user">Kullanıcı ekle</string>
     <string name="user_add_user_item_summary">Kullanıcıların kendi uygulamaları ve içerikleri var</string>
     <string name="user_add_user_item_title">Kullanıcı</string>
-    <string name="user_add_user_message_long">"Bu cihazı ek kullanıcılar oluşturarak başka kişilerle paylaşabilirsiniz. Her kullanıcı kendi uygulamalarını, duvar kağıtlarını ve buna benzer şeyleri özelleştirebildiği kendi alanına sahip olacaktır. Kullanıcılar ayrıca Wi-Fi gibi bütün kullanıcıları etkileyen ayarları özelleştirebilir
+    <string name="user_add_user_message_long">"Bu cihazı ek kullanıcılar oluşturarak başka kişilerle paylaşabilirsiniz. Her kullanıcı kendi uygulamalarını, duvar kağıtlarını ve buna benzer şeyleri özelleştirebildiği kendi alanına sahip olacaktır. Kullanıcılar ayrıca wifi gibi bütün kullanıcıları etkileyen ayarları özelleştirebilir
 
 Yeni bir kullanıcı oluşturduktan sonra o kullanıcının bir kurulum işlemi gerçekleştirmesi gerekir
 
@@ -10243,7 +10242,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="whetstone_level_reboot_OK">Yeniden başlat</string>
     <string name="whetstone_level_title">Bellek optimizasyonu</string>
     <string name="widget_picker_title">Araç seç</string>
-    <string name="Wi-Fi">Wi-Fi</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_access_points">Wi-Fi ağları</string>
     <string name="wifi_add_app_network_save_failed_summary">Kaydedilemiyor. Tekrar deneyin</string>
     <string name="wifi_add_app_networks_saved_summary">Ağlar kaydedildi</string>
@@ -10262,7 +10261,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_advanced_randomized_mac_address_title">Rastgele MAC adresi</string>
     <string name="wifi_advanced_settings_label">IP ayarları</string>
     <string name="wifi_advanced_ssid_title">SSID</string>
-    <string name="wifi_advanced_titlebar">Gelişmiş Wi-Fi</string>
+    <string name="wifi_advanced_titlebar">Gelişmiş wifi</string>
     <string name="wifi_advanced_toggle_description">Açılır liste gelişmiş seçenekler</string>
     <string name="wifi_advanced_toggle_description_collapsed">Gelişmiş seçenekler açılır listesi. Genişletmek için iki kez dokunun</string>
     <string name="wifi_ap_band_config">Erişim noktası bandı seçin</string>
@@ -10279,24 +10278,24 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_ap_ssid_off">Kapalı</string>
     <string name="wifi_ap_ssid_on">Açık</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
+    <string name="wifi_api_test">WLAN API</string>
     <string name="wifi_ask_disable">%s kablosuz özelliğini kapatmak istiyor</string>
     <string name="wifi_ask_enable">%s kablosuz özelliğini açmak istiyor</string>
     <string name="wifi_assist">Wi-Fi yardımcısı</string>
     <string name="wifi_assistant">Otomatik olarak en iyi ağı seç</string>
     <string name="wifi_assistant_auto_confirm_data_help">Bu özelliği Ayarlar > Wi-Fi > Wi-Fi yardımcısından kapatabilirsiniz</string>
-    <string name="wifi_assistant_auto_confirm_data_message">Mevcut Wi-Fi ağının internet erişimi yok. Bunun yerine mobil veri kullanılacaktır. Wi-Fi yardımcısını ayarlar menüsünde kapatabilirsiniz</string>
+    <string name="wifi_assistant_auto_confirm_data_message">Mevcut wifi ağının internet erişimi yok. Bunun yerine mobil veri kullanılacaktır. Wi-Fi yardımcısını ayarlar menüsünde kapatabilirsiniz</string>
     <string name="wifi_assistant_confirm_always">Bir sonraki sefere ipucu gösterme</string>
     <string name="wifi_assistant_confirm_connection_title">Bağlantıyı onaylayın</string>
     <string name="wifi_assistant_data_prompt">Her zaman sor</string>
     <string name="wifi_assistant_data_prompt_summary">Wi-Fi yardımcı mobil ağa geçiş yapmak istediğinde her zaman onayınızı alır</string>
     <string name="wifi_assistant_description">"Bu özelliği etkinleştirmenizden sonra:
-1.İnternet bağlantısı kötü olduğunda sistem otomatik olarak diğer kullanılabilir Wi-Fi ağlarını dener
-2.Kullanılabilir tüm Wi-Fi bağlantıları kötüyse ve mobil veri etkinleştirildiyse sistem en iyi ağ bağlantısını otomatik olarak seçer"</string>
+1.İnternet bağlantısı kötü olduğunda sistem otomatik olarak diğer kullanılabilir wifi ağlarını dener
+2.Kullanılabilir tüm wifi bağlantıları kötüyse ve mobil veri etkinleştirildiyse sistem en iyi ağ bağlantısını otomatik olarak seçer"</string>
     <string name="wifi_assistant_disconnect">Bağlantıyı kes</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">Mevcut Wi-Fi ağının internet erişimi yok. Mobil veriye geçiş yapmak istiyor musunuz?</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">Mevcut Wi-Fi ağının internet erişimi yok. Bağlantıyı kesmek istiyor musunuz?</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">Mevcut Wi-Fi ağının internet erişimi yok ve normal olarak bağlanılabilen Wi-Fi ağları mevcut. Ağı değiştirmek istiyor musunuz?</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">Mevcut wifi ağının internet erişimi yok. Mobil veriye geçiş yapmak istiyor musunuz?</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">Mevcut wifi ağının internet erişimi yok. Bağlantıyı kesmek istiyor musunuz?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">Mevcut wifi ağının internet erişimi yok ve normal olarak bağlanılabilen wifi ağları mevcut. Ağı değiştirmek istiyor musunuz?</string>
     <string name="wifi_assistant_keep_connection">Sakla</string>
     <string name="wifi_assistant_keep_wifi_connection">Hayır</string>
     <string name="wifi_assistant_off">Kapalı</string>
@@ -10305,9 +10304,9 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_assistant_prompt">Bağlı kalın</string>
     <string name="wifi_assistant_prompt_button">Tamam</string>
     <string name="wifi_assistant_prompt_checkbox">Mobil veri kullanmak için izin iste</string>
-    <string name="wifi_assistant_prompt_summary">Mevcut Wi-Fi ağınız internete bağlanamadığında cihazınız diğer kullanılabilir Wi-Fi ağlarına bağlanacak veya mobil veri kullanacaktır</string>
+    <string name="wifi_assistant_prompt_summary">Mevcut wifi ağınız internete bağlanamadığında cihazınız diğer kullanılabilir wifi ağlarına bağlanacak veya mobil veri kullanacaktır</string>
     <string name="wifi_assistant_setup_wifi_assistant">Yapılandır</string>
-    <string name="wifi_assistant_summary">Wi-Fi bağlantısı kötü olduğunda Wi-Fi veya mobil veri arasında otomatik olarak geçiş yapar</string>
+    <string name="wifi_assistant_summary">Wi-Fi bağlantısı kötü olduğunda wifi veya mobil veri arasında otomatik olarak geçiş yapar</string>
     <string name="wifi_assistant_switch_data">Mobil veri kullan</string>
     <string name="wifi_assistant_switch_wifi">Ağ değiştir</string>
     <string name="wifi_auto_connect">Otomatik bağlan</string>
@@ -10319,7 +10318,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_calling_main_switch_title">Kablosuz arama özelliğini kullan</string>
     <string name="wifi_calling_mode_cellular_preferred_summary">Mobil ağ kullanılamıyorsa kablosuz ağı kullan</string>
     <string name="wifi_calling_mode_dialog_title">Kablosuz arama modu</string>
-    <string name="wifi_calling_mode_ims_preferred_summary">LTE ve Wi-Fi kullanılamıyorsa 2G/3G kullan</string>
+    <string name="wifi_calling_mode_ims_preferred_summary">LTE ve wifi kullanılamıyorsa 2G/3G kullan</string>
     <string name="wifi_calling_mode_title">Arama tercihi</string>
     <string name="wifi_calling_mode_wifi_only_summary">Kablosuz ağ üzerinden arama. Kablosuz ağ bağlantısı kesilirse arama sonlandırılır</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Kablosuz ağ bağlantısı kullanılamıyorsa mobil ağı kullanın</string>
@@ -10349,7 +10348,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_off">Kablosuz özelliği otomatik olarak tekrar açılmaz</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_on">Kablosuz özelliği otomatik olarak tekrar açılır</string>
     <string name="wifi_configure_settings_preference_title">Kablosuz tercihleri</string>
-    <string name="wifi_configured_ap_list">Önceden yapılandırılmış Wi-Fi ağları</string>
+    <string name="wifi_configured_ap_list">Önceden yapılandırılmış wifi ağları</string>
     <string name="wifi_connect">Bağlan</string>
     <string name="wifi_connect_channel">Wi-Fi kanalı:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">İptal et</string>
@@ -10370,7 +10369,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_context_menu_connect">Bağlan</string>
     <string name="wifi_context_menu_forget">Unut</string>
     <string name="wifi_coverage_extend">Wi-Fi kapsama alanını genişlet</string>
-    <string name="wifi_coverage_extend_summary">Kişisel bağlantı noktası kullanarak Wi-Fi kapsamını genişletir</string>
+    <string name="wifi_coverage_extend_summary">Kişisel bağlantı noktası kullanarak wifi kapsamını genişletir</string>
     <string name="wifi_data_template">^1 kablosuz bağlantı verisi</string>
     <string name="wifi_data_usage">Kablosuz ağ veri kullanımı</string>
     <string name="wifi_datanetwork_switch_not_remind">Tekrar gösterme</string>
@@ -10380,10 +10379,10 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_details_title">Ağ ayrıntıları</string>
     <string name="wifi_dialog_remind_type_title">Mobil veri ağı</string>
     <string name="wifi_direct_close_hotspot_hint">"Wi-Fi direkt'i kullanmadan önce taşınabilir bağlantı noktasını kapat"</string>
-    <string name="wifi_direct_close_slave_wifi_hint">"Wi-Fi direkt'i kullanmadan önce yardımcı Wi-Fi bağlantısını kesin"</string>
+    <string name="wifi_direct_close_slave_wifi_hint">"Wi-Fi direkt'i kullanmadan önce yardımcı wifi bağlantısını kesin"</string>
     <string name="wifi_disabled_by_recommendation_provider">Düşük kaliteli ağ nedeniyle bağlanılmadı</string>
     <string name="wifi_disabled_generic">Devre dışı</string>
-    <string name="wifi_disabled_help">Zayıf bağlantı dolayısıyla Wi-Fi bağlantısı kesildi</string>
+    <string name="wifi_disabled_help">Zayıf bağlantı dolayısıyla wifi bağlantısı kesildi</string>
     <string name="wifi_disabled_network_failure">IP yapılandırılamadı</string>
     <string name="wifi_disabled_password_failure">Kimlik doğrulama hatası</string>
     <string name="wifi_disabled_wifi_failure">Wi-Fi ağına bağlanılamadı</string>
@@ -10466,7 +10465,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_eap_sim_simcard">Sim seçin</string>
     <string name="wifi_eap_user_cert">Kullanıcı sertifikası</string>
     <string name="wifi_empty_list_user_restricted">Bu ağı değiştirme yetkiniz yok</string>
-    <string name="wifi_empty_list_wifi_off">"Kullanılabilir ağları görmek için Wi-Fi'yi açın"</string>
+    <string name="wifi_empty_list_wifi_off">"Kullanılabilir ağları görmek için wifi'yi açın"</string>
     <string name="wifi_empty_list_wifi_on">Wi-Fi ağları aranıyor</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Zayıf bağlantılardan kaçın</string>
@@ -10486,7 +10485,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin"</string>
     <string name="wifi_generation">Üretime özgü simgeler kullanın</string>
     <string name="wifi_generation_icon_display">Simgeler</string>
     <string name="wifi_generation_status">Wi-Fi %1$d</string>
-    <string name="wifi_generation_summary">Kablosuz teknoloji oluşturma sayısını Wi-Fi simgesine ekleyin</string>
+    <string name="wifi_generation_summary">Kablosuz teknoloji oluşturma sayısını wifi simgesine ekleyin</string>
     <string name="wifi_generation_title">Teknoloji</string>
     <string name="wifi_hand_sel_wapi_cert">Wapi sertifikası</string>
     <string name="wifi_hidden_gbk">GBK kodlama</string>
@@ -10536,7 +10535,7 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_link_turbo_app_settings_summary">Bu özelliği kullanacak uygulamaları seçin</string>
     <string name="wifi_link_turbo_app_settings_title">Uygulamaları seç</string>
     <string name="wifi_link_turbo_customize">Özel uygulamalar</string>
-    <string name="wifi_link_turbo_customize_summary">Tercihlerinize göre Wi-Fi yardımcısı ile çalışacak uygulamaları seçin</string>
+    <string name="wifi_link_turbo_customize_summary">Tercihlerinize göre wifi yardımcısı ile çalışacak uygulamaları seçin</string>
     <string name="wifi_link_turbo_list">Uygulamalar</string>
     <string name="wifi_link_turbo_mode">Hız artırma modu</string>
     <string name="wifi_link_turbo_no_app">Burada henüz uygulama yok</string>
@@ -10582,10 +10581,10 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_notify_open_networks_summary">Herkese açık yüksek kaliteli bir ağ kullanılabilir olduğunda bildir</string>
     <string name="wifi_off_airplane_on_cancel">İptal et</string>
     <string name="wifi_off_airplane_on_confirm">Tamam</string>
-    <string name="wifi_off_airplane_on_content">Uçak modunda Wi-Fi ağını el ile açabilirsiniz</string>
+    <string name="wifi_off_airplane_on_content">Uçak modunda wifi ağını el ile açabilirsiniz</string>
     <string name="wifi_off_airplane_on_not_remind">Tekrar gösterme</string>
     <string name="wifi_off_airplane_on_title">Uyarı</string>
-    <string name="wifi_on_time">Zamanlı Wi-Fi</string>
+    <string name="wifi_on_time">Zamanlı wifi</string>
     <string name="wifi_other_connection_mode">Diğer bağlantı türü</string>
     <string name="wifi_p2p_cancel_connect_message">%1$s cihazına bağlanma davetiyesini iptal etmek istiyor musunuz?</string>
     <string name="wifi_p2p_cancel_connect_title">Davetiye iptal edilsin mi?</string>
@@ -10607,7 +10606,7 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_passpoint_expired">Süresi sona erdi</string>
     <string name="wifi_password">Şifre</string>
     <string name="wifi_poor_network_detection">Kötü bağlantılardan kaçın</string>
-    <string name="wifi_poor_network_detection_summary">Sinyal gücü iyi olmadığı sürece bir Wi-Fi ağını kullanma</string>
+    <string name="wifi_poor_network_detection_summary">Sinyal gücü iyi olmadığı sürece bir wifi ağını kullanma</string>
     <string name="wifi_primary">Birincil ağ</string>
     <string name="wifi_priority_changed" formatted="false">Eski değer %s | Yeni değer %s</string>
     <string name="wifi_priority_label">Öncelik</string>
@@ -10621,24 +10620,24 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_property">Wi-Fi özelliği</string>
     <string name="wifi_protection_on">Açık</string>
     <string name="wifi_protection_settings_title">Wi-Fi sonda isteklerinden koruma</string>
-    <string name="wifi_protection_tip">MIUI kişisel verilerinizi rastgele MAC adreslerinden gelen Wi-Fi sondası isteklerinden ve cihazınız Wi-Fi ağı ararken Wi-Fi sonda algılayıcılarından koruyacaktır</string>
+    <string name="wifi_protection_tip">MIUI kişisel verilerinizi rastgele MAC adreslerinden gelen wifi sondası isteklerinden ve cihazınız wifi ağı ararken wifi sonda algılayıcılarından koruyacaktır</string>
     <string name="wifi_quick_toggle_summary">Wi-Fi bağlantısını aç</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Kaydedildi</string>
     <string name="wifi_remembered_disabled_auto_connect">Kaydedildi. Otomatik bağlantı devre dışı</string>
     <string name="wifi_require_sim_card_to_connect">Bağlanmak için Sim gerektirir</string>
     <string name="wifi_require_specific_sim_card_to_connect">"Bağlanmak için %s operatörünün Sim'ini gerektirir"</string>
-    <string name="wifi_required_info_text">"Kurulumu tamamlamak için cihazınızın Wi-Fi'ye erişmesi gerekmektedir. Kurulumdan sonra mobil veri ve Wi-Fi arasında geçiş yapabilirsiniz"</string>
+    <string name="wifi_required_info_text">"Kurulumu tamamlamak için cihazınızın wifi'ye erişmesi gerekmektedir. Kurulumdan sonra mobil veri ve wifi arasında geçiş yapabilirsiniz"</string>
     <string name="wifi_sap_no_channel_error">5GHz bant genişliği bu ülkede kullanılamıyor</string>
     <string name="wifi_save">Kaydet</string>
     <string name="wifi_saved_access_point">Kayıtlı ağlar</string>
     <string name="wifi_saved_access_points_label">Kayıtlı ağlar</string>
     <string name="wifi_saved_other_networks_tab">Diğer ağlar</string>
     <string name="wifi_scan_always_available">Tarama her zaman açık</string>
-    <string name="wifi_scan_always_available_summary">Google konum servislerine ve diğer uygulamalarına Wi-Fi kapalı olduğu durumlarda dahi ağ arama izni verin</string>
+    <string name="wifi_scan_always_available_summary">Google konum servislerine ve diğer uygulamalarına wifi kapalı olduğu durumlarda dahi ağ arama izni verin</string>
     <string name="wifi_scan_always_confirm_allow">İzin ver</string>
     <string name="wifi_scan_always_confirm_deny">Reddet</string>
-    <string name="wifi_scan_always_turn_on_message_unknown">"Konum doğruluğunu artırmak ve diğer amaçlar için bilinmeyen bir uygulama Wi-Fi kapalı olsa bile ağ taramasını açmak istiyor
+    <string name="wifi_scan_always_turn_on_message_unknown">"Konum doğruluğunu artırmak ve diğer amaçlar için bilinmeyen bir uygulama wifi kapalı olsa bile ağ taramasını açmak istiyor
 
 Tarama isteyen tüm uygulamalar için buna izin verilsin mi?"</string>
     <string name="wifi_scan_always_turnoff_message">Bu özelliği kapatmak için taşma menüsünde gelişmiş seçeneğine gidin</string>
@@ -10646,7 +10645,7 @@ Tarama isteyen tüm uygulamalar için buna izin verilsin mi?"</string>
 
 Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyor musunuz?"</string>
     <string name="wifi_scan_change">Değiştir</string>
-    <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirmek için uygulamalar ve hizmetler Wi-Fi kapalıyken bile istedikleri zaman Wi-Fi ağlarını tarayabilir. Örneğin konuma dayalı özellikleri ve hizmetleri geliştirmek için kullanılabilir. Bunu Wi-Fi tarama ayarlarında değiştirebilirsiniz</string>
+    <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirmek için uygulamalar ve hizmetler wifi kapalıyken bile istedikleri zaman wifi ağlarını tarayabilir. Örneğin konuma dayalı özellikleri ve hizmetleri geliştirmek için kullanılabilir. Bunu wifi tarama ayarlarında değiştirebilirsiniz</string>
     <string name="wifi_scan_notify_remember_choice">Bir daha gösterme</string>
     <string name="wifi_scan_notify_text">Uygulamalar ve hizmetler konum doğruluğunu iyileştirmek için kablosuz ağları kablosuz özelliği kapalıyken bile her zaman tarayabilir. Bu özellik örneğin konuma dayalı özellikleri ve hizmetleri iyileştirmek için kullanabilir. Bunu LINK_BEGIN tarama ayarlarından LINK_END değiştirebilirsiniz</string>
     <string name="wifi_scan_notify_text_scanning_off">Konum doğruluğunu iyileştirmek için LINK_BEGIN tarama ayarlarında LINK_END kablosuz taramayı açın</string>
@@ -10664,7 +10663,7 @@ Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyo
     <string name="wifi_setting_frequency_band_title">Wi-Fi frekans bandı</string>
     <string name="wifi_setting_on_during_sleep_title">Uykudayken Kablosuz açık</string>
     <string name="wifi_setting_sleep_policy_error">Ayarı değiştirirken bir sorun oluştu</string>
-    <string name="wifi_setting_sleep_policy_title">"Uyku modunda Wi-Fi'yi açık tut"</string>
+    <string name="wifi_setting_sleep_policy_title">"Uyku modunda wifi'yi açık tut"</string>
     <string name="wifi_settings">Wi-Fi</string>
     <string name="wifi_settings_category">Wi-Fi ayarları</string>
     <string name="wifi_settings_primary_switch_title">Kablosuz bağlantıyı kullan</string>
@@ -10678,9 +10677,9 @@ Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyo
     <string name="wifi_setup_cancel">İptal et</string>
     <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>" seçeneğine dokunun
 
-Farklı bir Wi-Fi ağına bağlanmak için "<b>Geri</b> seçeneğine dokunun</string>
+Farklı bir wifi ağına bağlanmak için "<b>Geri</b> seçeneğine dokunun</string>
     <string name="wifi_setup_detail">Ağ ayrıntıları</string>
-    <string name="wifi_setup_eap_not_supported">Kurulum sırasında bir EAP Wi-Fi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar > Kablosuz &amp; menüsünde bu ayarı yapabilirsiniz</string>
+    <string name="wifi_setup_eap_not_supported">Kurulum sırasında bir EAP wifi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar > Kablosuz &amp; menüsünde bu ayarı yapabilirsiniz</string>
     <string name="wifi_setup_title">Wi-Fi kurulumu</string>
     <string name="wifi_setup_title_connected_network">%s ağına bağlanıldı</string>
     <string name="wifi_setup_title_connecting_network">%s ağına bağlanıyor</string>
@@ -10691,26 +10690,26 @@ Farklı bir Wi-Fi ağına bağlanmak için "<b>Geri</b> seçeneğine dokunun</st
     <string name="wifi_share_action_turn_off">Ağları paylaşmayı kapat</string>
     <string name="wifi_share_action_turn_on">Wi-Fi ağını paylaş</string>
     <string name="wifi_share_action_turn_on_summary">Paylaşmak için Mi hesabınızda oturum açın</string>
-    <string name="wifi_share_add">Halka açık Wi-Fi ağlarımı paylaş</string>
-    <string name="wifi_share_add_summary">"Halka açık Wi-Fi ağlarınızı paylaştığınızda
+    <string name="wifi_share_add">Halka açık wifi ağlarımı paylaş</string>
+    <string name="wifi_share_add_summary">"Halka açık wifi ağlarınızı paylaştığınızda
 dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifi_share_connect">Bağlan</string>
-    <string name="wifi_share_connected_summary">Diğer bir kullanıcı tarafından paylaşılan açık Wi-Fi ağına bağlandınız</string>
-    <string name="wifi_share_connected_title">MIUI paylaşımlı Wi-Fi</string>
+    <string name="wifi_share_connected_summary">Diğer bir kullanıcı tarafından paylaşılan açık wifi ağına bağlandınız</string>
+    <string name="wifi_share_connected_title">MIUI paylaşımlı wifi</string>
     <string name="wifi_share_current_network">Mevcut ağ</string>
     <string name="wifi_share_know">Tamam</string>
     <string name="wifi_share_list_empty">Paylaşılan ağ bulunamadı</string>
     <string name="wifi_share_login">Wi-Fi ağını paylaş</string>
-    <string name="wifi_share_login_summary">Eğer bu ağ halka açık bir Wi-Fi ağı ise diğer MIUI kullanıcılarıyla paylaşabilirsiniz</string>
-    <string name="wifi_share_notification_summary">MIUI sizi bir halka açık Wi-Fi ağına bağladı</string>
+    <string name="wifi_share_login_summary">Eğer bu ağ halka açık bir wifi ağı ise diğer MIUI kullanıcılarıyla paylaşabilirsiniz</string>
+    <string name="wifi_share_notification_summary">MIUI sizi bir halka açık wifi ağına bağladı</string>
     <string name="wifi_share_other_network">Diğer ağlar</string>
     <string name="wifi_share_qrcode_finish">Tamam</string>
     <string name="wifi_share_qrcode_summary">Paylaşmak için yukarıdaki QR kodunu taratın</string>
     <string name="wifi_share_qrcode_title">Wi-Fi ağını paylaş</string>
     <string name="wifi_share_show_network">Ağları görüntüle</string>
-    <string name="wifi_share_summary1">MIUI kullanıcıları halka açık Wi-Fi ağlarını birbirleriyle paylaşabilirler</string>
+    <string name="wifi_share_summary1">MIUI kullanıcıları halka açık wifi ağlarını birbirleriyle paylaşabilirler</string>
     <string name="wifi_share_summary2">Başka bir MIUI kullanıcısı bir ağ paylaştığında şifre kullanmadan bu ağa doğrudan bağlanabilirsiniz</string>
-    <string name="wifi_share_summary3">Ayrıca diğer MIUI kullanıcıları ile açık Wi-Fi ağlarınızı paylaşabilirsiniz</string>
+    <string name="wifi_share_summary3">Ayrıca diğer MIUI kullanıcıları ile açık wifi ağlarınızı paylaşabilirsiniz</string>
     <string name="wifi_share_turn_off">Kapalı</string>
     <string name="wifi_share_turn_on">Açık</string>
     <string name="wifi_share_upload">Paylaş</string>
@@ -10790,12 +10789,12 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifi_use_system_certs">Sistem sertifikalarını kullan</string>
     <string name="wifi_venue_website_button_text">Siteyi aç</string>
     <string name="wifi_verbose_logging">Wi-Fi ayrıntılı günlüğü</string>
-    <string name="wifi_verbose_logging_summary">Wi-Fi kayıt seviyesini artırır ve Wi-Fi ağ listesindeki tüm SSIDler için RSSI görüntüler</string>
+    <string name="wifi_verbose_logging_summary">Wi-Fi kayıt seviyesini artırır ve wifi ağ listesindeki tüm SSIDler için RSSI görüntüler</string>
     <string name="wifi_wakeup">Kablosuz ağı otomatik olarak aç</string>
     <string name="wifi_wakeup_location_summary">Bu özelliği kullanabilmek için konum hizmetlerini açın</string>
     <string name="wifi_wakeup_negative_button">İptal et</string>
     <string name="wifi_wakeup_positive_button">Aç</string>
-    <string name="wifi_wakeup_scan_summary">"Uygulamaların ve hizmetlerin Wi-Fi'i otomatik olarak açabilmesi için Wi-Fi ağlarını aramasına izin verin. Bu özelliği açmak cihazınızın yakındaki kayıtlı ağlara otomatik olarak bağlanmasına izin verecektir"</string>
+    <string name="wifi_wakeup_scan_summary">"Uygulamaların ve hizmetlerin wifi'i otomatik olarak açabilmesi için wifi ağlarını aramasına izin verin. Bu özelliği açmak cihazınızın yakındaki kayıtlı ağlara otomatik olarak bağlanmasına izin verecektir"</string>
     <string name="wifi_wakeup_summary">Ev ağınız gibi yüksek kaliteli kayıtlı ağların yakınında olduğunuzda kablosuz özelliği tekrar açılır</string>
     <string name="wifi_wakeup_summary_no_location">Konum kapalı olduğundan kullanılamıyor. Konumu açın</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Kablosuz ağ taraması kapalı olduğu için kullanılamıyor</string>
@@ -10831,10 +10830,10 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="wifi_wapi_user_certificate">Kullanıcı sertifikası</string>
     <string name="wifi_wps_available_first_item">WPS kullanılabilir</string>
     <string name="wifi_wps_available_second_item">" (WPS kullanılabilir)"</string>
-    <string name="wifi_wps_connected">%s Wi-Fi ağına bağlanıldı</string>
-    <string name="wifi_wps_onstart_pbc">Yönlendiricinizdeki Wi-Fi korumalı kurulum tuşuna basın. Üzerinde WPS yazabilir veya bu sembolü içerebilir:</string>
+    <string name="wifi_wps_connected">%s wifi ağına bağlanıldı</string>
+    <string name="wifi_wps_onstart_pbc">Yönlendiricinizdeki wifi korumalı kurulum tuşuna basın. Üzerinde WPS yazabilir veya bu sembolü içerebilir:</string>
     <string name="wifi_wps_onstart_pin">Wi-Fi yönlendiricinize %1$s Pin kodunu girin. Kurulum işleminin tamamlanması bir veya iki dakika sürebilir</string>
-    <string name="wifi_wps_overlap_error">Başka bir Wi-Fi oturumu tespit edildi. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
+    <string name="wifi_wps_overlap_error">Başka bir wifi oturumu tespit edildi. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
     <string name="wifi_wps_setup_title">Wi-Fi korumalı kurulum</string>
     <string name="wifitrackerlib_admin_restricted_network">Kuruluşunuz tarafından izin verilmiyor</string>
     <string name="wifitrackerlib_auto_connect_disable">Otomatik bağlanma kapalı</string>
@@ -10885,9 +10884,9 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="wizard_back">Geri</string>
     <string name="wizard_finish">Son</string>
     <string name="wizard_next">İleri</string>
-    <string name="wlan_scanner_unresizeble">Bölünmüş ekran modunda Wi-Fi ayarları gösterilemiyor</string>
+    <string name="wlan_scanner_unresizeble">Bölünmüş ekran modunda wifi ayarları gösterilemiyor</string>
     <string name="wlan_switch_tips">Wi-Fi ağlarını değiştir</string>
-    <string name="wlan_switch_tips_message">Yardımcı ve ana Wi-Fi ağları arasında geçiş yaparken cihazınızın yardımcı Wi-Fi ile bağlantısı geçici olarak kesilecektir. Yine de geçiş yapılsın mı?</string>
+    <string name="wlan_switch_tips_message">Yardımcı ve ana wifi ağları arasında geçiş yaparken cihazınızın yardımcı wifi ile bağlantısı geçici olarak kesilecektir. Yine de geçiş yapılsın mı?</string>
     <string name="words_title">Metin</string>
     <string name="work_alarm_ringtone_title">Varsayılan iş alarmı sesi</string>
     <string name="work_mode_label">İş profili</string>

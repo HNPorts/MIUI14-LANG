@@ -189,8 +189,6 @@ Ayarları görüntüle"</string>
     <string name="accessibility_quick_settings_dnd_alarms_on">Rahatsız etme. Sadece alarmlar</string>
     <string name="accessibility_quick_settings_dnd_none_on">Rahatsız etme. Tam sessizlik</string>
     <string name="accessibility_quick_settings_edit">Ayarların sırasını düzenle</string>
-	<string name="quick_settings_miui_wlan_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
-	<string name="quick_settings_miui_wifi_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
     <string name="accessibility_quick_settings_expand">Hızlı ayarları aç</string>
     <string name="accessibility_quick_settings_less_time">Daha az zaman</string>
     <string name="accessibility_quick_settings_more_time">Daha fazla zaman</string>
@@ -1323,10 +1321,6 @@ EEEE"</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'ı seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
-    <string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
-    <string name="quick_settings_state_wlan_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
-    <string name="quick_settings_state_saved">Kaydedildi</string>
-    <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="material_minute_selection">Dakika seçin</string>
     <string name="material_minute_suffix">%1$s dakika</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
@@ -1391,15 +1385,15 @@ EEEE"</string>
     <string name="miui_keyboard_shortcut_system_dock">Uygulama yuvasını göster</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Son uygulamalar arasında geçiş yap</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
-    <string name="miui_lock_screen_date">dd MMM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd MMM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"dd MMM 
+    <string name="miui_lock_screen_date">dd/MM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd/MM 
 EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd MMM 
+    <string name="miui_lock_screen_date_two_lines_12">"dd/MM 
 EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd MMM 
+    <string name="miui_lock_screen_large_date">"dd/MM 
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd MMM 
+    <string name="miui_lock_screen_large_date_12">"dd/MM 
 EEE"</string>
     <string name="miui_notification_menu_aggregate_feedback">Geri bildirim</string>
     <string name="miui_notification_menu_allow">İzin ver</string>
@@ -1460,7 +1454,7 @@ mm"</string>
     <string name="mobile_data_always_on">Hücresel veri her zaman etkin</string>
     <string name="mobile_data_always_on_summary">Kablosuz bağlantı etkin bile olsa mobil veri kullanımını her zaman etkin tut (Ağlar arasında hızlı geçiş yapmak için)</string>
     <string name="mobile_data_connection_active">Bağlanıldı</string>
-    <string name="mobile_data_disable_message">%s üzerinden verilere veya internete erişiminiz olmayacak. İnternet yalnızca Wi-Fi aracılığıyla kullanılabilecektir</string>
+    <string name="mobile_data_disable_message">%s üzerinden verilere veya internete erişiminiz olmayacak. İnternet yalnızca wifi aracılığıyla kullanılabilecektir</string>
     <string name="mobile_data_disable_message_default_carrier">Senin operatörün</string>
     <string name="mobile_data_disable_title">Mobil veri kapatılsın mı?</string>
 	<string name="mobile_data_no_connection">Bağlantı yok</string>
@@ -1698,7 +1692,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="over_one_week_timestamp">1 haftadan fazla bir süre önce</string>
     <string name="over_two_weeks_timestamp">2 haftadan fazla bir süre önce</string>
     <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
-    <string name="owner_info_settings_edit_text_hint"></string>
+    <string name="owner_info_settings_edit_text_hint">Örneğin: </string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="paused_by_dnd">Rahatsız etmeyin tarafından duraklatıldı</string>
     <string name="people_tile_description">Son mesajları, cevapsız aramaları ve durum güncellemelerini görün</string>
@@ -1962,15 +1956,6 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
     <string name="quick_settings_sync_label">Senkronize</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için onu basılı tutun ve ardından panelin üst kısmına sürükleyin</string>
-	<string name="quick_settings_state_wifi_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
-    <string name="quick_settings_state_wlan_select_nearby_ap">Yakındaki Wi-Fi ağlarını seçin</string>
-	<string name="quick_settings_miui_wifi_label">Wi-Fi</string>
-	<string name="quick_settings_miui_wlan_label">Wi-Fi</string>
-	<string name="quick_settings_wifi_is_off">Wi-Fi kapalı</string>
-    <string name="quick_settings_wifi_label">Wi-Fi</string>
-	<string name="quick_settings_wlan_is_off">Wi-Fi kapalıysa</string>
-    <string name="quick_settings_state_saved">Kaydedildi</string>
-    <string name="quick_settings_state_saved">Kaydedildi</string>
     <string name="quick_settings_ui_mode_night_label">Koyu tema</string>
     <string name="quick_settings_user_title">Kullanıcı</string>
     <string name="quick_settings_vibrate_label">Titreşim</string>
@@ -1982,14 +1967,9 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Onayla</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Tekrar gösterme</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Ağlar arasında geçiş yap</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Çift bant Wi-Fi ağı hız artışı iki farklı Wi-Fi ağı bandı kullanması gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolacaktır</string>
-<<<<<<< HEAD
-    <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir Wi-Fi ağı yok</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Çift bant wifi ağı hız artışı iki farklı wifi ağı bandı kullanması gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolacaktır</string>
+    <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir wifi ağı yok</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-=======
-    <string name="quick_settings_wifi_detail_empty_text">Kullanılabilir Wi-Fii ağı yok</string>
-    <string name="quick_settings_wifi_label">Wi-Fii</string>
->>>>>>> 20c77f5e9c91362926cf1226505ebd5a5593a5e7
     <string name="quick_settings_wifi_secondary_label_transient">Açılıyor</string>
     <string name="quick_settings_work_mode_label">Çalışma modu</string>
     <string name="quick_step_accessibility_toggle_overview">Genel bakışı değiştir</string>
@@ -2516,7 +2496,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_connected_low_quality">Düşük kalite</string>
     <string name="wifi_connected_no_internet">Bağlı. İnternet yok</string>
 	<string name="wifi_coverage_extend">Kablosuz kapsam genişletme özelliğini etkinleştir</string>
-	<string name="wifi_coverage_extend_summary">Bağlantı noktası kullanarak Wi-Fi kapsamını genişletmeyi etkinleştirin</string>
+	<string name="wifi_coverage_extend_summary">Bağlantı noktası kullanarak wifi kapsamını genişletmeyi etkinleştirin</string>
     <string name="wifi_debugging_allow">İzin ver</string>
     <string name="wifi_debugging_always">Bu ağda her zaman izin ver</string>
     <string name="wifi_debugging_message">"Ağ adı (SSID)
@@ -2551,11 +2531,7 @@ Wi-Fi adresi (BSSID)
     <string name="wifi_not_in_range">Kapsama alanı dışında</string>
     <string name="wifi_passpoint_expired">Süresi doldu</string>
     <string name="wifi_remembered">Kaydedildi</string>
-<<<<<<< HEAD
-    <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirin. Uygulamalar ve hizmetler Wi-Fi kapalıyken bile istedikleri zaman Wi-Fi ağlarını tarayabilir. Bunu Wi-Fi tarama ayarlarında değiştirebilirsiniz</string>
-=======
-    <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirin. Uygulamalar ve hizmetler Wi-Fi kapalıyken bile istedikleri zaman Wi-Fi ağlarını tarayabilir. Bunu wifi tarama ayarlarında değiştirebilirsiniz</string>
->>>>>>> 20c77f5e9c91362926cf1226505ebd5a5593a5e7
+    <string name="wifi_scan_notify_message">Cihaz deneyimini iyileştirin. Uygulamalar ve hizmetler wifi kapalıyken bile istedikleri zaman wifi ağlarını tarayabilir. Bunu wifi tarama ayarlarında değiştirebilirsiniz</string>
     <string name="wifi_scan_throttling">Wi-Fi taramayı azalt</string>
     <string name="wifi_scan_throttling_summary">Pil tüketimini azaltır &amp; ağ performansını iyileştirir</string>
     <string name="wifi_security_none">Hiçbiri</string>
