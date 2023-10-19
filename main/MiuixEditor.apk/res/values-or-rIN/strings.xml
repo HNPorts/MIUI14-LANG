@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ଯୋଡ଼ନ୍ତୁ</string>
-    <string name="edit_frequent_phrases">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ ସମ୍ପାଦନା କରନ୍ତୁ</string>
-    <string name="frequent_phrases">ବାରମ୍ୱାର ବ୍ୟବହୃତ ବାକ୍ୟାଂଶ</string>
-    <string name="query">ସନ୍ଧାନ କରନ୍ତୁ</string>
-    <string name="select">ଚୟନ</string>
-</resources>

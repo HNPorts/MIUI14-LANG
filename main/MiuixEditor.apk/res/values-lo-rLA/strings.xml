@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">ເພີ່ມຄຳທີ່ມັກໃຊ້</string>
-    <string name="edit_frequent_phrases">ແກ້ໄຂຄຳທີ່ມັກໃຊ້</string>
-    <string name="frequent_phrases">ຄຳທີ່ມັກໃຊ້</string>
-    <string name="query">​ຄົ້ນ​ຫາ</string>
-    <string name="select">​ເລືອກ</string>
-</resources>

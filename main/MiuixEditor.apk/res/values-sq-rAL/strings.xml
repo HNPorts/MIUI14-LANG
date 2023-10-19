@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Shto fraza të shpeshta</string>
-    <string name="edit_frequent_phrases">Redakto fraza të shpeshta</string>
-    <string name="frequent_phrases">Fraza të shpeshta</string>
-    <string name="query">Kërko</string>
-    <string name="select">Zgjidh</string>
-</resources>

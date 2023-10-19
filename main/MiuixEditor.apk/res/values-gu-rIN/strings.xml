@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">સામાન્ય શબ્દસમૂહો ઉમેરો</string>
-    <string name="edit_frequent_phrases">સામન્ય શબ્દસમૂહો સંચાલિત કરો</string>
-    <string name="frequent_phrases">સામાન્ય શબ્દસમૂહો</string>
-    <string name="query">શોધો</string>
-    <string name="select">પસંદ કરો</string>
-</resources>

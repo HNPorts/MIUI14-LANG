@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Pridėti dažnai naudojamų frazių</string>
-    <string name="edit_frequent_phrases">Redaguoti dažniausiai naudojamas frazes</string>
-    <string name="frequent_phrases">Dažnai naudojamos frazės</string>
-    <string name="query">Ieškoti</string>
-    <string name="select">Pasirinkti</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-</resources>

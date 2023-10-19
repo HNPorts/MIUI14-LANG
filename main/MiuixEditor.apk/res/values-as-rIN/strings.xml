@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">সঘন বাক্যাংশ যোগ কৰক</string>
-    <string name="edit_frequent_phrases">সঘন বাক্যাংশ সম্পাদনা কৰক</string>
-    <string name="frequent_phrases">সঘন বাক্যাংশ</string>
-    <string name="query">অনুসন্ধান</string>
-    <string name="select">চয়ন কৰক</string>
-</resources>

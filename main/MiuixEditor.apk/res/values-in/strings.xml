@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Tambah frasa umum</string>
-    <string name="edit_frequent_phrases">Ubah frasa umum</string>
-    <string name="frequent_phrases">Frasa umum</string>
-    <string name="query">Cari</string>
-    <string name="select">Pilih</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-</resources>

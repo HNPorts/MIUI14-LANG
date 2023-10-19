@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">ಫ್ರೀಕ್ವೆಂಟ್‌ ಫ್ರೇಸ್‌ಗಳನ್ನು ಸೇರಿಸಿ</string>
-    <string name="edit_frequent_phrases">ಫ್ರೇಸ್‌ಗಳನ್ನು ಆಗಾಗ್ಗೆ ಎಡಿಟ್‌ ಮಾಡಿ</string>
-    <string name="frequent_phrases">ಆಗಾಗ್ಗೆ ನುಡಿಗಟ್ಟುಗಳು</string>
-    <string name="query">ಹುಡುಕಾಟ</string>
-    <string name="select">ಆಯ್ಕೆಮಾಡಿ</string>
-</resources>

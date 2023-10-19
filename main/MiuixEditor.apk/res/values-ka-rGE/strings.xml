@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">ხშირი ფრაზების დამატება</string>
-    <string name="edit_frequent_phrases">ხშირი ფრაზების რედაქტირება</string>
-    <string name="frequent_phrases">ხშირი ფრაზები</string>
-    <string name="query">ძებნა</string>
-    <string name="select">მონიშვნა</string>
-</resources>

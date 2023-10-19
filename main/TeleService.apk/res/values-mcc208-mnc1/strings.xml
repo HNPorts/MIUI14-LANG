@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="wifi_call_available_message">Your location-related information can be sent to Google and your operator in order to establish Wi-Fi calls.</string>
-    <string name="wifi_call_help_message_1">Use Wi-Fi networks to make and receive calls anywhere in metropolitan France, without connecting to a mobile network.</string>
-    <string name="wifi_call_help_message_2">To use the service, check that it is offered by your service provider, enable it in Call settings, then connect to a Wi-Fi network. The icon below will be shown whenever this function is available.</string>
-    <string name="wifi_call_notification_message">Use Wi-Fi networks to make and receive calls anywhere in metropolitan France, without connecting to a mobile network. To use the service, check that it is offered by your service provider, enable it in Call settings, then connect to a Wi-Fi network. The icon below will be shown whenever this function is available.</string>
-</resources>

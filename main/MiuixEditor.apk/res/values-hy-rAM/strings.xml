@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Ավելացնել հաճախ օգտագործվող արտահայտություններ</string>
-    <string name="edit_frequent_phrases">Խմբագրել հաճախ օգտագործվող արտահայտությունները</string>
-    <string name="frequent_phrases">Հաճախ օգտագործվող արտահայտություններ</string>
-    <string name="query">Որոնել</string>
-    <string name="select">Ընտրել</string>
-</resources>

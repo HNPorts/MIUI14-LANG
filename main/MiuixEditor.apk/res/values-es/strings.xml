@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Añadir frases frecuentes</string>
-    <string name="edit_frequent_phrases">Editar frases frecuentes</string>
-    <string name="frequent_phrases">Frases frecuentes</string>
-    <string name="query">Buscar</string>
-    <string name="select">Seleccionar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-</resources>

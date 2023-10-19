@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Tambah frasa umum</string>
-    <string name="edit_frequent_phrases">Edit frasa umum</string>
-    <string name="frequent_phrases">Frasa umum</string>
-    <string name="query">Cari</string>
-    <string name="select">Pilih</string>
-</resources>

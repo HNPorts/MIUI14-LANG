@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">പതിവ് ശൈലികൾ ചേർക്കുക</string>
-    <string name="edit_frequent_phrases">പതിവ് ശൈലികൾ എഡിറ്റുചെയ്യുക</string>
-    <string name="frequent_phrases">പതിവ് ശൈലികൾ</string>
-    <string name="query">തിരയുക</string>
-    <string name="select">തിരഞ്ഞെടുക്കുക</string>
-</resources>

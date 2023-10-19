@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Додај чести фрази</string>
-    <string name="edit_frequent_phrases">Уреди чести фрази</string>
-    <string name="frequent_phrases">Чести фрази</string>
-    <string name="query">Пребарувај</string>
-    <string name="select">Изберете</string>
-</resources>

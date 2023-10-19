@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Engadir frases habituais</string>
-    <string name="edit_frequent_phrases">Editar frases habituais</string>
-    <string name="frequent_phrases">Frases habituais</string>
-    <string name="query">Buscar</string>
-    <string name="select">Seleccionar</string>
-</resources>

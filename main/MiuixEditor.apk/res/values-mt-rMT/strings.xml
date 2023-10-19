@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">"Żid frażijiet li jintużaw ta' spiss"</string>
-    <string name="edit_frequent_phrases">"Ibdel il-frażijiet li jintużaw ta' spiss"</string>
-    <string name="frequent_phrases">Frażijiet frekwenti</string>
-    <string name="query">Fittex</string>
-    <string name="select">Agħżel</string>
-</resources>

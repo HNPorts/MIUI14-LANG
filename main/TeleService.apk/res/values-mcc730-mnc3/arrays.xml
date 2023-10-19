@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="clir_choices">
-        <item>@string/clir_choices_network_default</item>
-    </string-array>
-    <string-array name="clir_values">
-        <item>DEFAULT</item>
-    </string-array>
-</resources>

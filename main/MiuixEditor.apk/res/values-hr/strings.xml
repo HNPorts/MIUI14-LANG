@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Dodaj česte izraze</string>
-    <string name="edit_frequent_phrases">Uredi česte izraze</string>
-    <string name="frequent_phrases">Česti izrazi</string>
-    <string name="query">Traži</string>
-    <string name="select">Odaberi</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-</resources>

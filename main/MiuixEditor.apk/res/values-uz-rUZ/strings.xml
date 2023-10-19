@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Tez-tez ishlatiladigan so‘zlarni qo‘shish</string>
-    <string name="edit_frequent_phrases">Tez-tez ishlatiladigan so‘zlarni o‘zgartirish</string>
-    <string name="frequent_phrases">Tez-tez ishlatiladigan so‘zlar</string>
-    <string name="query">Qidiruv</string>
-    <string name="select">Tanlash</string>
-</resources>

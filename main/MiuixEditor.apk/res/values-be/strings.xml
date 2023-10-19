@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="add_frequent_phrases">Дадаць частыя выразы</string>
-    <string name="edit_frequent_phrases">Рэдагаваць частыя выразы</string>
-    <string name="frequent_phrases">Частыя выразы</string>
-    <string name="query">Пошук</string>
-    <string name="select">Выбраць</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-</resources>
