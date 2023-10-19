@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">סגירת תפריט הניווט</string>
+    <string name="close_sheet">סגירת הגיליון</string>
+    <string name="default_error_message">הקלט לא תקין</string>
+    <string name="default_popup_window_title">חלון קופץ</string>
+    <string name="dropdown_menu">תפריט נפתח</string>
+    <string name="in_progress">בתהליך</string>
+    <string name="indeterminate">עם סימון ובלי סימון</string>
+    <string name="navigation_menu">תפריט הניווט</string>
+    <string name="not_selected">לא נבחר</string>
+    <string name="off">כבוי</string>
+    <string name="on">פועל</string>
+    <string name="range_end">סוף הטווח</string>
+    <string name="range_start">תחילת הטווח</string>
+    <string name="selected">נבחר</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">‏מקש Tab</string>
+    <string name="template_percent">%1$d אחוזים.</string>
+</resources>

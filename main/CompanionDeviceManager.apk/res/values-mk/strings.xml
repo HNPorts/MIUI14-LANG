@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Движи се кон дома</string>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_menu_overflow_description">Повеќе опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи ги сите</string>
+    <string name="abc_activitychooserview_choose_application">Избери апликација</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_query">Пребарај барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Испрати барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_shareactionprovider_share_with">Сподели со</string>
+    <string name="abc_shareactionprovider_share_with_application">Сподели со %s</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Изберете %1$s со којшто ќе управува &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Дозволете &lt;strong>%1$s&lt;/strong> да пристапува до вашиот &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Назад</string>
+    <string name="consent_no">Не дозволувај</string>
+    <string name="consent_yes">Дозволи</string>
+    <string name="helper_summary_app_streaming">%1$s бара дозвола во име на вашиот %2$s за да пристапува до фотографиите, аудиовизуелните содржини и известувањата на телефонот</string>
+    <string name="helper_summary_computer">%1$s бара дозвола во име на вашиот %2$s за да стримува апликации помеѓу вашите уреди</string>
+    <string name="helper_title_app_streaming">Повеќенаменски услуги</string>
+    <string name="helper_title_computer">Услуги на Google Play</string>
+    <string name="permission_apps">Апликации</string>
+    <string name="permission_apps_summary">Стримувајте ги апликациите на телефонот</string>
+    <string name="permission_notification">Известувања</string>
+    <string name="permission_notification_summary">може да ги чита сите известувања, вклучително и податоци како контакти, пораки и фотографии</string>
+    <string name="permission_storage">Аудиовизуелни содржини</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Префрлете ги дозволите за апликациите на вашиот часовник</string>
+    <string name="permission_sync_summary">"За полесно поставувањето на часовникот, апликациите инсталирани на часовникот при поставувањето ќе ги користат истите дозволи како на телефонот.
+
+ Овие дозволи може да опфаќаат пристап до микрофонот и локацијата на часовникот."</string>
+    <string name="profile_name_generic">уред</string>
+    <string name="profile_name_watch">часовник</string>
+    <string name="search_menu_title">Пребарај</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Апликацијава е потребна за управување со вашиот %1$s. %2$s ќе може да остварува интеракција со известувањата и да пристапува до дозволите за телефонот, SMS, контактите, календарот, евиденцијата на повици и уредите во близина.</string>
+    <string name="title_app_streaming">Овозможете &lt;strong>%1$s&lt;/strong> да пристапува до овие податоци на телефонот</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Овозможете &lt;strong>%1$s&lt;/strong> да пристапува до овие податоци на телефонот</string>
+    <string name="vendor_header_button_description">Копче за повеќе информации</string>
+    <string name="vendor_icon_description">Икона на апликацијата</string>
+</resources>

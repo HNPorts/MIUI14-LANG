@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>གོམ་མཉམ་གཞི་གྲངས་རྟགས་འགོད་ལ་སྤྱོད་པ།</item>
+        <item>འཕྲིན་ཐུང་གོམ་མཉམ་ལ་སྤྱོད་པ།</item>
+        <item>འབྲེལ་གཏུགས་པ་གོམ་མཉམ་ལ་སྤྱོད་པ།</item>
+        <item>ལོ་ཐོ་གོམ་མཉམ་ལ་སྤྱོད་པ།</item>
+        <item>ཉར་ཚགས་བྱེད་བཞིན་པའི་ལས་དོན་གཞི་གྲངས་ལ་གོམ་མཉམ།</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ཁ་པར།</item>
+        <item>འཕྲིན་ཐུང་།</item>
+        <item>འཕྲིན་དེབ།</item>
+        <item>ལོ་ཐོ།</item>
+        <item>གསོག་ཉར་བར་སྟོང་།</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>འབྲེལ་གཏུགས་པ། འཕྲིན་ཐུང་། སྟབས་ཤོག ལོ་ཐོ་སོགས་ཀྱི་གལ་ཆེའི་གཞི་གྲངས།</item>
+        <item>ཅོག་ངོས་ཉེར་སྤྱོད། ཅོག་ངོས་བཀོད་སྒྲིག་དང་རྩིག་ཤོག་སོགས་ཀྱི་གཞི་གྲངས།</item>
+        <item>Wi-Fiདང་མངོན་འཆར་སོགས་སྒྲིག་འགོད་ཚན་པ།</item>
+        <item>རྒྱང་སྦྲེལ་གནས་ངེས་སྒོ་ལྕགས་བརྒྱབ་ནས། ཁ་པར་བདེ་འཇགས་སྲུང་སྐྱོང་།</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>འབྲེལ་གཏུགས་པ། འཕྲིན་ཐུང་། སྟབས་ཤོག ལོ་ཐོ་སོགས་ཀྱི་གལ་ཆེའི་གཞི་གྲངས།</item>
+        <item>ཅོག་ངོས་ཉེར་སྤྱོད། ཅོག་ངོས་བཀོད་སྒྲིག་དང་རྩིག་ཤོག་སོགས་ཀྱི་གཞི་གྲངས།</item>
+        <item>WLANདང་མངོན་འཆར་སོགས་ཀྱི་སྒྲིག་འགོད་ཚན་པ།</item>
+        <item>རྒྱང་སྦྲེལ་གནས་ངེས་སྒོ་ལྕགས་བརྒྱབ་ནས། ཁ་པར་བདེ་འཇགས་སྲུང་སྐྱོང་།</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>འབྲེལ་གཏུག་མི་སྣ། འཕྲིན་ཐུང་། ཟིན་བྲིས། ལོ་ཐོ་སོགས་གཞི་གྲངས་གལ་ཆེན།</item>
+        <item>ཅོག་ངོས་ཉེར་སྤྱོད། ཅོག་ངོས་བཀོད་སྒྲིག་དང་རྩིག་ཤོག་སོགས་ཀྱི་གཞི་གྲངས།</item>
+        <item>WLANདང་མངོན་འཆར་སོགས་ཀྱི་སྒྲིག་འགོད་ཚན་པ།</item>
+        <item>རྒྱང་སྦྲེལ་གནས་ངེས་སྒོ་ལྕགས་བརྒྱབ་ནས། ཁ་པར་བདེ་འཇགས་སྲུང་སྐྱོང་།</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>འདྲ་པར་དང་ཟིན་བྲིས། སྒྲ་ཕབ་སོགས་གལ་ཆེན་གཞི་གྲངས།</item>
+        <item>རྒྱང་སྦྲེལ་སྒོ་ལྕགས་གནས་ངེས། ངོས་ལེབ་བདེ་འཇགས་སྲུང་སྐྱོང་།</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>འབྲེལ་གཏུག་མི་སྣ། འཕྲིན་ཐུང་། ཟིན་བྲིས། ལོ་ཐོ་སོགས་གཞི་གྲངས་གལ་ཆེན།</item>
+        <item>ཅོག་ངོས་ཉེར་སྤྱོད། ཅོག་ངོས་བཀོད་སྒྲིག་དང་རྩིག་ཤོག་སོགས་ཀྱི་གཞི་གྲངས།</item>
+        <item>Wi-Fiདང་མངོན་འཆར་སོགས་སྒྲིག་འགོད་ཚན་པ།</item>
+        <item>རྒྱང་སྦྲེལ་གནས་ངེས་སྒོ་ལྕགས་བརྒྱབ་ནས། ཁ་པར་བདེ་འཇགས་སྲུང་སྐྱོང་།</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ཉེར་སྤྱོད་གཞི་གྲངས་གོམ་མཉམ།</item>
+        <item>ཅོག་ངོས་བཀོད་སྒྲིག་གྲབས་ཉར།</item>
+        <item>བརྒྱུད་ཁོངས་སྒྲིག་འགོད་གྲབས་ཉར།</item>
+        <item>སྒྲིག་ཆས་འཚོལ་བ།</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ཉེར་སྤྱོད་གཞི་གྲངས་གོམ་མཉམ།</item>
+        <item>སྒྲིག་ཆས་འཚོལ་བ།</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>སྤྱོད་མཁན་གྱི་རྒྱང་རིང་ནས་གནང་ངེས་བཀོད་རྒྱ་དང་། རྒྱང་རིང་ནས་བོར་བརླག་རྗེས་འདེད་བྱེད་ནུས་ལ་སྤྱོད་པ།</item>
+        <item>དྲ་རྒྱ་མེད་པའི་གནས་ཚུལ་འོག འཕྲིན་ཐུང་བརྒྱུད་དེ་མིག་སྔའི་སྒྲིག་ཆས་ལ་གནས་ངེས་ཞབས་ཞུ་མཁོ་འདོན་བྱེད།</item>
+        <item>ཁ་པར་ཨང་གྲངས་ཐོབ་ལེན་བྱས་ཏེ་དྲ་རྒྱ་མེད་པའི་གནས་ཚུལ་འོག འཕྲིན་ཐུང་བརྒྱུད་དེ་མིག་སྔའི་སྒྲིག་ཆས་ལ་གནས་ངེས་ཞབས་ཞུ་མཁོ་འདོན་བྱེད།</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>སྤྲིན་གྲབས་ཉར་དོ་དམ།</item>
+        <item>གྲབས་ཉར་གསལ་ཐོ།</item>
+        <item>སྤྲིན། གྲབས་ཉར། སྤྲིན་ཞབས་ཞུ། ཅོག་ངོས། འགྲེམ་ཚུལ། ཉེར་སྤྱོད། དོ་དམ་གྲབས་ཉར། བསྐྱར་གསོ།</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>ཅོག་ངོས་སྤྲིན་གྲབས་ཉར།</item>
+        <item>ཁ་ཕྱེ/ཅོག་ངོས་འགྲེམ་ཚུལ/ཉེར་སྤྱོད་གསལ་ཐོ/མ་ལག་སྒྲིག་འགོད།</item>
+        <item>སྤྲིན། གྲབས་ཉར། སྤྲིན་ཞབས་ཞུ། ཅོག་ངོས། འགྲེམ་ཚུལ། ཉེར་སྤྱོད། སྒྲིག་འགོད། ཐེངས་གྲངས་གྲབས་ཉར། དོ་དམ་གྲབས་ཉར། བསྐྱར་གསོ།</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>བཤར་ཆས་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>བཤེར་ཆས། སྤྲིན། གོམ་མཉམ། གོམ་མཉམ་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>ལོ་ཐོ་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>ལོ་ཐོ། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>འབྲེལ་གཏུགས་བྱེད་མིའི་ཡུན་གོམ་མཉམ།</item>
+        <item>ཁ་ཕྱེ/སྒྲིག་འགོད་གོམ་མཉམ་ངེས་སྲོལ།</item>
+        <item>འབྲེལ་གཏུག་བྱེད་མི། ཨང་དེབ། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>ཁ་པར་ཟིན་ཐོ།</item>
+        <item>ཁ་ཕྱེ/སྒྲིག་འགོད་གོམ་མཉམ་ངེས་སྲོལ།</item>
+        <item>ཁ་པར་ཟིན་ཐོ།</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>སྒྲིག་ཆས་འཚོལ་བ།</item>
+        <item>ངོས་ལེབ་གློག་ཀླད་བོར་བ/གཞི་གྲངས་སྒོ་རྒྱག་དང་སུབ་པ།</item>
+        <item>སྒྲིག་ཆས་འཚོལ་བ། སྟབས་བདེའི་གློག་ཀླད་བོར་བརླག སྤྲིན། མཉམ་འགྲོས། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>སྒྲིག་ཆས་འཚོལ་བ།</item>
+        <item>ཁ་པར་བོར་བ/གཞི་གྲངས་སྒོ་རྒྱག་དང་སུབ་པ།</item>
+        <item>སྒྲིག་ཆས་འཚོལ་བ། ཁ་པར་བོར་བརླག སྤྲིན། མཉམ་འགྲོས། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>པར་དེབ་སྤྲིན་གོམ་མཉམ།</item>
+        <item>ཁ་ཕྱེ/སྒྲིག་འགོད་གོམ་མཉམ་ངེས་སྲོལ།</item>
+        <item>པར་དེབ། འདྲ་པར། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>ཟིན་བྲིས་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>ཟིན་བྲིས། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>ཟིན་བྲིས་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>ཟིན་བྲིས། དཔེ་འཛར། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>རིགས་ནུས་ལས་རོགས་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>རིག་ནུས་ལས་རོགས། འཆར་ངོས་རྒྱབ་མ། ཅོག་ངོས་བྱང་བུ། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>རྒྱུན་སྤྱོད་སྐད་ཆ་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>རྒྱུན་སྤྱོད་ཡི་གེ དྲས་པང་། རྩོམ་སྒྲིག་ཆས། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>སྒྲ་འཇུག་འཕྲུལ་ཆས་སྤྲིན་གོམ་མཉམ།</item>
+        <item>ཁ་ཕྱེ/སྒྲིག་འགོད་གོམ་མཉམ་ངེས་སྲོལ།</item>
+        <item>སྒྲ་འཇུག་འཕྲུལ་ཆས། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>ཞའོ་མཱི་སྤྲིན་ཞབས་ཞུ་སྙིགས་སྣོད།</item>
+        <item>འབྲེལ་གཏུགས་མི་སྣ་དང་། འདྲ་པར། འཕྲིན་ཐུང་སོགས་བསྐྱར་གསོ།</item>
+        <item>སྙིགས་སྣོད། བསྐྱར་གསོ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>ཞའོ་མཱི་སྤྲིན་ཞབས་ཞུ་སྙིགས་སྣོད།</item>
+        <item>འདྲ་པར་དང་ཟིན་བྲིས་སོགས་བསྐྱར་གསོ།</item>
+        <item>སྙིགས་སྣོད། བསྐྱར་གསོ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>གཞི་གྲངས་བསྐྱར་གསོ་སྤྲིན་གྲབས་ཉར།</item>
+        <item>ཁ་པར་དེར་གཞི་གྲངས་སླར་གསོ།</item>
+        <item>云;备份;云服务;恢复</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>ཁ་པར་དོ་དམ་པ་སྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>ཁ་པར་དོ་དམ་པ། བདེ་འཇགས་ལྟེ་གནས། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>སྟབས་བདེའི་གློག་ཀླད་དོ་དམ་སྤྲིན་མཉམ་འགྲོས།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>སྟབས་བདེའི་གློག་ཀླད་དོ་དམ་པ། བདེ་འཇགས་ལྟེ་གནས། མཉམ་འགྲོས། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>འཕྲིན་ཐུང་སྤྲིན་གོམ་མཉམ།</item>
+        <item>ཁ་ཕྱེ/སྒྲིག་འགོད་གོམ་མཉམ་ངེས་སྲོལ།</item>
+        <item>འཕྲིན་ཐུང་། སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>ཞའོ་མཱི་སྤྲིན་ཞབས་ཞུའི་ཚོགས་མི།</item>
+        <item>ཚོགས་མི་རིམ་སྤར/གསོག་འཇོག་བར་སྟོང་རྒྱ་བསྐྱེད/གཞི་གྲངས་ཀྱི་བདེ་འཇགས་འགན་ལེན།</item>
+        <item>ཁེངས། ཚོགས་མི། གསོག་འཇོག སྤྲིན། བར་སྟོང་། གོམ་མཉམ། སྤྲིན་གོམ་མཉམ། གསེར་དཀར། ཕ་ལམ། གསེར། VIP བསྐྱར་གསོ། གྲབས་ཉར། སྙིགས་སྣོད།</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>ཞའོ་མཱི་སྤྲིན་ཞབས་ཞུ། ཁྱེད་ཀྱི་གཞི་གྲངས་བདེ་འཇགས་ལས་རོགས།</item>
+        <item>སྒྲིག་ཆས་འཚོལ་བ། འཕྲིན་ཐུང་དང་འདྲ་པར་མཉམ་འགྲོས། ཅོག་ངོས་སྤྲིན་གྲབས་ཉར།</item>
+        <item>ཁེངས། ཚོགས་མི། གསོག་འཇོག སྤྲིན། བར་སྟོང་། གོམ་མཉམ། ཞབས་ཞུ། VIP སླར་གསོ། གྲབས་ཉར། སྙིགས་སྣོད། བདེ་འཇགས།</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>ཞའོ་མཱི་སྤྲིན་ཞབས་ཞུ། ཁྱེད་ཀྱི་གཞི་གྲངས་བདེ་འཇགས་ལས་རོགས།</item>
+        <item>སྒྲིག་ཆས་འཚོལ་བ། ཟིན་བྲིས་མཉམ་འགྲོས།</item>
+        <item>ཁེངས། ཚོགས་མི། གསོག་འཇོག སྤྲིན། བར་སྟོང་། མཉམ་འགྲོས། ཞབས་ཞུ། VIP བསྐྱར་གསོ། སྙིགས་སྣོད། བདེ་འཇགས།</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Wi-Fiསྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>WLAN wifi སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLANསྤྲིན་གོམ་མཉམ།</item>
+        <item>གོམ་མཉམ་ཁ་འབྱེད་པ།</item>
+        <item>WLAN wifi སྤྲིན། གོམ་མཉམ། སྤྲིན་ཞབས་ཞུ།</item>
+    </string-array>
+</resources>

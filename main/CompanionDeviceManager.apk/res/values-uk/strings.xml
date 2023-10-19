@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на головну</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_menu_overflow_description">Більше опцій</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показати всі</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_capital_off">ЗНИЖКА</string>
+    <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробіл</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Введіть пошуковий запит…</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Наіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_shareactionprovider_share_with">Поділитися:</string>
+    <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="app_label">Диспетчер супутніх пристроїв</string>
+    <string name="chooser_title">Виберіть %1$s, яким керуватиме додаток &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Надати додатку &lt;strong>%1$s&lt;/strong> доступ до пристрою &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Назад</string>
+    <string name="consent_no">Не дозволяти</string>
+    <string name="consent_yes">Дозволити</string>
+    <string name="helper_summary_app_streaming">Додаток %1$s від імені вашого пристрою %2$s запитує дозвіл на доступ до фотографій, медіафайлів і сповіщень вашого телефона</string>
+    <string name="helper_summary_computer">Додаток %1$s від імені вашого пристрою %2$s запитує дозвіл на трансляцію додатків між вашими пристроями</string>
+    <string name="helper_title_app_streaming">Сервіси для кількох пристроїв</string>
+    <string name="helper_title_computer">Сервіси Google Play</string>
+    <string name="permission_apps">Додатки</string>
+    <string name="permission_apps_summary">Транслювати додатки телефона</string>
+    <string name="permission_notification">Сповіщення</string>
+    <string name="permission_notification_summary">Може читати всі сповіщення, зокрема таку інформацію, як контакти, повідомлення та фотографії</string>
+    <string name="permission_storage">Фотографії та медіафайли</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Перенести дозволи для додатків на годинник</string>
+    <string name="permission_sync_summary">"Задля зручності додатки, установлені на годиннику протягом налаштування, використовуватимуть ті самі дозволи, що й на телефоні.
+
+ До таких дозволів може належати доступ до мікрофона й геоданих годинника."</string>
+    <string name="profile_name_generic">пристрій</string>
+    <string name="profile_name_watch">годинник</string>
+    <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Цей додаток потрібен, щоб керувати пристроєм %1$s. Додаток %2$s зможе взаємодіяти з вашими сповіщеннями й отримає дозволи \"Телефон\", \"SMS\", \"Контакти\", \"Календар\", \"Журнали викликів\" і \"Пристрої поблизу\".</string>
+    <string name="title_app_streaming">Надайте додатку &lt;strong>%1$s&lt;/strong> доступ до цієї інформації з телефона</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Надайте пристрою &lt;strong>%1$s&lt;/strong> доступ до цієї інформації з телефона</string>
+    <string name="vendor_header_button_description">Кнопка \"Докладніше\"</string>
+    <string name="vendor_icon_description">Значок додатка</string>
+</resources>

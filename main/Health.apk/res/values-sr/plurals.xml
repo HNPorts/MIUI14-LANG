@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Пре 1 час</item>
+        <item quantity="one">Пре 1 час</item>
+        <item quantity="few">Пре 1 час</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">За 1 сат</item>
+        <item quantity="one">За 1 сат</item>
+        <item quantity="few">За 1 сат</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="common_selected_num">
+        <item quantity="other">Изабрано је %1$d ставки</item>
+        <item quantity="one">Изабрана је %1$d ставка</item>
+        <item quantity="few">Изабране су %1$d ставке</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+        <item quantity="few">%1$s km</item>
+    </plurals>
+    <plurals name="common_share_unit_meter_desc">
+        <item quantity="other">%1$s m</item>
+        <item quantity="one">%1$s m</item>
+        <item quantity="few">%1$s m</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">" kcal"</item>
+        <item quantity="one">" kcal"</item>
+        <item quantity="few">" kcal"</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+        <item quantity="few">%1$d kcal</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d дана</item>
+        <item quantity="one">%1$d дан</item>
+        <item quantity="few">%1$d дана</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate">
+        <item quantity="other">" BPM"</item>
+        <item quantity="one">" BPM"</item>
+        <item quantity="few">" BPM"</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc">
+        <item quantity="other">%1$d откуцаја</item>
+        <item quantity="one">%1$d откуцај</item>
+        <item quantity="few">%1$d откуцаја</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc2">
+        <item quantity="other">%1$d откуцаја</item>
+        <item quantity="one">%1$d откуцај</item>
+        <item quantity="few">%1$d откуцаја</item>
+    </plurals>
+    <plurals name="common_unit_kilometer">
+        <item quantity="other">km</item>
+        <item quantity="one">km</item>
+        <item quantity="few">km</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+        <item quantity="few">%1$s km</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc_new">
+        <item quantity="other">%1$s m</item>
+        <item quantity="one">%1$s m</item>
+        <item quantity="few">%1$s m</item>
+    </plurals>
+    <plurals name="common_unit_rope_count">
+        <item quantity="other">скокова</item>
+        <item quantity="one">скок</item>
+        <item quantity="few">скока</item>
+    </plurals>
+    <plurals name="common_unit_rowing_machine_count">
+        <item quantity="other">замаха</item>
+        <item quantity="one">замах</item>
+        <item quantity="few">замаха</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" корака"</item>
+        <item quantity="one">" корак"</item>
+        <item quantity="few">" корака"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d корака</item>
+        <item quantity="one">%1$d корак</item>
+        <item quantity="few">%1$d корака</item>
+    </plurals>
+    <plurals name="common_unit_swim_count">
+        <item quantity="other">дужина</item>
+        <item quantity="one">дужина</item>
+        <item quantity="few">дужине</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">пута</item>
+        <item quantity="one">пут</item>
+        <item quantity="few">пута</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$d часова</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping_desc">
+        <item quantity="other">%1$d скокова</item>
+        <item quantity="one">%1$d скок</item>
+        <item quantity="few">%1$d скока</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing_desc">
+        <item quantity="other">%1$d замаха</item>
+        <item quantity="one">%1$d замах</item>
+        <item quantity="few">%1$d замаха</item>
+    </plurals>
+    <plurals name="common_unit_year_old">
+        <item quantity="other">година</item>
+        <item quantity="one">годину</item>
+        <item quantity="few">године</item>
+    </plurals>
+    <plurals name="course_content_segment">
+        <item quantity="other">%d сесија</item>
+        <item quantity="one">%d сесија</item>
+        <item quantity="few">%d сесије</item>
+    </plurals>
+    <plurals name="course_practised_num">
+        <item quantity="other">Тренинзи: %d</item>
+        <item quantity="one">Тренинзи: %d</item>
+        <item quantity="few">Тренинзи: %d</item>
+    </plurals>
+    <plurals name="course_start_times">
+        <item quantity="other">Тренинзи: %d</item>
+        <item quantity="one">Тренинзи: %d</item>
+        <item quantity="few">Тренинзи: %d</item>
+    </plurals>
+    <plurals name="day_in_simplify">
+        <item quantity="other">" %1$d д"</item>
+        <item quantity="one">" %1$d д"</item>
+        <item quantity="few">" %1$d д"</item>
+    </plurals>
+    <plurals name="device_last_charged_time">
+        <item quantity="other">Последњи пут напуњено пре %1$d дана</item>
+        <item quantity="one">Последњи пут напуњено пре %1$d дан</item>
+        <item quantity="few">Последњи пут напуњено пре %1$d дана</item>
+    </plurals>
+    <plurals name="device_last_full_charged_time">
+        <item quantity="other">Последњи пут напуњено пре %1$d дана</item>
+        <item quantity="one">Последњи пут напуњено пре %1$d дан</item>
+        <item quantity="few">Последњи пут напуњено пре %1$d дана</item>
+    </plurals>
+    <plurals name="device_settings_alarm_add_max_expression_plurals">
+        <item quantity="other">Можете да додате до %1$s аларма</item>
+        <item quantity="one">Можете да додате до %1$s аларм</item>
+        <item quantity="few">Можете да додате до %1$s аларма</item>
+    </plurals>
+    <plurals name="device_settings_alarm_clocks">
+        <item quantity="other">%1$d аларма</item>
+        <item quantity="one">%1$d аларм</item>
+        <item quantity="few">%1$d аларма</item>
+    </plurals>
+    <plurals name="device_settings_common_items">
+        <item quantity="other">%1$d догађаја</item>
+        <item quantity="one">%1$d догађај</item>
+        <item quantity="few">%1$d догађаја</item>
+    </plurals>
+    <plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="device_settings_common_unit_heart_rate_desc">
+        <item quantity="other">%1$d откуцаја</item>
+        <item quantity="one">%1$d откуцај</item>
+        <item quantity="few">%1$d откуцаја</item>
+    </plurals>
+    <plurals name="device_settings_contact_list_max_count">
+        <item quantity="other">2. Можете додати највише %1$d омиљених контаката.</item>
+        <item quantity="one">2. Можете додати највише %1$d омиљени контакт.</item>
+        <item quantity="few">2. Можете додати највише %1$d омиљена контакта.</item>
+    </plurals>
+    <plurals name="device_settings_event_content_max_length">
+        <item quantity="other">Можете унети до %1$d карактера</item>
+        <item quantity="one">Можете унети до %1$d карактер</item>
+        <item quantity="few">Можете унети до %1$d карактера</item>
+    </plurals>
+    <plurals name="device_settings_event_minder_add_max_expression">
+        <item quantity="other">Можете додати до %1$d догађаја</item>
+        <item quantity="one">Можете додати до %1$d догађај</item>
+        <item quantity="few">Можете додати до %1$d догађаја</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_warning_freq">
+        <item quantity="other">%1$d откуцаја</item>
+        <item quantity="one">%1$d откуцај</item>
+        <item quantity="few">%1$d откуцаја</item>
+    </plurals>
+    <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
+        <item quantity="other">Можете додати највише %1$d виџета</item>
+        <item quantity="one">Можете додати највише %1$d виџет</item>
+        <item quantity="few">Можете додати највише %1$d виџета</item>
+    </plurals>
+    <plurals name="device_settings_huami_sporttype_quantity_limit_tips">
+        <item quantity="other">Можете додати до %1$d тренинга</item>
+        <item quantity="one">Можете додати до %1$d тренинг</item>
+        <item quantity="few">Можете додати до %1$d тренинга</item>
+    </plurals>
+    <plurals name="device_settings_hypoxemia_notice_threshold_percent">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+        <item quantity="few">%1$d%%</item>
+    </plurals>
+    <plurals name="device_settings_music_list_size_desc">
+        <item quantity="other">%1$d песама</item>
+        <item quantity="one">%1$d песма</item>
+        <item quantity="few">%1$d песме</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_fail">
+        <item quantity="other">Увоз %1$d песама није успео.</item>
+        <item quantity="one">Увоз %1$d песме није успео.</item>
+        <item quantity="few">Увоз %1$d песме није успео.</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_success">
+        <item quantity="other">Успешно је увезено %1$d песама.</item>
+        <item quantity="one">Успешно је увезена %1$d песма.</item>
+        <item quantity="few">Успешно су увезене %1$d песме.</item>
+    </plurals>
+    <plurals name="device_settings_sos_contact_set_count">
+        <item quantity="other">%1$d контаката</item>
+        <item quantity="one">%1$d контакт</item>
+        <item quantity="few">%1$d контакта</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="device_settings_todo_limit_toast">
+        <item quantity="other">Додајте до %1$d подсетника за задатке</item>
+        <item quantity="one">Додајте до %1$d подсетник за задатке</item>
+        <item quantity="few">Додајте до %1$d подсетника за задатке</item>
+    </plurals>
+    <plurals name="device_settings_todo_select_count">
+        <item quantity="other">Изабрано је %1$d ставки</item>
+        <item quantity="one">Изабрана је %1$d ставка</item>
+        <item quantity="few">Изабране су %1$d ставке</item>
+    </plurals>
+    <plurals name="device_settings_unit_heart_rate">
+        <item quantity="other">откуцаја</item>
+        <item quantity="one">откуцај</item>
+        <item quantity="few">откуцаја</item>
+    </plurals>
+    <plurals name="device_settings_widget_manager_max_toast">
+        <item quantity="other">Можете додати до %d виџета</item>
+        <item quantity="one">Можете додати до %d виџет</item>
+        <item quantity="few">Можете додати до %d виџета</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">Изабрано је %1$d ставки</item>
+        <item quantity="one">Изабрана је %1$d ставка</item>
+        <item quantity="few">Изабране су %1$d ставке</item>
+    </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Премотајте %d секунди унапред</item>
+        <item quantity="one">Премотајте %d секунду унапред</item>
+        <item quantity="few">Премотајте %d секунде унапред</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Премотајте %d секунди уназад</item>
+        <item quantity="one">Премотајте %d секунду уназад</item>
+        <item quantity="few">Премотајте %d секунде уназад</item>
+    </plurals>
+    <plurals name="face_band_me_count">
+        <item quantity="other">Екрани наруквице (%1$d)</item>
+        <item quantity="one">Екрани наруквице (%1$d)</item>
+        <item quantity="few">Екрани наруквице (%1$d)</item>
+    </plurals>
+    <plurals name="face_common_img_num">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="face_download_count">
+        <item quantity="other">%1$d преузимања</item>
+        <item quantity="one">%1$d преузимање</item>
+        <item quantity="few">%1$d преузимања</item>
+    </plurals>
+    <plurals name="face_me_count">
+        <item quantity="other">Екрани сата (%1$d)</item>
+        <item quantity="one">Екрани сата (%1$d)</item>
+        <item quantity="few">Екрани сата (%1$d)</item>
+    </plurals>
+    <plurals name="face_photo_add_desc">
+        <item quantity="other">%1$d фотографија</item>
+        <item quantity="one">%1$d фотографија</item>
+        <item quantity="few">%1$d фотографије</item>
+    </plurals>
+    <plurals name="face_photo_delete_confirm_desc">
+        <item quantity="other">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="one">确定从表盘中删除这%1$d张照片？</item>
+        <item quantity="few">确定从表盘中删除这%1$d张照片？</item>
+    </plurals>
+    <plurals name="face_photo_most">
+        <item quantity="other">Додајте до %1$d слика</item>
+        <item quantity="one">Додајте до %1$d слику</item>
+        <item quantity="few">Додајте до %1$d слике</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Пре пола сата</item>
+        <item quantity="one">Пре пола сата</item>
+        <item quantity="few">Пре пола сата</item>
+    </plurals>
+    <plurals name="health_blood_pressure_exception_count">
+        <item quantity="other">пута</item>
+        <item quantity="one">пут</item>
+        <item quantity="few">пута</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_unit">
+        <item quantity="other">откуцаја</item>
+        <item quantity="one">откуцај</item>
+        <item quantity="few">откуцаја</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_value_unit">
+        <item quantity="other">%1$d откуцаја</item>
+        <item quantity="one">%1$d откуцај</item>
+        <item quantity="few">%1$d откуцаја</item>
+    </plurals>
+    <plurals name="health_body_age_format">
+        <item quantity="other">%1$d година</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d године</item>
+    </plurals>
+    <plurals name="health_body_score_format">
+        <item quantity="other">%1$d поена</item>
+        <item quantity="one">%1$d поен</item>
+        <item quantity="few">%1$d поена</item>
+    </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="health_common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+        <item quantity="few">%1$d kcal</item>
+    </plurals>
+    <plurals name="health_common_unit_mh">
+        <item quantity="other">мин.</item>
+        <item quantity="one">мин.</item>
+        <item quantity="few">мин.</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">корака</item>
+        <item quantity="one">корак</item>
+        <item quantity="few">корака</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$d корака</item>
+        <item quantity="one">%1$d корак</item>
+        <item quantity="few">%1$d корака</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc2">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="health_curse_cycle_days">
+        <item quantity="other">Циклус: %1$d дана</item>
+        <item quantity="one">Циклус: %1$d дан</item>
+        <item quantity="few">Циклус: %1$d дана</item>
+    </plurals>
+    <plurals name="health_curse_danger_will">
+        <item quantity="other">Плодни период за %d дана</item>
+        <item quantity="one">Плодни период за %d дан</item>
+        <item quantity="few">Плодни период за %d дана</item>
+    </plurals>
+    <plurals name="health_curse_danger_will_before">
+        <item quantity="other">Плодни период за %d дана</item>
+        <item quantity="one">Плодни период за %d дан</item>
+        <item quantity="few">Плодни период за %d дана</item>
+    </plurals>
+    <plurals name="health_curse_danger_with_ovum">
+        <item quantity="other">Дан овулације. %d. дан плодног периода.</item>
+        <item quantity="one">Дан овулације. %d. дан плодног периода.</item>
+        <item quantity="few">Дан овулације. %d. дан плодног периода.</item>
+    </plurals>
+    <plurals name="health_curse_day">
+        <item quantity="other">дана</item>
+        <item quantity="one">дан</item>
+        <item quantity="few">дана</item>
+    </plurals>
+    <plurals name="health_curse_days_bracket">
+        <item quantity="other">(%d дана)</item>
+        <item quantity="one">(%d дан)</item>
+        <item quantity="few">(%d дана)</item>
+    </plurals>
+    <plurals name="health_curse_days_left_future">
+        <item quantity="other">%d дана до завршетка периода</item>
+        <item quantity="one">%d дан до завршетка периода</item>
+        <item quantity="few">%d дана до завршетка периода</item>
+    </plurals>
+    <plurals name="health_curse_days_left_pre">
+        <item quantity="other">%d дана до завршетка периода</item>
+        <item quantity="one">%d дан до завршетка периода</item>
+        <item quantity="few">%d дана до завршетка периода</item>
+    </plurals>
+    <plurals name="health_curse_easy_pregnancy_before">
+        <item quantity="other">Плодни период за %d дана</item>
+        <item quantity="one">Плодни период за %d дан</item>
+        <item quantity="few">Плодни период за %d дана</item>
+    </plurals>
+    <plurals name="health_curse_in_days">
+        <item quantity="other">Период: %1$d дана</item>
+        <item quantity="one">Период: %1$d дан</item>
+        <item quantity="few">Период: %1$d дана</item>
+    </plurals>
+    <plurals name="health_curse_in_future">
+        <item quantity="other">%d. дан периода</item>
+        <item quantity="one">%d. дан периода</item>
+        <item quantity="few">%d. дан периода</item>
+    </plurals>
+    <plurals name="health_curse_in_pre">
+        <item quantity="other">%d. дан периода</item>
+        <item quantity="one">%d. дан периода</item>
+        <item quantity="few">%d. дан периода</item>
+    </plurals>
+    <plurals name="health_curse_in_start_before">
+        <item quantity="other">Период за %d дана</item>
+        <item quantity="one">Период за %d дан</item>
+        <item quantity="few">Период за %d дана</item>
+    </plurals>
+    <plurals name="health_curse_in_start_will">
+        <item quantity="other">Период за %d дана</item>
+        <item quantity="one">Период за %d дан</item>
+        <item quantity="few">Период за %d дана</item>
+    </plurals>
+    <plurals name="health_curse_ovum_start">
+        <item quantity="other">Овулација за %d дана</item>
+        <item quantity="one">Овулација за %d дан</item>
+        <item quantity="few">Овулација за %d дана</item>
+    </plurals>
+    <plurals name="health_curse_period">
+        <item quantity="other">%d-дневни циклус</item>
+        <item quantity="one">%d-дневни циклус</item>
+        <item quantity="few">%d-дневни циклус</item>
+    </plurals>
+    <plurals name="health_hearing_noise_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="health_mh_home_title">
+        <item quantity="other">Активност %1$d минута</item>
+        <item quantity="one">Активност %1$d минут</item>
+        <item quantity="few">Активност %1$d минута</item>
+    </plurals>
+    <plurals name="health_sleep_breath_quality_value">
+        <item quantity="other">Резултат дисања: %1$d</item>
+        <item quantity="one">Резултат дисања: %1$d</item>
+        <item quantity="few">Резултат дисања: %1$d</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="health_sleep_snore_decibel_unit">
+        <item quantity="other">dB</item>
+        <item quantity="one">dB</item>
+        <item quantity="few">dB</item>
+    </plurals>
+    <plurals name="health_spo2_home_value">
+        <item quantity="other">Кисеоник у крви %1$d%%</item>
+        <item quantity="one">Кисеоник у крви %1$d%%</item>
+        <item quantity="few">Кисеоник у крви %1$d%%</item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$d часова</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+    </plurals>
+    <plurals name="health_stand_count_desc_no_value">
+        <item quantity="other">часова</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+    </plurals>
+    <plurals name="health_stand_unit_time">
+        <item quantity="other">часова</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+    </plurals>
+    <plurals name="health_target_calories_unit">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+        <item quantity="few">%1$d kcal</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">%1$d часова</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+    </plurals>
+    <plurals name="health_target_step_unit">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="health_unit_calorie_space">
+        <item quantity="other">" kcal"</item>
+        <item quantity="one">" kcal"</item>
+        <item quantity="few">" kcal"</item>
+    </plurals>
+    <plurals name="health_unit_count_per_week">
+        <item quantity="other">седмично</item>
+        <item quantity="one">седмично</item>
+        <item quantity="few">седмично</item>
+    </plurals>
+    <plurals name="health_unit_spo2_percent_desc">
+        <item quantity="other">%1$d%%</item>
+        <item quantity="one">%1$d%%</item>
+        <item quantity="few">%1$d%%</item>
+    </plurals>
+    <plurals name="health_vitality_acquire_desc">
+        <item quantity="other">%1$s: Зарађено %2$d поена виталности</item>
+        <item quantity="one">%1$s: Зарађен %2$d поен виталности</item>
+        <item quantity="few">%1$s: Зарађена %2$d поена виталности</item>
+    </plurals>
+    <plurals name="health_vitality_min_in_simplify">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+        <item quantity="few">%1$d мин.</item>
+    </plurals>
+    <plurals name="health_vitality_target_disparity">
+        <item quantity="other">Зарадите још %1$d поена за виталност да бисте дошли до следећег циља</item>
+        <item quantity="one">Зарадите још %1$d поен за виталност да бисте дошли до следећег циља</item>
+        <item quantity="few">Зарадите још %1$d поена за виталност да бисте дошли до следећег циља</item>
+    </plurals>
+    <plurals name="health_vitality_value">
+        <item quantity="other">поена</item>
+        <item quantity="one">поен</item>
+        <item quantity="few">поена</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s kg | + %3$s kg пре %2$d дана</item>
+        <item quantity="one">%1$s kg | + %3$s kg пре %2$d дан</item>
+        <item quantity="few">%1$s kg | + %3$s kg пре %2$d дана</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$s kg | - %3$s kg пре %2$d дана</item>
+        <item quantity="one">%1$s kg | - %3$s kg пре %2$d дан</item>
+        <item quantity="few">%1$s kg | - %3$s kg пре %2$d дана</item>
+    </plurals>
+    <plurals name="health_weight_home_title">
+        <item quantity="other">Тежина %s kg</item>
+        <item quantity="one">Тежина %s kg</item>
+        <item quantity="few">Тежина %s kg</item>
+    </plurals>
+    <plurals name="heartrate_fp_detect_time_remainder">
+        <item quantity="other">Преостало је %1$d секунде</item>
+        <item quantity="one">Преостала је %1$d секунда</item>
+        <item quantity="few">Преостале су %1$d секунде</item>
+    </plurals>
+    <plurals name="hour_in_simplify">
+        <item quantity="other">%1$d ч</item>
+        <item quantity="one">%1$d ч</item>
+        <item quantity="few">%1$d ч</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">За 1 час</item>
+        <item quantity="one">За 1 час</item>
+        <item quantity="few">За 1 час</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">За пола сата</item>
+        <item quantity="one">За пола сата</item>
+        <item quantity="few">За пола сата</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Одмах</item>
+        <item quantity="one">Одмах</item>
+        <item quantity="few">Одмах</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за 1 мин.</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Управо сада</item>
+        <item quantity="one">Управо сада</item>
+        <item quantity="few">Управо сада</item>
+    </plurals>
+    <plurals name="medal_city_medal_to_unlock">
+        <item quantity="other">%1$d градских медаља је доступно</item>
+        <item quantity="one">%1$d градска медаља је доступна</item>
+        <item quantity="few">%1$d градске медаље су доступне</item>
+    </plurals>
+    <plurals name="medal_count">
+        <item quantity="other">Укупно: %1$d | Недавно: %2$d</item>
+        <item quantity="one">Укупно: %1$d | Недавно: %2$d</item>
+        <item quantity="few">Укупно: %1$d | Недавно: %2$d</item>
+    </plurals>
+    <plurals name="medal_total_got_count">
+        <item quantity="other">Примљено %1$d пута</item>
+        <item quantity="one">Примљено %1$d пут</item>
+        <item quantity="few">Примљено %1$d пута</item>
+    </plurals>
+    <plurals name="medal_total_won">
+        <item quantity="other">Освојено %1$d пута</item>
+        <item quantity="one">Освојено %1$d пут</item>
+        <item quantity="few">Освојено %1$d пута</item>
+    </plurals>
+    <plurals name="min_in_simplify">
+        <item quantity="other">%1$d м</item>
+        <item quantity="one">%1$d м</item>
+        <item quantity="few">%1$d м</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d изабраних ставки</item>
+        <item quantity="one">%d изабрана ставка</item>
+        <item quantity="few">%d изабране ставке</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="nfc_common_card_num">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="nfc_common_unit_word_des">
+        <item quantity="other">Можете унети до %1$d карактера</item>
+        <item quantity="one">Можете унети до %1$d карактер</item>
+        <item quantity="few">Можете унети до %1$d карактера</item>
+    </plurals>
+    <plurals name="nfc_issue_card_hold_on_">
+        <item quantity="other">&lt;Data>"Повежите уређај са телефоном.
+Потребно је око %1$d минут."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Повежите уређај са телефоном.
+Потребно је око %1$d минут."&lt;/Data></item>
+        <item quantity="few">&lt;Data>"Повежите уређај са телефоном.
+Потребно је око %1$d минута."&lt;/Data></item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунде</item>
+    </plurals>
+    <plurals name="notify_unit_second">
+        <item quantity="other">секунди</item>
+        <item quantity="one">секунда</item>
+        <item quantity="few">секунде</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Пре %d минута</item>
+        <item quantity="one">Пре 1 мин.</item>
+        <item quantity="few">Пре %d минута</item>
+    </plurals>
+    <plurals name="pk_history_brief_win_percent">
+        <item quantity="other">Такмичење %1$d пута | Освојено %2$d%%</item>
+        <item quantity="one">Такмичење %1$d пут | Освојено %2$d%%</item>
+        <item quantity="few">Такмичење %1$d пута | Освојено %2$d%%</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_unit">
+        <item quantity="other">корака</item>
+        <item quantity="one">корак</item>
+        <item quantity="few">корака</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_value">
+        <item quantity="other">Циљ: %1$d корака</item>
+        <item quantity="one">Циљ: %1$d корак</item>
+        <item quantity="few">Циљ: %1$d корака</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">корака</item>
+        <item quantity="one">корак</item>
+        <item quantity="few">корака</item>
+    </plurals>
+    <plurals name="sport_adjustment_distance_detail">
+        <item quantity="other">Ако су подаци о растојању нетачни, можете их исправити мануелно. Подржани опсег удаљености је %1$.2f-%2$.2f km.</item>
+        <item quantity="one">Ако су подаци о растојању нетачни, можете их исправити мануелно. Подржани опсег удаљености је %1$.2f-%2$.2f km.</item>
+        <item quantity="few">Ако су подаци о растојању нетачни, можете их исправити мануелно. Подржани опсег удаљености је %1$.2f-%2$.2f km.</item>
+    </plurals>
+    <plurals name="sport_local_sport_setting_speed">
+        <item quantity="other">%1$d km/h</item>
+        <item quantity="one">%1$d km/h</item>
+        <item quantity="few">%1$d km/h</item>
+    </plurals>
+    <plurals name="sport_unit_kilometer">
+        <item quantity="other">km</item>
+        <item quantity="one">km</item>
+        <item quantity="few">km</item>
+    </plurals>
+    <plurals name="sport_unit_meter">
+        <item quantity="other">m</item>
+        <item quantity="one">m</item>
+        <item quantity="few">m</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">Пре %1$d дана</item>
+        <item quantity="one">Пре %1$d дан</item>
+        <item quantity="few">Пре %1$d дана</item>
+    </plurals>
+    <plurals name="trail_hint_unit_kcal">
+        <item quantity="other">kcal</item>
+        <item quantity="one">kcal</item>
+        <item quantity="few">kcal</item>
+    </plurals>
+    <plurals name="trail_hint_unit_meter">
+        <item quantity="other">m</item>
+        <item quantity="one">m</item>
+        <item quantity="few">m</item>
+    </plurals>
+    <plurals name="trail_hint_unit_minute">
+        <item quantity="other">мин.</item>
+        <item quantity="one">мин.</item>
+        <item quantity="few">мин.</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trail_label_step">
+        <item quantity="other">корака</item>
+        <item quantity="one">корак</item>
+        <item quantity="few">корака</item>
+    </plurals>
+    <plurals name="trail_label_times">
+        <item quantity="other">тренинга</item>
+        <item quantity="one">тренинг</item>
+        <item quantity="few">тренинга</item>
+    </plurals>
+    <plurals name="trail_row_energy_working_unit">
+        <item quantity="other">W</item>
+        <item quantity="one">W</item>
+        <item quantity="few">W</item>
+    </plurals>
+    <plurals name="trail_share_unit_kilometer">
+        <item quantity="other">" km"</item>
+        <item quantity="one">" km"</item>
+        <item quantity="few">" km"</item>
+    </plurals>
+    <plurals name="trail_sport_data_group_count">
+        <item quantity="other">серија</item>
+        <item quantity="one">серија</item>
+        <item quantity="few">серије</item>
+    </plurals>
+    <plurals name="trail_sport_group_info_title_desc">
+        <item quantity="other">Серије: %d</item>
+        <item quantity="one">Серије: %d</item>
+        <item quantity="few">Серије: %d</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%d часова</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit_only">
+        <item quantity="other">часова</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+    </plurals>
+    <plurals name="trail_sport_times">
+        <item quantity="other">%d тренинга</item>
+        <item quantity="one">%d тренинг</item>
+        <item quantity="few">%d тренинга</item>
+    </plurals>
+    <plurals name="trail_sport_unit_speed_plurals">
+        <item quantity="other">%s km/h</item>
+        <item quantity="one">%s km/h</item>
+        <item quantity="few">%s km/h</item>
+    </plurals>
+    <plurals name="trail_unit_score_desc_new">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s</item>
+    </plurals>
+    <plurals name="trail_unit_time_rope_skipping">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">часова</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">часова</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d часова</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d часова</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">" km"</item>
+        <item quantity="one">" km"</item>
+        <item quantity="few">" km"</item>
+    </plurals>
+    <plurals name="unit_kilometer_without_space">
+        <item quantity="other">km</item>
+        <item quantity="one">km</item>
+        <item quantity="few">km</item>
+    </plurals>
+    <plurals name="unit_meter_space">
+        <item quantity="other">" m"</item>
+        <item quantity="one">" m"</item>
+        <item quantity="few">" m"</item>
+    </plurals>
+    <plurals name="unit_meter_without_space">
+        <item quantity="other">m</item>
+        <item quantity="one">m</item>
+        <item quantity="few">m</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" мин."</item>
+        <item quantity="one">" мин."</item>
+        <item quantity="few">" мин."</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" мин."</item>
+        <item quantity="one">" мин."</item>
+        <item quantity="few">" мин."</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+        <item quantity="few">%1$d мин.</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="unit_point_desc">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">сек.</item>
+        <item quantity="one">сек.</item>
+        <item quantity="few">сек.</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунде</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунде</item>
+    </plurals>
+    <plurals name="unit_speed_meter_sed">
+        <item quantity="other">m/s</item>
+        <item quantity="one">m/s</item>
+        <item quantity="few">m/s</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$d година</item>
+        <item quantity="one">%1$d годину</item>
+        <item quantity="few">%1$d године</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_calorie">
+        <item quantity="other">kcal</item>
+        <item quantity="one">kcal</item>
+        <item quantity="few">kcal</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_heart_rate">
+        <item quantity="other">" BPM"</item>
+        <item quantity="one">" BPM"</item>
+        <item quantity="few">" BPM"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">" корака"</item>
+        <item quantity="one">" корак"</item>
+        <item quantity="few">" корака"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_time">
+        <item quantity="other">часова</item>
+        <item quantity="one">час</item>
+        <item quantity="few">часа</item>
+    </plurals>
+    <plurals name="userinfo_target_calories_unit">
+        <item quantity="other">%1$d kcal</item>
+        <item quantity="one">%1$d kcal</item>
+        <item quantity="few">%1$d kcal</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">%1$d минута</item>
+        <item quantity="one">%1$d минут</item>
+        <item quantity="few">%1$d минута</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">%1$d часова</item>
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+    </plurals>
+    <plurals name="userinfo_target_step_unit">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="few">%1$d</item>
+    </plurals>
+    <plurals name="userinfo_unit_heart_rate_space">
+        <item quantity="other">%1$d откуцаја</item>
+        <item quantity="one">%1$d откуцај</item>
+        <item quantity="few">%1$d откуцаја</item>
+    </plurals>
+    <plurals name="userinfo_unit_min">
+        <item quantity="other">мин.</item>
+        <item quantity="one">мин.</item>
+        <item quantity="few">мин.</item>
+    </plurals>
+    <plurals name="userinfo_user_age_display_format_year">
+        <item quantity="other">%1$d година</item>
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d године</item>
+    </plurals>
+</resources>

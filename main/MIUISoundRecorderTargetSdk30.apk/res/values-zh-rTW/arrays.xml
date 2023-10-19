@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>音樂</item>
+        <item>普通</item>
+        <item>採訪</item>
+        <item>高清</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>音樂</item>
+        <item>普通</item>
+        <item>採訪</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>高</item>
+        <item>標準</item>
+        <item>低</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>音樂</item>
+        <item>普通</item>
+    </string-array>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"ਹੋਮ 'ਤੇ ਜਾਓ"</string>
+    <string name="abc_action_bar_up_description">ਉੱਪਰ ਜਾਓ</string>
+    <string name="abc_action_menu_overflow_description">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="abc_action_mode_done">ਹੋ ਗਿਆ</string>
+    <string name="abc_activity_chooser_view_see_all">ਸਭ ਦੇਖੋ</string>
+    <string name="abc_activitychooserview_choose_application">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+    <string name="abc_capital_off">ਬੰਦ</string>
+    <string name="abc_capital_on">ਚਾਲੂ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ਮਿਟਾਓ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ਖੋਜ…</string>
+    <string name="abc_searchview_description_clear">ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ</string>
+    <string name="abc_searchview_description_query">ਖੋਜ ਪੁੱਛਗਿੱਛ</string>
+    <string name="abc_searchview_description_search">ਖੋਜ</string>
+    <string name="abc_searchview_description_submit">ਪੁੱਛਗਿੱਛ ਸਪੁਰਦ ਕਰੋ</string>
+    <string name="abc_searchview_description_voice">ਅਵਾਜ਼ੀ ਖੋਜ</string>
+    <string name="abc_shareactionprovider_share_with">ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="abc_toolbar_collapse_description">ਸਮੇਟੋ</string>
+    <string name="app_label">ਸੰਬੰਧੀ ਡੀਵਾਈਸ ਪ੍ਰਬੰਧਕ</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong> ਵੱਲੋਂ ਪ੍ਰਬੰਧਿਤ ਕੀਤੇ ਜਾਣ ਲਈ %1$s ਚੁਣੋ</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong> ਨੂੰ ਤੁਹਾਡੇ &lt;strong>%2$s&lt;/strong> ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="consent_back">ਪਿੱਛੇ</string>
+    <string name="consent_no">ਆਗਿਆ ਨਾ ਦਿਓ</string>
+    <string name="consent_yes">ਆਗਿਆ ਦਿਓ</string>
+    <string name="helper_summary_app_streaming">%1$s ਤੁਹਾਡੇ %2$s ਦੀ ਤਰਫ਼ੋਂ ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਫ਼ੋਟੋਆਂ, ਮੀਡੀਆ ਅਤੇ ਸੂਚਨਾਵਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਮੰਗ ਰਹੀ ਹੈ</string>
+    <string name="helper_summary_computer">%1$s ਤੁਹਾਡੇ %2$s ਦੀ ਤਰਫ਼ੋਂ ਤੁਹਾਡੇ ਡੀਵਾਈਸਾਂ ਵਿਚਕਾਰ ਐਪਾਂ ਨੂੰ ਸਟ੍ਰੀਮ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਮੰਗ ਰਹੀ ਹੈ</string>
+    <string name="helper_title_app_streaming">ਕ੍ਰਾਸ-ਡੀਵਾਈਸ ਸੇਵਾਵਾਂ</string>
+    <string name="helper_title_computer">Google Play ਸੇਵਾਵਾਂ</string>
+    <string name="permission_apps">ਐਪਾਂ</string>
+    <string name="permission_apps_summary">ਆਪਣੇ ਫ਼ੋਨ ਦੀਆਂ ਐਪਾਂ ਨੂੰ ਸਟ੍ਰੀਮ ਕਰੋ</string>
+    <string name="permission_notification">ਸੂਚਨਾਵਾਂ</string>
+    <string name="permission_notification_summary">ਤੁਸੀਂ ਸਾਰੀਆਂ ਸੂਚਨਾਵਾਂ ਪੜ੍ਹ ਸਕਦੇ ਹੋ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਸੰਪਰਕਾਂ, ਸੁਨੇਹਿਆਂ ਅਤੇ ਫ਼ੋਟੋਆਂ ਵਰਗੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਹੁੰਦੀ ਹੈ</string>
+    <string name="permission_storage">ਫ਼ੋਟੋਆਂ ਅਤੇ ਮੀਡੀਆ</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">"ਐਪ ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਆਪਣੀ ਘੜੀ 'ਤੇ ਟ੍ਰਾਂਸਫ਼ਰ ਕਰੋ"</string>
+    <string name="permission_sync_summary">"ਤੁਹਾਡੀ ਘੜੀ ਦਾ ਸੈੱਟਅੱਪ ਕਰਨਾ ਆਸਾਨ ਬਣਾਉਣ ਲਈ, ਤੁਹਾਡੀ ਘੜੀ 'ਤੇ ਸਥਾਪਤ ਐਪਾਂ ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਉਹੀ ਇਜਾਜ਼ਤਾਂ ਵਰਤਣਗੀਆਂ ਜੋ ਤੁਹਾਡਾ ਫ਼ੋਨ ਵਰਤਦਾ ਹੈ।
+
+ ਇਨ੍ਹਾਂ ਇਜਾਜ਼ਤਾਂ ਵਿੱਚ ਤੁਹਾਡੀ ਘੜੀ ਦੇ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਅਤੇ ਟਿਕਾਣੇ ਤੱਕ ਪਹੁੰਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ।"</string>
+    <string name="profile_name_generic">ਡੀਵਾਈਸ</string>
+    <string name="profile_name_watch">ਸਮਾਰਟ-ਵਾਚ</string>
+    <string name="search_menu_title">ਖੋਜ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">ਤੁਹਾਡੇ %1$s ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਇਹ ਐਪ ਲੋੜੀਂਦੀ ਹੈ। %2$s ਨੂੰ ਤੁਹਾਡੀਆਂ ਸੂਚਨਾਵਾਂ ਨਾਲ ਅੰਤਰਕਿਰਿਆ ਕਰਨ ਅਤੇ ਤੁਹਾਡੇ ਫ਼ੋਨ, SMS, ਸੰਪਰਕਾਂ, ਕੈਲੰਡਰ, ਕਾਲ ਲੌਗਾਂ ਅਤੇ ਨਜ਼ਦੀਕੀ ਡੀਵਾਈਸਾਂ ਸੰਬੰਧੀ ਇਜਾਜ਼ਤਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਆਗਿਆ ਹੋਵੇਗੀ।</string>
+    <string name="title_app_streaming">&lt;strong>%1$s&lt;/strong> ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਤੋਂ ਇਸ ਜਾਣਕਾਰੀ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">&lt;strong>%1$s&lt;/strong> ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਤੋਂ ਇਸ ਜਾਣਕਾਰੀ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="vendor_header_button_description">ਹੋਰ ਜਾਣਕਾਰੀ ਬਟਨ</string>
+    <string name="vendor_icon_description">ਐਪ ਪ੍ਰਤੀਕ</string>
+</resources>

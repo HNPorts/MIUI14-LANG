@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голас</item>
+        <item>"Інтэрв'ю"</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голас</item>
+        <item>Інтэрвью</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Высокая</item>
+        <item>Стандартная</item>
+        <item>Нізкая</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голас</item>
+    </string-array>
+</resources>

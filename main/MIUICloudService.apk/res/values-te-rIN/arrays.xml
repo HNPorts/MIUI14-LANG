@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>సింక్ అయిన అంశాలను గుర్తించడం కోసం</item>
+        <item>సందేశాలను సింక్ చేయడానికి</item>
+        <item>పరిచయాలను సింక్ చేయడానికి</item>
+        <item>క్యాలెండర్ ఈవెంట్‌లను సింక్ చేయడానికి</item>
+        <item>నిల్వని ఉపయోగించే సేవలతో అంశాలను సింక్ చేయడానికి</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ఫోన్</item>
+        <item>SMS‌</item>
+        <item>పరిచయాలు</item>
+        <item>క్యాలెండర్</item>
+        <item>నిల్వ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>పరిచయాలు, సందేశాలు, గమనికలు, క్యాలెండర్ మరియు మరిన్నింటిని సింక్ చేయండి</item>
+        <item>అప్లికేషన్‌లు, హోమ్ స్క్రీన్ లేఅవుట్ మరియు వాల్‌పేపర్‌ని బ్యాకప్ చేయండి</item>
+        <item>Wi-Fi మరియు డిస్‌ప్లేతోసహా ముఖ్యమైన సెట్టింగ్‌లను బ్యాకప్ చేయండి</item>
+        <item>మీరు మీ పరికరాన్ని కోల్పోయినట్లయితే దానిని ఎక్కడి నుండి అయినా లాక్ చేయండి</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>పరిచయాలు, సందేశాలు, గమనికలు, క్యాలెండర్ మరియు మరిన్నింటిని సింక్ చేయండి</item>
+        <item>అప్లికేషన్‌లు, హోమ్ స్క్రీన్ లేఅవుట్ మరియు వాల్‌పేపర్‌ని బ్యాకప్ చేయండి</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>మీరు మీ పరికరాన్ని కోల్పోయినట్లయితే దానిని ఎక్కడి నుండి అయినా లాక్ చేయండి</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>పరిచయాలు, సందేశాలు, గమనికలు, క్యాలెండర్ మరియు మరిన్నింటిని సింక్ చేయండి</item>
+        <item>అప్లికేషన్‌లు, హోమ్ స్క్రీన్ లేఅవుట్ మరియు వాల్‌పేపర్‌ని బ్యాకప్ చేయండి</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>మీరు మీ పరికరాన్ని కోల్పోయినట్లయితే దానిని ఎక్కడి నుండి అయినా లాక్ చేయండి</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>మీ ఫోటోలు, గమనికలు, రికార్డింగ్‌లు మరియు మరిన్నింటిని సింక్ చేయండి</item>
+        <item>మీరు మీ పరికరాన్ని కోల్పోయినట్లయితే దానిని ఎక్కడి నుండి అయినా లాక్ చేయండి</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>పరిచయాలు, సందేశాలు, గమనికలు, క్యాలెండర్ మరియు మరిన్నింటిని సింక్ చేయండి</item>
+        <item>అప్లికేషన్‌లు, హోమ్ స్క్రీన్ లేఅవుట్ మరియు వాల్‌పేపర్‌ని బ్యాకప్ చేయండి</item>
+        <item>Wi-Fi మరియు డిస్‌ప్లేతోసహా ముఖ్యమైన సెట్టింగ్‌లను బ్యాకప్ చేయండి</item>
+        <item>మీరు మీ పరికరాన్ని కోల్పోయినట్లయితే దానిని ఎక్కడి నుండి అయినా లాక్ చేయండి</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>అప్లికేషన్ డేటాని సింక్ చేయి</item>
+        <item>హోమ్ స్క్రీన్ లేఅవుట్‌ని బ్యాకప్ చేయి</item>
+        <item>సిస్టమ్ సెట్టింగ్‌లను బ్యాకప్ చేయి</item>
+        <item>పరికరాన్ని కనుగొను సేవ</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>యాప్ డేటాని సింక్ చేయి</item>
+        <item>పరికరాన్ని కనుగొను సేవ</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>మీ పరికరాన్ని గుర్తించేందుకు మరియు పోగొట్టుకున్న మోడ్‌కి మారేందుకు</item>
+        <item>ఇంటర్నెట్‌కి కనెక్ట్ అయి లేనప్పుడు, ఈ పరికరాన్ని గుర్తించడానికి</item>
+        <item>ఈ పరికరం ఇంటర్నెట్‌కి కనెక్ట్ అయి లేనప్పుడు, పరికరాన్ని గుర్తించడానికి ఫోన్ నంబర్‌ని యాక్సెస్ చేసేందుకు</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>బ్యాకప్‌లు</item>
+        <item>బ్యాకప్ చేసిన అంశాలు</item>
+        <item>క్లౌడ్;బ్యాకప్;బ్యాకప్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్;హోమ్ స్క్రీన్;లేఅవుట్;యాప్స్;బ్యాకప్‌లను నిర్వహించండి;పునరుద్ధరించు</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Xiaomi క్లౌడ్‌కి హోమ్ స్క్రీన్ లేఅవుట్‌ని బ్యాకప్ చేయి</item>
+        <item>హోమ్ స్క్రీన్ లేఅవుట్, ఇన్‌స్టాల్ చేసిన అప్లికేషన్‌ల జాబితా మరియు సిస్టమ్ సెట్టింగ్‌లను బ్యాకప్ చేయి</item>
+        <item>క్లౌడ్;బ్యాకప్;బ్యాకప్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్;హోమ్ స్క్రీన్;లేఅవుట్;యాప్స్;సెట్టింగ్‌లు;బ్యాకప్ తరచుదనం;‌బ్యాకప్‌లను నిర్వహించండి;పునరుద్ధరించు</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Xiaomi క్లౌడ్‌తో బ్రౌజర్‌ని సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>బ్రౌజర్;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Xiaomi క్లౌడ్‌తో క్యాలెండర్‌ని సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>క్యాలెండర్;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi క్లౌడ్‌తో పరిచయాలను సింక్ చేయి</item>
+        <item>ఆన్ చేయి/సింక్ సెటప్ చేయండి</item>
+        <item>పరిచయాలు;కాల్ చరిత్ర;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Xiaomi క్లౌడ్‌తో కాల్ చరిత్రని సింక్ చేయి</item>
+        <item>ఆన్ చేయి/సింక్ సెటప్ చేయండి</item>
+        <item>కాల్ చరిత్ర;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>పరికరాన్ని కనుగొను సేవ</item>
+        <item>మీ పరికరాన్ని కోల్పోయినట్లయితే దానిలోని డేటాని తీసివేసి, దానిని లాక్ చేయండి</item>
+        <item>పరికరాన్ని కనుగొను సేవ;పోగొట్టుకోవడం;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>పరికరాన్ని కనుగొను సేవ</item>
+        <item>మీ పరికరాన్ని కోల్పోయినట్లయితే దానిలోని డేటాని తీసివేసి, దానిని లాక్ చేయండి</item>
+        <item>పరికరాన్ని కనుగొను సేవ;పోగొట్టుకోవడం;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Xiaomi క్లౌడ్‌తో గ్యాలరీని సింక్ చేయి</item>
+        <item>ఆన్ చేయి/సింక్ సెటప్ చేయండి</item>
+        <item>గ్యాలరీ;ఫోటోలు;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi క్లౌడ్‌తో గమనికలను సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>గమనికలు;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi క్లౌడ్‌తో గమనికలను సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>గమనికలు;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Xiaomi క్లౌడ్‌తో అప్లికేషన్ వాల్ట్‌ని సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>అప్లికేషన్ వాల్ట్;కార్డ్‌లు;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>త్వరిత సమాధానాలు సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయి</item>
+        <item>త్వరిత సమాధానాలు;క్లిప్‌బోర్డ్;ఎడిటర్;క్లౌడ్;సింక్;క్లౌడ్ సేవలు</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi క్లౌడ్‌తో రికార్డింగ్‌లను సింక్ చేయండి</item>
+        <item>ఆన్ చేయి/సింక్ సెటప్ చేయండి</item>
+        <item>రికార్డర్;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi క్లౌడ్‌లో తొలగించిన అంశాలు</item>
+        <item>పరిచయాలు, ఫోటోలు, సందేశాలు మరియు మరిన్నింటిని పునరుద్ధరించండి</item>
+        <item>ట్రాష్;తొలగించిన అంశాలు;ట్రాష్ బిన్;పునరుద్ధరించు;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi క్లౌడ్‌లో తొలగించిన అంశాలు</item>
+        <item>ఫోటోలు, గమనికలు మరియు మరిన్నింటిని పునరుద్ధరించండి</item>
+        <item>ట్రాష్;తొలగించిన అంశాలు;ట్రాష్ బిన్;పునరుద్ధరించు;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi క్లౌడ్ నుండి అంశాలను పునరుద్ధరించండి</item>
+        <item>మీ పరికరానికి బ్యాకప్ చేసిన అంశాలను డౌన్‌లోడ్ చేయండి</item>
+        <item>క్లౌడ్;బ్యాకప్;బ్యాకప్;పునరుద్ధరించు;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>భద్రత క్లౌడ్ సింక్</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>భద్రత;క్లౌడ్;Xiaomi క్లౌడ్;సింక్;క్లౌడ్ సేవలు</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>భద్రత క్లౌడ్ సింక్</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>భద్రత;క్లౌడ్;Xiaomi క్లౌడ్;సింక్;క్లౌడ్ సేవలు</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi క్లౌడ్‌తో సందేశాలను సింక్ చేయి</item>
+        <item>ఆన్ చేయి/సింక్ సెటప్ చేయండి</item>
+        <item>సందేశాలు;SMS;MMS;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi క్లౌడ్ సభ్యత్వం కొనుగోలు చేయండి</item>
+        <item>మీ సభ్యత్వాన్ని అప్‌గ్రేడ్ చేసి, మరింత నిల్వ ప్రదేశాన్ని పొందండి మరియు మీ డేటాని సురక్షితం చేసుకోండి</item>
+        <item>తగినంత నిల్వ లేదు;సభ్యత్వం;నిల్వ;నిల్వ ప్రదేశం;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్;మెగా;ఆల్ట్రా;విఐపి;బ్యాకప్;బ్యాకప్;పునరుద్ధరించు;ట్రాష్;తొలగించిన అంశాలు;ట్రాష్ బిన్</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi క్లౌడ్. అన్ని Mi సేవలు ఒకే ప్రదేశంలో.</item>
+        <item>ఎక్కడి నుండైనా మీ ఫోటోలు, పరిచయాలు, సందేశాలు మరియు పరికరాలకు ప్రవేశం పొందండి</item>
+        <item>తగినంత నిల్వ లేదు;సభ్యత్వం;నిల్వ;నిల్వ ప్రదేశం;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్;ట్రాష్;తొలగించిన అంశాలు;భద్రత</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi క్లౌడ్. అన్ని Mi సేవలు ఒకే ప్రదేశంలో.</item>
+        <item>ఎక్కడి నుండైనా మీ ఫోటోలు, గమనికలు మరియు పరికరాలకు ప్రవేశం పొందండి</item>
+        <item>తగినంత నిల్వ లేదు;సభ్యత్వం;నిల్వ;నిల్వ ప్రదేశం;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్;ట్రాష్;తొలగించిన అంశాలు;భద్రత</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi క్లౌడ్‌తో Wi-Fi సెట్టింగ్‌లు సింక్ చేయి</item>
+        <item>సింక్ ఆన్ చేయండి</item>
+        <item>WLAN;wifi;Wi-Fi;క్లౌడ్;సింక్;క్లౌడ్ సేవలు;Xiaomi క్లౌడ్</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>సింక్ ఆన్ చేయి</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+</resources>

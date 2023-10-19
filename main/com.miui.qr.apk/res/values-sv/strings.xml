@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Stäng navigeringsmenyn</string>
+    <string name="close_sheet">Stäng kalkylarket</string>
+    <string name="default_error_message">Ogiltiga indata</string>
+    <string name="default_popup_window_title">Popup-fönster</string>
+    <string name="dropdown_menu">Rullgardinsmeny</string>
+    <string name="in_progress">Pågår</string>
+    <string name="indeterminate">Varken markerad eller avmarkerad</string>
+    <string name="navigation_menu">Navigeringsmeny</string>
+    <string name="not_selected">Inte vald</string>
+    <string name="off">Av</string>
+    <string name="on">På</string>
+    <string name="range_end">Intervallets slut</string>
+    <string name="range_start">Intervallets början</string>
+    <string name="selected">Valt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Flik</string>
+    <string name="template_percent">%1$d procent.</string>
+</resources>

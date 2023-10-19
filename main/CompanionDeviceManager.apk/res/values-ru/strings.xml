@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="app_label">Управление подключенными устройствами</string>
+    <string name="chooser_title">Выберите устройство (%1$s), которым будет управлять приложение &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Разрешите приложению &lt;strong>%1$s&lt;/strong> доступ к устройству &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Назад</string>
+    <string name="consent_no">Запретить</string>
+    <string name="consent_yes">Разрешить</string>
+    <string name="helper_summary_app_streaming">Приложение \"%1$s\" запрашивает разрешение от имени вашего устройства %2$s, чтобы получить доступ к фотографиям, медиаконтенту и уведомлениям на телефоне.</string>
+    <string name="helper_summary_computer">Приложение \"%1$s\" запрашивает доступ от имени вашего устройства %2$s, чтобы транслировать приложения между вашими устройствами.</string>
+    <string name="helper_title_app_streaming">Сервисы стриминга приложений</string>
+    <string name="helper_title_computer">Сервисы Google Play</string>
+    <string name="permission_apps">Приложения</string>
+    <string name="permission_apps_summary">Трансляция приложений с телефона.</string>
+    <string name="permission_notification">Уведомления</string>
+    <string name="permission_notification_summary">Чтение всех уведомлений, в том числе сведений о контактах, сообщениях и фотографиях.</string>
+    <string name="permission_storage">Фотографии и медиафайлы</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Перенос разрешений для приложений на часы</string>
+    <string name="permission_sync_summary">"Для приложений, установленных на часы во время настройки, будут использоваться те же разрешения, что и на телефоне.
+
+ Например, может быть включен доступ к микрофону на часах или сведениям о местоположении."</string>
+    <string name="profile_name_generic">устройство</string>
+    <string name="profile_name_watch">часы</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Это приложение необходимо для управления устройством \"%1$s\". Приложение \"%2$s\" получит доступ к уведомлениям, а также следующие разрешения: телефон, SMS, контакты, календарь, список вызовов и устройства поблизости.</string>
+    <string name="title_app_streaming">Разрешите приложению &lt;strong>%1$s&lt;/strong> получать эту информацию с вашего телефона</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Разрешите приложению &lt;strong>%1$s&lt;/strong> получать эту информацию с вашего телефона</string>
+    <string name="vendor_header_button_description">Кнопка информации</string>
+    <string name="vendor_icon_description">Значок приложения</string>
+</resources>

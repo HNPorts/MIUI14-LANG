@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">მთავარზე გადასვლა</string>
+    <string name="abc_action_bar_up_description">ზემოთ გადასვლა</string>
+    <string name="abc_action_menu_overflow_description">სხვა ვარიანტები</string>
+    <string name="abc_action_mode_done">მზადაა</string>
+    <string name="abc_activity_chooser_view_see_all">ყველას ნახვა</string>
+    <string name="abc_activitychooserview_choose_application">აირჩიეთ აპი</string>
+    <string name="abc_capital_off">გამორთვა</string>
+    <string name="abc_capital_on">ჩართვა</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">შორისი</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ძიება…</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_query">მოთხოვნის ძიება</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_shareactionprovider_share_with">გაზიარება:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-ით გაზიარება</string>
+    <string name="abc_toolbar_collapse_description">ჩაკეცვა</string>
+    <string name="app_label">კომპანიონი მოწყობილობების მენეჯერი</string>
+    <string name="chooser_title">აირჩიეთ %1$s, რომელიც უნდა მართოს &lt;strong>%2$s&lt;/strong>-მა</string>
+    <string name="confirmation_title">დაუშვით &lt;strong>%1$s-ის&lt;/strong>, წვდომა თქვენს &lt;strong>%2$s-ზე&lt;/strong></string>
+    <string name="consent_back">უკან</string>
+    <string name="consent_no">არ დაიშვას</string>
+    <string name="consent_yes">დაშვება</string>
+    <string name="helper_summary_app_streaming">%1$s ითხოვს უფლებას თქვენი %2$s-ის სახელით, რომ წვდომა ჰქონდეს თქვენი ტელეფონის ფოტოებზე, მედიასა და შეტყობინებებზე</string>
+    <string name="helper_summary_computer">%1$s ითხოვს უფლებას თქვენი %2$s-ის სახელით, რომ მოწყობილობებს შორის სტრიმინგი შეძლოს</string>
+    <string name="helper_title_app_streaming">მოწყობილობათშორისი სერვისები</string>
+    <string name="helper_title_computer">Google Play services</string>
+    <string name="permission_apps">აპები</string>
+    <string name="permission_apps_summary">თქვენი ტელეფონის აპების სტრიმინგი</string>
+    <string name="permission_notification">შეტყობინებები</string>
+    <string name="permission_notification_summary">შეუძლია წაიკითხოს ყველა შეტყობინება, მათ შორის ისეთი ინფორმაცია, როგორიცაა კონტაქტები, ტექსტური შეტყობინებები და ფოტოები</string>
+    <string name="permission_storage">ფოტოები და მედია</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">აპის ნებართვების საათისთვის გადაცემა</string>
+    <string name="permission_sync_summary">"საათის დაყენების გასამარტივებლად თქვენს საათში დაინსტალირებული აპები იმავე ნებართვებს გამოიყენებს, რასაც ტელეფონზე იყენებს.
+
+ ეს ნებართვები, შესაძლოა, მოიცავდეს თქვენი საათის მიკროფონსა და მდებარეობაზე წვდომას."</string>
+    <string name="profile_name_generic">მოწყობილობა</string>
+    <string name="profile_name_watch">საათი</string>
+    <string name="search_menu_title">ძიება</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">ეს აპი საჭიროა თქვენი %1$s-ს სამართავად. %2$s შეძლებს თქვენს შეტყობინებებთან ინტერაქციას და თქვენი ტელეფონის, SMS-ების, კონტაქტებისა, კალენდრის, ზარების ჟურნალისა და ახლომახლო მოწყობილობების ნებართვებზე წვდომას.</string>
+    <string name="title_app_streaming">ნება დართეთ, რომ &lt;strong>%1$s&lt;/strong> აპს ჰქონდეს ამ ინფორმაციაზე წვდომა თქვენი ტელეფონიდან</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">ნება დართეთ, რომ &lt;strong>%1$s&lt;/strong> აპს ჰქონდეს ამ ინფორმაციაზე წვდომა თქვენი ტელეფონიდან</string>
+    <string name="vendor_header_button_description">დამატებითი ინფორმაციის ღილაკი</string>
+    <string name="vendor_icon_description">აპის ხატულა</string>
+</resources>

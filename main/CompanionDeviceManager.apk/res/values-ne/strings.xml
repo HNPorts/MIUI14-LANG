@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होम पेजमा जानुहोस्</string>
+    <string name="abc_action_bar_up_description">माथि नेभिगेट गर्नुहोस्</string>
+    <string name="abc_action_menu_overflow_description">थप विकल्पहरू</string>
+    <string name="abc_action_mode_done">सम्पन्न भयो</string>
+    <string name="abc_activity_chooser_view_see_all">सबै हेर्नुहोस्</string>
+    <string name="abc_activitychooserview_choose_application">एउटा एप छान्नुहोस्</string>
+    <string name="abc_capital_off">निष्क्रिय</string>
+    <string name="abc_capital_on">सक्रिय</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोज्नुहोस्…</string>
+    <string name="abc_searchview_description_clear">क्वेरी खाली गर्नुहोस्</string>
+    <string name="abc_searchview_description_query">खोज प्रश्न</string>
+    <string name="abc_searchview_description_search">खोज</string>
+    <string name="abc_searchview_description_submit">क्वेरी पेस गर्नुहोस्</string>
+    <string name="abc_searchview_description_voice">आवाजमा आधारित खोजी</string>
+    <string name="abc_shareactionprovider_share_with">यसमार्फत सेयर गर्नुहोस्</string>
+    <string name="abc_shareactionprovider_share_with_application">%s मार्फत सेयर गर्नुहोस्</string>
+    <string name="abc_toolbar_collapse_description">संक्षिप्त गर्नुहोस्</string>
+    <string name="app_label">सहयोगी डिभाइसको प्रबन्धक</string>
+    <string name="chooser_title">आफूले &lt;strong>%2$s&lt;/strong> प्रयोग गरी व्यवस्थापन गर्न चाहेको %1$s चयन गर्नुहोस्</string>
+    <string name="confirmation_title">आफ्नो &lt;strong>%2$s&lt;/strong> लाई &lt;strong>%1$s&lt;/strong> प्रयोग गर्ने अनुमति दिनुहोस्</string>
+    <string name="consent_back">पछाडि</string>
+    <string name="consent_no">अनुमति नदिनुहोस्</string>
+    <string name="consent_yes">अनुमति दिनुहोस्</string>
+    <string name="helper_summary_app_streaming">%1$s तपाईंको डिभाइस %2$s को तर्फबाट तपाईंको फोनमा भएका फोटो, मिडिया र सूचनाहरू हेर्ने तथा प्रयोग गर्ने अनुमति माग्दै छ</string>
+    <string name="helper_summary_computer">%1$s तपाईंको डिभाइस %2$s को तर्फबाट तपाईंका कुनै एउटा डिभाइसबाट अर्को डिभाइसमा एप स्ट्रिम गर्ने अनुमति माग्दै छ</string>
+    <string name="helper_title_app_streaming">क्रस-डिभाइस सेवाहरू</string>
+    <string name="helper_title_computer">Google Play services</string>
+    <string name="permission_apps">एपहरू</string>
+    <string name="permission_apps_summary">आफ्नो फोनका एपहरू प्रयोग गर्नुहोस्</string>
+    <string name="permission_notification">सूचनाहरू</string>
+    <string name="permission_notification_summary">कन्ट्याक्ट, म्यासेज र फोटोलगायतका जानकारीसहित सबै सूचनाहरू पढ्न सक्छ</string>
+    <string name="permission_storage">फोटो र मिडिया</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">एपलाई दिइएका अनुमति घडीमा ट्रान्स्फर गर्नुहोस्</string>
+    <string name="permission_sync_summary">"तपाईंको घडी सेटअप गर्ने कार्य सजिलो बनाउनका लागि सेटअप गर्ने क्रममा तपाईंको घडीमा इन्स्टल गरिएका एपहरूले पनि तपाईंको फोनमा दिइएको जस्तै अनुमति प्रयोग गर्ने छन्।
+
+ यी अनुमतिमा तपाईंको घडीको माइक्रोफोन र लोकेसन प्रयोग गर्ने जस्ता अनुमति पर्न सक्छन्।"</string>
+    <string name="profile_name_generic">यन्त्र</string>
+    <string name="profile_name_watch">घडी</string>
+    <string name="search_menu_title">खोज</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">तपाईंको %1$s व्यवस्थापन गर्न यो एपलाई अनुमति दिनु पर्ने हुन्छ। %2$s लाई तपाईंका सूचना हेर्ने र फोन, SMS, कन्ट्याक्ट, पात्रो, कल लग तथा नजिकैका डिभाइससम्बन्धी अनुमतिहरू हेर्ने तथा प्रयोग गर्ने अनुमति दिइने छ।</string>
+    <string name="title_app_streaming">&lt;strong>%1$s&lt;/strong> लाई तपाईंको फोनमा भएको यो जानकारी हेर्ने तथा प्रयोग गर्ने अनुमति दिनुहोस्</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">&lt;strong>%1$s&lt;/strong> लाई तपाईंको फोनमा भएको यो जानकारी हेर्ने तथा प्रयोग गर्ने अनुमति दिनुहोस्</string>
+    <string name="vendor_header_button_description">थप जानकारी देखाउने बटन</string>
+    <string name="vendor_icon_description">एपको आइकन</string>
+</resources>

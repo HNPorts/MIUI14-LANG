@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Kara jumlolin da ake yawan amfani da su</string>
+    <string name="edit_frequent_phrases">Gyara jumlolin da ake yawan amfani da su</string>
+    <string name="frequent_phrases">Jumlolin da ake yawan amfani da su</string>
+    <string name="query">Bincika</string>
+    <string name="select">Zaba</string>
+</resources>

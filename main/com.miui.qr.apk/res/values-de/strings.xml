@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Navigationsmenü schließen</string>
+    <string name="close_sheet">Tabelle schließen</string>
+    <string name="default_error_message">Ungültige Eingabe</string>
+    <string name="default_popup_window_title">Pop-up-Fenster</string>
+    <string name="dropdown_menu">Drop-down-Menü</string>
+    <string name="in_progress">In Bearbeitung</string>
+    <string name="indeterminate">Häkchen weder gesetzt noch entfernt</string>
+    <string name="navigation_menu">Navigationsmenü</string>
+    <string name="not_selected">Nicht ausgewählt</string>
+    <string name="off">Aus</string>
+    <string name="on">An</string>
+    <string name="range_end">Bereichsende</string>
+    <string name="range_start">Bereichsstart</string>
+    <string name="selected">Ausgewählt</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d Prozent.</string>
+</resources>

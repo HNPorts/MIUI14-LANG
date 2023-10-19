@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">வழிசெலுத்தல் மெனுவை மூடும்</string>
+    <string name="close_sheet">ஷீட்டை மூடும்</string>
+    <string name="default_error_message">தவறான உள்ளீடு</string>
+    <string name="default_popup_window_title">பாப்-அப் சாளரம்</string>
+    <string name="dropdown_menu">கீழ்த்தோன்றல் மெனு</string>
+    <string name="in_progress">செயலிலுள்ளது</string>
+    <string name="indeterminate">தேர்வுசெய்யப்பட்டது மற்றும் தேர்வுசெய்யப்படாதது</string>
+    <string name="navigation_menu">வழிசெலுத்தல் மெனு</string>
+    <string name="not_selected">தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="off">முடக்கப்பட்டுள்ளது</string>
+    <string name="on">இயக்கப்பட்டுள்ளது</string>
+    <string name="range_end">வரம்பு முடிவு</string>
+    <string name="range_start">வரம்பு தொடக்கம்</string>
+    <string name="selected">தேர்ந்தெடுக்கப்பட்டுள்ளது</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">பிரிவு</string>
+    <string name="template_percent">%1$d சதவீதம்.</string>
+</resources>

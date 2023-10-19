@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_key_item_name">
+        <item>ສົນທະນາກັບຜູ້ຊ່ວຍ Google</item>
+        <item>ເປີດການຄົ້ນຫາດ້ວຍ Google</item>
+        <item>ເປີດກ້ອງຫຼັງ</item>
+        <item>ເປີດກ້ອງໜ້າ</item>
+        <item>ເປີດແອັບກ່ອນໜ້ານີ້</item>
+        <item>ເປີດໄຟສາຍ</item>
+        <item>ເປີດໂໝດການອ່ານ</item>
+        <item>ບໍ່ມີ</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>ທຸກມື້</item>
+        <item>ຄືນມື້ທຳມະດາ</item>
+        <item>ວັນທ້າຍອາທິດ</item>
+        <item>​ກຳ​ນົດ​ເອງ</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>ທຸກມື້</item>
+        <item>ຄືນມື້ທຳມະດາ</item>
+        <item>ວັນທ້າຍອາທິດ</item>
+        <item>​ກຳ​ນົດ​ເອງ</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>ພາບເຄື່ອນໄຫວປິດ</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ .5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 1x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 1.5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 2x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 10x</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>ຄ່າເລີ່ມຕົ້ນ</item>
+        <item>ຮັອດສະປອດແບບພົກພາ</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>ຂີດຈຳກັດມາດຕະຖານ</item>
+        <item>ບໍ່ອະນຸຍາດໃຫ້ດຳເນີນການໃນພື້ນຫຼັງ</item>
+        <item>ບໍ່ເກີນ 1 ການດຳເນີນການ</item>
+        <item>ບໍ່ເກີນ 2 ການດຳເນີນການ</item>
+        <item>ບໍ່ເກີນ 3 ການດຳເນີນການ</item>
+        <item>ບໍ່ເກີນ 4 ການດຳເນີນການ</item>
+    </string-array>
+    <array name="avatar_image_descriptions" />
+    <array name="avatar_images" />
+    <string-array name="battery_indicator_style_entries">
+        <item>ກຣາຟິກ</item>
+        <item>ເປີເຊັນ (ໃນໄອຄອນ)</item>
+        <item>ເປີເຊັນ (ຖັດຈາກໄອຄອນ)</item>
+        <item>ແຖບດ້ານເທິງ</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>ໂໝດຄຸນະພາບສູງ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>ໂໝດຄວາມໜ່ວງຕ່ຳ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>ໂໝດຄຸນະພາບສູງ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>ໂໝດຄວາມໜ່ວງຕ່ຳ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>ໃຊ້ງານການເລືອກລະບົບ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>ໃຊ້ງານການເລືອກລະບົບ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>ໃຊ້ງານລະບົບທີ່ເລືອກໃຊ້ກ່ອນ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>ໂມໂນ</item>
+        <item>ສະເຕີຣີໂອ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>ໃຊ້ງານລະບົບທີ່ເລືອກໃຊ້ກ່ອນ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>ໂມໂນ</item>
+        <item>ສະເຕີຣີໂອ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບສຽງ</item>
+        <item>ສົມດຸນຄຸນະພາບສຽງແລະການເຊື່ອມຕໍ່</item>
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບການເຊື່ອມຕໍ່</item>
+        <item>ຄວາມພະຍາຍາມທີ່ດີທີ່ສຸດ (ອັດຕາບິດອັດຕະໂນມັດ)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບສຽງ (990kbps/909kbps)</item>
+        <item>ສົມດຸນຄຸນະພາບສຽງແລະການເຊື່ອມຕໍ່ (660kbps/606kbps)</item>
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບການເຊື່ອມຕໍ່ (330kbps/303kbps)</item>
+        <item>ເອັບເຟັກທີ່ດີທີ່ສຸດ (ດັດແປງອັດຕາບິດ)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>ຄວາມໜ່ວງສັ້ນ</item>
+        <item>ຄວາມໜ່ວງປານກາງ</item>
+        <item>ຄວາມໜ່ວງຍາວ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>ຄວາມໜ່ວງສັ້ນ (50~100ms)</item>
+        <item>ຄວາມໜ່ວງປານກາງ (150~200ms)</item>
+        <item>ຄວາມໜ່ວງຍາວ (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>ເພີ່ມປະສິດທິພາບຄວາມໜ່ວງຕ່ຳ</item>
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບການເຊື່ອມຕໍ່</item>
+        <item>ສົມດຸນຄຸນະພາບສຽງແລະການເຊື່ອມຕໍ່</item>
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບສຽງ</item>
+        <item>ຄວາມພະຍາຍາມທີ່ດີທີ່ສຸດ (ອັດຕາບິດອັດຕະໂນມັດ)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>ເພີ່ມປະສິດທິພາບຄວາມໜ່ວງຕ່ຳ (256kbps)</item>
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບການເຊື່ອມຕໍ່ (400kbps)</item>
+        <item>ສົມດຸນຄຸນະພາບສຽງແລະການເຊື່ອມຕໍ່ (500/560kbps)</item>
+        <item>ເພີ່ມປະສິດທິພາບຄຸນະພາບສຽງ (900kbps)</item>
+        <item>ຄວາມພະຍາຍາມທີ່ດີທີ່ສຸດ (ອັດຕາບິດອັດຕະໂນມັດ)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>ໃຊ້ງານການເລືອກລະບົບ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>ໃຊ້ງານການເລືອກລະບົບ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>ໃຊ້ງານລະບົບທີ່ເລືອກໃຊ້ກ່ອນ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>ສຽງ Qualcomm® aptX™</item>
+        <item>ສຽງ Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>ສຽງ Qualcomm® aptX™ Adaptive</item>
+        <item>ສຽງ Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ເປີດໃຊ້ງານຕົວແປງສັນຍານຕົວເລືອກ</item>
+        <item>ປິດໃຊ້ງານຕົວແປງສັນຍານຕົວເລືອກ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>ໃຊ້ງານລະບົບທີ່ເລືອກໃຊ້ກ່ອນ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>ສຽງ Qualcomm® aptX™</item>
+        <item>ສຽງ Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>ສຽງ Qualcomm® aptX™ Adaptive</item>
+        <item>ສຽງ Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>ເປີດໃຊ້ງານຕົວແປງສັນຍານຕົວເລືອກ</item>
+        <item>ປິດໃຊ້ງານຕົວແປງສັນຍານຕົວເລືອກ</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | ໃຊ້ງານໄດ້"</item>
+        <item>" | ໃຊ້ງານໄດ້ (ມີເດຍ)"</item>
+        <item>" | ໃຊ້ງານໄດ້ (ໂທລະສັບ)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>ປິດໃຊ້ງານແລ້ວ</item>
+        <item>ຕົວກອງ</item>
+        <item>ເປີດໃຊ້ງານແລ້ວ</item>
+        <item>ຕົວກອງສ່ວນຫົວ</item>
+        <item>ຕົວກອງແພັກເກດມີເດຍ</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 ວິນາທີ</item>
+        <item>2 ວິນາທີ</item>
+        <item>5 ວິນາທີ</item>
+        <item>10 ວິນາທີ</item>
+        <item>20 ວິນາທີ</item>
+        <item>ສະເໝີ</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>ຂະໜາດຕົວອັກສອນນ້ອຍຫຼາຍ</item>
+        <item>ຂະໜາດຕົວອັກສອນນ້ອຍ</item>
+        <item>ຂະໜາດຕົວອັກສອນເລີ່ມຕົ້ນ</item>
+        <item>ຂະໜາດຕົວອັກສອນໃຫຍ່</item>
+        <item>ຂະໜາດຕົວອັກສອນໃຫຍ່ຫຼາຍ</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>ປົດລັອກດ້ວຍໃບໜ້າ</item>
+        <item>ຮູບແບບປົດລັອກ</item>
+        <item>PIN</item>
+        <item>​ລະ​ຫັດ​ຜ່ານ</item>
+    </string-array>
+    <string-array name="city_name">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Ababa</item>
+        <item>Algiers</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Cairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartoum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairobi</item>
+        <item>São Tomé</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>ໝູ່ເກາະ Cayman</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominica</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox City</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Metlakatla</item>
+        <item>Mexico City</item>
+        <item>Monterrey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>ຜອດອັອບແອັດສະປາຍ</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>St. Kitts</item>
+        <item>St. Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>South Pole</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aqtau</item>
+        <item>Baghdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Calcutta</item>
+        <item>Damascus</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>ໂຮຈີມິນ</item>
+        <item>ຮ່ອງກົງ</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>ມາເກົ້າ</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>ພະນົມເປນ</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riyadh</item>
+        <item>Seoul</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+        <item>Taipei</item>
+        <item>Tehran</item>
+        <item>Tel Aviv</item>
+        <item>ໂຕກຽວ</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermuda</item>
+        <item>ໝູ່ເກາະ Canary</item>
+        <item>Cape Verde</item>
+        <item>Reykjavik</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>ເກາະ Easter</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Athens</item>
+        <item>Belfast</item>
+        <item>Belgrade</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brussels</item>
+        <item>Bucharest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhagen</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Isle of Man</item>
+        <item>Istanbul</item>
+        <item>ລິສບອນ</item>
+        <item>ລອນດອນ</item>
+        <item>Luxembourg</item>
+        <item>ມາດຣິດ</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moscow</item>
+        <item>Oslo</item>
+        <item>ປາຣີສ</item>
+        <item>Prague</item>
+        <item>Riga</item>
+        <item>ໂຣມ</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>ໂຊເຟຍ</item>
+        <item>ສະຕັອກໂຮມ</item>
+        <item>Tallinn</item>
+        <item>Vatican City</item>
+        <item>ວຽນນາ</item>
+        <item>Vilnius</item>
+        <item>ວໍຊໍ</item>
+        <item>Zagreb</item>
+        <item>Zurich</item>
+        <item>Antananarivo</item>
+        <item>ມາວດີບ</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>ບອສຕັນ</item>
+        <item>Calgary</item>
+        <item>ໂຄລຳບັສ</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San Jose</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>ວໍຊິງຕັນດີຊີ</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Doha</item>
+        <item>ປັກກິ່ງ</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>ໂອຊາກາ</item>
+        <item>Lahore</item>
+        <item>"Sana'a"</item>
+        <item>Barcelona</item>
+        <item>Munich</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bengaluru</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>ກວາງໂຈ</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurugram</item>
+        <item>ແມນເຊັສເຕີ</item>
+        <item>Kyiv</item>
+        <item>St. Petersburg</item>
+        <item>Kraków</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
+    <string-array name="color_mode_descriptions">
+        <item>ເພີ່ມສີສັນ</item>
+        <item>ສີທຳມະຊາດຄືທີ່ຕາເຫັນ</item>
+        <item>ສີທີ່ເໝາະສຳລັບເນື້ອຫາດິຈິຕອລ</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>ສົດໃສ (ຄ່າເລີ່ມຕົ້ນ)</item>
+        <item>ທຳ​ມະ​ຊາດ</item>
+        <item>ມາດຕະຖານ</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>ໜ້າຈໍລັອກ</item>
+        <item>ລະຫັດຜ່ານຄວາມເປັນສ່ວນຕົວ</item>
+        <item>ໂໝດເດັກນ້ອຍ</item>
+        <item>​ຕົວ​ຈັດ​ການ​ໄຟ​ລ໌</item>
+        <item>ແອັບລັອກ</item>
+        <item>ພື້ນທີ່ທີສອງ</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>ຄວາມເຂົ້າກັນໄດ້</item>
+        <item>ຄວາມໄວສູງ</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"ມື້ນີ້ (ຂໍ້ມູນມືຖື) "</item>
+        <item>"ເດືອນນີ້ (ຂໍ້ມູນມືຖື) "</item>
+        <item>"ເດືອນທີ່ຜ່ານມາ (ຂໍ້ມູນມືຖື) "</item>
+        <item>"ມື້ນີ້ (Wi-Fi) "</item>
+        <item>"ເດືອນນີ້ (Wi-Fi) "</item>
+        <item>"ເດືອນທີ່ຜ່ານມາ (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"ມື້ນີ້ "</item>
+        <item>"ເດືອນນີ້ "</item>
+        <item>"ເດືອນທີ່ຜ່ານມາ "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"ມື້ນີ້: "</item>
+        <item>"ເດືອນນີ້: "</item>
+        <item>"ເດືອນທີ່ຜ່ານມາ: "</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>​ປິດ</item>
+        <item>ສະແດງພື້ນທີ່ການແຕ້ມເກີນ</item>
+        <item>ສະແດງພື້ນທີ່ສຳລັບຕາບອດສີ Deuteranomaly</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>ບໍ່</item>
+        <item>Logcat</item>
+        <item>Systrace (ກຣາຟິກ)</item>
+        <item>Call stack ໃນ glGetError</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>ປິດເປີດອຸປະກອນຂອງທ່ານຄືນໃໝ່ເພື່ອນຳໃຊ້ການຕັ້ງຄ່ານີ້ບໍ?</item>
+        <item>ປິດເປີດອຸປະກອນຂອງທ່ານຄືນໃໝ່ເພື່ອນຳໃຊ້ການຕັ້ງຄ່ານີ້ບໍ?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>ເຊື່ອງພາບເຄື່ອນໄຫວລະບົບ</item>
+        <item>ສະແດງພາບເຄື່ອນໄຫວລະບົບ</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>ເພີ່ມປະສິດທິພາບຂອງອຸປະກອນ</item>
+        <item>ອາດເຮັດໃຫ້ປະສິດທິພາບຂອງອຸປະກອນຊ້າລົງ</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 ນິ້ວ</item>
+        <item>4.0 ນິ້ວ</item>
+        <item>3.5 ນິ້ວ</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>​ປິດ</item>
+        <item>ຕົວບາງ</item>
+        <item>​ປານ​ກາງ</item>
+        <item>ແຂງແຮງ</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>ບໍ່ຕ້ອງໃຊ້ການກວດສອບ HDCP</item>
+        <item>ໃຊ້ການກວດສອບ HDCP ສຳລັບເນື້ອຫາ DRM ເທົ່ານັ້ນ</item>
+        <item>ໃຊ້ການກວດສອບ HDCP ສະເໝີ</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>ບໍ່ຕ້ອງກວດສອບ</item>
+        <item>ກວດສອບສະເພາະເນື້ອຫາ DRM ເທົ່ານັ້ນ</item>
+        <item>ກວດສອບສະເໝີ</item>
+    </string-array>
+    <string-array name="hide_account_list">
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>ຢ່າປຸກໜ້າຈໍ</item>
+        <item>ປຸກ​ໜ້າ​ຈໍ</item>
+        <item>ສະແດງພາບເຄື່ອນໄຫວ</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>​ສີ​ຟ້າ</item>
+        <item>​ສີ​ແດງ</item>
+        <item>​ສີ​ເຫຼືອງ</item>
+        <item>​ສີ​ຂຽວ</item>
+        <item>​ສີ​ຟ້າ​ອົມ​ຂຽວ</item>
+        <item>​ສີ​ຂາວ</item>
+        <item>ສີມ່ວງເຂັ້ມ</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 ວິນາທີ</item>
+        <item>3 ວິນາທີ</item>
+        <item>4 ວິນາທີ</item>
+        <item>5 ວິນາທີ</item>
+        <item>6 ວິນາທີ</item>
+        <item>7 ວິນາທີ</item>
+        <item>8 ວິນາທີ</item>
+        <item>9 ວິນາທີ</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>ທັນທີ</item>
+        <item>ຫຼັງຈາກ 30 ວິນາທີ</item>
+        <item>ຫຼັງຈາກ 1 ນາທີ</item>
+        <item>ຫຼັງຈາກ 2 ນາທີ</item>
+        <item>ຫຼັງຈາກ 5 ນາທີ</item>
+        <item>ບໍ່ຕ້ອງ</item>
+    </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
+    <string-array name="long_press_volume_down_action">
+        <item>ບໍ່</item>
+        <item>ໂໝດ​ຖ່າຍດ່ວນ (ຮູບພາບ)</item>
+        <item>ໂໝດ​ຖ່າຍດ່ວນ (ວິດີໂອ)</item>
+        <item>ປຸ່ມລັດການໃຊ້ບັດຂົນສົ່ງສາທາລະນະ</item>
+    </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>ບໍ່ຈຳກັດ</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>ດັງ</item>
+        <item>​ປານ​ກາງ</item>
+        <item>ເບົາ</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>​ສີ​ຟ້າ</item>
+        <item>​ສີ​ແດງ</item>
+        <item>​ສີ​ຂຽວ</item>
+        <item>ສີບົວ</item>
+        <item>ສີມ່ວງເຂັ້ມ</item>
+        <item>ສີມ່ວງ</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP ແລະເວີຊັ່ນເກົ່າກວ່າ</item>
+        <item>Windows Vista ແລະເວີຊັ່ນໃໝ່ກວ່າ</item>
+        <item>OSX</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>ການຈັດເກັບຂໍ້ມູນ USB ຈະເປີດໂດຍອັດຕະໂນມັດເມື່ອເຊື່ອມຕໍ່ກັບຄອມພິວເຕີ.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2. ປະຕິບັດຕາມຄຳແນະນຳເທິງໜ້າຈໍ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_linux">
+        <item>ເຄື່ອງມືຕິດຕັ້ງ: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>ສ້າງໂຟລເດີ: mkdir/media/mtp</item>
+        <item>ຢືນຢັນສິດຂອງກຸ່ມຜູ້ໃຊ້ໃນກຸ່ມຜູ້ໃຊ້ປັດຈຸບັນ</item>
+        <item>ເຂົ້າສູ່ລະບົບອີກຄັ້ງ</item>
+        <item>ເຂົ້າເຖິງອຸປະກອນທີ່ເຊື່ອມຕໍ່: mtpfs/media/mtp ຜ່ານຕົວຈັດການໄຟລ໌; ເຊັ່ນດຽວກັນກັບໂຟລເດີໃນເຄື່ອງ.</item>
+        <item>"ຖອນການຕິດຕັ້ງອຸປະກອນ: fusermount -u /media/mtp
+ໝາຍເຫດ: ສະເພາະ Ubuntu 8.04 ເທົ່ານັ້ນ!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>ຕິດຕັ້ງ Mi PC Suite ອີກຄັ້ງ</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>ເຄືອຂ່າຍຊ້າເນື່ອງຈາກມີການໃຊ້ງານຫຼາຍເກີນໄປ</item>
+        <item>ເຄືອຂ່າຍຊ້າເນື່ອງຈາກສັນຍານອ່ອນເກີນໄປ</item>
+        <item>ກຳລັງຍ້າຍ…</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>ກຣາຟິກ</item>
+        <item>ເປີເຊັນ (ໃນໄອຄອນ)</item>
+        <item>ເປີເຊັນ (ຖັດຈາກໄອຄອນ)</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>​ຄົ້ນ​ຫາ</item>
+        <item>ການຕັ້ງຄ່າ</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>bh</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cd</item>
+        <item>ci</item>
+        <item>eg</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>gh</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>sz</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>ບໍ່ມີ</item>
+        <item>480p</item>
+        <item>480p (ປອດໄພ)</item>
+        <item>720p</item>
+        <item>720p (ປອດໄພ)</item>
+        <item>1080p</item>
+        <item>1080p (ປອດໄພ)</item>
+        <item>4K</item>
+        <item>4K (ປອດໄພ)</item>
+        <item>4K (ເພີ່ມຄວາມຊັດເຈນ)</item>
+        <item>4K (ເພີ່ມຄວາມຊັດເຈນ, ປອດໄພ)</item>
+        <item>720p, 1080p (ໜ້າຈໍຄູ່)</item>
+    </string-array>
+    <string-array name="paper_color_values">
+        <item>ສີເຕັມ</item>
+        <item>ສີຂອງໄຟ</item>
+        <item>ດຳແລະຂາວ</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>ອະ​ນຸ​ຍາດ</item>
+        <item>ຖາມກ່ອນ</item>
+        <item>​ປະ​ຕິ​ເສດ</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>ຕັດສຽງລົບກວນໂດຍໃຊ້ໄມໂຄຣໂຟນດ່ຽວ</item>
+        <item>ຕັດສຽງລົບກວນໂດຍໃຊ້ໄມໂຄຣໂຟນຄູ່</item>
+    </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <string-array name="power_mode_entries">
+        <item>ປະສິດທິພາບສູງ</item>
+        <item>ສົມດຸນ</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>ຕົວເປີດໃຊ້</item>
+        <item>ໂທ</item>
+        <item>ຂໍ້ຄວາມ</item>
+        <item>ບ​ຣາວ​ເຊີ</item>
+        <item>ກ້ອງຖ່າຍຮູບ</item>
+        <item>ຄັງຮູບພາບ</item>
+        <item>​ເພງ</item>
+        <item>ອີເມວ</item>
+        <item>ຫຼິ້ນ​ວິ​ດີ​ໂອ</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>ບ່ອນ​ຈັດ​ເກັບ​ຂໍ້​ມູນ​ພາຍ​ໃນ</item>
+        <item>ບ່ອນ​ຈັດ​ເກັບ​ຂໍ້​ມູນ​ພາຍ​ນອກ</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>ຂໍ້ຄວາມ</item>
+        <item>ຮູບພາບ</item>
+        <item>​ໄຟ​ລ໌</item>
+        <item>ບັນທຶກ</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>ສະ​ໄ​​ຕລ໌ມືຊ້າຍ</item>
+        <item>ສະ​ໄ​​ຕລ໌ມືຂວາ</item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>ອົບອຸ່ນ</item>
+        <item>ມາດຕະຖານ</item>
+        <item>ເຢັນ</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 ວິນາທີ</item>
+        <item>1 ວິນາທີ</item>
+        <item>1.5 ວິນາທີ</item>
+        <item>2 ວິນາທີ</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>ປຸ່ມເມນູທາງດ້ານຊ້າຍ, ປຸ່ມກັບຄືນທາງດ້ານຂວາ</item>
+        <item>ປຸ່ມກັບຄືນທາງດ້ານຊ້າຍ, ປຸ່ມເມນູທາງດ້ານຂວາ</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>ສະແດງຖາດແອັບທີ່ຜ່ານມາ</item>
+        <item>ສະແດງເມນູ</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>ປັບສີຕາມເນື້ອຫາທີ່ສະແດງ</item>
+        <item>ເພີ່ມສີສັນສະເໝີ</item>
+        <item>ຄວາມຄົມຊັດຈະຕັ້ງຄ່າໄວ້ຄົງທີ່</item>
+    </string-array>
+    <string-array name="screen_optimize_title">
+        <item>ສົດໃສ (ແນະນຳ)</item>
+        <item>ອີ່ມສີ</item>
+        <item>ມາດຕະຖານ</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="screen_resolution_text">
+        <item>2K</item>
+        <item>1080p</item>
+        <item>720p</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>ສີສົດ</item>
+        <item>ມາດຕະຖານ</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 ວິນາທີ</item>
+        <item>30 ວິນາທີ</item>
+        <item>1 ນາທີ</item>
+        <item>2 ນາທີ</item>
+        <item>5 ນາທີ</item>
+        <item>10 ນາທີ</item>
+        <item>ບໍ່ຕ້ອງ</item>
+    </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>​ປິດ</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>​ປິດ</item>
+        <item>64K ຕໍ່ແຕ່ລະບັນທຶກບັບເຟີ</item>
+        <item>256K ຕໍ່ແຕ່ລະບັນທຶກບັບເຟີ</item>
+        <item>1M ຕໍ່ແຕ່ລະບັນທຶກບັບເຟີ</item>
+        <item>4M ຕໍ່ແຕ່ລະບັນທຶກບັບເຟີ</item>
+        <item>8M per log buffer</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>​ປິດ</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>​ປິດ</item>
+        <item>ບັນທຶກບັບເຟີທັງໝົດ</item>
+        <item>ທັງໝົດຍົກເວັ້ນບັນທຶກບັບເຟີວິທະຍຸ</item>
+        <item>kernel ບັນທຶກບັບເຟີເທົ່ານັ້ນ</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>​ປິດ</item>
+        <item>ທັງ​ໝົດ</item>
+        <item>ທັງໝົດຍົກເວັ້ນວິທະຍຸ</item>
+        <item>Kernel ເທົ່ານັ້ນ</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>​ປິດ</item>
+        <item>ໃຊ້ສີຟ້າແຕ້ມພາກສ່ວນທີ່ບໍ່ແມ່ນຮູບສີ່ຫຼ່ຽມ</item>
+        <item>ໃຊ້ສີຂຽວເນັ້ນຄຳສັ່ງໃຫ້ເດັ່ນ</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>ສະເໝີ</item>
+        <item>30 ນາທີ</item>
+        <item>1 ຊົ່ວໂມງ</item>
+        <item>2 ຊົ່ວໂມງ</item>
+        <item>8 ຊົ່ວໂມງ</item>
+    </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>ອະ​ນຸ​ຍາດ</item>
+        <item>​ປະ​ຕິ​ເສດ</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>ຊັດເຈນ</item>
+        <item>ພື້ນຖານ</item>
+        <item>ໂດດເດັ່ນ</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>ຊັດເຈນ</item>
+        <item>Solid</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
+    <string-array name="time_format_entries">
+        <item>12-ຊົ່ວໂມງ 1:00 PM</item>
+        <item>24-ຊົ່ວໂມງ 13:00</item>
+        <item>ອັດຕະໂນມັດ (ອີງຕາມພາສາລະບົບ)</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>​ປິດ</item>
+        <item>ສະແດງເປັນແຖບເທິງໜ້າຈໍ</item>
+        <item>ໃນ adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>​ປິດ</item>
+        <item>ປົກກະຕິ</item>
+        <item>ສຸດຂີດ</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"ການນຳໃຊ້ຂໍ້ມູນມືຖື "</item>
+        <item>"ການນຳໃຊ້ Wi-Fi "</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>ພາບເຄື່ອນໄຫວປິດ</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ .5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 1x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 1.5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 2x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 10x</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>ປັບສີຕາມເນື້ອຫາທີ່ສະແດງ</item>
+        <item>ເພີ່ມສີສັນສະເໝີ</item>
+        <item>ກູ້ຄືນສີມາດຕະຖານຂອງເນື້ອຫາເທິງໜ້າຈໍດ້ວຍການປັບທຽບສີ</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>ສົດໃສ (ແນະນຳ)</item>
+        <item>ອີ່ມສີ</item>
+        <item>ສີດັ້ງເດີມ</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>ຊ້າຫຼາຍ</item>
+        <item>​ຊ້າ</item>
+        <item>​ປົກກະຕິ</item>
+        <item>ໄວ</item>
+        <item>ຄ່ອນຂ້າງໄວ</item>
+        <item>ໄວຫຼາຍ</item>
+        <item>ຢ່າງໄວ</item>
+        <item>ຢ່າງໄວຫຼາຍ</item>
+        <item>ໄວທີ່ສຸດ</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>ຊ້າຫຼາຍ</item>
+        <item>​ຊ້າ</item>
+        <item>​ປົກກະຕິ</item>
+        <item>ໄວ</item>
+        <item>ຄ່ອນຂ້າງໄວ</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>ມາດຕະຖານ</item>
+        <item>ແຕະ</item>
+        <item>ແຕະໂດຍກົງ</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>ກຳລັງສາກ</item>
+        <item>MTP (ອະນຸສັນຍາການໂອນຍ້າຍມີເດຍ)</item>
+        <item>PTP (ອະນຸສັນຍາການໂອນຍ້າຍຮູບພາບ)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>ແຫຼ່ງທີ່ມາສຽງ</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>ສອບຖາມເມື່ອມີການເຊື່ອມຕໍ່</item>
+        <item>ສາກເທົ່ານັ້ນ</item>
+        <item>ຕິດຕັ້ງແຜ່ນ SD</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>ຈາກທຸກຄົນ</item>
+        <item>ຈາກລາຍຊື່ຜູ້ຕິດຕໍ່ເທົ່ານັ້ນ</item>
+        <item>ຈາກລາຍຊື່ຜູ້ຕິດຕໍ່ທີ່ຕິດດາວເທົ່ານັ້ນ</item>
+        <item>ບໍ່ມີ</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>@string/wapi_psk_type_ascii</item>
+        <item>@string/wapi_psk_type_hex</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>ກຳລັງເຊື່ອມຕໍ່…</item>
+        <item>ເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item>ກຳລັງປິດການບໍລິການ…</item>
+        <item>ບໍ່ສາມາດເຊື່ອມຕໍ່</item>
+        <item>ໝົດເວລາທີ່ລະບົບກຳນົດແລ້ວ. ກຳລັງລອງໃໝ່…</item>
+        <item>ເຊື່ອມຕໍ່ອຸປະກອນແລ້ວ</item>
+    </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>​ປິດ</item>
+        <item>ຕໍ່າ</item>
+        <item>ປານກາງ</item>
+        <item>​ສູງ</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>ກຣາຟິກ</item>
+        <item>ເປີເຊັນ (ໃນໄອຄອນ)</item>
+        <item>ເປີເຊັນ (ຖັດຈາກໄອຄອນໃນແຖບການແຈ້ງເຕືອນ)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa2</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>ເຊື່ອມຕໍ່​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ</item>
+        <item>ເຊື່ອມຕໍ່ດ້ວຍຕົນເອງ</item>
+        <item>ຖາມທຸກຄັ້ງ</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>ເສີມ</item>
+        <item>ເຕັມ</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>ເພີ່ມຄວາມໄວໂດຍໃຊ້ຂໍ້ມູນມືຖືສະເພາະເມື່ອສັນຍານ Wi-Fi ບໍ່ດີ</item>
+        <item>ລວມ Wi-Fi ແລະຂໍ້ມູນມືຖືເພື່ອເພີ່ມຄວາມໄວໃນການເຊື່ອມຕໍ່</item>
+    </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>ໃຊ້ MAC ແບບສຸ່ມ</item>
+        <item>ໃຊ້ອຸປະກອນ MAC</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>ເຊື່ອມຕໍ່​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ</item>
+        <item>ເຊື່ອມຕໍ່ດ້ວຍຕົນເອງ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>ກຳລັງສະແກນ…</item>
+        <item>ກຳລັງເຊື່ອມຕໍ່…</item>
+        <item>ກຳລັງກວດສອບສິດ…</item>
+        <item>ກຳລັງຮັບທີ່ຢູ່ IP…</item>
+        <item>ເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item>ລະງັບແລ້ວ</item>
+        <item>ກຳລັງຕັດການເຊື່ອມຕໍ່…</item>
+        <item>ຕັດການເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item>ບໍ່ສຳເລັດ</item>
+        <item>ບລັອກແລ້ວ</item>
+        <item>ຫຼີກລ້ຽງການເຊື່ອມຕໍ່ທີ່ບໍ່ດີ</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>ກຳລັງສະແກນ…</item>
+        <item>ກຳລັງເຊື່ອມຕໍ່ກັບ %1$s…</item>
+        <item>ກຳລັງກວດສອບສິດດ້ວຍ %1$s…</item>
+        <item>ກຳລັງຮັບທີ່ຢູ່ IP ຈາກ %1$s…</item>
+        <item>ເຊື່ອມຕໍ່ກັບ %1$s ແລ້ວ</item>
+        <item>ລະງັບແລ້ວ</item>
+        <item>ກຳລັງຕັດການເຊື່ອມຕໍ່ຈາກ %1$s…</item>
+        <item>ຕັດການເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item>ບໍ່ສຳເລັດ</item>
+        <item>ບລັອກແລ້ວ</item>
+        <item>ຫຼີກລ້ຽງການເຊື່ອມຕໍ່ທີ່ບໍ່ດີ</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>ພາບເຄື່ອນໄຫວປິດ</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ .5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 1x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 1.5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 2x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 5x</item>
+        <item>ພາບເຄື່ອນໄຫວສັດສ່ວນ 10x</item>
+    </string-array>
+</resources>

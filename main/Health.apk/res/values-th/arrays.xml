@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_coach_list">
+        <item>@string/about_coach_male</item>
+        <item>@string/about_coach_female</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"What's the weather?"</item>
+        <item>"How many steps I've taken?"</item>
+        <item>Find my phone.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>อาทิตย์</item>
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>วันจันทร์</item>
+        <item>วันอังคาร</item>
+        <item>วันพุธ</item>
+        <item>วันพฤหัสบดี</item>
+        <item>วันศุกร์</item>
+        <item>วันเสาร์</item>
+        <item>วันอาทิตย์</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+        <item>อา.</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>อาบิดจัน</item>
+        <item>อักกรา</item>
+        <item>อาดดิสอาบาบา</item>
+        <item>แอลเจียร์</item>
+        <item>บลันไทร์</item>
+        <item>บราซาวีล</item>
+        <item>ไคโร</item>
+        <item>กาซาบล็องกา</item>
+        <item>โกนากรี</item>
+        <item>ดาการ์</item>
+        <item>ดาร์เอสซาลาม</item>
+        <item>จิบูตี</item>
+        <item>ฟรีทาวน์</item>
+        <item>กาโบโรเน</item>
+        <item>ฮาราเร</item>
+        <item>โจฮันเนสเบิร์ก</item>
+        <item>กัมปาลา</item>
+        <item>คิกาลี</item>
+        <item>กินชาซา</item>
+        <item>เลกอส</item>
+        <item>มาเซรู</item>
+        <item>โมกาดิชู</item>
+        <item>เซาตูเม</item>
+        <item>ทิมบักตู</item>
+        <item>ตริโปลี</item>
+        <item>ตูนิส</item>
+        <item>แองเคอเรจ</item>
+        <item>เมนโดซา</item>
+        <item>อารูบา</item>
+        <item>อาซุนซีออน</item>
+        <item>บาร์เบโดส</item>
+        <item>เบลีซ</item>
+        <item>โบโกตา</item>
+        <item>บัวโนสไอเรส</item>
+        <item>แคนคูน</item>
+        <item>การากัส</item>
+        <item>หมู่เกาะเคย์แมน</item>
+        <item>ชิคาโก</item>
+        <item>คอสตาริก้า</item>
+        <item>กือราเซา</item>
+        <item>ดอว์สันครีก</item>
+        <item>เดนเวอร์</item>
+        <item>ดีทรอยต์</item>
+        <item>สาธารณรัฐโดมินิกัน</item>
+        <item>เอ็ดมันตัน</item>
+        <item>เอลซัลวาดอร์</item>
+        <item>โฟร์ตาเลซา</item>
+        <item>แกรนด์เติร์ก</item>
+        <item>เกรนาดา</item>
+        <item>กัวเตมาลา</item>
+        <item>กายอานา</item>
+        <item>แฮลิแฟกซ์</item>
+        <item>ฮาวานา</item>
+        <item>อินเดียแนโพลิส</item>
+        <item>น็อค</item>
+        <item>มาเรนโก</item>
+        <item>ปีเตอร์สเบิร์ก</item>
+        <item>เทลล์ซิตี</item>
+        <item>เวเว่ย์</item>
+        <item>แวงแซนน์</item>
+        <item>วินาแมก</item>
+        <item>คิงส์ตัน</item>
+        <item>นวยส์ตราเซญอราเดลาปาซ</item>
+        <item>ลิมา</item>
+        <item>ลอสแอนเจลิส</item>
+        <item>ลุยส์วิลล์</item>
+        <item>มานากัว</item>
+        <item>มาร์ตีนิก</item>
+        <item>เม็ตลาคัตลา</item>
+        <item>เม็กซิโกซิตี</item>
+        <item>มอนเทอเรย์</item>
+        <item>มอนเตวิเดโอ</item>
+        <item>มอนทรีออล</item>
+        <item>แนสซอ</item>
+        <item>นิวยอร์ก</item>
+        <item>บิวลาห์</item>
+        <item>กลาง</item>
+        <item>ซาเลมใหม่</item>
+        <item>ปานามา</item>
+        <item>ฟีนิกซ์</item>
+        <item>พอร์ต-ออฟ-สเปน</item>
+        <item>ปอร์โตแปรงซ์</item>
+        <item>เปอร์โตริโก</item>
+        <item>ซานโตโดมิงโก</item>
+        <item>เซาเปาลู</item>
+        <item>เซนต์จอห์น</item>
+        <item>เซนต์คิตส์</item>
+        <item>เซนต์ลูเซีย</item>
+        <item>เซนต์โทมัส</item>
+        <item>ตีฮัวนา</item>
+        <item>โทรอนโต</item>
+        <item>แวนคูเวอร์</item>
+        <item>วินนิเพก</item>
+        <item>ขั้วโลกใต้</item>
+        <item>ลองเยียร์เบียน</item>
+        <item>อัลมาตี</item>
+        <item>อัมมาน</item>
+        <item>อนาดีร์</item>
+        <item>อัคเทา</item>
+        <item>แบกแดด</item>
+        <item>บาห์เรน</item>
+        <item>บากู</item>
+        <item>กรุงเทพ</item>
+        <item>เบรุต</item>
+        <item>โกลกาตา</item>
+        <item>ดามัสกัส</item>
+        <item>ธากา</item>
+        <item>ดูไบ</item>
+        <item>ฉนวนกาซา</item>
+        <item>เฮบรอน</item>
+        <item>นครโฮจิมินห์</item>
+        <item>ฮ่องกง</item>
+        <item>จาการ์ตา</item>
+        <item>เยลูซาเลม</item>
+        <item>คาบูล</item>
+        <item>การาจี</item>
+        <item>กาฐมาณฑุ</item>
+        <item>กัวลาลัมเปอร์</item>
+        <item>มาเก๊า</item>
+        <item>มะนิลา</item>
+        <item>มัสกัต</item>
+        <item>พนมเปญ</item>
+        <item>เปียงยาง</item>
+        <item>กาตาร์</item>
+        <item>ย่างกุ้ง</item>
+        <item>รียาด</item>
+        <item>โซล</item>
+        <item>เซี่ยงไฮ้</item>
+        <item>สิงคโปร์</item>
+        <item>ไทเป</item>
+        <item>เตหะราน</item>
+        <item>เทลอาวีฟ</item>
+        <item>โตเกียว</item>
+        <item>อูลานบาตอร์</item>
+        <item>เบอร์มิวดา</item>
+        <item>หมู่เกาะคานารี</item>
+        <item>เคปเวิร์ด</item>
+        <item>เรคยาวิก</item>
+        <item>สแตนเลย์</item>
+        <item>แอดิเลด</item>
+        <item>บริสเบน</item>
+        <item>แคนเบอร์รา</item>
+        <item>ดาร์วิน</item>
+        <item>เมลเบิร์น</item>
+        <item>นิวเซาท์เวลส์</item>
+        <item>เพิร์ธ</item>
+        <item>รัฐควีนส์แลนด์</item>
+        <item>ซิดนีย์</item>
+        <item>วิคตอเรีย</item>
+        <item>นิวฟันด์แลนด์</item>
+        <item>ซัสแคตเชวัน</item>
+        <item>เกาะอีสเตอร์</item>
+        <item>อัมสเตอร์ดัม</item>
+        <item>อันโดร่า</item>
+        <item>เบลฟัสต์</item>
+        <item>เบลเกรด</item>
+        <item>เบอร์ลิน</item>
+        <item>บราติสลาวา</item>
+        <item>บรัสเซลส์</item>
+        <item>บูคาเรสต์</item>
+        <item>บูดาเปสต์</item>
+        <item>ชิสิโน่</item>
+        <item>โคเปนเฮเกน</item>
+        <item>ดับลิน</item>
+        <item>ยิบรอลตาร์</item>
+        <item>เฮลซิงกิ</item>
+        <item>ไอล์ออฟแมน</item>
+        <item>อิสตันบูล</item>
+        <item>ลิสบอน</item>
+        <item>ลอนดอน</item>
+        <item>ลักเซมเบิร์ก</item>
+        <item>มาดริด</item>
+        <item>มอลตา</item>
+        <item>มินสค์</item>
+        <item>โมนาโก</item>
+        <item>มอสโก</item>
+        <item>ออสโล</item>
+        <item>ปารีส</item>
+        <item>ปราก</item>
+        <item>ริกา</item>
+        <item>โรม</item>
+        <item>ซานมาริโน</item>
+        <item>ซาราเยโว</item>
+        <item>ซิมเฟอร์โรโพล</item>
+        <item>สโกเปีย</item>
+        <item>โซเฟีย</item>
+        <item>สต็อกโฮล์ม</item>
+        <item>ทาลลินน์</item>
+        <item>นครรัฐวาติกัน</item>
+        <item>เวียนนา</item>
+        <item>วิลนีอุส</item>
+        <item>วอร์ซอ</item>
+        <item>ซาเกร็บ</item>
+        <item>ซูริก</item>
+        <item>มัลดีฟส์</item>
+        <item>มอริเชียส</item>
+        <item>โอ๊คแลนด์</item>
+        <item>ฟิจิ</item>
+        <item>กวม</item>
+        <item>โฮโนลูลู</item>
+        <item>คิริติมาตี</item>
+        <item>นูเมอา</item>
+        <item>ซามัว</item>
+        <item>ตาฮิติ</item>
+        <item>แอนติกา</item>
+        <item>ออสติน</item>
+        <item>บอสตัน</item>
+        <item>คัลการี</item>
+        <item>โคลัมบัส</item>
+        <item>ดัลลัส</item>
+        <item>แนชวิลล์</item>
+        <item>เมมฟิส</item>
+        <item>ไมอามี่</item>
+        <item>มินนีแอโพลิส</item>
+        <item>ออตตาวา</item>
+        <item>ฟิลาเดลเฟีย</item>
+        <item>พอร์ตแลนด์</item>
+        <item>ซานดิเอโก</item>
+        <item>ซานฟรานซิสโก</item>
+        <item>ซอลต์เลกซิตี</item>
+        <item>ซันโฮเซ</item>
+        <item>ซันซัลวาดอร์</item>
+        <item>ซีแอตเทิล</item>
+        <item>เซนต์หลุยส์</item>
+        <item>วอชิงตัน ดี.ซี.</item>
+        <item>ฮูสตัน</item>
+        <item>ซานอันโตนิโอ</item>
+        <item>แจ็กสันวิลล์</item>
+        <item>บัลติมอร์</item>
+        <item>แนชวิลล์</item>
+        <item>มิลวอกี</item>
+        <item>รัฐโอคลาโฮมา</item>
+        <item>ลัสเวกัส</item>
+        <item>แอลบูเคอร์คี</item>
+        <item>ทูซอน</item>
+        <item>แซคราเมนโต</item>
+        <item>แอตแลนตา</item>
+        <item>คลีฟแลนด์</item>
+        <item>นิวออร์ลีนส์</item>
+        <item>แทมปา</item>
+        <item>พิตต์สเบิร์ก</item>
+        <item>ซินซินแนติ</item>
+        <item>เมาน์เทนวิว</item>
+        <item>รีโน</item>
+        <item>แบล็กล็อคซิตี้</item>
+        <item>โดฮา</item>
+        <item>ปักกิ่ง</item>
+        <item>มุมไบ</item>
+        <item>เดลี</item>
+        <item>โอซากา</item>
+        <item>ลาฮอร์</item>
+        <item>ซานา</item>
+        <item>บาร์เซโลนา</item>
+        <item>มิวนิช</item>
+        <item>มิลาน</item>
+        <item>แฟรงก์เฟิร์ต</item>
+        <item>ฮานอย</item>
+        <item>อังการา</item>
+        <item>บังคาลอร์</item>
+        <item>บราซีเลีย</item>
+        <item>เคปทาวน์</item>
+        <item>อิสลามาบาด</item>
+        <item>รีโอเดจาเนโร</item>
+        <item>แอน อาร์เบอร์</item>
+        <item>โบลเดอร์</item>
+        <item>แคมบริดจ์</item>
+        <item>เคิร์กแลนด์</item>
+        <item>เมดิสัน</item>
+        <item>กวางโจว</item>
+        <item>ไฮเดอราบาด</item>
+        <item>เรสโตน</item>
+        <item>เบโลโอรีซอนชี</item>
+        <item>ซานเตียโก</item>
+        <item>มอนโรเวีย</item>
+        <item>โคลอมโบ</item>
+        <item>รัฐชีวาวา</item>
+        <item>กูร์กาออน</item>
+        <item>แมนเชสเตอร์</item>
+        <item>เคียฟ</item>
+        <item>เซนต์ปีเตอร์สเบิร์ก</item>
+        <item>คราคูฟ</item>
+        <item>วรอตสวัฟ</item>
+        <item>ฮัมบูร์ก</item>
+        <item>โอวลู่</item>
+        <item>ไฮฟา</item>
+        <item>ซานฮวน</item>
+        <item>เตกูซิกัลปา</item>
+        <item>ปารามาริโบ</item>
+        <item>กีโต</item>
+        <item>ฮาวาย</item>
+        <item>อลาสก้า</item>
+        <item>ฟีนิกซ์</item>
+        <item>คิงส์ตัน</item>
+        <item>ไปรอา</item>
+        <item>เรคยาวิก</item>
+        <item>เจนีวา</item>
+        <item>วินด์ฮุก</item>
+        <item>โซเฟีย</item>
+        <item>เอเธนส์</item>
+        <item>คาลินินกราด</item>
+        <item>คาร์ทูม</item>
+        <item>ไนโรบี</item>
+        <item>เอเดน</item>
+        <item>อันตานานาริโว</item>
+        <item>คูเวต</item>
+        <item>อาบูดาบี</item>
+        <item>ซามารา</item>
+        <item>นิวเดลี</item>
+        <item>โนโวซีบีสค์</item>
+        <item>ไต้หวัน</item>
+        <item>อีร์คุตสค์</item>
+        <item>ชิตะ</item>
+        <item>วลาดีวอสตอค</item>
+        <item>มากาดาน</item>
+        <item>คัมชัตกา</item>
+        <item>ซูวา</item>
+        <item>เวลลิงตัน</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>ทุกวันอาทิตย์</item>
+        <item>ทุกวันจันทร์</item>
+        <item>ทุกวันอังคาร</item>
+        <item>ทุกวันพุธ</item>
+        <item>ทุกวันพฤหัสบดี</item>
+        <item>ทุกวันศุกร์</item>
+        <item>ทุกวันเสาร์</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>ไอวอรี่โคสต์</item>
+        <item>กานา</item>
+        <item>เอธิโอเปีย</item>
+        <item>อัลจีเรีย</item>
+        <item>มาลาวี</item>
+        <item>สาธารณรัฐคองโก</item>
+        <item>อียิป</item>
+        <item>โมร็อกโก</item>
+        <item>กินี</item>
+        <item>เซเนกัล</item>
+        <item>แทนซาเนีย</item>
+        <item>จิบูตี</item>
+        <item>เซียร์ราลีโอน</item>
+        <item>บอตสวานา</item>
+        <item>ซิมบาบเว</item>
+        <item>แอฟริกาใต้</item>
+        <item>ยูกันดา</item>
+        <item>รวันดา</item>
+        <item>สาธารณรัฐประชาธิปไตยคองโก</item>
+        <item>ไนจีเรีย</item>
+        <item>เลโซโท</item>
+        <item>โซมาเลีย</item>
+        <item>เซาตูเมและปรินซิปี</item>
+        <item>มาลี</item>
+        <item>ลิเบีย</item>
+        <item>ตูนิส</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>อาร์เจนติน่า</item>
+        <item>อารูบา</item>
+        <item>ปารากวัย</item>
+        <item>บาร์เบโดส</item>
+        <item>เบลีซ</item>
+        <item>โคลัมเบีย</item>
+        <item>อาร์เจนติน่า</item>
+        <item>แม็กซิโก</item>
+        <item>เวเนซุเอลา</item>
+        <item>หมู่เกาะเคย์แมน</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>คอสตาริก้า</item>
+        <item>กือราเซา</item>
+        <item>แคนาดา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สาธารณรัฐโดมินิกัน</item>
+        <item>แคนาดา</item>
+        <item>เอลซัลวาดอร์</item>
+        <item>บราซิล</item>
+        <item>หมู่เกาะเติกส์และหมู่เกาะเคคอส</item>
+        <item>เกรนาดา</item>
+        <item>กัวเตมาลา</item>
+        <item>กายอานา</item>
+        <item>แคนาดา</item>
+        <item>คิวบา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>จาไมก้า</item>
+        <item>โบริเวีย</item>
+        <item>เปรู</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>นิการากัว</item>
+        <item>มาร์ตีนิก</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>แม็กซิโก</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>อุรุกวัย</item>
+        <item>แคนาดา</item>
+        <item>บาฮามาส</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>ปานามา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>ตรินิแดดและโตเบโก</item>
+        <item>เฮติ</item>
+        <item>เปอร์โตริโก</item>
+        <item>สาธารณรัฐโดมินิกัน</item>
+        <item>บราซิล</item>
+        <item>แคนาดา</item>
+        <item>เซนต์คิตส์และเนวิส</item>
+        <item>เซนต์ลูเซีย</item>
+        <item>หมู่เกาะเวอร์จิน</item>
+        <item>แม็กซิโก</item>
+        <item>แคนาดา</item>
+        <item>แคนาดา</item>
+        <item>แคนาดา</item>
+        <item>ขั้วโลกใต้</item>
+        <item>สฟาลบาร์และยานไมเอน</item>
+        <item>คาซัคสถาน</item>
+        <item>จอร์แดน</item>
+        <item>รัสเซีย</item>
+        <item>คาซัคสถาน</item>
+        <item>อิรัก</item>
+        <item>บาห์เรน</item>
+        <item>อาเซอร์ไบจัน</item>
+        <item>ไทย</item>
+        <item>เลบานอน</item>
+        <item>อินเดีย</item>
+        <item>ซีเรีย</item>
+        <item>บังกลาเทศ</item>
+        <item>สหรัฐอาหรับเอมิเรตส์</item>
+        <item>ปาเลสไตน์</item>
+        <item>ปาเลสไตน์</item>
+        <item>เวียดนาม</item>
+        <item>จีน</item>
+        <item>อินโดนีเซีย</item>
+        <item>อิสราเอล</item>
+        <item>อัฟกานิสถาน</item>
+        <item>ปากีสถาน</item>
+        <item>เนปาล</item>
+        <item>มาเลเซีย</item>
+        <item>จีน</item>
+        <item>ฟิลิปปินส์</item>
+        <item>โอมาน</item>
+        <item>กัมพูชา</item>
+        <item>เกาหลีเหนือ</item>
+        <item>กาตาร์</item>
+        <item>พม่า</item>
+        <item>ซาอุดิอาราเบีย</item>
+        <item>เกาหลีใต้</item>
+        <item>จีน</item>
+        <item>สิงคโปร์</item>
+        <item>จีน</item>
+        <item>อิหร่าน</item>
+        <item>อิสราเอล</item>
+        <item>ญี่ปุ่น</item>
+        <item>มองโกเลีย</item>
+        <item>เบอร์มิวดา</item>
+        <item>สเปน</item>
+        <item>เคปเวิร์ด</item>
+        <item>ไอซ์แลนด์</item>
+        <item>หมู่เกาะฟอล์กแลนด์</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>ออสเตรเลีย</item>
+        <item>แคนาดา</item>
+        <item>แคนาดา</item>
+        <item>แคนาดา</item>
+        <item>ชิลี</item>
+        <item>เนเธอร์แลนด์</item>
+        <item>อันโดร่า</item>
+        <item>อังกฤษ</item>
+        <item>เซอร์เบีย</item>
+        <item>เยอรมนี</item>
+        <item>สโลวาเกีย</item>
+        <item>เบลเยี่ยม</item>
+        <item>โรมาเนีย</item>
+        <item>ฮังการี</item>
+        <item>โมลดูวา</item>
+        <item>เดนมาร์ก</item>
+        <item>ไอร์แลนด์</item>
+        <item>ยิบรอลตาร์</item>
+        <item>ฟินแลนด์</item>
+        <item>ไอล์ออฟแมน</item>
+        <item>ตุรกี</item>
+        <item>โปรตุเกส</item>
+        <item>อังกฤษ</item>
+        <item>ลักเซมเบิร์ก</item>
+        <item>สเปน</item>
+        <item>มอลตา</item>
+        <item>เบลารุส</item>
+        <item>โมนาโก</item>
+        <item>รัสเซีย</item>
+        <item>นอร์เวย์</item>
+        <item>ฝรั่งเศส</item>
+        <item>เช็กเกีย</item>
+        <item>ลัตเวีย</item>
+        <item>อิตาลี</item>
+        <item>ซานมาริโน</item>
+        <item>บอสเนียและเฮอร์เซโก</item>
+        <item>ยูเครน</item>
+        <item>มาซิโดเนียเหนือ</item>
+        <item>บัลแกเรีย</item>
+        <item>สวีเดน</item>
+        <item>เอสโตเนีย</item>
+        <item>นครรัฐวาติกัน</item>
+        <item>ออสเตรีย</item>
+        <item>ลิธัวเนีย</item>
+        <item>โปแลนด์</item>
+        <item>โครเอเชีย</item>
+        <item>สวิตเซอร์แลนด์</item>
+        <item>มัลดีฟส์</item>
+        <item>มอริเชียส</item>
+        <item>นิวซีแลนด์</item>
+        <item>ฟิจิ</item>
+        <item>กวม</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>ออสเตรเลีย</item>
+        <item>นิวแคลิโดเนีย</item>
+        <item>ซามัว</item>
+        <item>เฟรนช์พอลินีเชีย</item>
+        <item>แอนติกาและบาร์บูดา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>แคนาดา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>แคนาดา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>เอลซัลวาดอร์</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>กาตาร์</item>
+        <item>จีน</item>
+        <item>อินเดีย</item>
+        <item>อินเดีย</item>
+        <item>ญี่ปุ่น</item>
+        <item>ปากีสถาน</item>
+        <item>เยเมน</item>
+        <item>สเปน</item>
+        <item>เยอรมนี</item>
+        <item>อิตาลี</item>
+        <item>เยอรมนี</item>
+        <item>เวียดนาม</item>
+        <item>ตุรกี</item>
+        <item>อินเดีย</item>
+        <item>บราซิล</item>
+        <item>แอฟริกาใต้</item>
+        <item>ปากีสถาน</item>
+        <item>บราซิล</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>อังกฤษ</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>จีน</item>
+        <item>อินเดีย</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>บราซิล</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>ไลบีเรีย</item>
+        <item>ศรีลันกา</item>
+        <item>แม็กซิโก</item>
+        <item>อินเดีย</item>
+        <item>อังกฤษ</item>
+        <item>ยูเครน</item>
+        <item>รัสเซีย</item>
+        <item>โปแลนด์</item>
+        <item>โปแลนด์</item>
+        <item>เยอรมนี</item>
+        <item>ฟินแลนด์</item>
+        <item>อิสราเอล</item>
+        <item>เปอร์โตริโก</item>
+        <item>ฮอนดูรัส</item>
+        <item>ซูรินาม</item>
+        <item>เอกวาดอร์</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>สหรัฐอเมริกา</item>
+        <item>แคนาดา</item>
+        <item>เคปเวิร์ด</item>
+        <item>ไอซ์แลนด์</item>
+        <item>สวิตเซอร์แลนด์</item>
+        <item>นามิเบีย</item>
+        <item>บัลแกเรีย</item>
+        <item>กรีช</item>
+        <item>รัสเซีย</item>
+        <item>ซูดาน</item>
+        <item>เคนยา</item>
+        <item>เยเมน</item>
+        <item>มาดากัสการ์</item>
+        <item>คูเวต</item>
+        <item>สหรัฐอาหรับเอมิเรตส์</item>
+        <item>รัสเซีย</item>
+        <item>อินเดีย</item>
+        <item>รัสเซีย</item>
+        <item>จีน</item>
+        <item>รัสเซีย</item>
+        <item>รัสเซีย</item>
+        <item>รัสเซีย</item>
+        <item>รัสเซีย</item>
+        <item>รัสเซีย</item>
+        <item>ฟิจิ</item>
+        <item>นิวซีแลนด์</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>อัตราการเต้นหัวใจ</item>
+        <item>ความเครียด</item>
+        <item>การนอน</item>
+        <item>พลังงาน</item>
+        <item>ก้าว</item>
+        <item>แคลอรี่</item>
+        <item>การยืน</item>
+        <item>แบตเตอรี่</item>
+        <item>วันที่</item>
+        <item>สภาพอากาศ</item>
+        <item>ความกดอากาศ</item>
+        <item>ระดับความสูง</item>
+        <item>ตัวจับเวลา</item>
+        <item>การปลุก</item>
+        <item>AQI</item>
+        <item>ความชื้น</item>
+        <item>ออกกำลังกาย</item>
+        <item>รังสียูวี</item>
+        <item>พระอาทิตย์ขึ้นและพระอาทิตย์ตก</item>
+        <item>ลม</item>
+    </string-array>
+    <string-array name="device_settings_remind_count_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="device_settings_remind_every_week_array">
+        <item>ทุกวันจันทร์</item>
+        <item>ทุกวันอังคาร</item>
+        <item>ทุกวันพุธ</item>
+        <item>ทุกวันพฤหัสบดี</item>
+        <item>ทุกวันศุกร์</item>
+        <item>ทุกวันเสาร์</item>
+        <item>ทุกวันอาทิตย์</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>กำหนดการแบบครั้งเดียว</item>
+        <item>รายวัน</item>
+        <item>รายสัปดาห์</item>
+        <item>รายเดือน</item>
+        <item>รายปี</item>
+        <item>กำหนดเอง</item>
+    </string-array>
+    <string-array name="device_settings_screen_wake_sates">
+        <item>@string/device_settings_wrist_bright_day_all</item>
+        <item>@string/device_settings_wrist_bright_custom_time</item>
+        <item>@string/device_settings_wrist_bright_close</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>ใกล้มาก</item>
+        <item>ใกล้</item>
+        <item>ใกล้เล็กน้อย</item>
+    </string-array>
+    <string-array name="device_settings_vibrate_mode_type_array">
+        <item>@string/device_settings_incoming_call</item>
+        <item>@string/device_settings_event_remind</item>
+        <item>@string/device_settings_alarm</item>
+        <item>@string/device_settings_app_notify</item>
+        <item>@string/device_settings_long_sit</item>
+        <item>@string/device_settings_sms</item>
+        <item>@string/device_settings_sport_reach_goal</item>
+        <item>@string/device_settings_vibrate_schedule</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>อัตราการเต้นหัวใจ</item>
+        <item>ความเครียด</item>
+        <item>การนอน</item>
+        <item>พลังงาน</item>
+        <item>จำนวนก้าว</item>
+        <item>แคลอรี่</item>
+        <item>การยืน</item>
+        <item>แบตเตอรี่</item>
+        <item>วันที่</item>
+        <item>สภาพอากาศ</item>
+        <item>ความกดอากาศ</item>
+        <item>ระดับความสูง</item>
+        <item>ตัวจับเวลา</item>
+        <item>การปลุก</item>
+        <item>AQI</item>
+        <item>ความชื้น</item>
+        <item>ออกกำลังกาย</item>
+        <item>รังสียูวี</item>
+        <item>พระอาทิตย์ขึ้นและพระอาทิตย์ตก</item>
+        <item>ลม</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>จันทร์, พุธ, ศุกร์</item>
+        <item>อังคาร, พฤหัส, เสาร์</item>
+        <item>พุธ, ศุกร์, อาทิตย์</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
+        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
+        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
+        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Track your sleep</item>
+        <item>Place your phone next to your pillow</item>
+        <item>Generate stats automatically</item>
+        <item>Low power consumption</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>การจำกัดการงีบให้เหลือ 30 นาทีจะช่วยให้คุณหลับได้ดีขึ้น</item>
+        <item>สุขอนามัยในการนอนหลับที่ดีอาจช่วยให้คุณรู้สึกดีขึ้น</item>
+        <item>การงีบหลับเป็นเวลา 10 ถึง 20 นาทีสามารถทำให้คุณสดชื่นได้</item>
+        <item>การงีบก่อน 13:30 น. สามารถทำให้คุณสดชื่น</item>
+        <item>การงีบหลับช่วยเพิ่มพลังงานและประสิทธิภาพของคุณ</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>ปริมาณใช้ได้ ผู้ใหญ่ส่วนใหญ่ต้องการเวลาระหว่าง 7 ถึง 9 ชั่วโมงในการนอน</item>
+        <item>ปริมาณใช้ได้ รักษาชั่วโมงการนอนหลับให้เป็นประจำ</item>
+        <item>"การนอนหลับให้เพียงพอทุกวันเป็นนิสัยที่ดีต่อสุขภาพ "</item>
+        <item>การนอนหลับสั้น ผู้ใหญ่ส่วนใหญ่ต้องการเวลาระหว่าง 7 ถึง 9 ชั่วโมงในการนอน</item>
+        <item>ปริมาณสูงกว่าทั่วไป ผู้ใหญ่ส่วนใหญ่ต้องการเวลาระหว่าง 7 ถึง 9 ชั่วโมงในการนอน</item>
+        <item>ปริมานการนอนหลับลึกดี กระตุ้นการซ่อมแซมและความจำ</item>
+        <item>ปริมานการนอนหลับลึกดี กระตุ้นการฟื้นฟูและภูมิคุ้มกัน</item>
+        <item>การนอนหลับลึกสูงกว่าค่าเฉลี่ย จับตาดูสุขภาพของคุณ</item>
+        <item>หลับลึกน้อย พยายามออกกำลังกาย แต่อย่าออกก่อนนอน</item>
+        <item>หลับลึกน้อย ผ่อนคลายจิตใจและเข้าสู่การนอนหลับ</item>
+        <item>หลับลึกน้อย หลีกเลี่ยงการซื้ออาหารทานอตอนกลางคืน</item>
+        <item>เปลี่ยนเวลาเข้านอนเป็น 22.00 ถึง 23.00 น.</item>
+        <item>นอนดึก ควรกำหนดตารางเวลาเข้านอนให้เป็นปกติ</item>
+        <item>นอนดึก ควรรักษาชั่วโมงการนอนหลับให้เป็นปกติ</item>
+        <item>การมีแนวโน้มเป็นนกฮูกกลางคืนอาจมาพร้อมกับผลกระทบต่อสุขภาพ</item>
+        <item>เวลาตื่นนอนสูงกว่าเฉลี่ย ควรทำห้องนอนของคุณให้มืดและเงียบ</item>
+        <item>ตื่นนอนเป็นบางครั้ง ควรทำห้องนอนของคุณให้มืดและเงียบ</item>
+        <item>ตื่นนอนเป็นบางครั้ง ควรทำห้องนอนของคุณให้มืดและเงียบ</item>
+        <item>การนอนหลับ REM ในปริมาณที่ดี ความคิดสร้างสรรค์และทักษะการแก้ปัญหาของคุณได้รับการส่งเสริม</item>
+        <item>มีการนอนหลับแบบ REM ในปริมาณที่ดี ได้พักผ่อนและผ่อนคลาย</item>
+        <item>มีการหลับแบบ REM น้อย พยายามออกกำลังกาย แต่อย่าออกก่อนนอน</item>
+        <item>มีการหลับแบบ REM น้อย การนอนหลับให้เพียงพอสามารถช่วยได้</item>
+        <item>การนอนหลับแบบ REM สูงกว่าค่าเฉลี่ย ควรคลายความกังวลก่อนนอน</item>
+        <item>การนอนหลับแบบ REM ควรรักษาชั่วโมงการนอนหลับให้เป็นปกติ</item>
+        <item>มีปริมานการนอนหลับตื้นที่ดี ได้พักผ่อนและส่งเสริมความคิดสร้างสรรค์</item>
+        <item>มีปริมานการนอนหลับตื้นที่ดี กระตุ้นการฟื้นฟูและภูมิคุ้มกัน</item>
+        <item>มีปริมาณการนอนหลับตื้นที่สูงกว่าค่าเฉลี่ย ควรผ่อนคลายและคลายเครียดก่อนนอน</item>
+        <item>เพื่อให้มีพลังงานในยามเช้า ให้เข้านอนก่อน 24.00 น.</item>
+        <item>เพื่อให้มีพลังงานในยามเช้า ให้เข้านอนก่อน 24.00 น.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>มีการนอนหลับที่เพียงพอและเวลาเข้านอนสม่ำเสมอ ทำต่อไป</item>
+        <item>มีการนอนหลับที่ดี แต่มีกิจวัตรก่อนนอนที่ผิดปกติเล็กน้อย รักษาชั่วโมงการนอนหลับให้เป็นสม่ำเสมอ</item>
+        <item>มีการนอนหลับที่ดี แต่มีกิจวัตรก่อนนอนที่ผิดปกติ ลองกำหนดตารางเวลาและปฏิบัติตาม</item>
+        <item>มีการนอนหลับที่ใช้ได้ และมีกิจวัตรก่อนนอนที่ปกติ หลีกเลี่ยงของขบเคี้ยวตอนกลางคืน</item>
+        <item>มีการนอนหลับที่ใช้ได้ และมีกิจวัตรก่อนนอนที่ผิดปกติเล็กน้อย ควรผ่อนคลายและคลายเครียดก่อนนอน</item>
+        <item>มีการนอนหลับที่ใช้ได้ และมีกิจวัตรก่อนนอนที่ผิดปกติ ควรทำห้องนอนของคุณให้มืดและเงียบ</item>
+        <item>การนอนหลับลึกสูงกว่าค่าเฉลี่ย และมีกิจวัตรก่อนนอนที่ปกติ สุขอนามัยในการนอนหลับที่ดีอาจช่วยให้คุณรู้สึกดีขึ้น</item>
+        <item>การนอนหลับลึกสูงกว่าค่าเฉลี่ย และมีกิจวัตรก่อนนอนที่ผิดปกติเล็กน้อย หากคุณรู้สึกไม่สบายตัวให้ปรับชั่วโมงการนอนของคุณ</item>
+        <item>การนอนหลับลึกสูงกว่าค่าเฉลี่ย และมีกิจวัตรก่อนนอนที่ผิดปกติ ควรรักษาชั่วโมงการนอนหลับให้สม่ำเสมอ</item>
+        <item>การนอนหลับไม่สม่ำเสมอ ควรกำหนดตารางเวลาและปฏิบัติตาม</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>ไม่มีข้อมูล</item>
+        <item>ไม่เลว</item>
+        <item>ปานกลาง</item>
+        <item>ดี</item>
+        <item>ยอดเยี่ยม</item>
+        <item>ไม่มีข้อมูลเวลากลางคืน</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>มีการนอนหลับที่เพียงพอและเวลาเข้านอนสม่ำเสมอ ทำต่อไป</item>
+        <item>มีการนอนหลับที่ดี แต่มีกิจวัตรก่อนนอนที่ผิดปกติเล็กน้อย รักษาชั่วโมงการนอนหลับให้เป็นสม่ำเสมอ</item>
+        <item>มีการนอนหลับที่ดี แต่มีกิจวัตรก่อนนอนที่ผิดปกติ ลองกำหนดตารางเวลาและปฏิบัติตาม</item>
+        <item>มีการนอนหลับที่ใช้ได้ และมีกิจวัตรก่อนนอนที่ปกติ หลีกเลี่ยงของขบเคี้ยวตอนกลางคืน</item>
+        <item>มีการนอนหลับที่ใช้ได้ และมีกิจวัตรก่อนนอนที่ผิดปกติเล็กน้อย ควรผ่อนคลายและคลายเครียดก่อนนอน</item>
+        <item>มีการนอนหลับที่ใช้ได้ และมีกิจวัตรก่อนนอนที่ผิดปกติ ควรทำห้องนอนของคุณให้มืดและเงียบ</item>
+        <item>การนอนหลับลึกสูงกว่าค่าเฉลี่ย และมีกิจวัตรก่อนนอนที่ปกติ สุขอนามัยในการนอนหลับที่ดีอาจช่วยให้คุณรู้สึกดีขึ้น</item>
+        <item>การนอนหลับลึกสูงกว่าค่าเฉลี่ย และมีกิจวัตรก่อนนอนที่ผิดปกติเล็กน้อย หากคุณรู้สึกไม่สบายตัวให้ปรับชั่วโมงการนอนของคุณ</item>
+        <item>สูงกว่าค่าเฉลี่ย และมีกิจวัตรก่อนนอนที่ผิดปกติ ควรรักษาชั่วโมงการนอนหลับให้สม่ำเสมอ</item>
+        <item>การนอนหลับไม่สม่ำเสมอ ควรกำหนดตารางเวลาและปฏิบัติตาม</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
+        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
+        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Record audio using microphone</item>
+        <item>Detect sounds automatically</item>
+        <item>Keep your phone charged</item>
+    </string-array>
+    <string-array name="relative_care_system_recommendation_identity_label">
+        <item>พ่อ</item>
+        <item>แม่</item>
+        <item>พ่อตา</item>
+        <item>แม่ยาย</item>
+        <item>ปู่</item>
+        <item>ย่า</item>
+        <item>ตา</item>
+        <item>ยาย</item>
+        <item>ลูกชาย</item>
+        <item>ลูกสาว</item>
+        <item>น้องสาว</item>
+        <item>พี่สาว</item>
+        <item>น้องชาย</item>
+        <item>พี่ชาย</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+        <item>อา.</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+        <item>อาทิตย์</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>ซม.</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>ไม่ได้ตั้ง</item>
+        <item>ผู้ปกครอง</item>
+        <item>พี่/น้องสาว</item>
+        <item>พี่/น้องชาย</item>
+        <item>คู่สมรส</item>
+        <item>คู่ชีวิต</item>
+        <item>เพื่อน</item>
+        <item>เพื่อนร่วมงาน</item>
+        <item>เพื่อนร่วมชั้น</item>
+        <item>ลูก</item>
+        <item>พันธมิตร</item>
+        <item>ผู้ช่วย</item>
+        <item>เจ้านาย</item>
+        <item>เพื่อนร่วมห้อง</item>
+        <item>หมอ</item>
+        <item>สมาชิกในครอบครัว</item>
+        <item>ครู</item>
+        <item>ผู้ดูแล</item>
+        <item>ผู้คุ้มครอง</item>
+        <item>นักสังคมสงเคราะห์</item>
+        <item>โรงเรียน</item>
+        <item>รับเลี้ยงเด็ก</item>
+        <item>อื่นๆ</item>
+    </string-array>
+    <string-array name="userinfo_emergency_contact_way_of_adding">
+        <item>ไม่ได้ตั้ง</item>
+        <item>เพิ่ม</item>
+        <item>เลือกจากรายชื่อ</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>ไม่ได้ตั้ง</item>
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>ซม.</item>
+        <item>ม.</item>
+        <item>กม.</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>ไม่ได้ตั้ง</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>ไม่ได้ตั้ง</item>
+        <item>แง่ลบ</item>
+        <item>แง่บวก</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>กก.</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>ไม่ได้ตั้ง</item>
+        <item>ใช่</item>
+        <item>ไม่ใช่</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>อา.</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+    </string-array>
+</resources>

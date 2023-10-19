@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Закрыць меню навігацыі</string>
+    <string name="close_sheet">Закрыць аркуш</string>
+    <string name="default_error_message">Памылка ўводу</string>
+    <string name="default_popup_window_title">Усплывальнае акно</string>
+    <string name="dropdown_menu">Выпадное меню</string>
+    <string name="in_progress">У працэсе</string>
+    <string name="indeterminate">Птушка не пастаўлена і не знята</string>
+    <string name="navigation_menu">Меню навігацыі</string>
+    <string name="not_selected">Не выбрана</string>
+    <string name="off">Выключана</string>
+    <string name="on">Уключана</string>
+    <string name="range_end">Канец пераліку</string>
+    <string name="range_start">Пачатак пераліку</string>
+    <string name="selected">Выбрана</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Укладка</string>
+    <string name="template_percent">Працэнтаў: %1$d.</string>
+</resources>

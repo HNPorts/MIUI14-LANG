@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+        <item quantity="one">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Em %d min</item>
+        <item quantity="one">Em 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min atrás</item>
+        <item quantity="one">1 min atrás</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s moedas</item>
+        <item quantity="one">%1s moeda</item>
+    </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">Eliminar %d tarefas agora?</item>
+        <item quantity="one">Eliminar %d tarefa agora?</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">%d tarefas eliminadas com sucesso</item>
+        <item quantity="one">%d tarefa eliminada com sucesso</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avançar %d segundos</item>
+        <item quantity="one">Avançar %d segundo(s)</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Retroceder %d segundos</item>
+        <item quantity="one">Retroceder %d segundo(s)</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+        <item quantity="one">Meia hora atrás</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+        <item quantity="one">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia hora</item>
+        <item quantity="one">Em meia hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+        <item quantity="one">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+        <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d itens selecionados</item>
+        <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d moedas = %2$d IDR
+Moedas não são reembolsáveis"</item>
+        <item quantity="one">"%1$d moeda = %2$d IDR
+Moedas não são reembolsáveis"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d trabalhos</item>
+        <item quantity="one">%d trabalho</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"%d pedidos reembolsados com sucesso. "</item>
+        <item quantity="one">"%d pedido reembolsado com sucesso. "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">Suas moedas serão depositadas dentro de %d horas.</item>
+        <item quantity="one">Suas moedas serão depositadas dentro de %d hora.</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">O seu reembolso foi processado. As suas moedas serão depositadas dentro de %d horas.</item>
+        <item quantity="one">O seu reembolso foi processado. As suas moedas serão depositadas dentro de %d hora.</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">Isto poderá levar algum tempo. Se ainda não tiver recebido os itens comprados dentro de %d horas, envie um comentário para nos dizer do problema.</item>
+        <item quantity="one">Isto poderá levar algum tempo. Se ainda não tiver recebido os itens comprados dentro de %d hora, envie um comentário para nos dizer do problema.</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Ao completar este pagamento, estará a concordar com o &lt;a href=\"%1$s\">Aviso sobre Compras na Aplicação&lt;/a>.&lt;br>Reembolsos estão disponíveis por &lt;xliff:g id=time>%2$d&lt;/xliff:g> horas após as compras serem feitas.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ao completar este pagamento, estará a concordar com o &lt;a href=\"%1$s\">Aviso sobre Compras na Aplicação&lt;/a>.&lt;br>Reembolsos estão disponíveis por &lt;xliff:g id=time>%2$d&lt;/xliff:g> hora após as compras serem feitas.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">O pedido foi concluído há mais de %d horas atrás. Envie-nos um email.</item>
+        <item quantity="one">O pedido foi concluído há mais de %d hora atrás. Envie-nos um email.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Receberá as moedas dentro de %d horas.</item>
+        <item quantity="one">Receberá as moedas dentro de %d hora.</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d comentários</item>
+        <item quantity="one">%d comentário</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">%1$s fontes transferidas com sucesso</item>
+        <item quantity="one">%1$s fonte transferida com sucesso</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">%1$s temas transferidos com sucesso</item>
+        <item quantity="one">%1$s tema transferido com sucesso</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">Trabalhos de %1$s</item>
+        <item quantity="one">Trabalho de %1$s</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d imagens</item>
+        <item quantity="one">%1$s | %2$d imagem</item>
+    </plurals>
+</resources>

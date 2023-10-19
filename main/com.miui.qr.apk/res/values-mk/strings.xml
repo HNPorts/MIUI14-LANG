@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Затворете го менито за навигација</string>
+    <string name="close_sheet">Затворете го листот</string>
+    <string name="default_error_message">Неважечки запис</string>
+    <string name="default_popup_window_title">Скокачки прозорец</string>
+    <string name="dropdown_menu">Паѓачко мени</string>
+    <string name="in_progress">Во тек</string>
+    <string name="indeterminate">Ниту штиклирано, ниту отштиклирано</string>
+    <string name="navigation_menu">Мени за навигација</string>
+    <string name="not_selected">Не е избрано</string>
+    <string name="off">Исклучено</string>
+    <string name="on">Вклучено</string>
+    <string name="range_end">Крај на опсегот</string>
+    <string name="range_start">Почеток на опсегот</string>
+    <string name="selected">Избрано</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Картичка</string>
+    <string name="template_percent">%1$d проценти.</string>
+</resources>

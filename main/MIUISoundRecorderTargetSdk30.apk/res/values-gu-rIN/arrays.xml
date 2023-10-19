@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>મ્યૂઝિક</item>
+        <item>અવાજ</item>
+        <item>ઇન્ટરવ્યૂ</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>મ્યૂઝિક</item>
+        <item>અવાજ</item>
+        <item>ઇન્ટરવ્યૂ</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>વધારે</item>
+        <item>સ્ટાન્ડર્ડ</item>
+        <item>ઓછું</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>મ્યૂઝિક</item>
+        <item>અવાજ</item>
+    </string-array>
+</resources>

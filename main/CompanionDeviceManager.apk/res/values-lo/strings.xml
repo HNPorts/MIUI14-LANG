@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="abc_action_bar_up_description">ເລື່ອນຂຶ້ນເທິງ</string>
+    <string name="abc_action_menu_overflow_description">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="abc_action_mode_done">ແລ້ວໆ</string>
+    <string name="abc_activity_chooser_view_see_all">ເບິ່ງທັງໝົດ</string>
+    <string name="abc_activitychooserview_choose_application">ເລືອກແອັບ</string>
+    <string name="abc_capital_off">ປິດ</string>
+    <string name="abc_capital_on">ເປີດ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ລຶບ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ຍະຫວ່າງ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ຊອກຫາ…</string>
+    <string name="abc_searchview_description_clear">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="abc_searchview_description_query">ຄຳສຳລັບຄົ້ນຫາ</string>
+    <string name="abc_searchview_description_search">ຊອກຫາ</string>
+    <string name="abc_searchview_description_submit">ສົ່ງຂໍ້ມູນ</string>
+    <string name="abc_searchview_description_voice">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="abc_shareactionprovider_share_with">ແບ່ງປັນກັບ</string>
+    <string name="abc_shareactionprovider_share_with_application">ແບ່ງປັນດ້ວຍ %s</string>
+    <string name="abc_toolbar_collapse_description">ຫຍໍ້ລົງ</string>
+    <string name="app_label">ຕົວຈັດການອຸປະກອນປະກອບ</string>
+    <string name="chooser_title">ເລືອກ %1$s ເພື່ອໃຫ້ຖືກຈັດການໂດຍ &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">ອະນຸຍາດ &lt;strong>%1$s&lt;/strong> ໃຫ້ເຂົ້າເຖິງ &lt;strong>%2$s&lt;/strong> ຂອງທ່ານໄດ້</string>
+    <string name="consent_back">ກັບຄືນ</string>
+    <string name="consent_no">ບໍ່ອະນຸຍາດ</string>
+    <string name="consent_yes">ອະນຸຍາດ</string>
+    <string name="helper_summary_app_streaming">%1$s ກຳລັງຮ້ອງຂໍການອະນຸຍາດໃນນາມຂອງ %2$s ເພື່ອເຂົ້າເຖິງຮູບພາບ, ມີເດຍ ແລະ ການແຈ້ງເຕືອນຂອງໂທລະສັບທ່ານ</string>
+    <string name="helper_summary_computer">%1$s ກຳລັງຮ້ອງຂໍການອະນຸຍາດໃນນາມຂອງ %2$s ເພື່ອສະຕຣີມແອັບລະຫວ່າງອຸປະກອນຂອງທ່ານ</string>
+    <string name="helper_title_app_streaming">ບໍລິການຂ້າມອຸປະກອນ</string>
+    <string name="helper_title_computer">ບໍລິການ Google Play</string>
+    <string name="permission_apps">ແອັບ</string>
+    <string name="permission_apps_summary">ສະຕຣີມແອັບຂອງໂທລະສັບທ່ານ</string>
+    <string name="permission_notification">ການແຈ້ງເຕືອນ</string>
+    <string name="permission_notification_summary">ສາມາດອ່ານການແຈ້ງເຕືອນທັງໝົດ, ຮວມທັງຂໍ້ມູນ ເຊັ່ນ: ລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ ແລະ ຮູບພາບ</string>
+    <string name="permission_storage">ຮູບພາບ ແລະ ມີເດຍ</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">ໂອນຍ້າຍການອະນຸຍາດແອັບໄປຫາໂມງຂອງທ່ານ</string>
+    <string name="permission_sync_summary">"ເພື່ອເຮັດໃຫ້ຕັ້ງຄ່າໂມງຂອງທ່ານໄດ້ງ່າຍຂຶ້ນ, ແອັບທີ່ຕິດຕັ້ງຢູ່ໂມງຂອງທ່ານໃນລະຫວ່າງການຕັ້ງຄ່າຈະໃຊ້ການອະນຸຍາດດຽວກັນກັບໂທລະສັບຂອງທ່ານ.
+
+ ການອະນຸຍາດເຫຼົ່ານີ້ອາດຮວມສິດເຂົ້າເຖິງໄມໂຄຣໂຟນ ແລະ ສະຖານທີ່ຂອງທ່ານນຳ."</string>
+    <string name="profile_name_generic">ອຸປະກອນ</string>
+    <string name="profile_name_watch">ໂມງ</string>
+    <string name="search_menu_title">ຊອກຫາ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">ຕ້ອງໃຊ້ແອັບນີ້ເພື່ອຈັດການ %1$s ຂອງທ່ານ. %2$s ຈະໄດ້ຮັບອະນຸຍາດໃຫ້ໂຕ້ຕອບກັບການແຈ້ງເຕືອນຂອງທ່ານ ແລະ ເຂົ້າເຖິງການອະນຸຍາດໂທລະສັບ, SMS, ລາຍຊື່ຜູ້ຕິດຕໍ່, ປະຕິທິນ, ບັນທຶກການໂທ ແລະ ອຸປະກອນທີ່ຢູ່ໃກ້ຄຽງຂອງທ່ານ.</string>
+    <string name="title_app_streaming">ອະນຸຍາດ &lt;strong>%1$s&lt;/strong> ໃຫ້ເຂົ້າເຖິງຂໍ້ມູນນີ້ຈາກໂທລະສັບຂອງທ່ານໄດ້</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">ອະນຸຍາດ &lt;strong>%1$s&lt;/strong> ໃຫ້ເຂົ້າເຖິງຂໍ້ມູນນີ້ຈາກໂທລະສັບຂອງທ່ານໄດ້</string>
+    <string name="vendor_header_button_description">ປຸ່ມຂໍ້ມູນເພີ່ມເຕີມ</string>
+    <string name="vendor_icon_description">ໄອຄອນແອັບ</string>
+</resources>

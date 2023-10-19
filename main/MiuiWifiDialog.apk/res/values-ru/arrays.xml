@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839::: %1$s: не удалось подключиться к сервису Verizon Wi-Fi Access из-за ошибки 16384.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839::: %1$s: не удалось подключиться к сервису Verizon Wi-Fi Access из-за ошибки 16385.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839::: %1$s: вы не можете подключиться к сервису Verizon Wi-Fi Access вне зоны покрытия Verizon. Код ошибки: 32760.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839::: %1$s: вы не подписаны на сервис Verizon Wi-Fi Access. Позвоните нам по номеру 800 922-02-04. Код ошибки: 32761.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839::: %1$s: возникла проблема с вашим аккаунтом Verizon Wi-Fi Access. Позвоните нам по номеру 800 922-02-04. Код ошибки: 32762.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839::: %1$s: вы уже подключены к сервису Verizon Wi-Fi Access. Код ошибки: 32763.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839::: %1$s: не удалось подключиться к сервису Verizon Wi-Fi Access. Позвоните нам по номеру 800 922-02-04. Код ошибки: 32764.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839::: %1$s: возникла проблема с вашим аккаунтом Verizon Wi-Fi Access. Позвоните нам по номеру 800 922-02-04. Код ошибки: 32765.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839::: %1$s: сервис Verizon Wi-Fi Access недоступен там, где вы находитесь. Повторите попытку позже или в другом месте. Код ошибки: 32766.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839::: %1$s: не удалось подключиться к сервису Verizon Wi-Fi Access. Повторите попытку позже или в другом месте.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839::: %1$s: не удалось подключиться к сервису Verizon Wi-Fi Access.</item>
+    </string-array>
+</resources>

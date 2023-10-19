@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : наидовме на проблем при обидот да ве поврземе на Verizon Wi-Fi Access поради грешка 16384.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : наидовме на проблем при обидот да ве поврземе на Verizon Wi-Fi Access поради грешка 16385.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : не може да се поврзете на Verizon Wi-Fi Access надвор од областа на покривање на Verizon. (Грешка = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s : не сте претплатени на Verizon Wi-Fi Access. Контактирајте со нас на 800-922-0204. (Грешка = 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s : проблем со вашата сметка на Verizon Wi-Fi Access. Контактирајте со нас на 800-922-0204. (Грешка = 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : веќе сте поврзани на Verizon Wi-Fi Access. (Грешка = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s : наидовме на проблем при обидот да ве поврземе на Verizon Wi-Fi Access. Контактирајте со нас на 800-922-0204. (Грешка = 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s : проблем со вашата сметка на Verizon Wi-Fi Access. Контактирајте со нас на 800-922-0204. (Грешка = 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : Verizon Wi-Fi Access не е достапна од вашата локација. Пробајте повторно подоцна или од друга локација. (Грешка = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : наидовме на проблем при обидот да ве поврземе на Verizon Wi-Fi Access. Пробајте повторно подоцна или од друга локација.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : наидовме на проблем при обидот да ве поврземе на Verizon Wi-Fi Access.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="abc_action_bar_up_description">ເລື່ອນຂຶ້ນເທິງ</string>
+    <string name="abc_action_menu_overflow_description">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="abc_action_mode_done">ແລ້ວໆ</string>
+    <string name="abc_activity_chooser_view_see_all">ເບິ່ງທັງໝົດ</string>
+    <string name="abc_activitychooserview_choose_application">ເລືອກແອັບ</string>
+    <string name="abc_capital_off">ປິດ</string>
+    <string name="abc_capital_on">ເປີດ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ລຶບ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ຍະຫວ່າງ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ຊອກຫາ…</string>
+    <string name="abc_searchview_description_clear">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="abc_searchview_description_query">ຄຳສຳລັບຄົ້ນຫາ</string>
+    <string name="abc_searchview_description_search">ຊອກຫາ</string>
+    <string name="abc_searchview_description_submit">ສົ່ງຂໍ້ມູນ</string>
+    <string name="abc_searchview_description_voice">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="abc_shareactionprovider_share_with">ແບ່ງປັນກັບ</string>
+    <string name="abc_shareactionprovider_share_with_application">ແບ່ງປັນດ້ວຍ %s</string>
+    <string name="abc_toolbar_collapse_description">ຫຍໍ້ລົງ</string>
+    <string name="always_on_disconnected_message">%1$s ຖືກຕັ້ງຄ່າເພື່ອເຊື່ອມຕໍ່ໄດ້ຕະຫຼອດເວລາ, ແຕ່ມັນບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ໃນຕອນນີ້. ໂທລະສັບຂອງທ່ານຈະໃຊ້ເຄືອຂ່າຍສາທາລະນະຈົນກວ່າມັນຈະສາມາດເຊື່ອມຕໍ່ຫາ %1$s ໄດ້ອີກຄັ້ງ.</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s ຖືກຕັ້ງຄ່າເພື່ອເຊື່ອມຕໍ່ໄດ້ຕະຫຼອດເວລາ, ແຕ່ມັນບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ໃນຕອນນີ້. ທ່ານຈະບໍ່ມີການເຊື່ອມຕໍ່ຈົນກວ່າ VPN ຈະສາມາດເຊື່ອມຕໍ່ຄືນໃໝ່ໄດ້.</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">ປ່ຽນການຕັ້ງຄ່າ VPN</string>
+    <string name="always_on_disconnected_title">ບໍ່ສາມາດເຊື່ອມຕໍ່ຫາ VPN ແບບເປີດຕະຫຼອດໄດ້</string>
+    <string name="configure">ປັບຄ່າ</string>
+    <string name="data_received">ຮັບ:</string>
+    <string name="data_transmitted">ສົ່ງ:</string>
+    <string name="data_value_format">%1$s ໄບ / %2$s ແພັກເກັດ</string>
+    <string name="disconnect">ຕັດການເຊື່ອມຕໍ່</string>
+    <string name="dismiss">ປິດໄວ້</string>
+    <string name="duration">ໄລຍະເວລາ:</string>
+    <string name="legacy_title">ເຊື່ອມຕໍ່ VPN ແລ້ວ</string>
+    <string name="open_app">ເປີດແອັບ</string>
+    <string name="prompt">ການ​ຮ້ອງ​ຂໍ​ການ​ເຊື່ອມ​ຕໍ່</string>
+    <string name="search_menu_title">ຊອກຫາ</string>
+    <string name="session">ເຊສຊັນ:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="warning">%s ຕ້ອງ​ການ​ຕັ້​ງ​ຄ່າ​ການ​ເຊື່ອມ​ຕໍ່ VPN ທີ່​ອະ​ນຸ​ຍາດ​ໃຫ້​ຕິດ​ຕາມ​ທຣາບ​ຟິກ​ເຄືອ​ຂ່າຍ​ໄດ້. ​ທ່ານ​​ຄວນ​​ຍິນຍອມ​ສະ​ເພາະ​ໃນ​ກໍ​ລະ​ນີ​ທີ່​ທ່ານ​ເຊື່ອ​ຖື​ແຫລ່ງ​ຂໍ້​ມູນ​ເທົ່າ​ນັ້ນ. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> ຈະ​ປາ​ກົດ​ຢູ່​ດ້ານ​ເທິງ​ຂອງ​ໜ້າ​ຈໍ​ເມື່ອ​ມີ​ການ​ເປີດ​ໃຊ້ VPN.</string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Na ganowar abubuwan da aka daidaita</item>
+        <item>Na daidaitawar saƙonni</item>
+        <item>Na daidaitawar lambobi</item>
+        <item>Na daidaitawar aukuwa na kalanda</item>
+        <item>"Na daidaitawar abubuwa da sabisin dake amfani da ma'aji"</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Waya</item>
+        <item>SMS</item>
+        <item>Lambobi</item>
+        <item>Kalanda</item>
+        <item>"Ma'aji"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Daidaita lambobin ka, sakonni, rubutu, kalanda, dasu abubuwa daban</item>
+        <item>Adana bayanan manhaja, nunawar Allon farko, da hoton allo</item>
+        <item>Adana bayanan saittuna masu muhimmanci, tare da Wi-Fi da nunawa</item>
+        <item>"Kulle na'urar daga nisa idan ka rasa shi"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Daidaita lambobin ka, sakonni, rubutu, kalanda, dasu abubuwa daban</item>
+        <item>Adana bayanan manhaja, nunawar Allon farko, da hoton allo</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Kulle na'urar daga nisa idan ka rasa shi"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Daidaita lambobin ka, sakonni, rubutu, kalanda, dasu abubuwa daban</item>
+        <item>Adana bayanan manhaja, nunawar Allon farko, da hoton allo</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Kulle na'urar daga nisa idan ka rasa shi"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Daidaita hotunanku, rubutu, rikodinku, da ƙari</item>
+        <item>"Kulle na'urar daga nisa idan ka rasa shi"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Daidaita lambobin ka, sakonni, rubutu, kalanda, dasu abubuwa daban</item>
+        <item>Adana bayanan manhaja, nunawar Allon farko, da hoton allo</item>
+        <item>Adana bayanan saittuna masu muhimmanci, tare da Wi-Fi da nunawa</item>
+        <item>"Kulle na'urar daga nisa idan ka rasa shi"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Daidaita bayanan manhaja</item>
+        <item>Adana bayanan nunawar Allon farko</item>
+        <item>Adana bayanan saittunan sistem</item>
+        <item>"Gano na'ura"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Daidaita bayanan manhaja</item>
+        <item>"Gano na'ura"</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>"Na ganowar wurin na'urarka da canzawa zuwa yanayin bacewa"</item>
+        <item>"Don gano wurin wannan na'urar lokacin da ba a haɗa ta da intanet ba"</item>
+        <item>"Don samun isowa ga lambar waya domin gano wannan na'urar lokacin da ba a haɗa ta da intanet ba"</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Adana bayanai</item>
+        <item>Abubuwan da aka adana</item>
+        <item>Cloud;Adana Bayanai;Sabisin Cloud;Cloud na Xiaomi;Allon farko;Shimfidar Allo;Manhaja;Sarrafa adana bayanai;Maido da bayanai</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Adana bayanan Allon farko a Cloud na Xiaomi</item>
+        <item>Adana bayanan nunawar Allon farko, jerin manhajar da aka sanya, da saittunan sistem</item>
+        <item>Cloud;Adana Bayanai;Sabisin Cloud;Cloud na Xiaomi;Allon farko; Nunawar Allon farko;Manhaja;Saittuna;Firekanshin adana bayanai;Sarrafa adana bayanai;Maido da bayanai</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Daidaita burauza da Cloud na Xiaomi</item>
+        <item>Kunna ka daidaita</item>
+        <item>Burauza;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Daidaita Kalanda da Cloud na Xiaomi</item>
+        <item>Kunna ka daidaita</item>
+        <item>Kalanda;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Daidaita lambobi tare da Cloud na Xiaomi</item>
+        <item>Kunna/saita daidaitawa</item>
+        <item>Lambobi;Tarihin kira;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Daidaita tarihin kira da Cloud na Xiaomi</item>
+        <item>Kunna/saita daidaitawa</item>
+        <item>Tarihin kira;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>"Gano na'ura"</item>
+        <item>"Share bayanai sai ka kulle na'urarka idan ya bace"</item>
+        <item>"Gano na'ura;Ya bace;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi"</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>"Gano na'ura"</item>
+        <item>"Share bayanai sai ka kulle na'urarka idan ya bace"</item>
+        <item>"Gano na'ura;Ya bace;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi"</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Daidaita Galari da Cloud na Xiaomi</item>
+        <item>Kunna/saita daidaitawa</item>
+        <item>Galari;Hotuna; Girgije;Daidaita;Sabisin Girgije; Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Daidaita rubutu da Cloud na Xiaomi</item>
+        <item>Kunna ka daidaita</item>
+        <item>Rubutu;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Daidaita rubutu da Cloud na Xiaomi</item>
+        <item>Kunna ka daidaita</item>
+        <item>Rubutu;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>"Daidaita Ma'ajiyar manhaja tare da Cloud na Xiaomi"</item>
+        <item>Kunna ka daidaita</item>
+        <item>"Ma'ajin manhaja;Katuttuka;Daidaita;Sabisin Girgije;Cloud na Xiaomi"</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Daidaita amsoshi na hanzari</item>
+        <item>Kunna daidaitawa</item>
+        <item>Amsoshi na hanzari,klifbod,Edita;Cloud;Sabisin cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Daidaita rikodin da Cloud na Xiaomi</item>
+        <item>Kunna/saita daidaitawa</item>
+        <item>Rakoda;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Abubuwan da aka share a Cloud na Xiaomi</item>
+        <item>Maido da bayanan lambobi, hotuna, sakonni, da sauransu</item>
+        <item>Tarkace;Abubuwan da aka share;Kwandon shara;Sabis din girgije; Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Abubuwan da aka share a Cloud na Xiaomi</item>
+        <item>Restaurer des photos, des notes et plus encore</item>
+        <item>Tarkace;Abubuwan da aka share;Kwandon shara;Sabis din girgije; Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Maido da abubuwa daga Cloud na Xiaomi</item>
+        <item>"Sauke bayanan da aka adana zuwa na'urarka"</item>
+        <item>Cloud;Adana bayanai;Maido da bayanai;Sabisin Cloud;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Daidaitawa na tsaron cloud</item>
+        <item>Kunna ka daidaita</item>
+        <item>Tsaro;Cloud;Cloud na Xiaomi;Daidaitawa;Sabisin cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Daidaitawa na tsaron cloud</item>
+        <item>Kunna ka daidaita</item>
+        <item>Tsaro;Cloud;Cloud na Xiaomi;Daidaitawa;Sabisin cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Daidaita sakonni da Cloud na Xiaomi</item>
+        <item>Kunna/saita daidaitawa</item>
+        <item>Sakonni;SMS;MMS;Girgije;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Sayan kasancewa memban Cloud na Xiaomi</item>
+        <item>Inganta membobin ku, sami ƙarin sararin ajiya, da amintaccen bayanan ku</item>
+        <item>"Karamcin sararin ma'aji;Zama memba;Ma'aji;Sararin ma'aji;Cloud;Daidaita;Sabisin Cloud;Cloud na Xiaomi;Mega;Ultra;VIP;Adana bayanai;Adana bayanai;Maido da bayanai;Tarkace;Abubuwan da aka share;Kwandon shara"</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Cloud na Xiaomi. Dukan sabi din Mi a wuri guda.</item>
+        <item>"Isowa ga hotuna, lambobi, saƙonni, da na'urori daga ko'ina"</item>
+        <item>"Karamcin ma'aji;Zama memba;Ma'aji;Sararin ma'ajiGirgije;Sabis din Girgije;Cloud na Xiaomi;Tarkace;An share;Tsaro"</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Cloud na Xiaomi. Dukan sabi din Mi a wuri guda.</item>
+        <item>"Isowa ga hotuna, rubutu da na'urori daga ko'ina"</item>
+        <item>"Karamcin ma'aji;Zama memba;Ma'aji;Sararin ma'ajiGirgije;Sabis din Girgije;Cloud na Xiaomi;Tarkace;An share;Tsaro"</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Daidaita saittunan W-Fi da Cloud na Xiaomi</item>
+        <item>Kunna ka daidaita</item>
+        <item>WLAN;wifi;Wi-FI;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Kunna ka daidaita</item>
+        <item>WLAN;wifi;Wi-FI;Daidaita;Sabisin Girgije;Cloud na Xiaomi</item>
+    </string-array>
+</resources>

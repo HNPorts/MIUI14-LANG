@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi laman utama</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ruang</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="accept">Terima</string>
+    <string name="decline">Tolak</string>
+    <string name="dlg_ok">OK</string>
+    <string name="notification_channel_network_alerts">Makluman rangkaian</string>
+    <string name="notification_channel_network_available">Rangkaian tersedia</string>
+    <string name="notification_channel_network_status">Status rangkaian</string>
+    <string name="ok">OK</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wifiResourcesAppLabel">Sumber Wi-Fi Sistem</string>
+    <string name="wifi_available_action_all_networks">Semua rangkaian</string>
+    <string name="wifi_available_action_connect">Sambung</string>
+    <string name="wifi_available_content_failed_to_connect">Ketik untuk melihat semua rangkaian</string>
+    <string name="wifi_available_title">Sambung ke rangkaian Wi-Fi terbuka</string>
+    <string name="wifi_available_title_connected">Disambungkan ke rangkaian Wi-Fi</string>
+    <string name="wifi_available_title_connecting">Menyambung ke rangkaian Wi-Fi</string>
+    <string name="wifi_available_title_failed_to_connect">Tidak dapat menyambung ke rangkaian Wi-Fi</string>
+    <string name="wifi_ca_cert_dialog_abort_text">Tidak, jangan sambung</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Ya, sambung</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Kenalan:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Hanya benarkan rangkaian ini untuk bersambung jika maklumat di bawah kelihatan betul.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Nama Pengeluar:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Organisasi:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Nama Pelayan:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Tandatangan:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Jangan sambung</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Sambungkan juga</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">%1$s rangkaian tiada sijil.</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Ketahui cara menambah sijil</string>
+    <string name="wifi_ca_cert_dialog_preT_title">Tidak dapat mengesahkan rangkaian ini</string>
+    <string name="wifi_ca_cert_dialog_title">Adakah rangkaian ini dipercayai?</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Pemasangan sijil gagal.</string>
+    <string name="wifi_ca_cert_notification_message">Semak butiran rangkaian untuk %1$s sebelum bersambung. Ketik untuk meneruskan.</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">Jangan sambung</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Sambungkan juga</string>
+    <string name="wifi_ca_cert_notification_preT_message">%1$s rangkaian tiada sijil. Ketik untuk mengetahui cara menambah sijil.</string>
+    <string name="wifi_ca_cert_notification_preT_title">Tidak dapat mengesahkan rangkaian ini</string>
+    <string name="wifi_ca_cert_notification_title">Rangkaian perlu disahkan</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_message">Ketik untuk menukar tetapan privasi, kemudian cuba semula</string>
+    <string name="wifi_cannot_connect_with_randomized_mac_title">Tidak dapat menyambung ke %1$s</string>
+    <string name="wifi_connect_alert_message">Aplikasi %1$s ingin menyambung ke Rangkaian Wifi %2$s</string>
+    <string name="wifi_connect_alert_title">Benarkan sambungan?</string>
+    <string name="wifi_connect_default_application">Satu aplikasi</string>
+    <string name="wifi_disable_mac_randomization_dialog_confirm_text">Tukar tetapan</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">Tidak boleh menukar tetapan privasi</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">"Untuk menyambung, %1$s perlu menggunakan alamat MAC peranti anda, iaitu pengecam unik. Pada masa ini, tetapan privasi anda untuk rangkaian ini menggunakan pengecam terawak. 
+
+Perubahan ini mungkin membenarkan lokasi peranti anda dijejaki oleh peranti yang berdekatan."</string>
+    <string name="wifi_disable_mac_randomization_dialog_network_not_found">Rangkaian tidak ditemukan</string>
+    <string name="wifi_disable_mac_randomization_dialog_success">Tetapan dikemas kini. Cuba sambung lagi.</string>
+    <string name="wifi_disable_mac_randomization_dialog_title">Tukar tetapan privasi?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : Ralat pengesahan EAP 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : Ralat pengesahan EAP 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : Ralat pengesahan EAP 32756</string>
+    <string name="wifi_eap_error_message_code_32760">%1$s : Ralat pengesahan EAP 32760</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Ralat pengesahan EAP 32761</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Ralat pengesahan EAP 32762</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Ralat pengesahan EAP 32763</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Ralat pengesahan EAP 32764</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Ralat pengesahan EAP 32765</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Ralat pengesahan EAP 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : Ralat pengesahan EAP 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s : Ralat pengesahan EAP, kod ralat tidak diketahui</string>
+    <string name="wifi_enable_request_dialog_message">Anda boleh mematikan Wi‑Fi dalam Tetapan Pantas</string>
+    <string name="wifi_enable_request_dialog_negative_button">Jangan benarkan</string>
+    <string name="wifi_enable_request_dialog_positive_button">Benarkan</string>
+    <string name="wifi_enable_request_dialog_title">Benarkan %1$s menghidupkan Wi‑Fi?</string>
+    <string name="wifi_interface_priority_approve">Benarkan</string>
+    <string name="wifi_interface_priority_message">Tindakan ini mungkin menyebabkan masalah untuk %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">Hal ini mungkin menyebabkan masalah untuk apl ini: %3$s.</string>
+    <string name="wifi_interface_priority_reject">Jangan benarkan</string>
+    <string name="wifi_interface_priority_title">%1$s ingin menggunakan sumber perangkaian</string>
+    <string name="wifi_p2p_enter_pin_message">Taipkan PIN yang diperlukan:</string>
+    <string name="wifi_p2p_frequency_conflict_message">Sambungan telefon ke Wi-Fi akan diputuskan buat sementara waktu semasa telefon bersambung ke %1$s</string>
+    <string name="wifi_p2p_from_message">Daripada:</string>
+    <string name="wifi_p2p_invitation_sent_title">Jemputan dihantar</string>
+    <string name="wifi_p2p_invitation_to_connect_title">Jemputan untuk menyambung</string>
+    <string name="wifi_p2p_show_pin_message">PIN:</string>
+    <string name="wifi_p2p_to_message">Kepada:</string>
+    <string name="wifi_sim_required_message">Untuk menyambung kepada %1$s, masukkan SIM %2$s</string>
+    <string name="wifi_sim_required_title">Wi-Fi diputuskan sambungannya</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Tiada peranti disambungkan. Ketik untuk mengubah suai.</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_title">Tempat liputan dimatikan.</string>
+    <string name="wifi_suggestion_action_allow_app">Benarkan</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Sambung</string>
+    <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Sambung</string>
+    <string name="wifi_suggestion_action_disallow_app">Tidak perlu</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Jangan sambung</string>
+    <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Jangan sambung</string>
+    <string name="wifi_suggestion_content">Rangkaian yang dicadangkan oleh %s. Peranti mungkin disambungkan secara automatik.</string>
+    <string name="wifi_suggestion_imsi_privacy_content">Rangkaian ini menerima ID SIM yang boleh digunakan untuk menjejaki lokasi peranti</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">Jika anda bersambung, rangkaian Wi-Fi %s mungkin mengakses atau berkongsi ID unik yang dikaitkan dengan SIM anda. Hal ini mungkin membenarkan lokasi peranti anda dijejaki.</string>
+    <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Sahkan sambungan?</string>
+    <string name="wifi_suggestion_imsi_privacy_title">Sambung ke Wi‑Fi %s?</string>
+    <string name="wifi_suggestion_title">Benarkan rangkaian Wi-Fi yang dicadangkan?</string>
+    <string name="wifi_wakeup_enabled_content">Anda berada berdekatan rangkaian yang disimpan: %1$s</string>
+    <string name="wifi_wakeup_enabled_title">Wi‑Fi dihidupkan secara automatik</string>
+    <string name="wifi_wakeup_onboarding_action_disable">Jangan hidupkan kembali</string>
+    <string name="wifi_wakeup_onboarding_subtext">Apabila anda berada berdekatan dengan rangkaian disimpan yang berkualiti tinggi</string>
+    <string name="wifi_wakeup_onboarding_title">Wi‑Fi akan dihidupkan secara automatik</string>
+    <string name="wifi_watchdog_network_disabled">Tidak boleh menyambung kepada Wi-Fi</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" mempunyai sambungan internet yang kurang baik."</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>疫情数据</item>
+        <item>健康码</item>
+        <item>核酸检测</item>
+        <item>风险区域</item>
+    </string-array>
+    <string-array name="pa_day_time_space">
+        <item>半夜</item>
+        <item>凌晨</item>
+        <item>上午</item>
+        <item>中午</item>
+        <item>下午</item>
+        <item>傍晚</item>
+        <item>晚上</item>
+    </string-array>
+    <string-array name="pa_express_sending_providers">
+        <item>@string/pa_express_send_provider_xiaomi</item>
+        <item>@string/pa_express_send_provider_cainiao</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>红涨绿跌</item>
+        <item>绿涨红跌</item>
+    </string-array>
+</resources>

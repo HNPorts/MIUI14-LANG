@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"ਹੋਮ 'ਤੇ ਜਾਓ"</string>
+    <string name="abc_action_bar_up_description">ਉੱਪਰ ਜਾਓ</string>
+    <string name="abc_action_menu_overflow_description">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="abc_action_mode_done">ਹੋ ਗਿਆ</string>
+    <string name="abc_activity_chooser_view_see_all">ਸਭ ਦੇਖੋ</string>
+    <string name="abc_activitychooserview_choose_application">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+    <string name="abc_capital_off">ਬੰਦ</string>
+    <string name="abc_capital_on">ਚਾਲੂ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ਮਿਟਾਓ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ਖੋਜ…</string>
+    <string name="abc_searchview_description_clear">ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ</string>
+    <string name="abc_searchview_description_query">ਖੋਜ ਪੁੱਛਗਿੱਛ</string>
+    <string name="abc_searchview_description_search">ਖੋਜ</string>
+    <string name="abc_searchview_description_submit">ਪੁੱਛਗਿੱਛ ਸਪੁਰਦ ਕਰੋ</string>
+    <string name="abc_searchview_description_voice">ਅਵਾਜ਼ੀ ਖੋਜ</string>
+    <string name="abc_shareactionprovider_share_with">ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="abc_toolbar_collapse_description">ਸਮੇਟੋ</string>
+    <string name="always_on_disconnected_message">%1$s ਨੂੰ ਹਰ ਸਮੇਂ ਕਨੈਕਟ ਰਹਿਣ ਲਈ ਸਥਾਪਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਪਰ ਇਹ ਫਿਲਹਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦੀ। ਤੁਹਾਡਾ ਫ਼ੋਨ %1$s ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਹੋਣ ਤੱਕ ਕਿਸੇ ਜਨਤਕ ਨੈੱਟਵਰਕ ਦੀ ਵਰਤੋਂ ਕਰੇਗਾ।</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s ਨੂੰ ਹਰ ਸਮੇਂ ਕਨੈਕਟ ਰਹਿਣ ਲਈ ਸਥਾਪਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਪਰ ਇਹ ਫਿਲਹਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦੀ। VPN ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਹੋਣ ਤੱਕ ਤੁਸੀਂ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦੇ।</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Change VPN settings</string>
+    <string name="always_on_disconnected_title">ਹਮੇਸ਼ਾ-ਚਾਲੂ VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</string>
+    <string name="configure">ਰੂਪ-ਰੇਖਾ ਬਦਲੋ</string>
+    <string name="data_received">ਪ੍ਰਾਪਤ ਕੀਤਾ:</string>
+    <string name="data_transmitted">ਭੇਜਿਆ:</string>
+    <string name="data_value_format">%1$s ਬਾਈਟਸ / %2$s ਪੈਕੇਟਸ</string>
+    <string name="disconnect">ਡਿਸਕਨੈਕਟ ਕਰੋ</string>
+    <string name="dismiss">ਖਾਰਜ ਕਰੋ</string>
+    <string name="duration">ਮਿਆਦ:</string>
+    <string name="legacy_title">VPN ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+    <string name="open_app">ਐਪ ਖੋਲ੍ਹੋ</string>
+    <string name="prompt">ਕਨੈਕਸ਼ਨ ਬੇਨਤੀ</string>
+    <string name="search_menu_title">ਖੋਜ</string>
+    <string name="session">ਸੈਸ਼ਨ:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="warning">%s ਇੱਕ VPN ਕਨੈਕਸ਼ਨ ਸੈਟ ਅਪ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ ਜੋ ਇਸਨੂੰ ਨੈੱਟਵਰਕ ਟ੍ਰੈਫਿਕ ਦਾ ਨਿਰੀਖਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ। ਕੇਵਲ ਤਾਂ ਹੀ ਸਵੀਕਾਰ ਕਰੋ ਜੇਕਰ ਤੁਸੀਂ ਸਰੋਤ ਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ। &lt;br /> &lt;br /> &lt;img src=vpn_icon /> ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਦੇ ਟੌਪ ਤੇ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ ਜਦੋਂ VPN ਸਕਿਰਿਆ ਹੁੰਦਾ ਹੈ।</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈으로 이동</string>
+    <string name="abc_action_bar_up_description">위로 이동</string>
+    <string name="abc_action_menu_overflow_description">추가 옵션</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 중지</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">스페이스바</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상:</string>
+    <string name="abc_shareactionprovider_share_with_application">%s과(와) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="app_label">부속 기기 관리자</string>
+    <string name="chooser_title">&lt;strong>%2$s&lt;/strong>에서 관리할 %1$s을(를) 선택</string>
+    <string name="confirmation_title">&lt;strong>%1$s&lt;/strong>에서 내 &lt;strong>%2$s&lt;/strong> 기기에 액세스하도록 허용</string>
+    <string name="consent_back">뒤로</string>
+    <string name="consent_no">허용 안함</string>
+    <string name="consent_yes">허용</string>
+    <string name="helper_summary_app_streaming">%1$s에서 %2$s 대신 휴대전화의 사진, 미디어, 알림에 액세스할 수 있는 권한을 요청하고 있습니다.</string>
+    <string name="helper_summary_computer">%1$s에서 %2$s 대신 기기 간에 앱을 스트리밍할 수 있는 권한을 요청하고 있습니다.</string>
+    <string name="helper_title_app_streaming">교차 기기 서비스</string>
+    <string name="helper_title_computer">Google Play 서비스</string>
+    <string name="permission_apps">앱</string>
+    <string name="permission_apps_summary">휴대전화의 앱을 스트리밍합니다.</string>
+    <string name="permission_notification">알림</string>
+    <string name="permission_notification_summary">연락처, 메시지, 사진 등의 정보를 포함한 모든 알림을 읽을 수 있습니다.</string>
+    <string name="permission_storage">사진 및 미디어</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">앱 권한을 시계로 이전</string>
+    <string name="permission_sync_summary">"시계를 더 쉽게 설정하기 위해 설정하는 동안 시계에 설치된 앱에서 휴대전화와 동일한 권한을 사용합니다.
+
+ 이러한 권한에는 시계의 마이크 및 위치 정보에 대한 액세스가 포함될 수 있습니다."</string>
+    <string name="profile_name_generic">기기</string>
+    <string name="profile_name_watch">시계</string>
+    <string name="search_menu_title">검색</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">이 앱은 %1$s 프로필을 관리하는 데 필요합니다. %2$s에서 알림과 상호작용하고 내 전화, SMS, 연락처, Calendar, 통화 기록, 근처 기기에 대한 권한을 갖게 됩니다.</string>
+    <string name="title_app_streaming">&lt;strong>%1$s&lt;/strong> 앱이 휴대전화에서 이 정보에 액세스하도록 허용합니다.</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">&lt;strong>%1$s&lt;/strong> 앱이 휴대전화에서 이 정보에 액세스하도록 허용합니다.</string>
+    <string name="vendor_header_button_description">추가 정보 버튼</string>
+    <string name="vendor_icon_description">앱 아이콘</string>
+</resources>

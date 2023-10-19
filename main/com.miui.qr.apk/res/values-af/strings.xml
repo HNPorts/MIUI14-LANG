@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Maak navigasiekieslys toe</string>
+    <string name="close_sheet">Maak sigblad toe</string>
+    <string name="default_error_message">Ongeldige invoer</string>
+    <string name="default_popup_window_title">Opspringvenster</string>
+    <string name="dropdown_menu">Aftrekkieslys</string>
+    <string name="in_progress">Besig</string>
+    <string name="indeterminate">Nie gemerk of ontmerk nie</string>
+    <string name="navigation_menu">Navigasiekieslys</string>
+    <string name="not_selected">Nie gekies nie</string>
+    <string name="off">Af</string>
+    <string name="on">Aan</string>
+    <string name="range_end">Eindgrens</string>
+    <string name="range_start">Begingrens</string>
+    <string name="selected">Gekies</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Oortjie</string>
+    <string name="template_percent">%1$d persent.</string>
+</resources>

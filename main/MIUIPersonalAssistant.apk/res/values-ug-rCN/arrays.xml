@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>يۇقۇم ئەھۋالى سانلىق مەلۇماتى</item>
+        <item>ساغلاملىق كودى</item>
+        <item>يادرو كىسلاتاسىنى تەك</item>
+        <item>خەتەرلىك رايون</item>
+    </string-array>
+    <string-array name="pa_day_time_space">
+        <item>يېرىم كېچە</item>
+        <item>سەھەر</item>
+        <item>چۈشتىن بۇرۇن</item>
+        <item>چۈش</item>
+        <item>چۈشتىن كېيىن</item>
+        <item>گۇگۇم</item>
+        <item>كەچ</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>يەكشەنبە</item>
+        <item>دۈشەنبە</item>
+        <item>سەيشەنبە</item>
+        <item>چارشەنبە</item>
+        <item>پەيشەنبە</item>
+        <item>جۈمە</item>
+        <item>شەنبە</item>
+        <item>يەكشەنبە</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>قىزىل ئۆسكەن يېشىل چۈشكەن</item>
+        <item>يېشىل ئۆسكەن قىزىل چۈشكەن</item>
+    </string-array>
+</resources>

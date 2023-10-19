@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>સિંક કરેલી આઇટમ ઓળખવા માટે</item>
+        <item>સંદેશા સિંક કરવા માટે</item>
+        <item>સંપર્કો સિંક કરવા માટે</item>
+        <item>કૅલેન્ડર ઇવેન્ટ સિંક કરવા માટે</item>
+        <item>સ્ટોરેજનો ઉપયોગ કરતી સેવાઓ ધરાવતી આઇટમ સિંક કરવા માટે</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ફોન</item>
+        <item>SMS</item>
+        <item>સંપર્કો</item>
+        <item>કૅલેન્ડર</item>
+        <item>સ્ટોરેજ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>તમારા સંપર્કો, સંદેશા, નોંધ, કૅલેન્ડર અને વધુ સિંક કરો</item>
+        <item>એપ્સ, હોમ સ્ક્રીન લેઆઉટ અને વૉલપેપરનું બૅક અપ લો</item>
+        <item>Wi-Fi અને ડિસ્પ્લે સહિતની મહત્વની સેટિંગનું બૅક અપ લો</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઇ જાય, તો તેને ગમે-ત્યાંથી લૉક કરો</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>તમારા સંપર્કો, સંદેશા, નોંધ, કૅલેન્ડર અને વધુ સિંક કરો</item>
+        <item>એપ્સ, હોમ સ્ક્રીન લેઆઉટ અને વૉલપેપરનું બૅક અપ લો</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઇ જાય, તો તેને ગમે-ત્યાંથી લૉક કરો</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>તમારા સંપર્કો, સંદેશા, નોંધ, કૅલેન્ડર અને વધુ સિંક કરો</item>
+        <item>એપ્સ, હોમ સ્ક્રીન લેઆઉટ અને વૉલપેપરનું બૅક અપ લો</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઇ જાય, તો તેને ગમે-ત્યાંથી લૉક કરો</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>તમારા ફોટા, નોંધો, રેકોર્ડિંગ્સ અને વધુને સિંક કરો</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઇ જાય, તો તેને ગમે-ત્યાંથી લૉક કરો</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>તમારા સંપર્કો, સંદેશા, નોંધ, કૅલેન્ડર અને વધુ સિંક કરો</item>
+        <item>એપ્સ, હોમ સ્ક્રીન લેઆઉટ અને વૉલપેપરનું બૅક અપ લો</item>
+        <item>Wi-Fi અને ડિસ્પ્લે સહિતની મહત્વની સેટિંગનું બૅક અપ લો</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઇ જાય, તો તેને ગમે-ત્યાંથી લૉક કરો</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>એપ ડેટા સિંક કરો</item>
+        <item>હોમ સ્ક્રીન લેઆઉટના બૅક અપ લો</item>
+        <item>સિસ્ટમ સેટિંગનું બૅક અપ લો</item>
+        <item>ડિવાઇસ શોધો</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ઍપ ડેટા સિંક કરો</item>
+        <item>ડિવાઇસ શોધો</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>તમારા ડિવાઇસને ઓળખવા માટે અથવા ખોવાયેલ મોડમાં સ્વિચ કરવા માટે</item>
+        <item>જ્યારે આ ડિવાઇસ ઇન્ટરનેટથી કનેક્ટ ન હોય ત્યારે તેને શોધવા માટે</item>
+        <item>જ્યારે આ ડિવાઇસ ઇન્ટરનેટથી કનેક્ટ ન હોય ત્યારે તેને શોધવા માટે ફોન નંબરને ઍક્સેસ કરવા માટે</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>બૅકઅપ્સ</item>
+        <item>બૅકઅપ કરેલી આઇટમ</item>
+        <item>ક્લાઉડ;બૅકઅપ;બૅકઅપ;ક્લાઉડ સેવાઓ,Xiaomi ક્લાઉડ;હોમ સ્ક્રીન;લેઆઉટ;એપ્સ;બૅકઅપ રિસ્ટોર મેનેજ કરો</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>હોમ સ્ક્રીનનું બૅકઅપ Xiaomi ક્લાઉડ પર લો</item>
+        <item>હોમ સ્ક્રીન લેઆઉટ, ઇન્સ્ટૉલ કરેલી એપ્સ સૂચિ, અને સિસ્ટમ સેટિંગ્સનું બૅકઅપ લો</item>
+        <item>ક્લાઉડ;બૅકઅપ;બૅકઅપ;ક્લાઉડ સેવાઓ,Xiaomi ક્લાઉડ;હોમ સ્ક્રીન;લેઆઉટ;એપ્સ;સેટિંગ;બૅકઅપ પુનરાવૃત્તિ;બૅકઅપ્સ; રિસ્ટોર મેનેજ કરો</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Xiaomi ક્લાઉડ સાથે બ્રાઉઝર સિંક કરો</item>
+        <item>સિંક કરવાનું ચાલુ કરો</item>
+        <item>બ્રાઉઝર;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>કૅલેન્ડરને Xiaomi ક્લાઉડ સાથે સિંક કરો</item>
+        <item>સિંક કરવાનું ચાલુ કરો</item>
+        <item>કૅલેન્ડર;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi ક્લાઉડ સાથે સંપર્કો સિંક કરો</item>
+        <item>સિંક ચાલુ કરો / સેટ કરો</item>
+        <item>સંપર્કો;કૉલ ઇતિહાસ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>કૉલ ઇતિહાસને Xiaomi ક્લાઉડ સાથે સિંક કરો</item>
+        <item>સિંક ચાલુ કરો / સેટ કરો</item>
+        <item>કૉલ ઇતિહાસ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ડિવાઇસ શોધો</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઈ જાય તો ડેટા ભૂંસી નાખો અને તમારું ડિવાઇસ લૉક કરો</item>
+        <item>ડિવાઇસ શોધો;ખોવાયેલ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ડિવાઇસ શોધો</item>
+        <item>જો તમારું ડિવાઇસ ખોવાઈ જાય તો ડેટા ભૂંસી નાખો અને તમારું ડિવાઇસ લૉક કરો</item>
+        <item>ડિવાઇસ શોધો;ખોવાયેલ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>ગેલેરીને Xiaomi ક્લાઉડ સાથે સિંક કરો</item>
+        <item>સિંક ચાલુ કરો / સેટ કરો</item>
+        <item>ગેલેરી;ફોટો;ક્લાઉડ;સિંક; ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi ક્લાઉડ સાથે નોંધ સિંક કરો</item>
+        <item>સિંક કરવાનું ચાલુ કરો</item>
+        <item>નોંધ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi ક્લાઉડ સાથે નોંધ સિંક કરો</item>
+        <item>સિંક્રનાઇઝેશન ચાલુ કરો</item>
+        <item>નોંધ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>ઍપ્લિકેશન વૉલ્ટને Xiaomi ક્લાઉડ સાથે સિંક કરો</item>
+        <item>સિંક કરવાનું ચાલુ કરો</item>
+        <item>ઍપ્લિકેશન વૉલ્ટ;કાર્ડ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ઝડપી જવાબો સિંક કરો</item>
+        <item>સિંક ચાલુ કરો</item>
+        <item>ઝટપટ જવાબો;ક્લિપબોર્ડ;એડિટર;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi ક્લાઉડ સાથે રેકોર્ડિંગ સિંક કરો</item>
+        <item>સિંક ચાલુ કરો / સેટ કરો</item>
+        <item>રેકોર્ડર;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi ક્લાઉડમાંથી ડિલીટ કરેલ આઇટમ્સ</item>
+        <item>સંપર્કો, ફોટો, સંદેશા અને વધુ રિસ્ટોર કરો</item>
+        <item>ટ્રૅશ;ડિલીટ કરેલ આઇટમ્સ;- ટ્રૅશ બિન;રિસ્ટોર કરો;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi ક્લાઉડમાંથી ડિલીટ કરેલ આઇટમ</item>
+        <item>ફોટો, નોંધો અને વધુ રિસ્ટોર કરો</item>
+        <item>ટ્રૅશ;ડિલીટ કરેલ આઇટમ;- ટ્રૅશ બિન;રિસ્ટોર કરો;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi ક્લાઉડમાંથી આઇટમ્સ રિસ્ટોર કરો</item>
+        <item>બૅકઅપ કરેલી આઇટમ્સને તમારા ડિવાઇસ પર ડાઉનલોડ કરો</item>
+        <item>ક્લાઉડ;બૅક અપ;બૅકઅપ;રિસ્ટોર;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>સુરક્ષા ક્લાઉડ સિંક</item>
+        <item>સિંક કરવાનું ચાલુ કરો</item>
+        <item>સુરક્ષા;ક્લાઉડ;Xiaomi ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>સુરક્ષા ક્લાઉડ સિંક</item>
+        <item>સિંક ચાલુ કરો</item>
+        <item>સુરક્ષા;ક્લાઉડ;Xiaomi ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi ક્લાઉડ સાથે સંદેશા સિંક કરો</item>
+        <item>સિંક ચાલુ કરો / સેટ કરો</item>
+        <item>સંદેશા;SMS;MMS;ક્લાઉડ;સિંક; ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi ક્લાઉડ મેમ્બરશિપ</item>
+        <item>તમારુ મેમ્બરશિપ અપગ્રેડ કરો; વધુ સ્ટોરેજ સ્થાન મેળવો, અને તમારો ડેટા સુરક્ષિત કરો</item>
+        <item>અપૂરતું સ્ટોરેજ;મેમ્બરશિપ;સ્ટોરેજ;સ્ટોરેજ સ્થાન;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ;મેગા;અલ્ટ્રા;VIP;બૅકઅપ;બૅકઅપ;રિસ્ટોર કરો;ટ્રૅશ;ડિલીટ કરેલ આઇટમ;ટ્રૅશ બિન</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi ક્લાઉડ. બધી Mi સેવાઓ એક જ જગ્યા પર.</item>
+        <item>ગમે ત્યાંથી તમારા ફોટો, સંપર્કો, સંદેશાઓ, અને ડિવાઇસ અ‍ૅક્સેસ કરો</item>
+        <item>અપૂરતું સ્ટોરેજ;સભ્યપદ;સ્ટોરેજ;સ્ટોરેજ સ્થાન;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ;ટ્રૅશ;કાઢી નાખેલી આઇટમ;સુરક્ષા</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi ક્લાઉડ. બધી Mi સેવાઓ એક જ જગ્યા પર.</item>
+        <item>ગમે ત્યાંથી તમારા ફોટો, નોંધો અને ડિવાઇસ અ‍ૅક્સેસ કરો</item>
+        <item>અપૂરતું સ્ટોરેજ;મેમ્બરશિપ;સ્ટોરેજ;સ્ટોરેજ સ્થાન;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ;ટ્રૅશ;ડિલીટ કરેલ આઇટમ;સેક્યુરીટી</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>વાઈ-ફાઈ સેટિંગને Xiaomi ક્લાઉડ સાથે સિંક કરો</item>
+        <item>સિંક કરવાનું ચાલુ કરો</item>
+        <item>WLAN;વાઈફાઈ;વાઈ-ફાઈ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLAN સેટિંગને Xiaomi ક્લાઉડ સાથે સિંક કરો</item>
+        <item>સિંક ચાલુ કરો</item>
+        <item>WLAN;વાઈફાઈ;વાઈ-ફાઈ;ક્લાઉડ;સિંક;ક્લાઉડ સેવાઓ;Xiaomi ક્લાઉડ</item>
+    </string-array>
+</resources>

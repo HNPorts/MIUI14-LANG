@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height_array">
+        <item>Centimetrai</item>
+        <item>Metrai</item>
+        <item>Pėda</item>
+        <item>Coliai</item>
+    </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Vienodos įmokos</item>
+        <item>Mažėjančios įmokos</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>kairioji įterptis</item>
+        <item>dešinioji įterptis</item>
+        <item>faktorialas</item>
+        <item>natūralus logaritmas</item>
+        <item>logaritmas</item>
+        <item>kvadratinė šaknis</item>
+        <item>dalinti iš</item>
+        <item>dauginti iš</item>
+        <item>plius</item>
+        <item>atimtis</item>
+        <item>kablelis</item>
+        <item>laipsnis</item>
+        <item>tangentas</item>
+        <item>sinusas</item>
+        <item>kosinusas</item>
+        <item>pi</item>
+        <item>lygybė</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilogramai</item>
+        <item>Svarai</item>
+    </string-array>
+</resources>

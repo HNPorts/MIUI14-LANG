@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="other_settings_auto_update_entries">
+        <item>Wi-Fi与数据</item>
+        <item>仅Wi-Fi下</item>
+        <item>关闭</item>
+    </string-array>
+    <array name="prefer_inputmethod_list" />
+</resources>

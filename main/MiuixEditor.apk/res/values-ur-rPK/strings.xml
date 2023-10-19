@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">مکرر فقرے شامل کریں</string>
+    <string name="edit_frequent_phrases">مکرر فقرے میں ترمیم کریں</string>
+    <string name="frequent_phrases">مکرر فقرے</string>
+    <string name="query">تلاش کریں</string>
+    <string name="select">منتخب کریں</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Veelgebruikte zinnen toevoegen</string>
+    <string name="edit_frequent_phrases">Veelgebruikte zinnen bewerken</string>
+    <string name="frequent_phrases">Veelgebruikte zinnen</string>
+    <string name="query">Zoeken</string>
+    <string name="select">Selecteren</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

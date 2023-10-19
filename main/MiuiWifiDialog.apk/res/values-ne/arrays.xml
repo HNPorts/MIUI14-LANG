@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839::: %1$s : त्रुटि १६३८४ का कारण तपाईंको डिभाइस Verizon Wi-Fi Access मा कनेक्ट गर्ने क्रममा समस्या भइरहेको छ।</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839::: %1$s : त्रुटि १६३८५ का कारण तपाईंको डिभाइस Verizon Wi-Fi Access मा कनेक्ट गर्ने क्रममा समस्या भइरहेको छ।</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईं Verizon कभरेज क्षेत्रबाहिरबाट Verizon Wi-Fi Access मा कनेक्ट गर्न सक्नुहुन्न। (त्रुटि = ३२७६०)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंले Verizon Wi-Fi Access को सदस्यता लिनुभएको छैन। कृपया हामीलाई ८००-९२२-०२०४ मा कल गर्नुहोस्। (त्रुटि = ३२७६१)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंको Verizon Wi-Fi Access खातामा कुनै समस्या छ। कृपया हामीलाई ८००-९२२-०२०४ मा कल गर्नुहोस्। (त्रुटि = ३२७६२)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंले आफ्नो डिभाइस Verizon Wi-Fi Access मा कनेक्ट गरिसक्नुभएको छ। (त्रुटि = ३२७६३)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंको डिभाइस Verizon Wi-Fi Access मा कनेक्ट गर्ने क्रममा समस्या भइरहेको छ। कृपया हामीलाई ८००-९२२-०२०४ मा कल गर्नुहोस्। (त्रुटि = ३२७६४)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंको Verizon Wi-Fi Access खातामा कुनै समस्या छ। कृपया हामीलाई ८००-९२२-०२०४ मा कल गर्नुहोस्। (त्रुटि = ३२७६५)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईं रहेको स्थानमा Verizon Wi-Fi Access उपलब्ध छैन। पछि फेरि प्रयास गर्नुहोस् वा अर्को स्थानमा गएर कनेक्ट गर्ने प्रयास गर्नुहोस्। (त्रुटि = ३२७६६)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंको डिभाइस Verizon Wi-Fi Access मा कनेक्ट गर्ने क्रममा समस्या भइरहेको छ। पछि फेरि प्रयास गर्नुहोस् वा अर्को स्थानमा गएर कनेक्ट गर्ने प्रयास गर्नुहोस्।</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839::: %1$s : तपाईंको डिभाइस Verizon Wi-Fi Access मा कनेक्ट गर्ने क्रममा समस्या भइरहेको छ।</item>
+    </string-array>
+</resources>

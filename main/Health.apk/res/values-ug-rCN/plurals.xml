@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 سائەت ئىلگىرى</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">يېرىم سائەت ئىلگىرى</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1سائەتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">يېرىم سائەتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ھازىر</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%dمىنۇتتىن كېيىن</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">باياتىن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%dمىنۇت ئىلگىرى</item>
+    </plurals>
+    <plurals name="common_selected_num">
+        <item quantity="other">تاللىغان %1$d تۈر</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+        <item quantity="other">%1$sKM</item>
+    </plurals>
+    <plurals name="common_share_unit_meter_desc">
+        <item quantity="other">%1$sM</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">كېلوكالورىيە</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$dكىلوكالورىيە</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d كۈن</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate">
+        <item quantity="other">قېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc">
+        <item quantity="other">%1$dقېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc2">
+        <item quantity="other">%1$dقېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="common_unit_kilometer">
+        <item quantity="other">كېلومېتىر</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s كىلومېتىر</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc_new">
+        <item quantity="other">%1$sمېتىر</item>
+    </plurals>
+    <plurals name="common_unit_rope_count">
+        <item quantity="other">دانە</item>
+    </plurals>
+    <plurals name="common_unit_rowing_machine_count">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$dقەدەم</item>
+    </plurals>
+    <plurals name="common_unit_swim_count">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$dقېتىم</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping_desc">
+        <item quantity="other">%1$dقېتىم</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing_desc">
+        <item quantity="other">%1$dقېتىم</item>
+    </plurals>
+    <plurals name="common_unit_year_old">
+        <item quantity="other">ياش</item>
+    </plurals>
+    <plurals name="course_content_segment">
+        <item quantity="other">جەمئىي%d</item>
+    </plurals>
+    <plurals name="course_practised_num">
+        <item quantity="other">%d قېتىم مەشىق قىلدىڭىز</item>
+    </plurals>
+    <plurals name="course_start_times">
+        <item quantity="other">%dقېتىملىق مەشىقنى باشلاش</item>
+    </plurals>
+    <plurals name="day_in_simplify">
+        <item quantity="other">%1$dكۈن</item>
+    </plurals>
+    <plurals name="device_last_charged_time">
+        <item quantity="other">ئالدىنقى قېتىم زەرەتلىگەنگە%1$dكۈن بولدى</item>
+    </plurals>
+    <plurals name="device_last_full_charged_time">
+        <item quantity="other">ئالدىنقى قېتىم تولۇق توشقانغا%1$dكۈن بولدى</item>
+    </plurals>
+    <plurals name="device_settings_alarm_add_max_expression_plurals">
+        <item quantity="other">ئەڭ كۆپ بولغاندا%1$sدانە قوڭغۇراق قوشقىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="device_settings_alarm_clocks">
+        <item quantity="other">%1$d دانە قوڭغۇراق</item>
+    </plurals>
+    <plurals name="device_settings_common_items">
+        <item quantity="other">%1$dتۈر</item>
+    </plurals>
+    <plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d مىنۇت</item>
+    </plurals>
+    <plurals name="device_settings_common_unit_heart_rate_desc">
+        <item quantity="other">%1$dقېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="device_settings_contact_list_max_count">
+        <item quantity="other">2. ئەڭ كۆپ بولغاندا %1$d دانە دائىملىق كىشىلەرنى قوشقىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="device_settings_event_content_max_length">
+        <item quantity="other">ئەڭ كۆپ بولغاندا%1$dدانە ھەرپ بەلگە كىرگۈزگىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="device_settings_event_minder_add_max_expression">
+        <item quantity="other">ئەڭ كۆپ بولغاندا%1$dدانە پائالىيەت قوشقىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">ھەر%1$dمىنۇتتا بىر قېتىم</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_warning_freq">
+        <item quantity="other">%1$dقېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
+        <item quantity="other">ئەڭ كۆپ بولغاندا %1$d</item>
+    </plurals>
+    <plurals name="device_settings_huami_sporttype_quantity_limit_tips">
+        <item quantity="other">ئەڭ كۆپ بولغاندا %1$d</item>
+    </plurals>
+    <plurals name="device_settings_hypoxemia_notice_threshold_percent">
+        <item quantity="other">%1$d%%</item>
+    </plurals>
+    <plurals name="device_settings_music_list_size_desc">
+        <item quantity="other">%1$d دانە ناخشا</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_fail">
+        <item quantity="other">%1$d دانە مۇزىكىنى ئەكىرىش مەغلۇپ بولدى</item>
+    </plurals>
+    <plurals name="device_settings_push_result_msg_plurals_success">
+        <item quantity="other">%1$d دانە مۇزىكا ئەكىرىلدى،</item>
+    </plurals>
+    <plurals name="device_settings_sos_contact_set_count">
+        <item quantity="other">" تەڭشەلگىنى %1$d ئادەم"</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$dمىنۇتتا بىر قېتىم</item>
+    </plurals>
+    <plurals name="device_settings_todo_limit_toast">
+        <item quantity="other">بىجىرىشنى ئەسكەرتىشكە ئەڭ كۆپ بولغاندا %1$d دانىنى قوشقىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="device_settings_todo_select_count">
+        <item quantity="other">%1$d تاللاندى</item>
+    </plurals>
+    <plurals name="device_settings_unit_heart_rate">
+        <item quantity="other">قېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="device_settings_widget_manager_max_toast">
+        <item quantity="other">ئەڭ كۆپ بولغاندا%dدانە كارتا قوشقىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">تاللىغان %1$d تۈر</item>
+    </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">جەمئىي %1$d دانە</item>
+    </plurals>
+    <plurals name="face_band_me_count">
+        <item quantity="other">سائەت يۈزىلىرى (%1$dدانە)</item>
+    </plurals>
+    <plurals name="face_common_img_num">
+        <item quantity="other">%1$dپارچە</item>
+    </plurals>
+    <plurals name="face_download_count">
+        <item quantity="other">%1$d قېتىم چۈشۈرۈلگەن</item>
+    </plurals>
+    <plurals name="face_me_count">
+        <item quantity="other">سائەت يۈزىلىرى (%1$dدانە)</item>
+    </plurals>
+    <plurals name="face_photo_add_desc">
+        <item quantity="other">%1$d پارچە رەسىم</item>
+    </plurals>
+    <plurals name="face_photo_delete_confirm_desc">
+        <item quantity="other">سائەت يۈزىدىن بۇ %1$d دانە رەسىمنى ئۆچۈرەمسىز؟</item>
+    </plurals>
+    <plurals name="face_photo_most">
+        <item quantity="other">ئەڭ كۆپ بولغاندا%1$dتال رەسىم قاتقىلى بولىدۇ</item>
+    </plurals>
+    <plurals name="habit_day_num">
+        <item quantity="other">%1$d كۈن ئۇدا يوقلىما قىلغان</item>
+    </plurals>
+    <plurals name="habit_people_num">
+        <item quantity="other">%1$dكىشى چىداپ تاماملىدى</item>
+    </plurals>
+    <plurals name="habit_share_days">
+        <item quantity="other">كۈن</item>
+    </plurals>
+    <plurals name="habit_world_clock_select_number_v2">
+        <item quantity="other">تاللىغان %1$d تۈر</item>
+    </plurals>
+    <plurals name="health_blood_pressure_exception_count">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_unit">
+        <item quantity="other">قېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="health_blood_pressure_pulse_value_unit">
+        <item quantity="other">%1$dقېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="health_body_age_format">
+        <item quantity="other">%1$d ياش</item>
+    </plurals>
+    <plurals name="health_body_score_format">
+        <item quantity="other">%1$d نومۇر</item>
+    </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$dمىنۇت</item>
+    </plurals>
+    <plurals name="health_common_unit_calorie_desc">
+        <item quantity="other">%1$dكىلوكالورىيە</item>
+    </plurals>
+    <plurals name="health_common_unit_mh">
+        <item quantity="other">مىنۇت</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$dقەدەم</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc2">
+        <item quantity="other">%1$dقەدەم</item>
+    </plurals>
+    <plurals name="health_curse_cycle_days">
+        <item quantity="other">دەۋرىي %1$d كۈن</item>
+    </plurals>
+    <plurals name="health_curse_danger_will">
+        <item quantity="other">مۆلچەرلىگەن ئاسان ھامىلدار بولۇش مەزگىلىنىڭ %d -كۈنىدىن باشلىنىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_danger_will_before">
+        <item quantity="other">ئاسان ھامىلدار بولۇش مەزگىلىنىڭ %d -كۈنىدىن باشلىنىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_danger_with_ovum">
+        <item quantity="other">مۆلچەرلىگەن ئاسان ھامىلدار بولۇش مەزگىلىنىڭ %d-كۈنىدە، بۈگۈن تۇخۇم چىقىرىش كۈنىدە</item>
+    </plurals>
+    <plurals name="health_curse_day">
+        <item quantity="other">كۈن</item>
+    </plurals>
+    <plurals name="health_curse_days_bracket">
+        <item quantity="other">(%d كۈن)</item>
+    </plurals>
+    <plurals name="health_curse_days_left_future">
+        <item quantity="other">تەخمىنەن يەنە%dكۈندە ئاخىرلىشىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_days_left_pre">
+        <item quantity="other">يەنە%dكۈن</item>
+    </plurals>
+    <plurals name="health_curse_easy_pregnancy_before">
+        <item quantity="other">ئاسان ھامىلدار بولۇش مەزگىلىنىڭ %d -كۈنىدىن باشلىنىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_in_days">
+        <item quantity="other">ھەيىز كۈنى %1$d كۈن</item>
+    </plurals>
+    <plurals name="health_curse_in_future">
+        <item quantity="other">مۆلچەر ھەيىز مەزگىلىنىڭ %d - كۈنىدە</item>
+    </plurals>
+    <plurals name="health_curse_in_pre">
+        <item quantity="other">ھەيىز مەزگىلىنىڭ %d - كۈنىدە</item>
+    </plurals>
+    <plurals name="health_curse_in_start_before">
+        <item quantity="other">ھەيىز مەزگىلى%dكۈندىن كېيىن باشلىنىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_in_start_will">
+        <item quantity="other">مۆلچەر ھەيىز مەزگىلى%dكۈندىن كېيىن باشلىنىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_ovum_start">
+        <item quantity="other">تۇخۇم چىقىرىش كۈنى %d كۈندىن كېيىن باشلىنىدۇ</item>
+    </plurals>
+    <plurals name="health_curse_period">
+        <item quantity="other">دەۋرىي %d كۈن</item>
+    </plurals>
+    <plurals name="health_hearing_noise_count">
+        <item quantity="other">%1$d قېتىم</item>
+    </plurals>
+    <plurals name="health_mh_home_title">
+        <item quantity="other">ئوتتۇرا يۇقىرى كۈچلۈكلۈك%1$dنومۇر</item>
+    </plurals>
+    <plurals name="health_sleep_breath_quality_value">
+        <item quantity="other">ئۇخلاش نەپەسلىنىش ۋاقتى%1$dنومۇر</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="health_sleep_snore_decibel_unit">
+        <item quantity="other">دېتسىبېل</item>
+    </plurals>
+    <plurals name="health_spo2_home_value">
+        <item quantity="other">قاندىكى ئوكسېگىن تويۇنۇشچانلىقى%1$d%%</item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$dقېتىم</item>
+    </plurals>
+    <plurals name="health_stand_count_desc_no_value">
+        <item quantity="other">قوشۇمچە تۇرۇش پائالىيىتى</item>
+    </plurals>
+    <plurals name="health_stand_unit_time">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="health_target_calories_unit">
+        <item quantity="other">نىشان%1$dكىلوكالورىيە</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">نىشان%1$dمىنۇت</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">نىشان%1$dقېتىم</item>
+    </plurals>
+    <plurals name="health_target_step_unit">
+        <item quantity="other">نىشان%1$dقەدەم</item>
+    </plurals>
+    <plurals name="health_unit_calorie_space">
+        <item quantity="other">كېلوكالورىيە</item>
+    </plurals>
+    <plurals name="health_unit_count_per_week">
+        <item quantity="other">قېتىم/ ھەپتە</item>
+    </plurals>
+    <plurals name="health_unit_spo2_percent_desc">
+        <item quantity="other">%1$d%%</item>
+    </plurals>
+    <plurals name="health_vitality_acquire_desc">
+        <item quantity="other">%1$s نۆۋەتتە ئېرىشكىنى %2$d ھاياتىي قىممىتى</item>
+    </plurals>
+    <plurals name="health_vitality_min_in_simplify">
+        <item quantity="other">%1$dمىنۇت</item>
+    </plurals>
+    <plurals name="health_vitality_target_disparity">
+        <item quantity="other">كېيىنكى نىشانغا يەنە %1$d بار</item>
+    </plurals>
+    <plurals name="health_vitality_value">
+        <item quantity="other">ھاياتىي كۈچ</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s KG، %2$dكۈندىكىدىن%3$sKGئۆرلىگەن</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$sKG، بۇرۇنقى%2$dدىن %3$sKG چۈشكەن</item>
+    </plurals>
+    <plurals name="health_weight_home_title">
+        <item quantity="other">ئېغىرلىقى%sكلوگرام</item>
+    </plurals>
+    <plurals name="heartrate_fp_detect_time_remainder">
+        <item quantity="other">قالغىنى %1$d سېكۇنت</item>
+    </plurals>
+    <plurals name="hour_in_simplify">
+        <item quantity="other">%1$dسائەت</item>
+    </plurals>
+    <plurals name="medal_city_medal_to_unlock">
+        <item quantity="other">%1$d شەھەر ئېچىشنى كۈتىۋاتىدۇ</item>
+    </plurals>
+    <plurals name="medal_count">
+        <item quantity="other">جەمئىي ئېرىشكىنى%1$dدانە مېدال، يېقىندا ئېرىشكىنى%2$dدانە</item>
+    </plurals>
+    <plurals name="medal_total_got_count">
+        <item quantity="other">جەمئىي ئېرىشكىنى%1$dقېتىم</item>
+    </plurals>
+    <plurals name="medal_total_won">
+        <item quantity="other">جەمئىي ئېرىشكىنى%1$dقېتىم</item>
+    </plurals>
+    <plurals name="min_in_simplify">
+        <item quantity="other">%1$dمىنۇت</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$dمىنۇت</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d تۈر تاللاندى</item>
+    </plurals>
+    <plurals name="nfc_common_card_num">
+        <item quantity="other">جەمئىي%1$dپارچە</item>
+    </plurals>
+    <plurals name="nfc_common_unit_word_des">
+        <item quantity="other">كىرگۈزگەن مەزمۇن%1$dدىن ئېشىپ كەتمىسۇن</item>
+    </plurals>
+    <plurals name="nfc_issue_card_hold_on_">
+        <item quantity="other">&lt;Data>"ئۈسكۈنە بىلەن يانفون ئۇلىنىشىنىڭ نورماللىقىغا دىققەت قىلىڭ
+بۇ جەريانغا تەخمىنەن%1$dمىنۇت كېتىدۇ، ساقلاڭ"&lt;/Data></item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">تېلېفون كېلىپ%1$dسېكۇنتتىن كېيىن ئەسكەرتىدۇ</item>
+    </plurals>
+    <plurals name="notify_unit_second">
+        <item quantity="other">سېكۇنت</item>
+    </plurals>
+    <plurals name="pk_history_brief_win_percent">
+        <item quantity="other">يىغىندى %1$d قېتىم، ئۇتۇش نىسبىتى %2$d%%</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_unit">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_value">
+        <item quantity="other">نىشان %1$d قەدەم</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="sport_adjustment_distance_detail">
+        <item quantity="other">ئارىلىق سانلىق مەلۇماتىدا پەرق بولسا، قولدا ئۆزگەرتىڭ. ئارىلىق دائىرىسىنى %1$.2f - %2$.2f كىلومېتىر قىلسىڭىز بولىدۇ.</item>
+    </plurals>
+    <plurals name="sport_local_sport_setting_speed">
+        <item quantity="other">%1$dكىلومېتىر/سائەت</item>
+    </plurals>
+    <plurals name="sport_unit_kilometer">
+        <item quantity="other">كېلومېتىر</item>
+    </plurals>
+    <plurals name="sport_unit_meter">
+        <item quantity="other">مېتىر</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">%1$d كۈن ئىلگىرى</item>
+    </plurals>
+    <plurals name="trail_hint_unit_kcal">
+        <item quantity="other">كېلوكالورىيە</item>
+    </plurals>
+    <plurals name="trail_hint_unit_meter">
+        <item quantity="other">مېتىر</item>
+    </plurals>
+    <plurals name="trail_hint_unit_minute">
+        <item quantity="other">مىنۇت</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="trail_label_step">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="trail_label_times">
+        <item quantity="other">"قېتىم "</item>
+    </plurals>
+    <plurals name="trail_row_energy_working_unit">
+        <item quantity="other">ۋات</item>
+    </plurals>
+    <plurals name="trail_share_unit_kilometer">
+        <item quantity="other">" KM"</item>
+    </plurals>
+    <plurals name="trail_sport_data_group_count">
+        <item quantity="other">گۇرۇپپا/ھەرىكەت جەريانى</item>
+    </plurals>
+    <plurals name="trail_sport_group_info_title_desc">
+        <item quantity="other">ھەرىكەت جەريانى جەمئىي%dگۇرۇپپا</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%dسائەت</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit_only">
+        <item quantity="other">سائەت</item>
+    </plurals>
+    <plurals name="trail_sport_punch_distribute_unit">
+        <item quantity="other">G</item>
+    </plurals>
+    <plurals name="trail_sport_times">
+        <item quantity="other">ھەرىكەت%dقېتىم</item>
+    </plurals>
+    <plurals name="trail_sport_unit_speed_plurals">
+        <item quantity="other">%sكىلومېتىر/سائەت</item>
+    </plurals>
+    <plurals name="trail_unit_score_desc_new">
+        <item quantity="other">%1$s مىنۇت</item>
+    </plurals>
+    <plurals name="trail_unit_time_rope_skipping">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">سائەت</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">سائەت</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$dسائەت</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$dسائەت</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">كېلومېتىر</item>
+    </plurals>
+    <plurals name="unit_kilometer_without_space">
+        <item quantity="other">كېلومېتىر</item>
+    </plurals>
+    <plurals name="unit_meter_space">
+        <item quantity="other">مېتىر</item>
+    </plurals>
+    <plurals name="unit_meter_without_space">
+        <item quantity="other">مېتىر</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">مىنۇت</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">مىنۇت</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d مىنۇت</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d مىنۇت</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d مىنۇت</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d مىنۇت</item>
+    </plurals>
+    <plurals name="unit_point_desc">
+        <item quantity="other">%1$d مىنۇت</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">سېكۇنت</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$dسېكۇنت</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$dسېكۇنت</item>
+    </plurals>
+    <plurals name="unit_speed_meter_sed">
+        <item quantity="other">مېتىر/سېكۇنت</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d ياش)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$dياش</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_calorie">
+        <item quantity="other">كېلوكالورىيە</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_heart_rate">
+        <item quantity="other">قېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">قەدەم</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_time">
+        <item quantity="other">قېتىم</item>
+    </plurals>
+    <plurals name="userinfo_target_calories_unit">
+        <item quantity="other">نىشان%1$dكىلوكالورىيە</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">نىشان%1$dمىنۇت</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">نىشان%1$dقېتىم</item>
+    </plurals>
+    <plurals name="userinfo_target_step_unit">
+        <item quantity="other">نىشان%1$dقەدەم</item>
+    </plurals>
+    <plurals name="userinfo_unit_heart_rate_space">
+        <item quantity="other">%1$dقېتىم/مىنۇت</item>
+    </plurals>
+    <plurals name="userinfo_unit_min">
+        <item quantity="other">مىنۇت</item>
+    </plurals>
+    <plurals name="userinfo_user_age_display_format_year">
+        <item quantity="other">%1$d ياش</item>
+    </plurals>
+</resources>

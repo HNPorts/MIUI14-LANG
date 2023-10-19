@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">नेहमीचे वाक्यांश जोडा</string>
+    <string name="edit_frequent_phrases">नेहमीचे वाक्यांश संपादित करा</string>
+    <string name="frequent_phrases">वारंवारची वाक्ये</string>
+    <string name="query">शोध</string>
+    <string name="select">निवडा</string>
+</resources>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">Totalt %d sanger</item>
+        <item quantity="one">Totalt %d sang</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Søker etter albumcovere og tekster (%1$d/%2$d)</item>
+        <item quantity="one">Søker etter albumcovere og tekster (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Abonnementet ditt utløper om %d dager. 
+Vil du at vi skal hjelpe med å fornye det?"</item>
+        <item quantity="one">"Abonnementet ditt utløper om %d dag. 
+Vil du at vi skal hjelpe med å fornye det?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Du kan laste ned %1$d ledig sanger. Laste ned %2$s nå?</item>
+        <item quantity="one">Du kan laste ned %1$d ledig sang. Laste ned %2$s nå?</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Spiller stopper om %d minutter</item>
+        <item quantity="one">Spiller stopper om %d minutt</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">"Opprettet %1$s 
+total %2$d sanger"</item>
+        <item quantity="one">"Opprettet %1$s 
+total %2$d sang"</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d sanger lagt til spilleliste</item>
+        <item quantity="one">%d lang lagt til spilleliste</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d sanger fjernet fra spilleliste</item>
+        <item quantity="one">%d sang fjernet fra spilleliste</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d lignende sanger</item>
+        <item quantity="one">%d lignende sang</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 time siden</item>
+        <item quantity="one">1 time siden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">En halvtime siden</item>
+        <item quantity="one">En halvtime siden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Om 1 time</item>
+        <item quantity="one">Om 1 time</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Om en halvtime</item>
+        <item quantity="one">Om en halvtime</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Umiddelbart</item>
+        <item quantity="one">Umiddelbart</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">om %d min</item>
+        <item quantity="one">om 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Akkurat nå</item>
+        <item quantity="one">Akkurat nå</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">1 minutt siden</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d kommentarer</item>
+        <item quantity="one">%d kommentar</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d dager siden</item>
+        <item quantity="one">%d dag siden</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Slett %d elementer?</item>
+        <item quantity="one">Slett %d element?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Slette %d elementer?
+Merk: Filene vil også slettes fra denne enheten."</item>
+        <item quantity="one">"Slette %d element?
+Merk: Filen vil også slettes fra denne enheten."</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Slett %d songs?</item>
+        <item quantity="one">Slett %d song?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Slett %d songs?</item>
+        <item quantity="one">Slett %d song?</item>
+    </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d av de valgte sangene lagres i en ekstern mappe. Gi de nødvendige tillatelsene for å slette dem.</item>
+        <item quantity="one">%d av de valgte sangene lagres i en ekstern mappe. Gi de nødvendige tillatelsene for å slette den.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> lastet ned</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> lastet ned</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d nedlastinger fjernet</item>
+        <item quantity="one">%d nedlastet fjernet</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> laster ned</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> laster ned</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Spol %d sekunder fremover</item>
+        <item quantity="one">Spol %d sekund fremover</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Spol %d sekunder bakover</item>
+        <item quantity="one">Spol %d sekund bakover</item>
+    </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s visninger</item>
+        <item quantity="one">%s visning</item>
+    </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d gratis nedlastninger igjen</item>
+        <item quantity="one">%d gratis nedlastning igjen</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">En halvtime siden</item>
+        <item quantity="one">En halvtime siden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Om 1 time</item>
+        <item quantity="one">Om 1 time</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Om en halvtime</item>
+        <item quantity="one">Om en halvtime</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Umiddelbart</item>
+        <item quantity="one">Umiddelbart</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om 1 minutt</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Akkurat nå</item>
+        <item quantity="one">Akkurat nå</item>
+    </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d følgere</item>
+        <item quantity="one">%d følger</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Følger %d personer</item>
+        <item quantity="one">Følger %d person</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementer valgt</item>
+        <item quantity="one">%d element valgt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nye varsler</item>
+        <item quantity="one">%d nytt varsel</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d enheter valgt</item>
+        <item quantity="one">%d enhet valgt</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Laster ned %1$d filer</item>
+        <item quantity="one">Laster ned %1$d fil</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Kunne ikke laste ned %1$d elementer</item>
+        <item quantity="one">Kunne ikke laste ned %1$d element</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutter siden</item>
+        <item quantity="one">1 minutt siden</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d følgere</item>
+        <item quantity="one">%d følger</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d sanger vil bli sendt</item>
+        <item quantity="one">%d sang vil bli sendt</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Droppede %d sanger. Skru på internett-tjenester i innstillinger for å lytte til dem.</item>
+        <item quantity="one">Droppet %d sang. Skru på internett-tjenester i innstillinger for å lytte til den.</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Sangene er favorittmerket.</item>
+        <item quantity="one">Sang er favorittmerket.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
+    </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Krysstoning mellom sanger: %d sekunder</item>
+        <item quantity="one">Krysstoning mellom sanger: %d sekund</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Tjen %1$d mynter i dag</item>
+        <item quantity="one">Tjen %1$d mynt i dag</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Videoer</item>
+        <item quantity="one">Video</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s vis</item>
+        <item quantity="one">%1$s vis</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d dager gjenstår</item>
+        <item quantity="one">%d dag gjenstår</item>
+    </plurals>
+</resources>

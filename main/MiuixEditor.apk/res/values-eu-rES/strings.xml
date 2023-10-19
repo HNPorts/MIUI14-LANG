@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Ohiko esaldiak gehitu</string>
+    <string name="edit_frequent_phrases">Ohiko esaldiak editatu</string>
+    <string name="frequent_phrases">Ohiko esaldiak</string>
+    <string name="query">Bilatu</string>
+    <string name="select">Aukeratu</string>
+</resources>

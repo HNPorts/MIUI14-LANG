@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">OK</string>
+    <string name="app_name">Struktura usług Xiaomi</string>
+    <string name="error_device_id_message">"Nieprawidłowe ID urządzenia: %s
+ID urządzenia musi mieć poprawny IMEI lub adres MAC. Bez poprawnego ID urządzenia niektóre funkcje konta Xiaomi oraz Chmury Xiaomi mogą być niedostępne."</string>
+    <string name="error_device_id_title">Nie można uzyskać prawidłowego ID urządzenia</string>
+    <string name="explain_send_sms_permission_button">Weryfikuj</string>
+    <string name="explain_send_sms_permission_msg">Aby włączyć %s, Struktura usług Xiaomi wyśle SMS do weryfikacji Twojego numeru telefonu. Twój operator naliczy opłatę za wiadomość SMS.</string>
+    <string name="explain_send_sms_permission_title">Potwierdź swój numer telefonu</string>
+    <string name="pop_up_allow_notify_dialog">Zezwól</string>
+    <string name="pop_up_deny_notify_dialog">Odmawiaj</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sync_notification_title_format">Synchronizacja: %1$s</string>
+    <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
+    <string name="xmsf_activate_info">Informacje aktywacyjne XMSF</string>
+</resources>

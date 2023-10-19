@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">ナビゲーションメニューを閉じる</string>
+    <string name="close_sheet">シートを閉じる</string>
+    <string name="default_error_message">入力値が無効です</string>
+    <string name="default_popup_window_title">ポップアップウィンドウ</string>
+    <string name="dropdown_menu">プルダウン メニュー</string>
+    <string name="in_progress">処理しています</string>
+    <string name="indeterminate">オンでもオフでもありません</string>
+    <string name="navigation_menu">ナビゲーションメニュー</string>
+    <string name="not_selected">未選択</string>
+    <string name="off">オフ</string>
+    <string name="on">オン</string>
+    <string name="range_end">範囲の末尾</string>
+    <string name="range_start">範囲の先頭</string>
+    <string name="selected">選択済み</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">タブ</string>
+    <string name="template_percent">%1$dパーセント。</string>
+</resources>

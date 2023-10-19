@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="app_label">Gerenciador de dispositivos complementar</string>
+    <string name="chooser_title">Escolha um %1$s para ser gerenciado pelo app &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Permitir que o app &lt;strong>%1$s&lt;/strong> acesse o dispositivo &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Voltar</string>
+    <string name="consent_no">Não permitir</string>
+    <string name="consent_yes">Permitir</string>
+    <string name="helper_summary_app_streaming">O app %1$s está pedindo permissão em nome do seu %2$s para acessar fotos, mídia e notificações do smartphone.</string>
+    <string name="helper_summary_computer">O app %1$s está pedindo permissão em nome do seu %2$s para fazer streaming de apps entre seus dispositivos</string>
+    <string name="helper_title_app_streaming">Serviços entre dispositivos</string>
+    <string name="helper_title_computer">Google Play Services</string>
+    <string name="permission_apps">Apps</string>
+    <string name="permission_apps_summary">Faça streaming dos apps do seu smartphone</string>
+    <string name="permission_notification">Notificações</string>
+    <string name="permission_notification_summary">Pode ler todas as notificações, incluindo informações como contatos, mensagens e fotos</string>
+    <string name="permission_storage">Fotos e mídia</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Transferir as permissões de apps para o relógio</string>
+    <string name="permission_sync_summary">"Para facilitar a configuração do relógio, os apps instalados nele durante a configuração vão usar as mesmas permissões que o smartphone.
+
+ Essas permissões podem incluir acesso ao microfone ou à localização do relógio."</string>
+    <string name="profile_name_generic">dispositivo</string>
+    <string name="profile_name_watch">relógio</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Esse app é necessário para gerenciar seu %1$s. O %2$s vai poder interagir com suas notificações e acessar os apps Telefone, SMS, Contatos, Google Agenda, registros de chamadas e as permissões de dispositivos por perto.</string>
+    <string name="title_app_streaming">Permitir que o app &lt;strong>%1$s&lt;/strong> acesse estas informações do smartphone</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Autorizar que &lt;strong>%1$s&lt;/strong> acesse estas informações do smartphone</string>
+    <string name="vendor_header_button_description">Botão \"Mais informações\"</string>
+    <string name="vendor_icon_description">Ícone do app</string>
+</resources>

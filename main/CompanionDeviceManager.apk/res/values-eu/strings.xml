@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Joan orri nagusira</string>
+    <string name="abc_action_bar_up_description">Joan gora</string>
+    <string name="abc_action_menu_overflow_description">Aukera gehiago</string>
+    <string name="abc_action_mode_done">Eginda</string>
+    <string name="abc_activity_chooser_view_see_all">Ikusi guztiak</string>
+    <string name="abc_activitychooserview_choose_application">Aukeratu aplikazio bat</string>
+    <string name="abc_capital_off">DESAKTIBATU</string>
+    <string name="abc_capital_on">AKTIBATU</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ktrl +</string>
+    <string name="abc_menu_delete_shortcut_label">ezabatu</string>
+    <string name="abc_menu_enter_shortcut_label">sartu</string>
+    <string name="abc_menu_function_shortcut_label">Funtzioa +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maius +</string>
+    <string name="abc_menu_space_shortcut_label">zuriunea</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menua +</string>
+    <string name="abc_search_hint">Bilatu…</string>
+    <string name="abc_searchview_description_clear">Garbitu kontsulta</string>
+    <string name="abc_searchview_description_query">Bilaketa-kontsulta</string>
+    <string name="abc_searchview_description_search">Bilatu</string>
+    <string name="abc_searchview_description_submit">Bidali kontsulta</string>
+    <string name="abc_searchview_description_voice">Ahozko bilaketa</string>
+    <string name="abc_shareactionprovider_share_with">Partekatu honekin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partekatu %s aplikazioarekin</string>
+    <string name="abc_toolbar_collapse_description">Tolestu</string>
+    <string name="app_label">Gailu osagarriaren kudeatzailea</string>
+    <string name="chooser_title">Aukeratu &lt;strong>%2$s&lt;/strong> aplikazioak kudeatu beharreko %1$s</string>
+    <string name="confirmation_title">Eman &lt;strong>%2$s&lt;/strong> atzitzeko baimena &lt;strong>%1$s&lt;/strong> aplikazioari</string>
+    <string name="consent_back">Atzera</string>
+    <string name="consent_no">Ez eman baimenik</string>
+    <string name="consent_yes">Eman baimena</string>
+    <string name="helper_summary_app_streaming">Telefonoko argazkiak, multimedia-edukia eta jakinarazpenak atzitzeko baimena eskatzen ari da %1$s, %2$s gailuaren izenean</string>
+    <string name="helper_summary_computer">Gailu batetik bestera aplikazioak igortzeko baimena eskatzen ari da %1$s, %2$s gailuaren izenean</string>
+    <string name="helper_title_app_streaming">Gailu baterako baino gehiagotarako zerbitzuak</string>
+    <string name="helper_title_computer">Google Play Services</string>
+    <string name="permission_apps">Aplikazioak</string>
+    <string name="permission_apps_summary">Igorri zuzenean telefonoko aplikazioak</string>
+    <string name="permission_notification">Jakinarazpenak</string>
+    <string name="permission_notification_summary">Jakinarazpen guztiak irakur ditzake; besteak beste, kontaktuak, mezuak, argazkiak eta antzeko informazioa</string>
+    <string name="permission_storage">Argazkiak eta multimedia-edukia</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Transferitu aplikazio-baimenak erlojura</string>
+    <string name="permission_sync_summary">"Erlojua errazago konfiguratzeko, konfigurazio-prozesua abian zen bitartean erlojuan instalatutako aplikazioek telefonoak darabiltzan baimen berak erabiliko dituzte.
+
+ Baliteke baimen horien artean erlojuaren mikrofonoa eta kokapena atzitzeko baimenak egotea."</string>
+    <string name="profile_name_generic">gailua</string>
+    <string name="profile_name_watch">erlojua</string>
+    <string name="search_menu_title">Bilatu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">%1$s kudeatzeko beharrezkoa da aplikazio hau. Jakinarazpenekin interakzioan aritzeko eta telefonoa, SMSak, kontaktuak, egutegia, deien erregistroa eta inguruko gailuak atzitzeko baimenak izango ditu %2$s aplikazioak.</string>
+    <string name="title_app_streaming">Eman informazioa telefonotik hartzeko baimena &lt;strong>%1$s&lt;/strong> aplikazioari</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Eman informazio hori telefonotik hartzeko baimena &lt;strong>%1$s&lt;/strong> aplikazioari</string>
+    <string name="vendor_header_button_description">Informazio gehiagorako botoia</string>
+    <string name="vendor_icon_description">Aplikazioaren ikonoa</string>
+</resources>

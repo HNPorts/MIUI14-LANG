@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_coach_list">
+        <item>@string/about_coach_male</item>
+        <item>@string/about_coach_female</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"What's the weather?"</item>
+        <item>"How many steps I've taken?"</item>
+        <item>Find my phone.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Sv</item>
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Pirmdiena</item>
+        <item>Otrdiena</item>
+        <item>Trešdiena</item>
+        <item>Ceturtdiena</item>
+        <item>Piektdiena</item>
+        <item>Sestdiena</item>
+        <item>Svētdiena</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>P</item>
+        <item>S</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Abidžana</item>
+        <item>Akra</item>
+        <item>Adisabeba</item>
+        <item>Alžīra</item>
+        <item>Blantīre</item>
+        <item>Brazavila</item>
+        <item>Kaira</item>
+        <item>Kasablanka</item>
+        <item>Konakri</item>
+        <item>Dakara</item>
+        <item>Dāresalāma</item>
+        <item>Džibuti</item>
+        <item>Frītauna</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburga</item>
+        <item>Kampala</item>
+        <item>Kigali</item>
+        <item>Kinšasa</item>
+        <item>Lagosa</item>
+        <item>Maseru</item>
+        <item>Mogadīšo</item>
+        <item>Santome</item>
+        <item>Timbuktu</item>
+        <item>Tripole</item>
+        <item>Tunisa</item>
+        <item>Ankoridža</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunsjona</item>
+        <item>Barbadosa</item>
+        <item>Beliza</item>
+        <item>Bogota</item>
+        <item>Buenosairesa</item>
+        <item>Kankuna</item>
+        <item>Karakasa</item>
+        <item>Kaimanu salas</item>
+        <item>Čikāga</item>
+        <item>Kostarika</item>
+        <item>Kirasao</item>
+        <item>Dausonkrīka</item>
+        <item>Denvera</item>
+        <item>Detroita</item>
+        <item>Dominikānas Republika</item>
+        <item>Edmontona</item>
+        <item>Salvadora</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk sala</item>
+        <item>Grenāda</item>
+        <item>Gvatemala</item>
+        <item>Gajāna</item>
+        <item>Halifakss</item>
+        <item>Havana</item>
+        <item>Indianapolisa</item>
+        <item>Nokss</item>
+        <item>Marengo</item>
+        <item>Pēterburga</item>
+        <item>Tellsitija</item>
+        <item>Vevaja</item>
+        <item>Vincennes</item>
+        <item>Vinamaka</item>
+        <item>Kingstona</item>
+        <item>Lapasa</item>
+        <item>Lima</item>
+        <item>Losandželosa</item>
+        <item>Lūivila</item>
+        <item>Managva</item>
+        <item>Martinika</item>
+        <item>Metlakatla</item>
+        <item>Mehiko</item>
+        <item>Montereja</item>
+        <item>Montevideo</item>
+        <item>Monreāla</item>
+        <item>Naso</item>
+        <item>Ņujorka</item>
+        <item>Bjūla</item>
+        <item>Center</item>
+        <item>Ņūsalema</item>
+        <item>Panama</item>
+        <item>Fīniksa</item>
+        <item>Portofspeina</item>
+        <item>Portoprensa</item>
+        <item>Puertoriko</item>
+        <item>Santodomingo</item>
+        <item>Sanpaulu</item>
+        <item>Sentdžonsa</item>
+        <item>Sentkitsa</item>
+        <item>Sentlūsija</item>
+        <item>Seinttomasa</item>
+        <item>Tihuāna</item>
+        <item>Toronto</item>
+        <item>Vankūvera</item>
+        <item>Vinipega</item>
+        <item>Dienvidpols</item>
+        <item>Longjērbīene</item>
+        <item>Almati</item>
+        <item>Ammāna</item>
+        <item>Anadira</item>
+        <item>Aktava</item>
+        <item>Bagdāde</item>
+        <item>Bahreina</item>
+        <item>Baku</item>
+        <item>Bangkoka</item>
+        <item>Beirūta</item>
+        <item>Kolkāta</item>
+        <item>Damaska</item>
+        <item>Daka</item>
+        <item>Dubaija</item>
+        <item>Gaza</item>
+        <item>Hebrona</item>
+        <item>Hošimina</item>
+        <item>Honkonga</item>
+        <item>Džakarta</item>
+        <item>Jeruzāleme</item>
+        <item>Kabula</item>
+        <item>Karači</item>
+        <item>Katmandu</item>
+        <item>Kualalumpura</item>
+        <item>Makao</item>
+        <item>Manila</item>
+        <item>Maskata</item>
+        <item>Pnompeņa</item>
+        <item>Phenjana</item>
+        <item>Katara</item>
+        <item>Jangona</item>
+        <item>Rijāda</item>
+        <item>Seula</item>
+        <item>Šanhaja</item>
+        <item>Singapūra</item>
+        <item>Taipeja</item>
+        <item>Teherāna</item>
+        <item>Telaviva</item>
+        <item>Tokija</item>
+        <item>Ulanbatora</item>
+        <item>Bermudu salas</item>
+        <item>Kanāriju salas</item>
+        <item>Kaboverde</item>
+        <item>Reikjavīka</item>
+        <item>Stenija</item>
+        <item>Adelaida</item>
+        <item>Brisbena</item>
+        <item>Kanbera</item>
+        <item>Dārvina</item>
+        <item>Melburna</item>
+        <item>Jaundienvidvelsa</item>
+        <item>Pērta</item>
+        <item>Kvīnslenda</item>
+        <item>Sidneja</item>
+        <item>Viktorija</item>
+        <item>Ņūfaundlenda</item>
+        <item>Saskačevana</item>
+        <item>Lieldienu sala</item>
+        <item>Amsterdama</item>
+        <item>Andora</item>
+        <item>Belfāsta</item>
+        <item>Belgrada</item>
+        <item>Berlīne</item>
+        <item>Bratislava</item>
+        <item>Brisele</item>
+        <item>Bukareste</item>
+        <item>Budapešta</item>
+        <item>Kišiņeva</item>
+        <item>Kopenhāgena</item>
+        <item>Dublina</item>
+        <item>Gibraltārs</item>
+        <item>Helsinki</item>
+        <item>Menas sala</item>
+        <item>Stambula</item>
+        <item>Lisabona</item>
+        <item>Londona</item>
+        <item>Luksemburga</item>
+        <item>Madride</item>
+        <item>Malta</item>
+        <item>Minska</item>
+        <item>Monako</item>
+        <item>Maskava</item>
+        <item>Oslo</item>
+        <item>Parīze</item>
+        <item>Prāga</item>
+        <item>Rīga</item>
+        <item>Roma</item>
+        <item>Sanmarīno</item>
+        <item>Sarajeva</item>
+        <item>Simferopole</item>
+        <item>Skopje</item>
+        <item>Sofija</item>
+        <item>Stokholma</item>
+        <item>Tallina</item>
+        <item>Vatikāns</item>
+        <item>Vīne</item>
+        <item>Viļņa</item>
+        <item>Varšava</item>
+        <item>Zagreba</item>
+        <item>Cīrihe</item>
+        <item>Maldīvija</item>
+        <item>Maurīcija</item>
+        <item>Oklenda</item>
+        <item>Fidži</item>
+        <item>Guama</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Numea</item>
+        <item>Samoa</item>
+        <item>Taiti</item>
+        <item>Antigva</item>
+        <item>Ostina</item>
+        <item>Bostona</item>
+        <item>Kalgari</item>
+        <item>Kolumbusa</item>
+        <item>Dalasa</item>
+        <item>Noksvila</item>
+        <item>Memfisa</item>
+        <item>Maiami</item>
+        <item>Mineapolisa</item>
+        <item>Otava</item>
+        <item>Filaldelfija</item>
+        <item>Portlenda</item>
+        <item>Sandjego</item>
+        <item>Sanfrancisko</item>
+        <item>Soltleiksitija</item>
+        <item>Sanhosē</item>
+        <item>Sansalvadora</item>
+        <item>Sietla</item>
+        <item>Sentluisa</item>
+        <item>Vašingtona</item>
+        <item>Hjūstona</item>
+        <item>Sanantonio</item>
+        <item>Džeksonvila</item>
+        <item>Baltimora</item>
+        <item>Našvila</item>
+        <item>Milvoki</item>
+        <item>Oklahomasitija</item>
+        <item>Lasvegasa</item>
+        <item>Albukerke</item>
+        <item>Tūsona</item>
+        <item>Sakramento</item>
+        <item>Atlanta</item>
+        <item>Klīvlenda</item>
+        <item>Ņūorleāna</item>
+        <item>Tampa</item>
+        <item>Pitsburga</item>
+        <item>Sinsinati</item>
+        <item>Mauntinvjū</item>
+        <item>Rīno</item>
+        <item>Blekroksitija</item>
+        <item>Doha</item>
+        <item>Pekina</item>
+        <item>Mumbaja</item>
+        <item>Deli</item>
+        <item>Osaka</item>
+        <item>Lahora</item>
+        <item>Sana</item>
+        <item>Barselona</item>
+        <item>Minhene</item>
+        <item>Milāna</item>
+        <item>Frankfurte</item>
+        <item>Hanoja</item>
+        <item>Ankara</item>
+        <item>Bengalora</item>
+        <item>Brazilja</item>
+        <item>Keiptauna</item>
+        <item>Islāmābāda</item>
+        <item>Riodežaneiro</item>
+        <item>Enārbora</item>
+        <item>Boldera</item>
+        <item>Kembridža</item>
+        <item>Kirklenda</item>
+        <item>Medisona</item>
+        <item>Guandžou</item>
+        <item>Haidarābādu</item>
+        <item>Restona</item>
+        <item>Beluorizonti</item>
+        <item>Santjago</item>
+        <item>Monrovija</item>
+        <item>Kolombo</item>
+        <item>Čivava</item>
+        <item>Gurgāona</item>
+        <item>Mančestra</item>
+        <item>Kijiva</item>
+        <item>Sanktpēterburga</item>
+        <item>Krakova</item>
+        <item>Vroclava</item>
+        <item>Hamburga</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>Sanhuana</item>
+        <item>Tegusigalpa</item>
+        <item>Paramaribo</item>
+        <item>Kito</item>
+        <item>Havaju salas</item>
+        <item>Aļaska</item>
+        <item>Fīniksa</item>
+        <item>Kingstona</item>
+        <item>Praja</item>
+        <item>Reikjavīka</item>
+        <item>Ženēva</item>
+        <item>Vindhuka</item>
+        <item>Sofija</item>
+        <item>Atēnas</item>
+        <item>Kaļiņingrada</item>
+        <item>Hartūma</item>
+        <item>Nairobi</item>
+        <item>Adena</item>
+        <item>Antananarivu</item>
+        <item>Kuveita</item>
+        <item>Abū Dabī</item>
+        <item>Samara</item>
+        <item>Ņūdeli</item>
+        <item>Novosibirska</item>
+        <item>Taivāna</item>
+        <item>Irkutska</item>
+        <item>Čita</item>
+        <item>Vladivostoka</item>
+        <item>Magadāna</item>
+        <item>Kamčatka</item>
+        <item>Suva</item>
+        <item>Velingtona</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Katru svētdienu</item>
+        <item>Katru pirmdienu</item>
+        <item>Katru otrdienu</item>
+        <item>Katru trešdienu</item>
+        <item>Katru ceturtdienu</item>
+        <item>Katru piektdienu</item>
+        <item>Katru sestdienu</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>Kotdivuāra</item>
+        <item>Gana</item>
+        <item>Etiopija</item>
+        <item>Alžīrija</item>
+        <item>Malāvija</item>
+        <item>Kongo Republika</item>
+        <item>Ēģipte</item>
+        <item>Maroka</item>
+        <item>Gvineja</item>
+        <item>Senegāla</item>
+        <item>Tanzānija</item>
+        <item>Džibuti</item>
+        <item>Sjerraleone</item>
+        <item>Botsvāna</item>
+        <item>Zimbabve</item>
+        <item>Dienvidāfrika</item>
+        <item>Uganda</item>
+        <item>Ruanda</item>
+        <item>Kongo Demokrātiskā Republika</item>
+        <item>Nigērija</item>
+        <item>Lesoto</item>
+        <item>Somālija</item>
+        <item>Santomē un Prinsipi</item>
+        <item>Mali</item>
+        <item>Lībija</item>
+        <item>Tunisa</item>
+        <item>ASV</item>
+        <item>Argentīna</item>
+        <item>Aruba</item>
+        <item>Paragvaja</item>
+        <item>Barbadosa</item>
+        <item>Beliza</item>
+        <item>Kolumbija</item>
+        <item>Argentīna</item>
+        <item>Meksika</item>
+        <item>Venecuēla</item>
+        <item>Kaimanu salas</item>
+        <item>ASV</item>
+        <item>Kostarika</item>
+        <item>Kirasao</item>
+        <item>Kanāda</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Dominikānas Republika</item>
+        <item>Kanāda</item>
+        <item>Salvadora</item>
+        <item>Brazīlija</item>
+        <item>Tērksas un Kaikosas</item>
+        <item>Grenāda</item>
+        <item>Gvatemala</item>
+        <item>Gajāna</item>
+        <item>Kanāda</item>
+        <item>Kuba</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Jamaika</item>
+        <item>Bolīvija</item>
+        <item>Peru</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Nikaragva</item>
+        <item>Martinika</item>
+        <item>ASV</item>
+        <item>Meksika</item>
+        <item>ASV</item>
+        <item>Urugvaja</item>
+        <item>Kanāda</item>
+        <item>Bahamu Salas</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Panama</item>
+        <item>ASV</item>
+        <item>Trinidada un Tobāgo</item>
+        <item>Haiti</item>
+        <item>Puertoriko</item>
+        <item>Dominikānas Republika</item>
+        <item>Brazīlija</item>
+        <item>Kanāda</item>
+        <item>Sentkitsa un Nevisa</item>
+        <item>Sentlūsija</item>
+        <item>Virdžīnu salas</item>
+        <item>Meksika</item>
+        <item>Kanāda</item>
+        <item>Kanāda</item>
+        <item>Kanāda</item>
+        <item>Dienvidpols</item>
+        <item>Svalbāra un Jana Majena sala</item>
+        <item>Kazahstāna</item>
+        <item>Jordānija</item>
+        <item>Krievija</item>
+        <item>Kazahstāna</item>
+        <item>Irāka</item>
+        <item>Bahreina</item>
+        <item>Azerbaidžāna</item>
+        <item>Taizeme</item>
+        <item>Libāna</item>
+        <item>Indija</item>
+        <item>Sīrija</item>
+        <item>Bangladeša</item>
+        <item>Apvienotie Arābu Emirāti</item>
+        <item>Palestīna</item>
+        <item>Palestīna</item>
+        <item>Vjetnama</item>
+        <item>Ķīna</item>
+        <item>Indonēzija</item>
+        <item>Izraēla</item>
+        <item>Afganistāna</item>
+        <item>Pakistāna</item>
+        <item>Nepāla</item>
+        <item>Malaizija</item>
+        <item>Ķīna</item>
+        <item>Filipīnas</item>
+        <item>Omāna</item>
+        <item>Kambodža</item>
+        <item>Ziemeļkoreja</item>
+        <item>Katara</item>
+        <item>Mjanma</item>
+        <item>Saūda Arābija</item>
+        <item>Dienvidkoreja</item>
+        <item>Ķīna</item>
+        <item>Singapūra</item>
+        <item>Ķīna</item>
+        <item>Irāna</item>
+        <item>Izraēla</item>
+        <item>Japāna</item>
+        <item>Mongolija</item>
+        <item>Bermudu salas</item>
+        <item>Spānija</item>
+        <item>Kaboverde</item>
+        <item>Īslande</item>
+        <item>Folklenda salas</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Austrālija</item>
+        <item>Kanāda</item>
+        <item>Kanāda</item>
+        <item>Kanāda</item>
+        <item>Čīle</item>
+        <item>Nīderlande</item>
+        <item>Andora</item>
+        <item>Lielbritānija</item>
+        <item>Serbija</item>
+        <item>Vācija</item>
+        <item>Slovākija</item>
+        <item>Beļģija</item>
+        <item>Rumānija</item>
+        <item>Ungārija</item>
+        <item>Moldova</item>
+        <item>Dānija</item>
+        <item>Īrija</item>
+        <item>Gibraltārs</item>
+        <item>Somija</item>
+        <item>Menas sala</item>
+        <item>Turcija</item>
+        <item>Portugāle</item>
+        <item>Lielbritānija</item>
+        <item>Luksemburga</item>
+        <item>Spānija</item>
+        <item>Malta</item>
+        <item>Baltkrievija</item>
+        <item>Monako</item>
+        <item>Krievija</item>
+        <item>Norvēģija</item>
+        <item>Francija</item>
+        <item>Čehija</item>
+        <item>Latvija</item>
+        <item>Itālija</item>
+        <item>Sanmarīno</item>
+        <item>Bosnija un Hercegovina</item>
+        <item>Ukraina</item>
+        <item>Ziemeļmaķedonija</item>
+        <item>Bulgārija</item>
+        <item>Zviedrija</item>
+        <item>Igaunija</item>
+        <item>Vatikāns</item>
+        <item>Austrija</item>
+        <item>Lietuva</item>
+        <item>Polija</item>
+        <item>Horvātija</item>
+        <item>Šveice</item>
+        <item>Maldīvija</item>
+        <item>Maurīcija</item>
+        <item>Jaunzēlande</item>
+        <item>Fidži</item>
+        <item>Guama</item>
+        <item>ASV</item>
+        <item>Austrālija</item>
+        <item>Jaunkaledonija</item>
+        <item>Samoa</item>
+        <item>Franču Polinēzija</item>
+        <item>Antigva un Barbuda</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Kanāda</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Kanāda</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Salvadora</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Katara</item>
+        <item>Ķīna</item>
+        <item>Indija</item>
+        <item>Indija</item>
+        <item>Japāna</item>
+        <item>Pakistāna</item>
+        <item>Jemena</item>
+        <item>Spānija</item>
+        <item>Vācija</item>
+        <item>Itālija</item>
+        <item>Vācija</item>
+        <item>Vjetnama</item>
+        <item>Turcija</item>
+        <item>Indija</item>
+        <item>Brazīlija</item>
+        <item>Dienvidāfrika</item>
+        <item>Pakistāna</item>
+        <item>Brazīlija</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Lielbritānija</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Ķīna</item>
+        <item>Indija</item>
+        <item>ASV</item>
+        <item>Brazīlija</item>
+        <item>ASV</item>
+        <item>Libērija</item>
+        <item>Šrilanka</item>
+        <item>Meksika</item>
+        <item>Indija</item>
+        <item>Lielbritānija</item>
+        <item>Ukraina</item>
+        <item>Krievija</item>
+        <item>Polija</item>
+        <item>Polija</item>
+        <item>Vācija</item>
+        <item>Somija</item>
+        <item>Izraēla</item>
+        <item>Puertoriko</item>
+        <item>Hondurasa</item>
+        <item>Surinama</item>
+        <item>Ekvadora</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>ASV</item>
+        <item>Kanāda</item>
+        <item>Kaboverde</item>
+        <item>Īslande</item>
+        <item>Šveice</item>
+        <item>Namībija</item>
+        <item>Bulgārija</item>
+        <item>Grieķija</item>
+        <item>Krievija</item>
+        <item>Sudāna</item>
+        <item>Kenija</item>
+        <item>Jemena</item>
+        <item>Madagaskara</item>
+        <item>Kuveita</item>
+        <item>Apvienotie Arābu Emirāti</item>
+        <item>Krievija</item>
+        <item>Indija</item>
+        <item>Krievija</item>
+        <item>Ķīna</item>
+        <item>Krievija</item>
+        <item>Krievija</item>
+        <item>Krievija</item>
+        <item>Krievija</item>
+        <item>Krievija</item>
+        <item>Fidži</item>
+        <item>Jaunzēlande</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Sirdsdarbības ātrums</item>
+        <item>Stress</item>
+        <item>Miegs</item>
+        <item>Enerģija</item>
+        <item>Soļi</item>
+        <item>Kalorijas</item>
+        <item>Stāvēšana</item>
+        <item>Baterija</item>
+        <item>Datums</item>
+        <item>Laikapstākļi</item>
+        <item>Gaisa spiediens</item>
+        <item>Pacēlums</item>
+        <item>Taimeris</item>
+        <item>Modinātājs</item>
+        <item>GKI</item>
+        <item>Mitrums</item>
+        <item>Treniņš</item>
+        <item>UV Indekss</item>
+        <item>Saullēkt un saulriets</item>
+        <item>Vējš</item>
+    </string-array>
+    <string-array name="device_settings_remind_count_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="device_settings_remind_every_week_array">
+        <item>Katru pirmdienu</item>
+        <item>Katru otrdienu</item>
+        <item>Katru trešdienu</item>
+        <item>Katru ceturtdienu</item>
+        <item>Katru piektdienu</item>
+        <item>Katru sestdienu</item>
+        <item>Katru svētdienu</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Vienreizējs notikums</item>
+        <item>Katru dienu</item>
+        <item>Katru nedēļu</item>
+        <item>Katru mēnesi</item>
+        <item>Katru gadu</item>
+        <item>Personalizēts</item>
+    </string-array>
+    <string-array name="device_settings_screen_wake_sates">
+        <item>@string/device_settings_wrist_bright_day_all</item>
+        <item>@string/device_settings_wrist_bright_custom_time</item>
+        <item>@string/device_settings_wrist_bright_close</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Ļoti tuvu</item>
+        <item>Tuvu</item>
+        <item>Tālu</item>
+    </string-array>
+    <string-array name="device_settings_vibrate_mode_type_array">
+        <item>@string/device_settings_incoming_call</item>
+        <item>@string/device_settings_event_remind</item>
+        <item>@string/device_settings_alarm</item>
+        <item>@string/device_settings_app_notify</item>
+        <item>@string/device_settings_long_sit</item>
+        <item>@string/device_settings_sms</item>
+        <item>@string/device_settings_sport_reach_goal</item>
+        <item>@string/device_settings_vibrate_schedule</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Sirdsdarbības ātrums</item>
+        <item>Stress</item>
+        <item>Miegs</item>
+        <item>Enerģija</item>
+        <item>Soļi</item>
+        <item>Kalorijas</item>
+        <item>Stāvēšana</item>
+        <item>Baterija</item>
+        <item>Datums</item>
+        <item>Laikapstākļi</item>
+        <item>Gaisa spiediens</item>
+        <item>Pacēlums</item>
+        <item>Taimeris</item>
+        <item>Modinātājs</item>
+        <item>GKI</item>
+        <item>Mitrums</item>
+        <item>Treniņš</item>
+        <item>UV Indekss</item>
+        <item>Saullēkt un saulriets</item>
+        <item>Vējš</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Pr, Tr, Pk</item>
+        <item>Ot, Ce, Se</item>
+        <item>Tr, Pk, Sv</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
+        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
+        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
+        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Track your sleep</item>
+        <item>Place your phone next to your pillow</item>
+        <item>Generate stats automatically</item>
+        <item>Low power consumption</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Ierobežojot snaudas laiku līdz 30 minūtēm palīdzēs labāk atjaunoties.</item>
+        <item>Laba miega higiēna palīdzēs labāk justies.</item>
+        <item>Snauda no 10 līdz 20 minūtēm var sniegt atsvaidzinošu sajūtu.</item>
+        <item>Dienas snaudas pirms 13:30 var sniegt atsvaidzinošu sajūtu.</item>
+        <item>Snauda palielina enerģiju un veiktspēju.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Iespaidīgs daudzums. Lielākā daļa pieaugušo ir nepieciešams no 7 līdz 9 stundām miega.</item>
+        <item>Iespaidīgs daudzums. Saglabājiet regulāras miega stundas.</item>
+        <item>"Katru dienu šī miega daudzuma iegūšana ir veselīgs ieradums. "</item>
+        <item>Īss miegs. Lielākā daļa pieaugušo ir nepieciešams no 7 līdz 9 stundām miega.</item>
+        <item>Lielāks par vidējo daudzumu. Lielākā daļa pieaugušo ir nepieciešams no 7 līdz 9 stundām miega.</item>
+        <item>Labs dziļā miega daudzums. Atjaunošanās un atmiņas uzlabošana.</item>
+        <item>Labs dziļā miega daudzums. Atjaunojoša un imunitātes palielināšana.</item>
+        <item>Lielāks par vidējo dziļa miega daudzumu. Sekojiet līdzi savai veselībai.</item>
+        <item>Neliels dziļais miegs. Mēģiniet vingrot, bet ne pirms gulētiešanas.</item>
+        <item>Neliels dziļais miegs. Atbrīvojiet savu prātu, atvieglojiet aizmigšanu.</item>
+        <item>Neliels dziļais miegs. Izvairieties no enerģiskām aktivitātēm naktī.</item>
+        <item>Mēģiniet iet gulēt no 22:00 līdz 23:00.</item>
+        <item>Vēls gulētiešanas laiks. Iestatiet regulāru gulētiešanas laiku.</item>
+        <item>Vēls gulētiešanas laiks. Saglabājiet regulāras gulēšanas stundas.</item>
+        <item>\"Pūču\" ieradumi var izraisīt veselības pasliktināšanos.</item>
+        <item>Lielāks par vidējo nomoda laiku. Saglabājiet guļamistabu tumšu un klusu.</item>
+        <item>Dažas pamošanās. Saglabājiet guļamistabu klusu.</item>
+        <item>Dažas pamošanās. Saglabājiet guļamistabu tumšu un klusu.</item>
+        <item>Labs daudzums REM miega. Jūsu kreativitāte un problēmu atrisināšanas spējas ir palielinājušās.</item>
+        <item>Labs daudzums REM miega. Mierīgs un relaksējošs.</item>
+        <item>Neliels REM miegs. Mēģiniet vingrot, bet ne pirms gulētiešanas.</item>
+        <item>Neliels REM miegs. Pieteikams miega daudzums var palīdzēt.</item>
+        <item>Lielāks par vidējo REM miega daudzumu. Nolieciet malā visas rūpes pirms gulētiešanas laika.</item>
+        <item>Lielāks par vidējo REM miega daudzumu. Saglabājiet regulāras gulēšanas stundas.</item>
+        <item>Labs vieglā miega daudzums. Miera un kreativitātes palielināšanās.</item>
+        <item>Labs vieglā miega daudzums. Atjaunojoša un stresa samazinoša.</item>
+        <item>Lielāks par vidējo vieglā miega daudzumu. Relaksējieties pirms gulētiešanas.</item>
+        <item>Lai būtu vairāk enerģijas no rīta, ejiet gulēt pirms 24:00.</item>
+        <item>Lai būtu vairāk enerģijas no rīta, ejiet gulēt pirms 24:00.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Labs miega daudzums un regulāra gulētiešanas rutīna. Tā turpiniet!</item>
+        <item>Labs miega daudzums, bet mazliet neregulāra gulētiešanas rutīna. Saglabājiet regulāras gulētiešanas stundas.</item>
+        <item>Labs miega daudzums, bet neregulāra gulētiešanas rutīna. Iestatiet plānu un pieturieties pie tā.</item>
+        <item>Iespaidīgs miega daudzums un regulāra gulētiešanas rutīna. Izvairieties no enerģiskām aktivitātēm naktī.</item>
+        <item>Iespaidīgs miega daudzums, bet nedaudz neregulāra gulētiešanas rutīna. Relaksējieties pirms gulētiešanas.</item>
+        <item>Iespaidīgs miega daudzums, bet neregulāra gulētiešanas rutīna. Saglabājiet guļamistabu tumšu un klusu.</item>
+        <item>Lielāks par vidēju miega daudzumu un regulāra gulētiešanas rutīna. Laba miega higiēna palīdzēs labāk justies.</item>
+        <item>Lielāks par vidēju miega daudzumu, bet mazliet neregulāra gulētiešanas rutīna. Ja jūtiet vājumu, pielāgojiet gulēšanas stundas.</item>
+        <item>Lielāks par vidēju miega daudzumu, bet neregulāra gulētiešanas rutīna. Saglabājiet regulāras gulēšanas stundas.</item>
+        <item>Saraustīts miegs. Iestatiet plānu un pieturieties pie tā.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Nav datu</item>
+        <item>Neslikts</item>
+        <item>Vidējs</item>
+        <item>Labs</item>
+        <item>Lielisks</item>
+        <item>Nav nakts laika datu</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Labs miega daudzums un regulāra gulētiešanas rutīna. Tā turpiniet!</item>
+        <item>Labs miega daudzums, bet mazliet neregulāra gulētiešanas rutīna. Saglabājiet regulāras gulētiešanas stundas.</item>
+        <item>Labs miega daudzums, bet neregulāra gulētiešanas rutīna. Iestatiet plānu un pieturieties pie tā.</item>
+        <item>Iespaidīgs miega daudzums un regulāra gulētiešanas rutīna. Izvairieties no enerģiskām aktivitātēm naktī.</item>
+        <item>Iespaidīgs miega daudzums, bet nedaudz neregulāra gulētiešanas rutīna. Relaksējieties pirms gulētiešanas.</item>
+        <item>Iespaidīgs miega daudzums, bet neregulāra gulētiešanas rutīna. Saglabājiet guļamistabu tumšu un klusu.</item>
+        <item>Lielāks par vidēju miega daudzumu un regulāra gulētiešanas rutīna. Laba miega higiēna palīdzēs labāk justies.</item>
+        <item>Lielāks par vidēju miega daudzumu, bet mazliet neregulāra gulētiešanas rutīna. Ja jūtiet vājumu, pielāgojiet gulēšanas stundas.</item>
+        <item>Lielāks par vidēju miega daudzumu, bet neregulāra gulētiešanas rutīna. Saglabājiet regulāras gulēšanas stundas.</item>
+        <item>Saraustīts miegs. Iestatiet plānu un pieturieties pie tā.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
+        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
+        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Record audio using microphone</item>
+        <item>Detect sounds automatically</item>
+        <item>Keep your phone charged</item>
+    </string-array>
+    <string-array name="relative_care_system_recommendation_identity_label">
+        <item>Mamma</item>
+        <item>Tētis</item>
+        <item>Vīratēvs</item>
+        <item>Vīramāte</item>
+        <item>Vectēvs no tēva puses</item>
+        <item>Vecmamma no tēva puses</item>
+        <item>Vectēvs no mātes puses</item>
+        <item>Vecmamma no mātes puses</item>
+        <item>Dēls</item>
+        <item>Meita</item>
+        <item>Jaunākā māsa</item>
+        <item>Vecākā māsa</item>
+        <item>Jaunākais brālis</item>
+        <item>Vecākais brālis</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>P</item>
+        <item>S</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>cm</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Nav iestatīts</item>
+        <item>Vecāks</item>
+        <item>Māsa</item>
+        <item>Brālis</item>
+        <item>Laulātais</item>
+        <item>Partneris</item>
+        <item>Draugs(-dzene)</item>
+        <item>Kolēģis</item>
+        <item>Klases biedrs</item>
+        <item>Bērns</item>
+        <item>Partneris</item>
+        <item>Asistents</item>
+        <item>Priekšnieks</item>
+        <item>Istabas biedrs/biedrene</item>
+        <item>Dakteris/daktere</item>
+        <item>Ģimenes loceklis</item>
+        <item>Skolotāja(s)</item>
+        <item>Aprūpētājs</item>
+        <item>Aizbildnis</item>
+        <item>Sociālais darbinieks</item>
+        <item>Skola</item>
+        <item>Dienas aprūpe</item>
+        <item>Cits</item>
+    </string-array>
+    <string-array name="userinfo_emergency_contact_way_of_adding">
+        <item>Nav iestatīts</item>
+        <item>Pievienot</item>
+        <item>Izvēlēties no Kontaktiem</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Nav iestatīts</item>
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Nav iestatīts</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Nav iestatīts</item>
+        <item>Negatīvs</item>
+        <item>Pozitīvs</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>kg</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Nav iestatīts</item>
+        <item>Jā</item>
+        <item>Nē</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>S</item>
+        <item>P</item>
+        <item>O</item>
+        <item>T</item>
+        <item>C</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+</resources>

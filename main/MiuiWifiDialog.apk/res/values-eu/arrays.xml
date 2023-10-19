@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839::: %1$s: 16384 errorea dela eta, arazo bat dago Verizon-en wifi-sarbidera konektatzeko.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839::: %1$s: 16385 errorea dela eta, arazo bat dago Verizon-en wifi-sarbidera konektatzeko.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839::: %1$s: ezin zara konektatu Verizon-en wifi-sarbidera Verizon-en estaldura-eremutik kanpo bazaude. (Errorea: 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839::: %1$s: ez zaude harpidetuta Verizon-en wifi-sarbidera. Dei iezaguzu 800 922 0204 zenbakira. (Errorea: 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839::: %1$s: arazo bat dago Verizon-en wifi-sarbideko kontuarekin. Dei iezaguzu 800 922 0204 zenbakira. (Errorea: 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839::: %1$s: Verizon-en wifi-sarbidera konektatuta zaude dagoeneko. (Errorea: 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839::: %1$s: arazo bat dago Verizon-en wifi-sarbidera konektatzeko. Dei iezaguzu 800 922 0204 zenbakira. (Errorea: 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839::: %1$s: arazo bat dago Verizon-en wifi-sarbideko kontuarekin. Dei iezaguzu 800 922 0204 zenbakira. (Errorea: 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839::: %1$s: Verizon-en wifi-sarbidea ez dago erabilgarri zauden tokian. Saiatu berriro geroago edo beste kokapen batetik. (Errorea: 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839::: %1$s: arazo bat dago Verizon-en wifi-sarbidera konektatzeko. Saiatu berriro geroago edo beste kokapen batetik.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839::: %1$s: arazo bat dago Verizon-en wifi-sarbidera konektatzeko.</item>
+    </string-array>
+</resources>

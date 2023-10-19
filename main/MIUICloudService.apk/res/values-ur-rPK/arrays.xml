@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>مطابقت پذیر آئٹم کی شناخت کے لیے</item>
+        <item>پیغامات مطابقت پذیر کرنے کے لیے</item>
+        <item>رابطے مطابقت پذیر کرنے کے لیے</item>
+        <item>کیلنڈر ایونٹ مطابقت پذیر کرنے کے لیے</item>
+        <item>اسٹوریج کا استعمال کرنے والی سروسز کے آئٹم مطابقت پذیر کرنے کے لیے</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>فون</item>
+        <item>ایس ایم ایس</item>
+        <item>رابطے</item>
+        <item>کیلنڈر</item>
+        <item>اسٹوریج</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>اپنے رابطے, پیغامات, نوٹس، اور مزید کو مطابقت پذیر بنائیں</item>
+        <item>ایپس, ہوم اسکرین لے آؤٹ, اور وال پیپر کا بیک اپ لیں</item>
+        <item>اہم ترتیبات, بشمول وائی-فائی اور ڈسپلے کا بیک اپ لیں</item>
+        <item>اگر آپ کا ڈیوائس کھو گیا ہے تو اسے کہیں سے بھی لاک کریں</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>اپنے رابطے, پیغامات, نوٹس، اور مزید کو مطابقت پذیر بنائیں</item>
+        <item>ایپس, ہوم اسکرین لے آؤٹ, اور وال پیپر کا بیک اپ لیں</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>اگر آپ کا ڈیوائس کھو گیا ہے تو اسے کہیں سے بھی لاک کریں</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>اپنے رابطے, پیغامات, نوٹس، اور مزید کو مطابقت پذیر بنائیں</item>
+        <item>ایپس, ہوم اسکرین لے آؤٹ, اور وال پیپر کا بیک اپ لیں</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>اگر آپ کا ڈیوائس کھو گیا ہے تو اسے کہیں سے بھی لاک کریں</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>اپنے فوٹوز, نوٹس, ریکارڈنگز, اور مزید مطابقت پذیر کریں</item>
+        <item>اگر آپ کا ڈیوائس کھو گیا ہے تو اسے کہیں سے بھی لاک کریں</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>اپنے رابطے, پیغامات, نوٹس، اور مزید کو مطابقت پذیر بنائیں</item>
+        <item>ایپس, ہوم اسکرین لے آؤٹ, اور وال پیپر کا بیک اپ لیں</item>
+        <item>اہم ترتیبات, بشمول وائی-فائی اور ڈسپلے کا بیک اپ لیں</item>
+        <item>اگر آپ کا ڈیوائس کھو گیا ہے تو اسے کہیں سے بھی لاک کریں</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>ایپ ڈیٹا مطابقت پذیر کریں</item>
+        <item>ہوم اسکرین لے آؤٹ کا بیک اپ لیں</item>
+        <item>سسٹم ترتیبات کا بیک اپ لیں</item>
+        <item>ڈیوائس تلاش کریں</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>ایپ ڈیٹا مطابقت پذیر کریں</item>
+        <item>ڈیوائس تلاش کریں</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>آپ کے ڈیوائس کا پتہ لگانے اور کھونے کے موڈ میں سوئچ کرنے کے لیے</item>
+        <item>اس ڈیوائس کا پتہ لگانے کے لیے جب یہ انٹرنیٹ سے مربوط نہ ہو</item>
+        <item>اس ڈیوائس کا پتہ لگانے کے لیے فون نمبر تک رسائی کے لیے جب یہ انٹرنیٹ سے مربوط نہ ہو۔</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>بیک اپس</item>
+        <item>آئٹم کا بیک اپ لیں</item>
+        <item>کلاؤڈ؛بیک اپ؛بیک اپ؛کلاؤڈ سروسز؛Xiaomi Cloud؛ہوم اسکرین؛لے آؤٹ؛ایپس؛بیک اپ منظم کریں؛بحال کریں</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Xiaomi Cloud میں ہوم اسکرین کا بیک اپ لیں</item>
+        <item>ہوم اسکرین لے آؤٹ, انسٹال شدہ ایپس کی فہرست, اور سسٹم ترتیبات کا بیک اپ لیں</item>
+        <item>کلاؤڈ؛بیک اپ؛بیک اپ؛کلاؤڈ سروسز؛Xiaomi Cloud؛ہوم اسکرین؛لے آؤٹ؛ایپس؛ترتیبات؛بیک اپ فریکوئنسی؛بیک اپ منظم کریں؛بحال کریں</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Xiaomi Cloud کے ساتھ براؤزر مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں</item>
+        <item>براؤزر؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>کیلنڈر کو Xiaomi Cloud کے ساتھ مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں</item>
+        <item>کیلنڈر؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi Cloud کے ساتھ رابطے مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں/سیٹ اپ کریں</item>
+        <item>رابطے؛کال ہسٹری؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Xiaomi Cloud کے ساتھ گیلری مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں/سیٹ اپ کریں</item>
+        <item>کال ہسٹری؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ڈیوائس تلاش کریں</item>
+        <item>آپ کے ڈیوائس کے کھو جانے پر ڈیٹا مٹائیں اور اسے لاک کریں</item>
+        <item>ڈیوائس تلاش کریں؛غائب؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ڈیوائس تلاش کریں</item>
+        <item>آپ کے ڈیوائس کے کھو جانے پر ڈیٹا مٹائیں اور اسے لاک کریں</item>
+        <item>ڈیوائس تلاش کریں؛غائب؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Xiaomi Cloud کے ساتھ گیلری مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں/سیٹ اپ کریں</item>
+        <item>گیلری؛فوٹوز؛کلاؤڈ،مطابقت پذیری،کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi Cloud کے ساتھ نوٹس مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں</item>
+        <item>نوٹس؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi Cloud کے ساتھ نوٹس مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری آن کریں</item>
+        <item>نوٹس؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Xiaomi Cloud کے ساتھ ایپ والٹ مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں</item>
+        <item>ایپ والٹ؛کارڈ؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>فوری جوابات مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری آن کریں</item>
+        <item>فوری جوابات;کلپ بورڈ;ایڈیٹر;Cloud;مطابقت پذیری;Cloud سروسز</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi Cloud کے ساتھ ریکارڈنگ مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں/سیٹ اپ کریں</item>
+        <item>ریکارڈر؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi Cloud میں آئٹم حذف کریں</item>
+        <item>رابطے, فوٹوز, پیغامات, اور مزید بحال کریں</item>
+        <item>ٹریش؛حذف کردہ آئٹم؛ٹریش بن؛بحال کریں؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi Cloud میں حذف کردہ آئٹمز</item>
+        <item>فوٹوز, نوٹس, اور مزید بحال کریں</item>
+        <item>ٹریش؛حذف کردہ آئٹم؛ٹریش بن؛بحال کریں؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi Cloud سے آئٹم بحال کریں</item>
+        <item>بیک اپ آئٹم اپنے ڈیوائس پر ڈاؤن لوڈ کریں</item>
+        <item>کلاؤد؛بیک اپ؛بحال کریں؛کلاؤڈ؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>سیکورٹی کلاؤڈ مطابقت پذیری</item>
+        <item>مطابقت پذیری چالو کریں</item>
+        <item>سیکورٹی;Cloud;Xiaomi Cloud;مطابقت پذیری;Cloud سروسز</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>سیکورٹی کلاؤڈ مطابقت پذیری</item>
+        <item>مطابقت پذیری آن کریں</item>
+        <item>سیکورٹی;Cloud;Xiaomi Cloud;مطابقت پذیری;Cloud سروسز</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi Cloud کے ساتھ پیغامات مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں/سیٹ اپ کریں</item>
+        <item>پیغامات؛ایس ایم ایس؛ایم ایم ایس؛کلاؤڈ،مطابقت پذیری،کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi Cloud کی رکنیت خریدیں</item>
+        <item>اپنی رکنیت اپ گریڈ کریں, زیادہ اسٹوریج کی جگہ حاصل کریں, اور اپنا ڈیٹا محفوظ کریں</item>
+        <item>ناکافی اسٹوریج؛رکنیت؛اسٹوریج؛اسٹوریج کی جگہ؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud؛میگا؛الٹرا؛وی آئی پی؛بیک اپ؛بیک اپ؛بحال کریں؛ٹریش؛حذف کردہ آئٹم؛ٹریش بن</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud۔ سبھی Mi سروسز ایک جگہ پر۔</item>
+        <item>کسی بھی جگہ سے اپنے فوٹوز, رابطوں, پیغامات, اور ڈیوائس تک رسائی کریں</item>
+        <item>ناکافی اسٹوریج؛ممبرشپ؛اسٹوریج؛اسٹوریج کی جگہ؛کلاؤڈ مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud؛ٹریش؛حذف کردہ آئٹم؛سیکورٹی</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud۔ سبھی Mi سروسز ایک جگہ پر۔</item>
+        <item>کسی بھی جگہ سے اپنے فوٹوز, نوٹس, اور ڈیوائسز تک رسائی کریں</item>
+        <item>ناکافی اسٹوریج؛ممبرشپ؛اسٹوریج؛اسٹوریج کی جگہ؛کلاؤڈ مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud؛ٹریش؛حذف کردہ آئٹم؛سیکورٹی</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi Cloud کے ساتھ وائی-فائی ترتیبات مطابقت پذیر کریں</item>
+        <item>مطابقت پذیری چالو کریں</item>
+        <item>WLAN؛وائی فائی؛وائی-فائی؛کلاؤڈ؛مطابقت پذیری؛کلاؤڈ سروسز؛Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>مطابقت پذیری آن کریں</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Tutup menu navigasi</string>
+    <string name="close_sheet">Tutup sheet</string>
+    <string name="default_error_message">Input tidak valid</string>
+    <string name="default_popup_window_title">Jendela Pop-Up</string>
+    <string name="dropdown_menu">Menu dropdown</string>
+    <string name="in_progress">Dalam proses</string>
+    <string name="indeterminate">Tidak dicentang atau dihapus centangnya</string>
+    <string name="navigation_menu">Menu navigasi</string>
+    <string name="not_selected">Tidak dipilih</string>
+    <string name="off">Nonaktif</string>
+    <string name="on">Aktif</string>
+    <string name="range_end">Rentang akhir</string>
+    <string name="range_start">Rentang awal</string>
+    <string name="selected">Dipilih</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Tab</string>
+    <string name="template_percent">%1$d persen.</string>
+</resources>

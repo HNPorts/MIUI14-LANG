@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Untuk mengenal pasti item yang disegerakkan</item>
+        <item>Untuk menyegerakkan mesej</item>
+        <item>Untuk menyegerakkan kenalan</item>
+        <item>Untuk menyegerakkan acara kalendar</item>
+        <item>Untuk menyegerakkan item dengan perkhidmatan yang menggunakan storan</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Kenalan</item>
+        <item>Kalendar</item>
+        <item>Storan</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Segerakkan kenalan, mesej, nota, kalendar dan banyak lagi</item>
+        <item>Sandarkan apl, susun atur Skrin Utama dan latar hias</item>
+        <item>Sandarkan tetapan penting, termasuk Wi-Fi dan paparan</item>
+        <item>Kunci peranti anda dari jauh jika hilang</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Segerakkan kenalan, mesej, nota, kalendar dan banyak lagi</item>
+        <item>Sandarkan apl, susun atur Skrin Utama dan latar hias</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Kunci peranti anda dari jauh jika hilang</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Segerakkan kenalan, mesej, nota, kalendar dan banyak lagi</item>
+        <item>Sandarkan apl, susun atur Skrin Utama dan latar hias</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Kunci peranti anda dari jauh jika hilang</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Segerak gambar, nota, rakaman anda dan lainnya.</item>
+        <item>Kunci peranti anda dari jauh jika hilang</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Segerakkan kenalan, mesej, nota, kalendar dan banyak lagi</item>
+        <item>Sandarkan apl, susun atur Skrin Utama dan latar hias</item>
+        <item>Sandarkan tetapan penting, termasuk Wi-Fi dan paparan</item>
+        <item>Kunci peranti anda dari jauh jika hilang</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Segerak data apl</item>
+        <item>Sandarkan susun atur Skrin Utama</item>
+        <item>Sandarkan tetapan sistem</item>
+        <item>Cari peranti</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Segerak data apl</item>
+        <item>Cari peranti</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Untuk mencari peranti anda dan beralih ke mod hilang</item>
+        <item>Untuk mencari peranti ini apabila tidak disambungkan ke internet</item>
+        <item>Untuk mengakses nombor telefon untuk mencari peranti ini ketika tidak tersambung ke internet</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Sandaran</item>
+        <item>Item disandarkan</item>
+        <item>Cloud;Sandarkan;Sandaran;Perkhidmatan cloud;Xiaomi Cloud;Skrin Utama;Susun atur;Apl;Uruskan sandaran;Pulihkan</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Sandarkan Skrin Utama ke Xiaomi Cloud</item>
+        <item>Sandarkan susun atur Skrin Utama, senarai apl terpasang, dan tetapan sistem</item>
+        <item>Cloud;Sandarkan;Sandaran;Perkhidmatan cloud;Xiaomi Cloud;Skrin Utama;Susun atur;Apl;Tetapan Kekerapan sandaran;Uruskan sandaran;Pulihkan</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Segerak Pelayar dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>Pelayar;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Segerak Kalendar dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>Kalendar;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Segerak kenalan dengan Xiaomi Cloud</item>
+        <item>Hidupkan/tetapkan segerak</item>
+        <item>Kenalan;Sejarah panggilan;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Segerak sejarah panggilan dengan Xiaomi Cloud</item>
+        <item>Hidupkan/tetapkan segerak</item>
+        <item>Sejarah panggilan;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Cari peranti</item>
+        <item>Padam data dan kunci peranti anda jika ianya hilang</item>
+        <item>Cari peranti;Hilang;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Cari peranti</item>
+        <item>Padam data dan kunci peranti anda jika ianya hilang</item>
+        <item>Cari peranti;Hilang;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Segerak Galeri dengan Xiaomi Cloud</item>
+        <item>Hidupkan/tetapkan segerak</item>
+        <item>Galeri;Gambar;Cloud;Segerak;Perkhidmatan cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Segerakkan nota dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>Nota;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Segerakkan nota dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>Nota;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Segerak App vault dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>App vault;Kad;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Segerak balasan pantas</item>
+        <item>Aktifkan segerak</item>
+        <item>Balasan pantas;Papan klip;Editor;Cloud;Penyegerakan;Perkhidmatan Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Segerak rakaman dengan Xiaomi Cloud</item>
+        <item>Hidupkan/tetapkan segerak</item>
+        <item>Perakam;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Padam item di Xiaomi Cloud</item>
+        <item>Pulihkan kenalan, gambar, mesej, dan banyak lagi</item>
+        <item>Sampah;Item dipadam;Tong sampah;Pulihkan;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Item dipadam dari Xiaomi Cloud</item>
+        <item>Pulihkan gambar, nota dan lainnya</item>
+        <item>Sampah;Item dipadam;Tong sampah;Pulihkan;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Pulihkan item dari Xiaomi Cloud</item>
+        <item>Muat turun item yang disandarkan ke peranti anda</item>
+        <item>Cloud;Sandarkan;Sandaran;Pulihkan;Perkhidmatan cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Penyegerakan cloud keselamatan</item>
+        <item>Aktifkan segerak</item>
+        <item>Keselamatan;Cloud;Xiaomi Cloud;Penyegerakan;Perkhidmatan Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Penyegerakan cloud keselamatan</item>
+        <item>Aktifkan segerak</item>
+        <item>Keselamatan;Cloud;Xiaomi Cloud;Penyegerakan;Perkhidmatan Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Segerak mesej dengan Xiaomi Cloud</item>
+        <item>Hidupkan/tetapkan segerak</item>
+        <item>Mesej;SMS;MMS;Cloud;Segerak;Perkhidmatan cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Keahlian Xiaomi Cloud</item>
+        <item>Naik taraf keahlian anda, dapatkan lebih banyak ruang storan, dan selamatkan data anda</item>
+        <item>Storan yang tidak mencukupi;Keahlian;Storan;Ruang storan;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud;Mega;Ultra;VIP;Sandaran;Pulihkan;Sampah;Item dipadam;Tong sampah</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Kesemua perkhidmatan Mi berada di satu tempat.</item>
+        <item>Akses gambar, kenalan, mesej dan peranti anda dari mana sahaja</item>
+        <item>Storan yang tidak mencukupi;Keahlian;Storan;Ruang storan;Cloud;Segerak;Perkhidmatan cloud;Xiaomi Cloud;Sampah;Item dipadam;Keselamatan</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Kesemua perkhidmatan Mi berada di satu tempat.</item>
+        <item>Akses gambar, nota dan peranti anda dari mana sahaja</item>
+        <item>Storan yang tidak mencukupi;Keahlian;Storan;Ruang storan;Cloud;Segerak;Perkhidmatan cloud;Xiaomi Cloud;Sampah;Item dipadam;Keselamatan</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Segerak tetapan Wi-Fi dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Segerak tetapan WLAN dengan Xiaomi Cloud</item>
+        <item>Aktifkan segerak</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Segerak;Perkhidmatan Cloud;Xiaomi Cloud</item>
+    </string-array>
+</resources>

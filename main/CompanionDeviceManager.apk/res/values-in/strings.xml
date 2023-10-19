@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Tunjukkan jalan ke rumah</string>
+    <string name="abc_action_bar_up_description">Kembali ke atas</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Telusuri kueri</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="app_label">Pengelola Perangkat Pendamping</string>
+    <string name="chooser_title">Pilih %1$s untuk dikelola oleh &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Izinkan &lt;strong>%1$s&lt;/strong> mengakses &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Kembali</string>
+    <string name="consent_no">Jangan izinkan</string>
+    <string name="consent_yes">Izinkan</string>
+    <string name="helper_summary_app_streaming">%1$s meminta izin atas nama %2$s untuk mengakses foto, media, dan notifikasi ponsel Anda</string>
+    <string name="helper_summary_computer">%1$s meminta izin atas nama %2$s untuk menstreaming aplikasi di antara perangkat Anda</string>
+    <string name="helper_title_app_streaming">Layanan lintas perangkat</string>
+    <string name="helper_title_computer">Layanan Google Play</string>
+    <string name="permission_apps">Aplikasi</string>
+    <string name="permission_apps_summary">Streaming aplikasi ponsel</string>
+    <string name="permission_notification">Notifikasi</string>
+    <string name="permission_notification_summary">Dapat membaca semua notifikasi, termasuk informasi seperti kontak, pesan, dan foto</string>
+    <string name="permission_storage">Foto dan media</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Transfer izin aplikasi ke smartwatch</string>
+    <string name="permission_sync_summary">"Untuk mempermudah penyiapan smartwatch, aplikasi yang diinstal di smartwatch selama penyiapan akan menggunakan izin yang sama dengan ponsel.
+
+ Izin ini dapat meliputi akses ke mikrofon dan lokasi smartwatch."</string>
+    <string name="profile_name_generic">perangkat</string>
+    <string name="profile_name_watch">smartwatch</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Aplikasi ini diperlukan untuk mengelola %1$s. %2$s akan diizinkan berinteraksi dengan notifikasi dan mengakses izin Telepon, SMS, Kontak, Kalender, Log panggilan, dan Perangkat di sekitar.</string>
+    <string name="title_app_streaming">Izinkan &lt;strong>%1$s&lt;/strong> untuk mengakses informasi ini dari ponsel Anda</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Izinkan &lt;strong>%1$s&lt;/strong> mengakses informasi ini dari ponsel Anda</string>
+    <string name="vendor_header_button_description">Tombol Informasi Lainnya</string>
+    <string name="vendor_icon_description">Ikon Aplikasi</string>
+</resources>

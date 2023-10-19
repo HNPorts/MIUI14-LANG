@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">​ទៅទំព័រដើម</string>
+    <string name="abc_action_bar_up_description">រំកិលឡើងលើ</string>
+    <string name="abc_action_menu_overflow_description">ជម្រើសច្រើនទៀត</string>
+    <string name="abc_action_mode_done">រួចរាល់</string>
+    <string name="abc_activity_chooser_view_see_all">មើលទាំងអស់</string>
+    <string name="abc_activitychooserview_choose_application">ជ្រើសរើស​កម្មវិធី​​</string>
+    <string name="abc_capital_off">បិទ</string>
+    <string name="abc_capital_on">បើក</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">លុប</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ស្វែងរក…</string>
+    <string name="abc_searchview_description_clear">សម្អាត​សំណួរ</string>
+    <string name="abc_searchview_description_query">ស្វែងរកសំណួរ​</string>
+    <string name="abc_searchview_description_search">ស្វែងរក</string>
+    <string name="abc_searchview_description_submit">ដាក់បញ្ជូន​សំណួរ</string>
+    <string name="abc_searchview_description_voice">ស្វែងរក​តាម​សំឡេង</string>
+    <string name="abc_shareactionprovider_share_with">ចែករំលែក​ជា​មួយ</string>
+    <string name="abc_shareactionprovider_share_with_application">ចែក​រំលែក​ជា​មួយ %s</string>
+    <string name="abc_toolbar_collapse_description">បង្រួម</string>
+    <string name="app_label">កម្មវិធី​គ្រប់​គ្រង​ឧបករណ៍ដៃគូ</string>
+    <string name="chooser_title">ជ្រើសរើស %1$s ដើម្បីឱ្យស្ថិតក្រោម​ការគ្រប់គ្រងរបស់ &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">អនុញ្ញាតឱ្យ &lt;strong>%1$s&lt;/strong> ចូលប្រើប្រាស់ &lt;strong>%2$s&lt;/strong> របស់អ្នក</string>
+    <string name="consent_back">ថយក្រោយ</string>
+    <string name="consent_no">កុំអនុញ្ញាត</string>
+    <string name="consent_yes">អនុញ្ញាត</string>
+    <string name="helper_summary_app_streaming">%1$s កំពុងស្នើសុំការអនុញ្ញាតជំនួសឱ្យ %2$s របស់អ្នក ដើម្បីចូលប្រើរូបថត មេឌៀ និងការជូនដំណឹងរបស់ទូរសព្ទអ្នក</string>
+    <string name="helper_summary_computer">%1$s កំពុងស្នើសុំការអនុញ្ញាតជំនួសឱ្យ %2$s របស់អ្នក ដើម្បីបញ្ចាំងកម្មវិធីរវាងឧបករណ៍របស់អ្នក</string>
+    <string name="helper_title_app_streaming">សេវាកម្មឆ្លងកាត់ឧបករណ៍</string>
+    <string name="helper_title_computer">សេវាកម្ម Google Play</string>
+    <string name="permission_apps">កម្មវិធី</string>
+    <string name="permission_apps_summary">ផ្សាយកម្មវិធីរបស់ទូរសព្ទអ្នក</string>
+    <string name="permission_notification">ការ​ជូនដំណឹង</string>
+    <string name="permission_notification_summary">អាចអាន​ការជូនដំណឹង​ទាំងអស់ រួមទាំង​ព័ត៌មាន​ដូចជាទំនាក់ទំនង សារ និងរូបថត</string>
+    <string name="permission_storage">រូបថត និងមេឌៀ</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">ផ្ទេរការអនុញ្ញាតកម្មវិធីទៅនាឡិការបស់អ្នក</string>
+    <string name="permission_sync_summary">"ដើម្បីជួយឱ្យការរៀបចំនាឡិការបស់អ្នកកាន់តែងាយស្រួល កម្មវិធីដែលបានដំឡើងនៅលើនាឡិការបស់អ្នកអំឡុងពេលរៀបចំនឹងប្រើការអនុញ្ញាតដូចគ្នានឹងទូរសព្ទរបស់អ្នកដែរ។
+
+ ការអនុញ្ញាតទាំងនេះអាចរួមបញ្ចូលសិទ្ធិចូលប្រើទីតាំង និងមីក្រូហ្វូនរបស់នាឡិកាអ្នក។"</string>
+    <string name="profile_name_generic">ឧបករណ៍</string>
+    <string name="profile_name_watch">នាឡិកា</string>
+    <string name="search_menu_title">ស្វែងរក</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">ត្រូវការកម្មវិធីនេះ ដើម្បីគ្រប់គ្រង %1$s របស់អ្នក។ %2$s នឹងត្រូវបានអនុញ្ញាតឱ្យ​ធ្វើអន្តរកម្មជាមួយ​ការជូនដំណឹងរបស់អ្នក និងចូលប្រើការអនុញ្ញាតទូរសព្ទ, SMS, ទំនាក់ទំនង, ប្រតិទិន, កំណត់​ហេតុ​ហៅ​ទូរសព្ទ និងឧបករណ៍នៅជិតរបស់អ្នក។</string>
+    <string name="title_app_streaming">អនុញ្ញាតឱ្យ &lt;strong>%1$s&lt;/strong> ចូលប្រើព័ត៌មាននេះពីទូរសព្ទរបស់អ្នក</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">អនុញ្ញាតឱ្យ &lt;strong>%1$s&lt;/strong> ចូលមើលព័ត៌មាននេះពីទូរសព្ទរបស់អ្នក</string>
+    <string name="vendor_header_button_description">ប៊ូតុងព័ត៌មានបន្ថែម</string>
+    <string name="vendor_icon_description">រូប​កម្មវិធី</string>
+</resources>

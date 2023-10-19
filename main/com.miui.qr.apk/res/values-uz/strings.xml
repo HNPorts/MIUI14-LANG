@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">Navigatsiya menyusini yopish</string>
+    <string name="close_sheet">Varaqni yopish</string>
+    <string name="default_error_message">Kiritilgan axborot xato</string>
+    <string name="default_popup_window_title">Qalqib chiquvchi oyna</string>
+    <string name="dropdown_menu">Pastga ochiluvchi menyu</string>
+    <string name="in_progress">Bajarilmoqda</string>
+    <string name="indeterminate">Belgilanmagan va belgi olib tashlanmagan</string>
+    <string name="navigation_menu">Navigatsiya menyusi</string>
+    <string name="not_selected">Tanlanmagan</string>
+    <string name="off">Oʻchiq</string>
+    <string name="on">Yoniq</string>
+    <string name="range_end">Oraliq oxiri</string>
+    <string name="range_start">Oraliq boshi</string>
+    <string name="selected">Tanlangan</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">Varaq</string>
+    <string name="template_percent">%1$d foiz.</string>
+</resources>

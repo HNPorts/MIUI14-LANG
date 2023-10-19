@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Zdravje koda</item>
+        <item>PCR</item>
+        <item>Visokotvegana območja</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Nedelja</item>
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+        <item>Nedelja</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Rdeča - gor, zelena - dol</item>
+        <item>Zelena - gor, rdeča - dol</item>
+    </string-array>
+</resources>

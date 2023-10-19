@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Sunan</item>
+        <item>Laƙabi</item>
+        <item>Waya</item>
+        <item>Imel</item>
+        <item>Ƙungiya</item>
+        <item>IM</item>
+        <item>Waya na SIP</item>
+        <item>Ranar haihuwa</item>
+        <item>Yanar gizo</item>
+        <item>Adireshi</item>
+        <item>Adana</item>
+        <item>Dangantaka</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Sakonnin kiran kasuwa daga %s</item>
+        <item>Sakonnin sabis daga %s</item>
+        <item>"Sakonnin sha'anin kudi daga %s"</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Mafi yawanci</item>
+        <item>Kawanaki 2</item>
+    </string-array>
+    <string-array name="entries_pref_key_voice_report">
+        <item>@string/voice_report_wiredon</item>
+        <item>@string/voice_report_anytime</item>
+        <item>@string/voice_report_off</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>"Ba'a seti ba"</item>
+        <item>awa 1</item>
+        <item>Awowi 6</item>
+        <item>Awowi 12</item>
+        <item>Kwana1</item>
+        <item>Mafi yawanci</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Kullum</item>
+        <item>Yanayin shiru kadai</item>
+        <item>Har abada</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Saƙon Mi</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Sakon Mi</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Saƙon Mi</item>
+        <item>Sakon fasaha na CMCC</item>
+    </string-array>
+</resources>

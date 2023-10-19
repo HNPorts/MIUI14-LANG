@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Orientohu për në shtëpi</string>
+    <string name="abc_action_bar_up_description">Ngjitu lart</string>
+    <string name="abc_action_menu_overflow_description">Opsione të tjera</string>
+    <string name="abc_action_mode_done">U krye</string>
+    <string name="abc_activity_chooser_view_see_all">Shfaq çdo gjë</string>
+    <string name="abc_activitychooserview_choose_application">Zgjidh një aplikacion</string>
+    <string name="abc_capital_off">JOAKTIV</string>
+    <string name="abc_capital_on">AKTIV</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksioni+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">hapësirë</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyja+</string>
+    <string name="abc_search_hint">Kërko…</string>
+    <string name="abc_searchview_description_clear">Pastro pyetjen</string>
+    <string name="abc_searchview_description_query">Kërko pyetjen</string>
+    <string name="abc_searchview_description_search">Kërko</string>
+    <string name="abc_searchview_description_submit">Dërgo pyetjen</string>
+    <string name="abc_searchview_description_voice">Kërkim me zë</string>
+    <string name="abc_shareactionprovider_share_with">Ndaje me</string>
+    <string name="abc_shareactionprovider_share_with_application">Ndaje me %s</string>
+    <string name="abc_toolbar_collapse_description">Palos</string>
+    <string name="app_label">Menaxheri i pajisjes shoqëruese</string>
+    <string name="chooser_title">Zgjidh një profil %1$s që do të menaxhohet nga &lt;strong>%2$s&lt;/strong></string>
+    <string name="confirmation_title">Lejo që &lt;strong>%1$s&lt;/strong> të ketë qasje te &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Pas</string>
+    <string name="consent_no">Mos lejo</string>
+    <string name="consent_yes">Lejo</string>
+    <string name="helper_summary_app_streaming">\"%1$s\" po kërkon leje në emër të %2$s për të marrë qasje te fotografitë, media dhe njoftimet e telefonit tënd</string>
+    <string name="helper_summary_computer">%1$s po kërkon leje në emër të %2$s për të transmetuar aplikacione ndërmjet pajisjeve të tua</string>
+    <string name="helper_title_app_streaming">Shërbimet mes pajisjeve</string>
+    <string name="helper_title_computer">Shërbimet e Google Play</string>
+    <string name="permission_apps">Aplikacionet</string>
+    <string name="permission_apps_summary">Transmeto aplikacionet e telefonit tënd</string>
+    <string name="permission_notification">Njoftimet</string>
+    <string name="permission_notification_summary">Mund të lexojë të gjitha njoftimet, duke përfshirë informacione si kontaktet, mesazhet dhe fotografitë</string>
+    <string name="permission_storage">Fotografitë dhe media</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Transfero lejet e aplikacionit te ora jote</string>
+    <string name="permission_sync_summary">"Për ta bërë më të lehtë konfigurimin e orës, aplikacionet e instaluara në orën tënde gjatë konfigurimit do të përdorin të njëjtat leje si telefoni yt.
+
+ Këto leje mund të përfshijnë qasje në mikrofonin dhe vendndodhjen e orës."</string>
+    <string name="profile_name_generic">pajisja</string>
+    <string name="profile_name_watch">ora inteligjente</string>
+    <string name="search_menu_title">Kërko</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Ky aplikacion nevojitet për të menaxhuar profilin tënd të %1$s. %2$s do të lejohet të ndërveprojë me njoftimet e tua dhe të ketë qasje te lejet e \"Telefonit\", \"SMS-ve\", \"Kontakteve\", \"Kalendarit\", \"Evidencave të telefonatave\" dhe \"Pajisjeve në afërsi\".</string>
+    <string name="title_app_streaming">Lejo që &lt;strong>%1$s&lt;/strong> të ketë qasje në këtë informacion nga telefoni yt</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Lejo që &lt;strong>%1$s&lt;/strong> të ketë qasje në këtë informacion nga telefoni yt</string>
+    <string name="vendor_header_button_description">Butoni \"Më shumë informacione\"</string>
+    <string name="vendor_icon_description">Ikona e aplikacionit</string>
+</resources>

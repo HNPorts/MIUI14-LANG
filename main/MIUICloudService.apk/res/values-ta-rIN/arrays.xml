@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>ஒத்திசைத்த பொருட்களை அடையாளம் காண்பதற்காக</item>
+        <item>செய்திகளை ஒத்திசைப்பதற்காக</item>
+        <item>தொடர்புகளை ஒத்திசைப்பதற்காக</item>
+        <item>நாள்காட்டி நிகழ்வுகளை ஒத்திசைப்பதற்காக</item>
+        <item>சேமிப்பிடத்தைப் பயன்படுத்தும் உருப்படிகளைக் கொண்ட சேவைகளை ஒத்திசைப்பதற்காக</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ஃபோன்</item>
+        <item>SMS</item>
+        <item>தொடர்புகள்</item>
+        <item>நாள்காட்டி</item>
+        <item>சேமிப்பிடம்</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>உங்கள் தொடர்புகள், செய்திகள், குறிப்புகள், காலெண்டர் மற்றும் பலவற்றை ஒத்திசைக்கவும்</item>
+        <item>பயன்பாடுகள், முகப்புத் திரை வடிவமைப்பு மற்றும் வால்பேப்பரைக் காப்புப் பிரதி எடுக்கவும்</item>
+        <item>Wi-Fi மற்றும் காட்சி உள்ளிட்ட முக்கிய அமைப்புகளை காப்புப் பிரதி எடுக்கவும்</item>
+        <item>உங்கள் சாதனம் தொலைந்தால் தொலைநிலையில் பூட்டவும்</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>உங்கள் தொடர்புகள், செய்திகள், குறிப்புகள், நாள்காட்டி மற்றும் பலவற்றை ஒத்திசைக்கவும்</item>
+        <item>செயலிகள், முகப்புத் திரை வடிவமைப்பு மற்றும் வால்பேப்பரைக் காப்புப் பிரதி எடுக்கவும்</item>
+        <item>Wi-Fi மற்றும் காட்சி உள்ளிட்ட முக்கிய அமைப்புகளை காப்புப் பிரதி எடுக்கவும்</item>
+        <item>உங்கள் சாதனம் தொலைந்தால் தொலைநிலையில் பூட்டவும்</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>உங்கள் தொடர்புகள், செய்திகள், குறிப்புகள், காலெண்டர் மற்றும் பலவற்றை ஒத்திசைக்கவும்</item>
+        <item>பயன்பாடுகள், முகப்புத் திரை வடிவமைப்பு மற்றும் வால்பேப்பரைக் காப்புப் பிரதி எடுக்கவும்</item>
+        <item>Wi-Fi மற்றும் காட்சி உள்ளிட்ட முக்கிய அமைப்புகளை காப்புப் பிரதி எடுக்கவும்</item>
+        <item>உங்கள் சாதனம் தொலைந்தால் தொலைநிலையில் பூட்டவும்</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>உங்கள் படங்கள், குறிப்புகள், ரெக்கார்டிங்குகள் மற்றும் பலவற்றை ஒத்திசை</item>
+        <item>உங்கள் சாதனம் தொலைந்தால் தொலைநிலையில் பூட்டவும்</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>உங்கள் தொடர்புகள், செய்திகள், குறிப்புகள், காலெண்டர் மற்றும் பலவற்றை ஒத்திசைக்கவும்</item>
+        <item>செயலிகள், முகப்புத் திரை வடிவமைப்பு மற்றும் வால்பேப்பரைக் காப்புப் பிரதி எடுக்கவும்</item>
+        <item>Wi-Fi மற்றும் காட்சி உள்ளிட்ட முக்கிய அமைப்புகளை காப்புப் பிரதி எடுக்கவும்</item>
+        <item>உங்கள் சாதனம் தொலைந்தால் தொலைநிலையில் பூட்டவும்</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>பயன்பாட்டுத் தரவை ஒத்திசை</item>
+        <item>முகப்பு திரை தளவமைப்பைக் காப்புப் பிரதியெடு</item>
+        <item>முறைமை அமைப்புகள் காப்புப் பிரதி</item>
+        <item>சாதனத்தைக் கண்டறி</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>செயலி தரவை ஒத்திசை</item>
+        <item>சாதனத்தைக் கண்டறி</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>உங்கள் சாதனத்தை இடம் அறியவும், தொலைதல் பயன்முறைக்கு மாறவும்</item>
+        <item>இந்தச் சாதனம் இணையத்துடன் இணைந்திருக்காதபோது இதன் இருப்பிடத்தைக் கண்டறிவதற்காக</item>
+        <item>இந்தச் சாதனம் இணையத்துடன் இணைந்திருக்காதபோது, இந்தச் சாதனத்தைக் கண்டறிய ஃபோன் எண்ணை அணுகுவதற்காக</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>காப்புப் பிரதிகள்</item>
+        <item>காப்புப் பிரதியெடுத்த உருப்படிகள்</item>
+        <item>கிளவுட்;காப்புப்பிரதி;காப்புப் பிரதி;கிளவுட் சேவைகள்;Xiaomi கிளவுட்;முகப்புத் திரை;தளவமைப்பு;செயலிகள்;அமைப்புகள்;காப்புப்பிரதி இடைவெளி;காப்புப்பிரதி நிர்வகிப்பு;மீட்டெடு</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>முகப்பு திரையை Xiaomi கிளவுடுக்கு காப்புப் பிரதியெடு</item>
+        <item>முகப்புத் திரை தளவமைப்பு, நிறுவிய பயன்பாடுகளின் பட்டியல் மற்றும் முறைமை அமைப்புகள் ஆகியவற்றைக் காப்புப் பிரதி எடுக்கவும்</item>
+        <item>கிளவுட்;காப்புப்பிரதி;காப்புப் பிரதி;கிளவுட் சேவைகள்;Xiaomi கிளவுட்;முகப்புத் திரை;தளவமைப்பு;செயலிகள்;அமைப்புகள்;காப்புப்பிரதி இடைவெளி;காப்புப்பிரதி நிர்வகிப்பு;மீட்டெடு</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>உலாவியை Xiaomi கிளவுட் உடன் ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>உலாவி;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Xiaomi கிளவுடன் நாட்காட்டியை ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>நாள்காட்டி;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi கிளவுட் மூலம் தொடர்புகளை ஒத்திசைக்கவும்</item>
+        <item>ஒத்திசைவை இயக்கு/அமை</item>
+        <item>தொடர்புகள்;அழைப்பு வரலாறு;கிளவு;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>அழைப்பு வரலாற்றை Xiaomi கிளவுடுடன் ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு/அமை</item>
+        <item>அழைப்பு வரலாறு;கிளவு;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>சாதனத்தைக் கண்டுபிடி</item>
+        <item>தொலைந்து போனால், தரவை அழித்து, உங்கள் சாதனத்தைப் பூட்டலாம்</item>
+        <item>சாதனம் கண்டறிதல்;தொலைந்துபோதல்;;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>சாதனத்தைக் கண்டுபிடி</item>
+        <item>தொலைந்து போனால், தரவை அழித்து, உங்கள் சாதனத்தைப் பூட்டலாம்</item>
+        <item>சாதனம் கண்டறிதல்;தொலைந்துபோதல்;;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>கேலரியை Xiaomi கிளவுடுடன் ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு/அமை</item>
+        <item>கேலரி;புகைப்படங்கள்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi கிளவுட் உடன் குறிப்புகளை ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>குறிப்புகள்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi கிளவுட் உடன் குறிப்புகளை ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>குறிப்புகள்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>செயலி வைப்பகத்தை Xiaomi கிளவுட் உடன் ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>செயலி வைப்பகம்;கார்டுகள்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>விரைவு பதில்களை ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>விரைவு பதில்கள்;கிளிப்போர்டு;எடிட்டர்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi கிளவுடில் பதிவுகளை ஒத்திசைக்கவும்</item>
+        <item>ஒத்திசைவை இயக்கு/அமை</item>
+        <item>ரெக்கார்டர்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi கிளவுடில் நீக்கிய உருப்படிகள்</item>
+        <item>மீட்டெடு, படங்கள், செய்திகள் மற்றும் பலவற்றை மீட்டெடுக்கவும்</item>
+        <item>குப்பை;நீக்கியவை;குப்பைக் கூடை;மீட்டெடு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi கிளவுடில் நீக்கிய உருப்படிகள்</item>
+        <item>படங்களை மீட்டெடு, குறிப்புகள் மற்றும் பல</item>
+        <item>குப்பை;நீக்கியவை;குப்பைக் கூடை;மீட்டெடு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi கிளவுடிலிருந்து உருப்படிகளை மீட்டெடு</item>
+        <item>காப்புப் பிரதியெடுத்த உருப்படிகளை உங்கள் சாதனத்திற்குப் பதிவிறக்கவும்</item>
+        <item>கிளவுட்;பேக்-அப்;பேக்அப்;ரீஸ்டோர்;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>பாதுகாப்பு கிளவுட் ஒத்திசைவு</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>பாதுகாப்பு;கிளவுட்;Xiaomi கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>பாதுகாப்பு கிளவுட் ஒத்திசைவு</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>பாதுகாப்பு;கிளவுட்;Xiaomi கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi கிளவுடிலிருந்து செய்திகளை ஒத்திசை</item>
+        <item>ஒத்திசைவை இயக்கு/அமை</item>
+        <item>செய்திகள்;SMS;MMS;கிளவுட்;ஒத்திசை;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi கிளவுட் உறுப்பினர் தகுதி வாங்கு</item>
+        <item>உங்கள் மெம்பர்ஷிப்பை மேம்படுத்தவும், அதனால் கூடுதல் சேமிப்பிடத்தைப் பெறவும் மற்றும் தரவைப் பாதுகாக்கவும்</item>
+        <item>போதுமான சேமிப்பிடமில்லை;மெம்பர்ஷிப்;சேமிப்பிடம்;சேமிப்பிட ஸ்பேஸ்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்;மெகா;அல்ட்ரா;விஐபி;காப்புப் பிரதி;காப்புப்பிரதி;மீட்டெடு;குப்பை;நீக்கியவை;குப்பைக் கூடை</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi கிளவுட். எல்லா Mi சேவைகளும் ஒரே இடத்தில்.</item>
+        <item>எங்கிருந்தும் உங்கள் படங்கள், தொடர்புகள், செய்திகள் மற்றும் சாதனங்களை அணுகலாம்</item>
+        <item>போதுமான சேமிப்பிடமில்லை;உறுப்பினர் உரிமம்;சேமிப்பிடம்;சேமிப்பிடம்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்:Xiaomi கிளவுட்;குப்பை;நீக்கியவை;பாதுகாப்பு</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi கிளவுட். எல்லா Mi சேவைகளும் ஒரே இடத்தில்.</item>
+        <item>எங்கிருந்தும் உங்கள் படங்கள், குறிப்புகள், செய்திகள் மற்றும் சாதனங்களை அணுகலாம்</item>
+        <item>போதுமான சேமிப்பிடமில்லை;உறுப்பினர் உரிமம்;சேமிப்பிடம்;சேமிப்பிடம்;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்:Xiaomi கிளவுட்;குப்பை;நீக்கியவை;பாதுகாப்பு</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi கிளவுட் உடன் Wi-Fi அமைப்புகளை ஒத்திசைக்கவும்</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>WLAN;Wi-Fi;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>ஒத்திசைவை இயக்கு</item>
+        <item>WLAN;Wi-Fi;கிளவுட்;ஒத்திசைவு;கிளவுட் சேவைகள்;Xiaomi கிளவுட்</item>
+    </string-array>
+</resources>

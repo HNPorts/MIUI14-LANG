@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">V redu</string>
+    <string name="app_name">Xiaomi Aktivacija</string>
+    <string name="error_device_id_message">"Neveljavni ID naprave: %s
+ID naprave mora biti veljaven IMEI ali MAC naslov. Brez ID-ja naprave nekatere Xiaomi Račun in Xiaomi Cloud storitve ne bodo dostopne."</string>
+    <string name="error_device_id_title">Ne morem pridobiti veljavne identifikacije naprave</string>
+    <string name="explain_send_sms_permission_button">Potrdi</string>
+    <string name="explain_send_sms_permission_msg">Če želite vklopiti \"%s\" bo Xiaomi storitveni okvir poslal SMS sporočilo za preverjanje vaše telefonske številke. Operater vam bo to SMS sporočilo dodatno zaračunal.</string>
+    <string name="explain_send_sms_permission_title">Potrdite vaš broj telefona</string>
+    <string name="pop_up_allow_notify_dialog">Dovoli</string>
+    <string name="pop_up_deny_notify_dialog">Zavrni</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sync_notification_title_format">Trenutno število sinhroniziranih stvari: %1$s</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xmsf_activate_info">XMSF aktivacijske informacije</string>
+</resources>

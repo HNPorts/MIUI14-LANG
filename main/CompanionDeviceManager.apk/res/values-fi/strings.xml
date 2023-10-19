@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisäasetukset</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS PÄÄLTÄ</string>
+    <string name="abc_capital_on">PÄÄLLÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakukysely</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jaa…</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa: %s</string>
+    <string name="abc_toolbar_collapse_description">Tiivistä</string>
+    <string name="app_label">Companion Device Manager</string>
+    <string name="chooser_title">Valitse %1$s, jota &lt;strong>%2$s&lt;/strong> hallinnoi</string>
+    <string name="confirmation_title">Salli, että &lt;strong>%1$s&lt;/strong> saa pääsyn laitteeseesi: &lt;strong>%2$s&lt;/strong></string>
+    <string name="consent_back">Takaisin</string>
+    <string name="consent_no">Älä salli</string>
+    <string name="consent_yes">Salli</string>
+    <string name="helper_summary_app_streaming">%1$s pyytää laitteeltasi (%2$s) lupaa päästä puhelimesi kuviin, mediaan ja ilmoituksiin</string>
+    <string name="helper_summary_computer">%1$s pyytää laitteeltasi (%2$s) lupaa striimata sovelluksia laitteidesi välillä</string>
+    <string name="helper_title_app_streaming">Laitteidenväliset palvelut</string>
+    <string name="helper_title_computer">Google Play Palvelut</string>
+    <string name="permission_apps">Sovellukset</string>
+    <string name="permission_apps_summary">Striimaa puhelimen sovelluksia</string>
+    <string name="permission_notification">Ilmoitukset</string>
+    <string name="permission_notification_summary">Voi lukea kaikkia ilmoituksia, esim. kontakteihin, viesteihin ja kuviin liittyviä tietoja</string>
+    <string name="permission_storage">Kuvat ja media</string>
+    <string name="permission_storage_summary" />
+    <string name="permission_sync_confirmation_title">Siirrä sovellusluvat kelloon</string>
+    <string name="permission_sync_summary">"Sovellukset, jotka on asennettu kelloon käyttöönoton aikana, käyttävät samoja lupia kuin puhelin. Näin kello on helpompi ottaa käyttöön.
+
+ Näihin lupiin saattaa kuulua pääsy kellon mikrofoniin ja sijaintiin."</string>
+    <string name="profile_name_generic">laite</string>
+    <string name="profile_name_watch">kello</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_automotive_projection" />
+    <string name="summary_computer" />
+    <string name="summary_generic" />
+    <string name="summary_watch">Profiilin (%1$s) ylläpitoon tarvitaan tätä sovellusta. %2$s saa luvan hallinnoida ilmoituksiasi sekä pääsyn puhelimeen, tekstiviesteihin, yhteystietoihin, kalenteriin, puhelulokeihin ja lähellä olevat laitteet ‑lupiin.</string>
+    <string name="title_app_streaming">Salli, että &lt;strong>%1$s&lt;/strong> saa pääsyn näihin puhelimesi tietoihin</string>
+    <string name="title_automotive_projection" />
+    <string name="title_computer">Salli pääsy tähän tietoon puhelimellasi: &lt;strong>%1$s&lt;/strong></string>
+    <string name="vendor_header_button_description">Lisätietopainike</string>
+    <string name="vendor_icon_description">Sovelluskuvake</string>
+</resources>

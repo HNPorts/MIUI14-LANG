@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close_drawer">සංචාලන මෙනුව වසන්න</string>
+    <string name="close_sheet">පත්‍රය වසන්න</string>
+    <string name="default_error_message">වලංගු නොවන ආදානයකි</string>
+    <string name="default_popup_window_title">උත්පතන කවුළුව</string>
+    <string name="dropdown_menu">පතන මෙනුව</string>
+    <string name="in_progress">ප්‍රගතියේ පවතී</string>
+    <string name="indeterminate">හරි ලකුණු යොදා හෝ හරි ලකුණු යෙදීම ඉවත් කර නැත</string>
+    <string name="navigation_menu">සංචාලන මෙනුව</string>
+    <string name="not_selected">තෝරා නැත</string>
+    <string name="off">ක්‍රියාවිරහිතයි</string>
+    <string name="on">ක්‍රියාත්මකයි</string>
+    <string name="range_end">පරාස අන්තය</string>
+    <string name="range_start">පරාස ආරම්භය</string>
+    <string name="selected">තෝරන ලදි</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab">ටැබය</string>
+    <string name="template_percent">සියයට %1$d.</string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>सिंक गरिएका वस्तुहरू पहिचान गर्नका लागि</item>
+        <item>सन्देशहरू सिंक गर्नका लागि</item>
+        <item>सम्पर्कहरू सिंक गर्नका लागि</item>
+        <item>पात्रो घटनाहरू सिंक गर्नका लागि</item>
+        <item>भण्डारण प्रयोग गर्ने सेवाहरूसंग वस्तुहरू सिंक गर्नका लागि</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>फोन</item>
+        <item>SMS</item>
+        <item>सम्पर्कहरू</item>
+        <item>पात्रो</item>
+        <item>भण्डारण</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>तपाईंको सम्पर्कहरू, सन्देशहरू, नोटहरू, क्यालेन्डर, र थप सिंक गर्नुहोस्</item>
+        <item>एपहरू, होम स्क्रिन लेआउट, र वालपेपरको ब्याकअप लिनुहोस्</item>
+        <item>वाइफाइ र प्रदर्शन सहित महत्वपूर्ण सेटिंग्स ब्याकअप गर्नुहोस्</item>
+        <item>यदि तपाईंको डिवाइस हरायो भने, तेस्लाई जहाँ भए पनि लक गर्नुहोस्</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>तपाईंको सम्पर्कहरू, सन्देशहरू, नोटहरू, क्यालेन्डर, र थप सिंक गर्नुहोस्</item>
+        <item>एपहरू, होम स्क्रिन लेआउट, र वालपेपरको ब्याकअप लिनुहोस्</item>
+        <item>WLAN र डिस्प्ले सहित महत्वपूर्ण सेटिंग्सको ब्याकअप लिनुहोस्</item>
+        <item>यदि तपाईंको डिवाइस हरायो भने, यसलाई टाढाबाट लक गर्नुहोस्</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>तपाईंको सम्पर्कहरू, सन्देशहरू, नोटहरू, क्यालेन्डर, र थप सिंक गर्नुहोस्</item>
+        <item>एपहरू, होम स्क्रिन लेआउट, र वालपेपरको ब्याकअप लिनुहोस्</item>
+        <item>WLAN र डिस्प्ले सहित महत्वपूर्ण सेटिंग्सको ब्याकअप लिनुहोस्</item>
+        <item>यदि तपाईंको डिवाइस हरायो भने, तेस्लाई जहाँ भए पनि लक गर्नुहोस्</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>तपाईंको फोटो, नोट्स, रेकर्डिंङ र अन्य कुराहरू सिंक गर्नुहोस्</item>
+        <item>यदि तपाईंको डिवाइस हरायो भने, यसलाई जहाँ भए पनि लक गर्नुहोस्</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>तपाईंको सम्पर्कहरू, सन्देशहरू, नोटहरू, क्यालेन्डर, र थप सिंक गर्नुहोस्</item>
+        <item>एपहरू, होम स्क्रिन लेआउट, र वालपेपरको ब्याकअप लिनुहोस्</item>
+        <item>वाइफाइ र प्रदर्शन सहित महत्वपूर्ण सेटिंग्स ब्याकअप गर्नुहोस्</item>
+        <item>यदि तपाईंको डिवाइस हरायो भने, तेस्लाई जहाँ भए पनि लक गर्नुहोस्</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>एप डाटा सिंक गर्नुहोस्</item>
+        <item>होम स्क्रिन लेआउट ब्याकअप गर्नुहोस्</item>
+        <item>सिस्टम सेटिंग्स ब्याक अप गर्नुहोस्</item>
+        <item>डिभाइस फेला पार्नुहोस्</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>एप डाटा सिंक गर्नुहोस्</item>
+        <item>डिभाइस फेला पार्नुहोस</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>तपाईंको डिभाइस पत्ता लगाउन र हराएको मोडमा स्विच गर्नका लागि</item>
+        <item>इन्टरनेटमा जडान नहुँदा यो डिभाइस भेट्टाउनका लागि</item>
+        <item>इन्टरनेटमा जडान नहुँदा यो डिभाइस पत्ता लगाउनका लागि फोन नम्बर पहुँच गर्न</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>ब्याकअपहरू</item>
+        <item>वस्तुहरू ब्याकअप गर्नुहोस्</item>
+        <item>क्लाउड;ब्याकअप; ब्याकअप;क्लाउड सेवा;Xiaomi क्लाउड; होम स्क्रिन;लेआउट;एपहरू;ब्याकअपहरू प्रबन्ध गर्नुहोस्;पुन: भण्डारण गर्नुहोस्</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Xiaomi क्लाउडमा होम स्क्रिन ब्याकअप गर्नुहोस्</item>
+        <item>होम स्क्रिन लेआउट, इन्स्टल गरिएको एपको सूची र सिस्टम सेटिङ्हरू ब्याकअप गर्नुहोस्</item>
+        <item>क्लाउड;ब्याकअप; ब्याकअप;क्लाउड सेवा;Xiaomi क्लाउड; होम स्क्रिन;लेआउट;एपहरू;सेटिङ्हरू;कतिपटक ब्याकअप गरिएको;ब्याकअपहरू प्रबन्ध गर्नुहोस्;पुन: भण्डारण गर्नुहोस्</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>ब्राउजर Xiaomi क्लाउडमा सिंक गर्नुहोस्</item>
+        <item>सिंक अन गर्नुहोस्</item>
+        <item>ब्राउजर;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>पात्रोलाई Xiaomi क्लाउडसंग सिंक गर्नुहोस्</item>
+        <item>सिंक अन गर्नुहोस्</item>
+        <item>पात्रो;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi क्लाउडसँग सम्पर्कहरू सिंक गर्नुहोस्</item>
+        <item>सिंक सुरू/ सेट अप गर्नुहोस्</item>
+        <item>सम्पर्कहरू;कल इतिहास;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Xiaomi क्लाउडसंग कल इतिहास सिंक गर्नुहोस्</item>
+        <item>सिंक सुरू/ सेट अप गर्नुहोस्</item>
+        <item>कल इतिहासहरू;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>डिभाइस फेला पार्नुहोस</item>
+        <item>डेटा मेटाउनुहोस् र आफ्नो डिभाइस लक गर्नुहोस् यदि यो हराएको छ भने</item>
+        <item>डिभाइस खोज्नुहोस्;हराएको;क्लाउड;सिंक;क्लाउड सेवा;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>डिभाइस फेला पार्नुहोस</item>
+        <item>डेटा मेटाउनुहोस् र आफ्नो डिभाइस लक गर्नुहोस् यदि यो हराएको छ भने</item>
+        <item>डिभाइस खोज्नुहोस्;हराएको;क्लाउड;सिंक;क्लाउड सेवा;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Xiaomi क्लाउडसंग ग्यालरी सिंक गर्नुहोस्</item>
+        <item>सिंक सुरू/ सेट अप गर्नुहोस्</item>
+        <item>ग्यालरी;फोटोहरू;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi क्लाउडमा नोटहरू सिंक गर्नुहोस्</item>
+        <item>सिंक अन गर्नुहोस्</item>
+        <item>नोटहरू;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi क्लाउडमा नोटहरू सिंक गर्नुहोस्</item>
+        <item>सिंक गर्ने अन गर्नुहोस्</item>
+        <item>नोटहरू;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Xiaomi क्लाउडसँग एप भल्ट सिंक गर्नुहोस्</item>
+        <item>सिंक अन गर्नुहोस्</item>
+        <item>एप भल्ट;कार्डहरू;क्लाउड;सम्क्रमण;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>द्रुत जवाफहरू सिंक गर्नुहोस्</item>
+        <item>सिंक गर्ने अन गर्नुहोस्</item>
+        <item>द्रुत जवाफहरू;क्लिपबोर्ड;सम्पादक;क्लाउड;सिंक;क्लाउड सेवाहरू</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi क्लाउडसंग रेकर्डिङ्गहरू सिंक गर्नुहोस्</item>
+        <item>सिंक सुरू/ सेट अप गर्नुहोस्</item>
+        <item>रेकर्डर;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi क्लाउडमा वस्तुहरू मेटाउनुहोस्</item>
+        <item>सम्पर्कहरू, फोटोहरू, सन्देशहरू, र थप पुनःइन्स्टल गर्नुहोस्</item>
+        <item>ट्र्यास;मेटाइएको वस्तुहरू;ट्र्यास बिन;पुनर्स्थापित; क्लाउड सेवा;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi क्लाउडका वस्तुहरू मेटाइयो</item>
+        <item>फोटो, नोट, र अन्य वस्तुहरू पुन: भण्डारण गर्नुहोस्</item>
+        <item>ट्र्यास;मेटाइएको वस्तुहरू;ट्र्यास बिन;पुनर्स्थापित; क्लाउड सेवा;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi क्लाउडका वस्तुहरूलाई पुन: भण्डारण गर्नुहोस्</item>
+        <item>तपाईंको डिभाइसमा ब्याकअप गरिएका वस्तुहरू डाउनलोड गर्नुहोस्</item>
+        <item>क्लाउड;ब्याकअप;ब्याकअप; पुन: भण्डारण;क्लाउड सेवा;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>सुरक्षा क्लाउड सिंक</item>
+        <item>सिंक अन गर्नुहोस्</item>
+        <item>सुरक्षा;क्लाउड;Xiaomi क्लाउड;सिंक;क्लाउड सेवाहरू</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>सुरक्षा क्लाउड सिंक</item>
+        <item>सिंक गर्ने अन गर्नुहोस्</item>
+        <item>सुरक्षा;क्लाउड;Xiaomi क्लाउड;सिंक;क्लाउड सेवाहरू</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi क्लाउडमा सन्देशहरू सिंक गर्नुहोस्</item>
+        <item>सिंक सुरू/ सेट अप गर्नुहोस्</item>
+        <item>सन्देसहरू;SMS;MMS;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi क्लाउड सद्स्यता खरीद गर्नुहोस्</item>
+        <item>आफ्नो सदस्यता अपग्रेड गर्नुहोस्, थप भण्डारण स्थान प्राप्त गर्नुहोस्, र तपाईंको डाटा सुरक्षित गर्नुहोस्</item>
+        <item>अपर्याप्त भण्डारण;सदस्यता;भण्डारण;भण्डारण ठाउँ;क्लाउड;सिंक;क्लाउड सेवा;Xiaomi क्लाउड; मेगा;अल्ट्रा; भीआईपी;ब्याकअप;ब्याकअप;पुन: भण्डारण;ट्र्यास;मेटाइएको वस्तु;ट्र्यास बिन</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi क्लाउड। सबै Mi सेवाहरू एकै ठाउँमा।</item>
+        <item>तपाईंको फोटोरहरू, सम्पर्कहरू, सन्देशहरू रडिभाइसहरू जहाँबाट पनि पहुँच गर्नुहोस्</item>
+        <item>अपर्याप्त भण्डारण;सदस्यता;भण्डारण;भण्डारण ठाउँ;क्लाउड;सिंक;क्लाउड सेवा;Xiaomi क्लाउड;ट्र्यास;मेटाइएको वस्तु;सुरक्षा</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi क्लाउड। Mi का सबै सेवाहरू एकै ठाउँमा पाइन्छ।</item>
+        <item>तपाईंको फोटो, नोट, सम्पर्क, सन्देश र डिभाइसहरू जहाँबाट पनि पहुँच गर्नुहोस्</item>
+        <item>अपर्याप्त भण्डारण;सदस्यता;भण्डारण;भण्डारण ठाउँ;क्लाउड;सिंक;क्लाउड सेवा;Xiaomi क्लाउड;ट्र्यास;मेटाइएको वस्तु;सुरक्षा</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi क्लाउडमा वाइ-फाइ सेटिंग्स सिंक गर्नुहोस्</item>
+        <item>सिंक अन गर्नुहोस्</item>
+        <item>WLAN;वाइफाइ;वाइ-फाइ;क्लाउड;सिंक;क्लाउड सेवाहरू;Xiaomi क्लाउड</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>सिंक गर्ने अन गर्नुहोस्</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+</resources>

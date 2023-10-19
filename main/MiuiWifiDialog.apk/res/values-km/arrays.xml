@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ក្នុងការ​ភ្ជាប់អ្នក​ទៅការចូលប្រើ Wi-Fi របស់ Verizon ដោយសារបញ្ហា 16384។</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ក្នុងការ​ភ្ជាប់អ្នក​ទៅការចូលប្រើ Wi-Fi របស់ Verizon ដោយសារបញ្ហា 16385។</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s៖ អ្នកមិនអាចភ្ជាប់​ទៅការចូលប្រើ Wi-Fi របស់ Verizon ពីក្រៅ​តំបន់គ្របដណ្ដប់​របស់ Verizon បានទេ។ (បញ្ហា = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s៖ អ្នកមិនបានជាវ​ការចូលប្រើ Wi-Fi របស់ Verizon ទេ។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។ (បញ្ហា = 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ជាមួយគណនី​ចូលប្រើ Wi-Fi របស់ Verizon របស់អ្នក។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។ (បញ្ហា = 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s៖ អ្នកបានភ្ជាប់​ទៅការចូលប្រើ Wi-Fi របស់ Verizon រួចហើយ។ (បញ្ហា = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ក្នុងការ​ភ្ជាប់អ្នក​ទៅការចូលប្រើ Wi-Fi របស់ Verizon។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។ (បញ្ហា = 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ជាមួយគណនី​ចូលប្រើ Wi-Fi របស់ Verizon របស់អ្នក។ សូមហៅទូរសព្ទ​មកយើង​តាមរយៈលេខ 800-922-0204។ (បញ្ហា = 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s៖ មិនអាចចូលប្រើ Wi-Fi របស់ Verizon ពីទីតាំង​របស់អ្នក​បានទេ។ សូមព្យាយាម​ម្ដងទៀត​នៅពេលក្រោយ ឬសាកល្បងពី​ទីតាំងផ្សេង។ (បញ្ហា = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ក្នុងការ​ភ្ជាប់អ្នក​ទៅការចូលប្រើ Wi-Fi របស់ Verizon។ សូមព្យាយាម​ម្ដងទៀត​នៅពេលក្រោយ ឬសាកល្បងពី​ទីតាំងផ្សេង។</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s៖ មានបញ្ហា​ក្នុងការ​ភ្ជាប់អ្នក​ទៅការចូលប្រើ Wi-Fi របស់ Verizon។</item>
+    </string-array>
+</resources>

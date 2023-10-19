@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>চিংককৃত আইটেম চিনাক্ত কৰিবৰ বাবে</item>
+        <item>বাৰ্তা চিংক কৰিবৰ বাবে</item>
+        <item>সম্পৰ্ক চিংক কৰিবৰ বাবে</item>
+        <item>কেলেণ্ডাৰ ইভেণ্ট চিংক কৰিবৰ বাবে</item>
+        <item>সংগ্ৰহণ ব্যৱহাৰ কৰা সেৱাসমূহৰ সৈতে আইটেম চিংক কৰিবৰ বাবে</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>ফোন</item>
+        <item>এছএমএছ</item>
+        <item>সম্পৰ্ক</item>
+        <item>কেলেণ্ডাৰ</item>
+        <item>সংগ্ৰহণ</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>আপোনাৰ সম্পৰ্ক, বাৰ্তা, টোকা, কেলেণ্ডাৰ আৰু তাতোধিক চিংক কৰক</item>
+        <item>এপসমূহ, গৃহ স্ক্ৰীণ লেআউট আৰু ৱালপেপাৰ বেকআপ কৰক</item>
+        <item>ৱাই-ফাই আৰু ডিছপ্লেক সামৰি গুৰুত্বপূৰ্ণ ছেটিংছ বেকআপ কৰক</item>
+        <item>"আপোনাৰ ডিভাইচটো হেৰালে সেইটো ৰিম'টভাৱে লক কৰক"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>আপোনাৰ সম্পৰ্ক, বাৰ্তা, টোকা, কেলেণ্ডাৰ আৰু তাতোধিক চিংক কৰক</item>
+        <item>এপসমূহ, গৃহ স্ক্ৰীণ লেআউট আৰু ৱালপেপাৰ বেকআপ কৰক</item>
+        <item>WLAN আৰু ডিছপ্লেক সামৰি গুৰুত্বপূৰ্ণ ছেটিংছ বেকআপ কৰক</item>
+        <item>"আপোনাৰ ডিভাইচটো হেৰালে সেইটো ৰিম'টভাৱে লক কৰক"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>আপোনাৰ সম্পৰ্ক, বাৰ্তা, টোকা, কেলেণ্ডাৰ আৰু তাতোধিক চিংক কৰক</item>
+        <item>এপসমূহ, গৃহ স্ক্ৰীণ লেআউট আৰু ৱালপেপাৰ বেকআপ কৰক</item>
+        <item>WLAN আৰু ডিছপ্লেক সামৰি গুৰুত্বপূৰ্ণ ছেটিংছ বেকআপ কৰক</item>
+        <item>"আপোনাৰ ডিভাইচটো হেৰালে সেইটো ৰিম'টভাৱে লক কৰক"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>আপোনাৰ ফটো, টোকা, ৰেকৰ্ডিং, আৰু তাতোধিক চিংক কৰক</item>
+        <item>"আপোনাৰ ডিভাইচটো হেৰালে সেইটো ৰিম'টভাৱে লক কৰক"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>আপোনাৰ সম্পৰ্ক, বাৰ্তা, টোকা, কেলেণ্ডাৰ আৰু তাতোধিক চিংক কৰক</item>
+        <item>এপসমূহ, গৃহ স্ক্ৰীণ লেআউট আৰু ৱালপেপাৰ বেকআপ কৰক</item>
+        <item>ৱাই-ফাই আৰু ডিছপ্লেক সামৰি গুৰুত্বপূৰ্ণ ছেটিংছ বেকআপ কৰক</item>
+        <item>"আপোনাৰ ডিভাইচটো হেৰালে সেইটো ৰিম'টভাৱে লক কৰক"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>এপ ডাটা চিংক কৰক</item>
+        <item>গৃহ স্ক্ৰীণ লেআউট বেক আপ কৰক</item>
+        <item>ছিষ্টেম ছেটিংছ বেক আপ কৰক</item>
+        <item>ডিভাইচ সন্ধান</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>এপ ডাটা চিংক কৰক</item>
+        <item>ডিভাইচ সন্ধান</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>"আপোনাৰ ডিভাইচ অৱস্থিত আৰু নিৰুদ্দেশ ম'ডলৈ সলনি কৰিবৰ বাবে"</item>
+        <item>ডিভাইচটো ইণ্টাৰনেটলৈ সংযোজিত নোহোৱা অৱস্থাত সেইটো অৱস্থিত কৰিবৰ বাবে</item>
+        <item>এই ডিভাইচটো ইণ্টাৰনেটলৈ সংযোগ হৈ নথকা অৱস্থাত ইয়াক অৱস্থিত কৰিবলৈ ফোন নম্বৰলৈ প্ৰৱেশ কৰাৰ বাবে</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>বেকআপ</item>
+        <item>বেক আপ কৰা আইটেমসমূহ</item>
+        <item>ক্লাউড;বেক আপ;বেকআপ;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড;গৃহ স্ক্ৰীণ;লেআউট;এপসমূহ;বেকআপ ব্যৱস্থাপন কৰক;পুনঃস্থাপন</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>গৃহ স্ক্ৰীণ Xiaomi ক্লাউডলৈ বেক আপ কৰক</item>
+        <item>গৃহ স্ক্ৰীণ লেআউট, ইনষ্টল হৈ থকা এপসমূহৰ সূচী, আৰু ছিষ্টেম ছেটিংছ বেকআপ কৰক</item>
+        <item>ক্লাউড;বেক আপ;বেকআপ;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড;গৃহ স্ক্ৰীণ;লেআউট;এপসমূহ;ছেটিংছ;বেকআপ সঘনতা;বেকআপ ব্যৱস্থাপন কৰক;পুনঃস্থাপন</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Xiaomi ক্লাউডৰ সৈতে ব্ৰাউজাৰ চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>ব্ৰাউজাৰ;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>কেলেণ্ডাৰ Xiaomi ক্লাউডলৈ চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>কেলেণ্ডাৰ;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>সম্পৰ্ক Xiaomi ক্লাউডৰ সৈতে চিংক কৰক</item>
+        <item>চিংক অন/ছেট আপ কৰক</item>
+        <item>সম্পৰ্ক;কল ইতিহাস;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>কল ইতিহাস Xiaomi ক্লাউডৰ সৈতে চিংক কৰক</item>
+        <item>চিংক অন/ছেট আপ কৰক</item>
+        <item>কল ইতিহাস;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>ডিভাইচ সন্ধান</item>
+        <item>আপোনাৰ ডিভাইচটো হেৰালে ডাটা মোহাৰক আৰু সেইটো লক কৰক</item>
+        <item>ডিভাইচ সন্ধান;নিৰুদ্দেশ;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>ডিভাইচ সন্ধান</item>
+        <item>আপোনাৰ ডিভাইচটো হেৰালে ডাটা মোহাৰক আৰু সেইটো লক কৰক</item>
+        <item>ডিভাইচ সন্ধান;নিৰুদ্দেশ;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>গেলাৰী Xiaomi ক্লাউডৰ সৈতে চিংক কৰক</item>
+        <item>চিংক অন/ছেট আপ কৰক</item>
+        <item>গেলাৰী;ফটো;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi ক্লাউডৰ সৈতে টোকা চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>টোকা;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi ক্লাউডৰ সৈতে টোকা চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>টোকা;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>এপ ভল্ট Xiaomi ক্লাউডৰ সৈতে চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>এপ ভল্ট;কাৰ্ড;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>ক্ষীপ্ৰ সহাঁৰি চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>ক্ষীপ্ৰ সহাঁৰি;ক্লিপবোৰ্ড;সম্পাদক;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>ৰেকৰ্ডিং Xiaomi ক্লাউডৰ সৈতে চিংক কৰক</item>
+        <item>চিংক অন/ছেট আপ কৰক</item>
+        <item>ৰেকৰ্ডাৰ;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi ক্লাউডত থকা বিলোপিত আইটেম</item>
+        <item>সম্পৰ্ক, ফটো, বাৰ্তা আৰু তাতোধিক পুনঃস্থাপন কৰক</item>
+        <item>ট্ৰেশ্ব;বিলোপিত আইটেমসমূহ;ট্ৰেশ্ব বিন;পুনঃস্থাপন;ক্লাউড সেৱা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Xiaomi ক্লাউডত থকা বিলোপিত আইটেম</item>
+        <item>ফটো, টোকা আৰু তাতোধিক পুনঃস্থাপন কৰক</item>
+        <item>ট্ৰেশ্ব;বিলোপিত আইটেমসমূহ;ট্ৰেশ্ব বিন;পুনঃস্থাপন;ক্লাউড সেৱা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi ক্লাউডৰ পৰা আইটেম পুনঃস্থাপন কৰক</item>
+        <item>বেকআপ কৰা আইটেম আপোনাৰ ডিভাইচলৈ ডাউনলোড কৰক</item>
+        <item>ক্লাউড;বেক আপ;বেকআপ;পুনঃস্থাপন;ক্লাউড সেৱা;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>নিৰাপত্তা ক্লাউড চিংক</item>
+        <item>চিংক অন কৰক</item>
+        <item>নিৰাপত্তা;ক্লাউড;Xiaomi ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>নিৰাপত্তা ক্লাউড চিংক</item>
+        <item>চিংক অন কৰক</item>
+        <item>নিৰাপত্তা;ক্লাউড;Xiaomi ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>বাৰ্তাসমূহ Xiaomi ক্লাউডলৈ চিংক কৰক</item>
+        <item>চিংক অন/ছেট আপ কৰক</item>
+        <item>বাৰ্তা;এছএমএছ;এমএমএছ;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi ক্লাউডৰ সদস্যভুক্তি</item>
+        <item>অধিক সংগ্ৰহণ স্থান লাভ আৰু আপোনাৰ ডাটা সুৰক্ষিত কৰিবলৈ সদস্যভুক্তি আপগ্ৰেড কৰক</item>
+        <item>পৰ্যাপ্তহীন সংগ্ৰহণ;সদস্যভুক্তি;সংগ্ৰহণ;সংগ্ৰহণ স্থান;ক্লাউড;চিংক;ক্লাউড সেৱা;Xiaomi ক্লাউড;মেগা;আলট্ৰা;ভিআইপি;বেক আপ;বেকআপ;পুনঃস্থাপন;ট্ৰেশ্ব;বিলোপিত আইটেম;ট্ৰেশ্ব বিন</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi ক্লাউড। সকলো Mi সেৱা এটা স্থানত।</item>
+        <item>যিকোনো স্থানৰ পৰা আপোনাৰ ফটো, সম্পৰ্ক, বাৰ্তা আৰু ডিভাইচলৈ প্ৰৱেশ কৰক</item>
+        <item>পৰ্যাপ্তহীন সংগ্ৰহণ;সদস্যভুক্তি;সংগ্ৰহণ;সংগ্ৰহণ স্থান;ক্লাউড;চিংক;ক্লাউড সেৱা;Xiaomi ক্লাউড;ট্ৰেশ্ব;বিলোপিত আইটেমসমূহ;নিৰাপত্তা</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi ক্লাউড। সকলো Mi সেৱা এটা স্থানত।</item>
+        <item>যিকোনো স্থানৰ পৰা আপোনাৰ ফটো, টোকা, আৰু ডিভাইচলৈ প্ৰৱেশ কৰক</item>
+        <item>পৰ্যাপ্তহীন সংগ্ৰহণ;সদস্যভুক্তি;সংগ্ৰহণ;সংগ্ৰহণ স্থান;ক্লাউড;চিংক;ক্লাউড সেৱা;Xiaomi ক্লাউড;ট্ৰেশ্ব;বিলোপিত আইটেমসমূহ;নিৰাপত্তা</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>ৱাই-ফাই ছেটিংছ Xiaomi ক্লাউডলৈ চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>WLAN;ৱাইফাই;ৱাই-ফাই;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLAN ছেটিংছ Xiaomi ক্লাউডলৈ চিংক কৰক</item>
+        <item>চিংক অন কৰক</item>
+        <item>WLAN;ৱাইফাই;ৱাই-ফাই;ক্লাউড;চিংক;ক্লাউড সেৱাসমূহ;Xiaomi ক্লাউড</item>
+    </string-array>
+</resources>
