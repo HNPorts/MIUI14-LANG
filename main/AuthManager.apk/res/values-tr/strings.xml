@@ -47,7 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">Kesin konumu alır (GPS ve ağ tabanlı)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Yakındaki cihazlara bağlanın</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Yakındaki cihazları keşfedin ve bunlara bağlanın</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth ve wifi aracılığıyla yakındaki cihazları keşfedin ve bunlara bağlanın</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth ve Wi-Fi aracılığıyla yakındaki cihazları keşfedin ve bunlara bağlanın</string>
     <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini alma</string>
     <string name="HIPS_Perm_PhoneID_Desc">"Telefon numarası, IMEI ve IMSI'ye erişir"</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarasına ve cihaz durumuna erişin</string>

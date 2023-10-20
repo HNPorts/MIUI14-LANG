@@ -659,13 +659,13 @@ Bu mesaj istenmeyen olabilir"</string>
     <string name="mx_activate_status_desc_prepare_sending_sms">Etkinleştirme mesajı gönderiliyor</string>
     <string name="mx_activate_status_desc_query_activte_info">Sim kart bilgileri kontrol ediliyor</string>
     <string name="mx_auto_resend_mms">Multimedya olarak gönder</string>
-    <string name="mx_auto_resend_mms_summary">Bir wifi ağına bağlı olmadığınızda multimedya mesajları mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
+    <string name="mx_auto_resend_mms_summary">Bir Wi-Fi ağına bağlı olmadığınızda multimedya mesajları mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
     <string name="mx_auto_resend_sms">Mesaj olarak gönder</string>
-    <string name="mx_auto_resend_sms_summary">Bir wifi ağına bağlı olmadığınızda mesajlar mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
+    <string name="mx_auto_resend_sms_summary">Bir Wi-Fi ağına bağlı olmadığınızda mesajlar mobil veri bağlantısı üzerinden gönderilir. Operatörünüzün standart ücretlerine tabi olacaksınız</string>
     <string name="mx_btn_enable_now">Etkinleştir</string>
     <string name="mx_count_dspt">Ücretsiz olarak %1$d mesaj ve %2$d multimedya mesajı gönderdiniz</string>
     <string name="mx_current_status">Ayarlar</string>
-    <string name="mx_dspt">Bir wifi ağına bağlı olduğunuzda diğer MIUI kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
+    <string name="mx_dspt">Bir Wi-Fi ağına bağlı olduğunuzda diğer MIUI kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
     <string name="mx_dspt_listview">Mesaj ücretlerinden kaçınarak diğer MIUI kullanıcılarına mesaj gönderin</string>
     <string name="mx_dspt_provision_ex2">Gizlilik politikası</string>
     <string name="mx_enable">Mi mesaj</string>
@@ -959,7 +959,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rcs_chatlist_scan_error">Bu QR kodu okunamıyor</string>
     <string name="rcs_conversation_rcs_tip">Mini uygulama: %s</string>
     <string name="rcs_create_new_group">Yeni grup sohbeti</string>
-    <string name="rcs_dspt">5G kullanıcıları açıkken wifi veya mobil ağ üzerinden varsayılan olarak mesaj gönderin</string>
+    <string name="rcs_dspt">5G kullanıcıları açıkken Wi-Fi veya mobil ağ üzerinden varsayılan olarak mesaj gönderin</string>
     <string name="rcs_dspt_unavailable">Bu özelliği şimdi kullanamazsınız. 5G Sim kart varsayılan veri kartınız değil</string>
     <string name="rcs_file_link_as_sms">Size gönderilen RCS dosyasını görüntülemek için %s adresini ziyaret edin</string>
     <string name="rcs_file_not_exist_preview">Bu dosya mevcut değil</string>

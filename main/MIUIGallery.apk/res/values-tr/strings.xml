@@ -356,7 +356,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_no_wifi_btn_text">Mobil veri kullan</string>
     <string name="backup_no_wifi_desc">Öğeleri mobil veri kullanarak da yedekleyebilirsiniz</string>
     <string name="backup_no_wifi_title">Wi-Fi ağına bağlanmak için dokunun</string>
-    <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için sadece wifi ağını kullanın</string>
+    <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için sadece Wi-Fi ağını kullanın</string>
     <string name="backup_only_in_wifi_summary">Fotoğraf veya videoları yedeklemek için hiçbir zaman mobil veriyi kullanmaz</string>
     <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanıyor musunuz?</string>
     <string name="backup_pause">Yedeklemeyi duraklat</string>
@@ -470,7 +470,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Egzersizler</string>
     <string name="card_title_three_month_baby">Zamani sinekler</string>
-    <string name="cast_devices_unavailable_desc">Hem bu cihazın hem de projektörün aynı wifi ağına bağlı olduğundan emin olun</string>
+    <string name="cast_devices_unavailable_desc">Hem bu cihazın hem de projektörün aynı Wi-Fi ağına bağlı olduğundan emin olun</string>
     <string name="cast_devices_unavailable_title">Projektör bulunamadı</string>
     <string name="cd_back">Geri yükle</string>
     <string name="cd_btn_back">Geri düğmesi</string>
@@ -1091,7 +1091,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="confirm_cancel_task_files">"%1$s'a dosya gönderme iptal edilsin mi?"</string>
     <string name="confirm_cancel_task_images">"%1$s'a fotoğraf gönderme iptal edilsin mi?"</string>
     <string name="confirm_delete_selected_albums">Seçilen albüm silinsin mi?</string>
-    <string name="confirm_download_video_message">Videoyu izlemeye başlamak için video indirmesini tamamlayın. İndirme işlemi wifi ağına bağlanıldığında devam edecektir</string>
+    <string name="confirm_download_video_message">Videoyu izlemeye başlamak için video indirmesini tamamlayın. İndirme işlemi Wi-Fi ağına bağlanıldığında devam edecektir</string>
     <string name="confirm_download_video_title">Videoyu indir</string>
     <string name="confirm_face">Eşleştir</string>
     <string name="confirm_hidden_recommend_group">Tamam</string>
@@ -1227,7 +1227,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="download_delete_error_title">Eksik öğe</string>
     <string name="download_error_format">%s indirilemedi</string>
     <string name="download_error_tip">. İndirmeler kesintiye uğradı</string>
-    <string name="download_library_dialog_message">Galerinin bu cihazda yerel olarak hatıra oluşturabilmesi için şablonlara ihtiyacı var. Şablonları indirmek için wifi ağını kullanmanızı öneririz</string>
+    <string name="download_library_dialog_message">Galerinin bu cihazda yerel olarak hatıra oluşturabilmesi için şablonlara ihtiyacı var. Şablonları indirmek için Wi-Fi ağını kullanmanızı öneririz</string>
     <string name="download_library_dialog_title">Şablonları indir</string>
     <string name="download_retry_message">Dosyalar indirilemedi. Ağ bağlantınızı kontrol edin ve ardından yeniden deneyin</string>
     <string name="download_retry_text">Yeniden dene</string>
@@ -1235,7 +1235,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="download_tip">İndir</string>
     <string name="download_title">Dosyalar hazırlanıyor</string>
     <string name="download_type_origin">Orijinal dosya</string>
-    <string name="download_type_origin_subtitle_china">Orijinal görüntüler daha fazla depolama alanı kaplar ve yalnızca wifi üzerinden indirilebilir</string>
+    <string name="download_type_origin_subtitle_china">Orijinal görüntüler daha fazla depolama alanı kaplar ve yalnızca Wi-Fi üzerinden indirilebilir</string>
     <string name="download_type_origin_title">Orijinal</string>
     <string name="download_type_thumbnail">Yüksek kalite</string>
     <string name="download_type_thumbnail_subtitle">Yüksek kaliteli görüntüler orijinal olanlarla neredeyse aynı görünür ancak daha az depolama alanı kaplar</string>
@@ -1340,10 +1340,10 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="error_no_cta_permission_msg">Ağ erişimi kısıtlı</string>
     <string name="error_no_cta_permission_tip">Ağ erişimi kısıtlı</string>
     <string name="error_no_network_action">Ağ ayarları</string>
-    <string name="error_no_network_msg">Cihazınızın wifi ağına bağlı olduğundan veya mobil verinin açık olduğundan emin olun</string>
+    <string name="error_no_network_msg">Cihazınızın Wi-Fi ağına bağlı olduğundan veya mobil verinin açık olduğundan emin olun</string>
     <string name="error_no_network_tip">Ağa bağlanılamadı</string>
     <string name="error_no_wifi_action">Mobil veri kullan</string>
-    <string name="error_no_wifi_msg">"Cihazınız wifi'ye bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir"</string>
+    <string name="error_no_wifi_msg">"Cihazınız Wi-Fi'ye bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir"</string>
     <string name="error_no_wifi_tip">Wi-Fi ağına bağlanılamadı</string>
     <string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı</string>
     <string name="error_not_synced_action">Şimdi senkronize et</string>
@@ -1800,7 +1800,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="i_know">Tamam</string>
     <string name="id_photo_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="id_photo_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
-    <string name="id_photo_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
+    <string name="id_photo_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
     <string name="id_photo_download_sdk_without_wifi_title">Kimlik kartı eklentisini indir</string>
     <string name="id_photo_load_data_fail">Veriler yüklenemedi</string>
     <string name="id_photo_module_failed">@string/error_install_connect_fail</string>
@@ -1985,7 +1985,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_make_save_title2">İkisini de kaydet</string>
     <string name="magic_matting_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Sihir eklentisini indir</string>
     <string name="magic_matting_error_px">Görsel boyutu desteklenmiyor</string>
     <string name="magic_matting_face_fail">Yüz işlenemedi</string>
@@ -2259,7 +2259,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="movie_delete_disable">Bir klip oluşturmak için en az 3 fotoğrafa ihtiyacınız var</string>
     <string name="movie_download_failed">İndirilemedi</string>
     <string name="movie_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin</string>
-    <string name="movie_download_sdk_without_wifi_msg">Cihazınız wifi ağına bağlı değil gibi görünüyor. Mobil veri kullanarak gerekli eklenti indirilsin mi?(3MB)</string>
+    <string name="movie_download_sdk_without_wifi_msg">Cihazınız Wi-Fi ağına bağlı değil gibi görünüyor. Mobil veri kullanarak gerekli eklenti indirilsin mi?(3MB)</string>
     <string name="movie_download_sdk_without_wifi_title">Mobil veri kullanarak indir</string>
     <string name="movie_edit">Düzenle</string>
     <string name="movie_edit_photo">Fotoğraf</string>
@@ -2307,7 +2307,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="need_to_turn_on_network">Cihaz internete bağlı değil</string>
     <string name="need_to_turn_on_sync">Xiaomi bulut ile senkronizasyon özelliğini açın</string>
     <string name="need_to_turn_on_sync_first">Öncelikle Xiaomi bulut ile senkronizasyon özelliğini açın</string>
-    <string name="need_to_turn_on_wlan">Öncelikle wifi ağına bağlanın</string>
+    <string name="need_to_turn_on_wlan">Öncelikle Wi-Fi ağına bağlanın</string>
     <string name="network_connected_rescan">Ağa bağlanılamıyor</string>
     <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_message">Bu özelliğin normal çalışması için ağa bağlanması gerekir. Görünüşe göre bu cihaz kablosuz ağa bağlı değil. Devam etmek için mobil veri kullanılsın mı? Mobil verileri kullanmak ek operatör ücretleri oluşturabilir</string>
@@ -2658,8 +2658,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_navigator_need_download">%s indirmek için internete bağlanın</string>
     <string name="photo_editor_navigator_sticker_download_failed">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_navigator_sticker_download_success">Başarıyla indirildi</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre Wi-Fi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre Wi-Fi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_privacy_watermark">Koruyucu filigran</string>
     <string name="photo_editor_remove_watermark">Filigranı kaldır</string>
@@ -2738,7 +2738,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_portrait_color_download_fail">Eklenti indirilemedi. Ağa bağlanın ve tekrar deneyin</string>
     <string name="photo_portrait_color_download_success">Filtreler başarıyla indirildi</string>
     <string name="photo_portrait_color_no_face">Renkli yalnızca insan fotoğraflarında çalışır</string>
-    <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız şu anda wifi ağına bağlı değil görünüyor. Mobil veriyi kullanarak filtreleri indirebilirsiniz (%1$dMB)</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız şu anda Wi-Fi ağına bağlı değil görünüyor. Mobil veriyi kullanarak filtreleri indirebilirsiniz (%1$dMB)</string>
     <string name="photo_portrait_download_sdk_without_wifi_title">Filtreleri indir</string>
     <string name="photo_print_menu_loading">Eklenti yükleniyor</string>
     <string name="photo_print_package_finish">Başarıyla yüklendi</string>
@@ -3972,7 +3972,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="video_editor_cancel">İptal et</string>
     <string name="video_editor_done">Tamamlandı</string>
     <string name="video_editor_down_load_later">Daha sonra</string>
-    <string name="video_editor_down_load_no_wifi_tips">İndirmek için wifi ağına bağlanın</string>
+    <string name="video_editor_down_load_no_wifi_tips">İndirmek için Wi-Fi ağına bağlanın</string>
     <string name="video_editor_down_load_now">İndir</string>
     <string name="video_editor_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin</string>
     <string name="video_editor_encode_video">Video kodlanıyor</string>
@@ -4056,7 +4056,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="video_not_exist">Video mevcut değil</string>
     <string name="video_post_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="video_post_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
-    <string name="video_post_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
+    <string name="video_post_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
     <string name="video_post_download_sdk_without_wifi_title">Video efektleri eklentisini indirin</string>
     <string name="video_post_load_data_fail">Veriler yüklenemedi</string>
     <string name="video_post_module_failed">@string/error_install_connect_fail</string>

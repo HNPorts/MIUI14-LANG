@@ -697,7 +697,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_detail_theme_app_need_login">Giriş yapmak için tıklayınız</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">Lütfen önce Xiaomi hesabınıza giriş yapın，</string>
     <string name="pa_picker_detail_vp2_indicator">Seçili sayfa %1$d / %2$d</string>
-    <string name="pa_picker_detail_wait_wifi_download_maml">Bu öğe wifi aracılığıyla indirilecek</string>
+    <string name="pa_picker_detail_wait_wifi_download_maml">Bu öğe Wi-Fi aracılığıyla indirilecek</string>
     <string name="pa_picker_empty">"Uygulamanın bu sürümünde araçlar mevcut değildir
 "</string>
     <string name="pa_picker_home_app_group_title">Araçlı uygulamalar</string>

@@ -256,7 +256,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="data_consumption_cancel">Çıkış</string>
     <string name="data_consumption_checkbox_hint">Tekrar gösterme</string>
     <string name="data_consumption_confirm">Tamam</string>
-    <string name="data_consumption_message">Bu uygulamanın normal olarak çalışabilmesi için wifi kullanarak internete bağlanması gerekmektedir</string>
+    <string name="data_consumption_message">Bu uygulamanın normal olarak çalışabilmesi için Wi-Fi kullanarak internete bağlanması gerekmektedir</string>
     <string name="data_consumption_title">İnternet bağlantısı</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />

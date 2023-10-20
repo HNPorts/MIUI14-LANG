@@ -560,8 +560,8 @@ Arttırılmış güvenlik"</string>
     <string name="maml_download_dialog_confirm_text">İndir</string>
     <string name="maml_download_dialog_message">Bu öğeyi indirmek için %s MB mobil veri kullanılacak. Yine de indirilsin mi?</string>
     <string name="maml_download_dialog_title">Veri kullanımı uyarısı</string>
-    <string name="maml_download_tip_wait_wifi">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
-    <string name="maml_download_tip_wait_wifi_china">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
+    <string name="maml_download_tip_wait_wifi">Bu öğe Wi-Fi ağına bağlandığınızda indirilecek</string>
+    <string name="maml_download_tip_wait_wifi_china">Bu öğe Wi-Fi ağına bağlandığınızda indirilecek</string>
     <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="material_clock_display_divider">:</string>

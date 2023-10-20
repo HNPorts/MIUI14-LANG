@@ -291,7 +291,7 @@
     <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint">Uyarı</string>
     <string name="hundredmillions" />
-    <string name="info_flow_only_load_wifi">Sadece wifi üzerinden öner</string>
+    <string name="info_flow_only_load_wifi">Sadece Wi-Fi üzerinden öner</string>
     <string name="info_flow_setting">İçerik ayarları</string>
     <string name="info_flow_show">İçerik önerileri</string>
     <string name="info_rank_show">En iyi liste önerileri</string>

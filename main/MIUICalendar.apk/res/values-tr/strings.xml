@@ -659,14 +659,14 @@
     <string name="lantern_festival">Fener festivali</string>
     <string name="lantern_festival_tradition">Fener festivali</string>
     <string name="latest_sync_time">Son senkronizasyon zamanı: %1$s</string>
-    <string name="library_cert4android_author"></string>
+    <string name="library_cert4android_author">Hakan GÜVEN</string>
     <string name="library_cert4android_authorWebsite">https://www.bitfire.at</string>
     <string name="library_cert4android_isOpenSource">true</string>
     <string name="library_cert4android_libraryDescription">Uygulama özel anahtar deposunda özel sertifikaları yönetmek için kitaplık</string>
     <string name="library_cert4android_libraryName">cert4android</string>
     <string name="library_cert4android_libraryWebsite">https://gitlab.com/bitfireAT/cert4android</string>
     <string name="library_cert4android_licenseId">gpl_3_0</string>
-    <string name="library_ical4android_author"></string>
+    <string name="library_ical4android_author">Hakan GÜVEN</string>
     <string name="library_ical4android_authorWebsite">https://www.bitfire.at</string>
     <string name="library_ical4android_isOpenSource">true</string>
     <string name="library_ical4android_libraryDescription">"İCalendar ve Android'i bir araya getiren kütüphane"</string>
@@ -1596,7 +1596,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="train_event_disclaimer">Sorumluluk reddi: Trenler ve hizmetler hakkında tüm bilgiler demiryolu şirketi tarafından sağlanmaktadır. Herhangi bir sorunuz olursa demiryolu şirketinin müşteri desteğiyle iletişime geçebilirsiniz. Tren bilgileri sadece referans için verilmiştir. En son güncellemeler ve ayarlamalar için demiryolu şirketinin resmi internet sitesine bakın</string>
     <string name="train_event_error_toast">Bilgi yüklenemedi</string>
     <string name="train_event_error_train_info">Bilet doğrulanamadı</string>
-    <string name="train_event_more_info">Planlama, wifi, vb.</string>
+    <string name="train_event_more_info">Planlama, Wi-Fi, vb.</string>
     <string name="train_event_service">Tren hizmetleri</string>
     <string name="train_event_station_date_format">dd/MM</string>
     <string name="train_event_station_header_arrive_time">Varış yeri</string>

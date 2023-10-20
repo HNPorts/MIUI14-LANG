@@ -1882,7 +1882,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="use_now">Ekle</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut</string>
     <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
-    <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>
+    <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda Wi-Fi ağı üzerinden otomatik olarak günceller</string>
     <string name="using_theme_show_ad">Öneriler</string>
     <string name="uvi_format">UVI %1$s %2$s</string>
     <string name="uvi_format_desc">UV indeksi %1$s seviye. %2$s</string>

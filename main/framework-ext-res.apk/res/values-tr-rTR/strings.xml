@@ -453,9 +453,9 @@
     <string name="sim_lock_now_ais_title">Sim%1$d</string>
     <string name="size_compat_cloud_data_module_config" />
     <string name="slatoast">Hızı artırmak için mobil veri kullanmak mobil veriyi tüketebilir</string>
-    <string name="slavewifi">Çift bant wifi ağı</string>
+    <string name="slavewifi">Çift bant Wi-Fi ağı</string>
     <string name="slavewifi_disconnect">Bağlantıyı kes</string>
-    <string name="slavewifi_notification_title">Çift bant wifi ağını kullan</string>
+    <string name="slavewifi_notification_title">Çift bant Wi-Fi ağını kullan</string>
     <string name="slavewifi_settings">Ayarları değiştirmek için dokunun</string>
     <string name="small_freeform_check_memory_exception_message">%1$s bir bellek hatasına neden oldu. Gecikmeyi önlemek için bu uygulamayı kapatın</string>
     <string name="small_freeform_check_memory_exception_negative_message">İptal et</string>
@@ -568,7 +568,7 @@ cihazınızı katlayın"</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
     <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>
     <string name="waterdrop_preview">Damlacıklar</string>
-    <string name="wifi_assistant_wifi_no_internet">Bu wifi ağının internete erişimi yok</string>
+    <string name="wifi_assistant_wifi_no_internet">Bu Wi-Fi ağının internete erişimi yok</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Detayları görmek için dokunun</string>
     <string name="windchime">Rüzgar çanları</string>
     <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Geri kablosuz şarj işlemi şimdi kapatıldı</string>

@@ -1718,7 +1718,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Git</string>
     <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
     <string name="net_error">Ağ hatası</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir wifi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir Wi-Fi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı kullanılabilir</string>
     <string name="new_update_available">Bir güncelleme mevcut</string>
     <string name="news_flow_more_recommend">Daha fazla önerilen öge</string>

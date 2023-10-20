@@ -588,7 +588,7 @@
     <string name="video_conference_caller_info_name">%1$s adlı kişinin konferans araması</string>
     <string name="video_crbt_title">Profil videosu oynatılıyor</string>
     <string name="vilte_call">ViLTE</string>
-    <string name="viwifi_call">ViWi-Fi</string>
+    <string name="viwifi_call">ViWifi</string>
     <string name="voice_control_deny_permission_msg">Ses kontrolleri şu anda kullanılamıyor. Bu uygulamanın önce ses kaydetmesine izin verin</string>
     <string name="voicemail">Sesli mesaj</string>
     <string name="volte_call">"Vo
@@ -601,7 +601,7 @@ LTE"</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_call">"Vo
-WiFi"</string>
+Wi-Fi"</string>
     <string name="xiaoai_assistant">Mi AI arama asistanı</string>
     <string name="yesterday">Dün</string>
 </resources>

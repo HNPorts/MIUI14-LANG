@@ -617,7 +617,7 @@ almak için dokunun"</string>
     <string name="tips_prompt_enable_midrop">Mi paylaşım</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="toast_download_with_metered_network_btn_continue">İndir</string>
-    <string name="toast_download_with_metered_network_msg">Görünüşe göre cihazınız wifi bağlı değil. Öğeler mobil veri kullanılarak indirilsin mi?</string>
+    <string name="toast_download_with_metered_network_msg">Görünüşe göre cihazınız Wi-Fi bağlı değil. Öğeler mobil veri kullanılarak indirilsin mi?</string>
     <string name="toast_download_with_metered_network_title">Veri kullanımı uyarısı</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>

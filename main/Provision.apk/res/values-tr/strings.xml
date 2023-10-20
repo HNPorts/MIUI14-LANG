@@ -71,7 +71,7 @@
     <string name="carousel_privacy">Duvar kağıdı döngüsünü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesi belgelerini okuyun ve kabul edin</string>
     <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
     <string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
-    <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. MIUI sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini wifi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
+    <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. MIUI sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini Wi-Fi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
     <string name="check_box_label">Bu özelliği açarak %1$s Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -145,7 +145,7 @@
     <string name="clock_introduction">Zamanlayıcıyı ile dünya saatini, kronometreyi, alarmları ayarlamak ve daha pek çok şeyi kullanmak için bu uygulamayı kullanabilirsiniz</string>
     <string name="close">Kapalı</string>
     <string name="close_location_service_setting">Konum erişimini kapat seçeneğini Ayarlar > Ek ayarlar > Gizlilikten seçebilir veya güvenlikteki bireysel uygulamalar için izinleri kısıtlayabilirsiniz</string>
-    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini wifi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
+    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini Wi-Fi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
     <string name="cm_terms_title">Mobil ağ operatör dözleşmesi</string>
     <string name="compass_introduction">Navigasyon için bu uygulamayı, ayrıca koordinatları, atmosferik basıncı ve rakımı görüntülemek için kullanabilirsiniz</string>
     <string name="config_set_location_permissions_package" />
@@ -167,7 +167,7 @@
     <string name="cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
     <string name="copy">Kopyala</string>
     <string name="create_shortcut">Ana ekran kısayolu</string>
-    <string name="data_traffic_enable_dialog_title">Şimdi wifi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
+    <string name="data_traffic_enable_dialog_title">Şimdi Wi-Fi ağına bağlı değilseniz cihazınız mobil veriyi kullanacaktır. Mobil verinin kullanılması ek operatör ücretleri oluşturabilir</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -526,7 +526,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_location_describe_desktop_summary">Wi-Fi ağı adlarına erişmek içindir;</string>
     <string name="permission_location_describe_fast_application_summary">Hızlı uygulamaların konumunuza erişmesine izin vermek içindir;</string>
     <string name="permission_location_describe_fast_pairing_summary">Mevcut düşük güç tüketen Bluetooth cihazlarını görüntülemek içindir;</string>
-    <string name="permission_location_describe_interconnection_communication_summary">Bluetooth veya wifi ağını kullanarak keşif ve bağlantı hizmetleri sağlamak üzere konumunuza erişmek içindir;</string>
+    <string name="permission_location_describe_interconnection_communication_summary">Bluetooth veya Wi-Fi ağını kullanarak keşif ve bağlantı hizmetleri sağlamak üzere konumunuza erişmek içindir;</string>
     <string name="permission_location_describe_location_summary">Çeşitli konum tabanlı hizmetler sağlamak üzere tam konumunuza erişmek içindir</string>
     <string name="permission_location_introduction">Konum tabanlı hizmetler sağlamak içindir</string>
     <string name="permission_log_introduction">Günlükleri kaydetmek içindir</string>

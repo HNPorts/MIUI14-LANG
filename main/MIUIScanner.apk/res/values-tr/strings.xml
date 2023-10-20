@@ -94,7 +94,7 @@
     <string name="change_wifi_info">Ağ ayrıntılarını değiştir</string>
     <string name="character_counter_content_description">Karakter sınırı %1$d/%2$d değerini aştı</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="check_WI_FI">Bir wifi ağı bulundu</string>
+    <string name="check_WI_FI">Bir Wi-Fi ağı bulundu</string>
     <string name="check_for_updates">Beta güncellemelerini kontrol et</string>
     <string name="check_phone_num">Bir telefon numarası bulundu</string>
     <string name="chinese_day_1">1. gün</string>
@@ -350,7 +350,7 @@
     <string name="filename_cannot_beempty">Dosya adı boş bırakılamaz</string>
     <string name="flash_close">Kapat</string>
     <string name="flash_open">Aç</string>
-    <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken wifi ağını elle aç</string>
+    <string name="flight_mode_connecting_to_wifi">Uçak modu açıkken Wi-Fi ağını elle aç</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -1203,10 +1203,10 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="weixin_qrcode_process_type_tip">Bu WeChat kodunu nasıl işlemek istediğinizi seçin</string>
     <string name="weixinqrcode_process_fail_tip">WeChat kodu işlenemedi</string>
     <string name="welcome_to_thesweepversion">Tarayıcı betaya hoş geldiniz</string>
-    <string name="wifi">Wi-Fi</string>
+    <string name="Wi-Fi">Wi-Fi</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Wi-Fi bağlantı noktası %1$s zaten mevcut. Bunu silin ve tekrar deneyin</string>
-    <string name="wifi_low_version_prompt">wifi istemi</string>
+    <string name="wifi_low_version_prompt">Wi-Fi istemi</string>
     <string name="wifi_open_fail">Wi-Fi açılamıyor</string>
     <string name="wifi_psd_toolong">Bu şifre çok uzun. Şifreyi elle girin</string>
     <string name="wifi_pwd">Şifre:</string>

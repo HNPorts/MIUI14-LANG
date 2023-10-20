@@ -322,8 +322,8 @@
         <item quantity="one">%d eklendi</item>
     </plurals>
     <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">Cihazınız yakındaki kayıtlı ağları algıladığında wifi otomatik olarak açılacak ve bağlantı kurulmazsa %d dakika sonra kapanacaktır</item>
-        <item quantity="one">Cihazınız yakındaki kayıtlı ağları algıladığında wifi otomatik olarak açılacak ve bağlantı kurulmazsa %d dakika sonra kapatılacaktır</item>
+        <item quantity="other">Cihazınız yakındaki kayıtlı ağları algıladığında Wi-Fi otomatik olarak açılacak ve bağlantı kurulmazsa %d dakika sonra kapanacaktır</item>
+        <item quantity="one">Cihazınız yakındaki kayıtlı ağları algıladığında Wi-Fi otomatik olarak açılacak ve bağlantı kurulmazsa %d dakika sonra kapatılacaktır</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d öğe seçildi</item>

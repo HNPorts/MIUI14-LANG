@@ -60,7 +60,7 @@
     <string name="auto_backup_choose_empty">Yedek yok</string>
     <string name="auto_backup_choose_title">Yedeklenecek ögeleri seçin</string>
     <string name="auto_backup_date">Günler</string>
-    <string name="auto_backup_only_wifi">"Yalnızca wifi'ye bağlanıldığında"</string>
+    <string name="auto_backup_only_wifi">"Yalnızca Wi-Fi'ye bağlanıldığında"</string>
     <string name="auto_backup_open">Otomatik yedekle</string>
     <string name="auto_backup_progress">Yedekleniyor</string>
     <string name="auto_backup_select_user_apps">Uygulamaları seçin</string>
@@ -248,7 +248,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="confirm_exit_link_title">Aktarma kesiliyor</string>
     <string name="connect_soft_ap_label">Yeni cihaza bağlanılıyor</string>
     <string name="connect_wifi">"Wi-Fi'ye bağlan"</string>
-    <string name="connect_wifi_tip">"Ağa bağlanılamıyor. iCloud alanından içe aktarım yapmak için wifi'ye bağlanın"</string>
+    <string name="connect_wifi_tip">"Ağa bağlanılamıyor. iCloud alanından içe aktarım yapmak için Wi-Fi'ye bağlanın"</string>
     <string name="contact_title">Kişiler</string>
     <string name="copy">Kopyala</string>
     <string name="current_account">Merhaba %s</string>
@@ -460,7 +460,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="icloud_login_title">iCloud oturumu aç</string>
     <string name="icloud_need_sync">"iOS cihazından veri aktarmak için
 öncelikle iCloud yedeği oluşturmanız gerekmektedir"</string>
-    <string name="icloud_need_wifi_message">"Şu anda wifi'ye bağlı değilsiniz. iCloud alanından veri aktarımı yapmak için wifi'ye bağlanın"</string>
+    <string name="icloud_need_wifi_message">"Şu anda Wi-Fi'ye bağlı değilsiniz. iCloud alanından veri aktarımı yapmak için Wi-Fi'ye bağlanın"</string>
     <string name="icloud_need_wifi_title">"Wi-Fi'ye bağlan"</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="import_again">Yeniden içeri aktar</string>
@@ -1104,11 +1104,11 @@ QR kodunu eski telefonunuzla tarayın"</string>
     <string name="trans_install_guide_step1_title">Adım 1</string>
     <string name="trans_install_guide_step2_content">Yükleme tamamlandıktan sonra aşağıdaki başlat düğmesine dokunun</string>
     <string name="trans_install_guide_step2_title">Adım 2</string>
-    <string name="trans_intro_desc_1">"Mi telefonunda wifi ağına bağlanın ve alıcıyıma dokunun. IOS cihazınızı seçin iCloud'da oturum açın ve verileri içe aktarın"</string>
+    <string name="trans_intro_desc_1">"Mi telefonunda Wi-Fi ağına bağlanın ve alıcıyıma dokunun. IOS cihazınızı seçin iCloud'da oturum açın ve verileri içe aktarın"</string>
     <string name="trans_intro_desc_10">Yeni cihazda QR kodu ile bağlan düğmesine dokunun ve bağlantı kurmak için QR kodunu tarayın</string>
-    <string name="trans_intro_desc_3">"Mi taşıyıcı dosya aktarımı için wifi kullanır. Bu nedenle bir aktarım işlemi sırasında wifi'yi kullanarak internete bağlanamazsınız. Mobil veri kullanmaya devam edebilirsiniz. Ancak bazı yeni cihazlar aktarım işlemleri sırasında wifi kullanarak internete bağlanabilmektedir (Örneğin: Mi6)"</string>
+    <string name="trans_intro_desc_3">"Mi taşıyıcı dosya aktarımı için Wi-Fi kullanır. Bu nedenle bir aktarım işlemi sırasında Wi-Fi'yi kullanarak internete bağlanamazsınız. Mobil veri kullanmaya devam edebilirsiniz. Ancak bazı yeni cihazlar aktarım işlemleri sırasında Wi-Fi kullanarak internete bağlanabilmektedir (Örneğin: Mi6)"</string>
     <string name="trans_intro_desc_4">Eski cihazdaki depolama alanı aktarım paketleri oluşturmak için kullanılır. Aktarım işlemine başlamadan önce eski telefonunuzda en az 500MB - 1GB kullanılabilir depolama alanı olduğundan emin olun</string>
-    <string name="trans_intro_desc_4_market">Mi taşıyıcı dosyaları aktarmak için wifi ağı kullanır. Bu nedenle aktarım sırasında iki cihazdada wifi ağını kullanarak internete bağlanamazsınız. Yine de mobil verileri kullanabilirsiniz</string>
+    <string name="trans_intro_desc_4_market">Mi taşıyıcı dosyaları aktarmak için Wi-Fi ağı kullanır. Bu nedenle aktarım sırasında iki cihazdada Wi-Fi ağını kullanarak internete bağlanamazsınız. Yine de mobil verileri kullanabilirsiniz</string>
     <string name="trans_intro_desc_5">Bu durumun meydana gelmesinin birkaç nedeni olabilir: Sistem ve uygulama sürümü uyumluluk sorunları, ağ sorunları, belirli bir cihaza özel uyumluluk sorunları</string>
     <string name="trans_intro_desc_6">Bazı uygulama profilleri güvenlik nedenlerinden dolayı yalnızca ilgili cihaza atanmıştır. Uygulama verilerini temizlemeyi veya yeni cihazda uygulamayı yeniden yüklemeyi deneyin (Elektronik bankacılık, finans)</string>
     <string name="trans_intro_desc_7">WeChat uygulama verileri ve sohbet geçmişi Mi taşıyıcı kullanarak tamamen transfer edilmeyebilir. Başarılı aktarım şansını artırmak için WeChat ayarlarına gidin ve oturumunuzu kapatın</string>
@@ -1130,7 +1130,7 @@ QR kodunu eski telefonunuzla tarayın"</string>
     <string name="trans_intro_question_1">1. Mi taşıyıcıyı nasıl kullanırım?</string>
     <string name="trans_intro_question_10">%d. Bağlantı noktasını eski cihazda bulamıyor musunuz?</string>
     <string name="trans_intro_question_2">%d. Mi taşıyıcıyı bir Android cihazından veri taşımak için nasıl kullanabilirim?</string>
-    <string name="trans_intro_question_3">3. Aktarım işlemi sırasında neden wifi ağını kullanamıyorum?</string>
+    <string name="trans_intro_question_3">3. Aktarım işlemi sırasında neden Wi-Fi ağını kullanamıyorum?</string>
     <string name="trans_intro_question_4">4. Mi taşıyıcı neden eski telefonumda yeterli depolama alanı bulunmadığı uyarısı veriyor?</string>
     <string name="trans_intro_question_5">5. Bazı uygulamalar neden başarılı bir şekilde aktarılamıyor?</string>
     <string name="trans_intro_question_6">6. Neden bazı uygulamalar yeni cihazda başlamıyor?</string>
@@ -1156,7 +1156,7 @@ Depolama alanını boşaltın veya yalnızca önemli öğeleri aktarın"</string
     <string name="trans_open_camera_failed_message">Cihazınızı yeniden başlatın veya Mi taşıyıcının kamerayı kullanmasına izin verip vermediğini kontrol edin</string>
     <string name="trans_open_camera_failed_title">Kameraya bağlanılamadı</string>
     <string name="trans_open_location_button">Aç</string>
-    <string name="trans_open_location_message">Kullanılabilir wifi ağlarının listesini almak için konum servislerini açın</string>
+    <string name="trans_open_location_message">Kullanılabilir Wi-Fi ağlarının listesini almak için konum servislerini açın</string>
     <string name="trans_open_location_title">Konum hizmetlerini aç</string>
     <string name="trans_operate_func_one">Yöntem A</string>
     <string name="trans_operate_func_two">Yöntem B</string>
@@ -1229,7 +1229,7 @@ Cihazları birbirine yakın konumda tutun"</string>
 Mi taşıyıcıyı sevdin mi?"</string>
     <string name="trans_success_dialog_survey_title">Geri bildirim için teşekkürler</string>
     <string name="trans_success_survey_hint">İlk önce tüm alanları doldurun</string>
-    <string name="trans_switching_5g">5GHz wifi ağına geçiliyor</string>
+    <string name="trans_switching_5g">5GHz Wi-Fi ağına geçiliyor</string>
     <string name="trans_time_format_second">1 dakikadan az</string>
     <string name="trans_time_spent">Geçen süre: %s</string>
     <string name="trans_wait_trans_data">"Eski cihazınıza bağlanıldı
@@ -1237,7 +1237,7 @@ Aktarım bekleniyor"</string>
     <string name="trans_waiting_ensurance">"Eski cihazınızın ve Mi taşıyıcı uygulamasının
 açık olduğundan emin olun"</string>
     <string name="trans_waiting_for_sender">Eski cihazın bağlanması bekleniyor</string>
-    <string name="trans_wlan_tips_message">"Aktarım sırasında wifi'yi kapatmayın veya ağ değiştirmeyin. Aksi taktirde Mi taşıyıcı veri aktarımı yapamayacaktır"</string>
+    <string name="trans_wlan_tips_message">"Aktarım sırasında Wi-Fi'yi kapatmayın veya ağ değiştirmeyin. Aksi taktirde Mi taşıyıcı veri aktarımı yapamayacaktır"</string>
     <string name="trans_wlan_tips_title">"Wi-Fi'yi kapatmayın"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>

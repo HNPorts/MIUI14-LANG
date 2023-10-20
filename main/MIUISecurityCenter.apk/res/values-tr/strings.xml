@@ -832,13 +832,13 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_task_default_do_action">Sonra</string>
     <string name="auto_task_default_if_exclude">Eğer</string>
     <string name="auto_task_default_task_summary_driver_car">Bluetooth aracılığıyla araç sistemine bağlandığında taşınabilir erişim noktasını açın</string>
-    <string name="auto_task_default_task_summary_get_up">Rahatsız etme modunu kapatın ve bluetooth, wifi ve mobil verileri tekrar açın</string>
+    <string name="auto_task_default_task_summary_get_up">Rahatsız etme modunu kapatın ve bluetooth, Wi-Fi ve mobil verileri tekrar açın</string>
     <string name="auto_task_default_task_summary_listen_music">Müzik çalın ve kulaklık tipini seçin</string>
     <string name="auto_task_default_task_summary_meet">Toplantı saatini planlayın ve rahatsız etme modunu açın</string>
     <string name="auto_task_default_task_summary_noon_break">Şekerleme zamanını planlayın ve rahatsız etme modunu açın</string>
     <string name="auto_task_default_task_summary_save_power">"Pil %s'den düşük olduğunda pil tasarrufunu açın"</string>
     <string name="auto_task_default_task_summary_sleep">Uyku vaktini planlayın ve cihaz davranışını özelleştirin</string>
-    <string name="auto_task_default_task_summary_watch_video">Uygulamayı açın, wifi ağını açın ve ses seviyesini ayarlayın</string>
+    <string name="auto_task_default_task_summary_watch_video">Uygulamayı açın, Wi-Fi ağını açın ve ses seviyesini ayarlayın</string>
     <string name="auto_task_default_task_title_driver_car">Araç modu</string>
     <string name="auto_task_default_task_title_get_up">Uyanma modu</string>
     <string name="auto_task_default_task_title_listen_music">Müzik modu</string>
@@ -959,7 +959,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="back_sound_fail">Başarısız oldu</string>
     <string name="back_sound_success">Başarılı</string>
     <string name="back_sound_support">Mevcut ağ operatörü işlemi desteklemiyor</string>
-    <string name="back_sound_support_china">Önce wifi ağını kapatın</string>
+    <string name="back_sound_support_china">Önce Wi-Fi ağını kapatın</string>
     <string name="background_restrict_app_dialog_message">Bu uygulama için arka plan ağ erişimini kısıtlamak, uygulamanın normal çalışmasını, mesaj almasını, içerik indirmesini vb. imkansız hale getirebilir. Yine de kısıtlansın mı?</string>
     <string name="background_traffic">Arka plan %s</string>
     <string name="backsound_set_hint">Sesli uzakta bilgi mesajı %s olarak ayarlansın mı?</string>
@@ -1658,7 +1658,7 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_remove_luckymoney">Mevcut MIUI sürümü zaten sistem seviyesi kırmızı zarf asistanını destekliyor</string>
     <string name="dialog_restrict_all_mobile_summary">Bundan sonraki tüm uygulamalar için %s mobil veri bağlantısı kısıtlı olacaktır</string>
     <string name="dialog_restrict_all_mobile_title">%s mobil veri bağlantısını kısıtla</string>
-    <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için wifi bağlantısı kısıtlı olacaktır</string>
+    <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için Wi-Fi bağlantısı kısıtlı olacaktır</string>
     <string name="dialog_restrict_all_wlan_title">Wi-Fi bağlantısını kısıtla</string>
     <string name="dialog_restrict_negative">Kısıtla</string>
     <string name="dialog_restrict_positive">İptal et</string>
@@ -2025,7 +2025,7 @@ gönüllüsü"</string>
     <string name="ew_settings_set_level_summary">Şiddetleri %s veya daha yüksek olduğunda depremler hakkında uyarı alın</string>
     <string name="ew_settings_set_level_title">Deprem uyarı eşiğini ayarla</string>
     <string name="ew_signature_default">Chengdu Yüksek Teknoloji Afet Azaltma Araştırma Enstitüsü kıtasal deprem uyarı merkezi</string>
-    <string name="ew_sleep_mode_alert_content">MIUI deprem erken uyarılarını alabilmeniz için uyku modunu kapatacaktır. Arka plan uygulamaları, NFC, Bluetooth, GPS, mobil veri ve wifi siz uyurken bile normal şekilde çalışacaktır. Deprem uyarısı şimdi açılsın mı?</string>
+    <string name="ew_sleep_mode_alert_content">MIUI deprem erken uyarılarını alabilmeniz için uyku modunu kapatacaktır. Arka plan uygulamaları, NFC, Bluetooth, GPS, mobil veri ve Wi-Fi siz uyurken bile normal şekilde çalışacaktır. Deprem uyarısı şimdi açılsın mı?</string>
     <string name="ew_sleep_mode_alert_title">Deprem uyarısı</string>
     <string name="ew_subscribe_area_title">Eklenen alanları yönetin</string>
     <string name="ew_subscribe_city">Eklenen alanlar</string>
@@ -2181,7 +2181,7 @@ gönüllüsü"</string>
     <string name="firewall_system_title">Sistem uygulamaları veri kullanımı</string>
     <string name="firewall_temp_rule_reason">%2$s, %1$s uygulamasının internet bağlantısını kısıtladı</string>
     <string name="firewall_wifi">Wi-Fi</string>
-    <string name="firewall_wifi_dialog_message">Bu anahtar kapalı olduğunda yüklü uygulama wifi kullanarak internete bağlanamayacaktır</string>
+    <string name="firewall_wifi_dialog_message">Bu anahtar kapalı olduğunda yüklü uygulama Wi-Fi kullanarak internete bağlanamayacaktır</string>
     <string name="first_aid_activity_title">İlk yardım</string>
     <string name="first_aid_card_airplane_button">Kapat</string>
     <string name="first_aid_card_airplane_summary">Arama yapabilmek ve ağa bağlanabilmek için Uçak modunu kapatın</string>
@@ -2205,7 +2205,7 @@ gönüllüsü"</string>
     <string name="first_aid_card_unable_install_summary">Yalnızca %s depolama alanı kullanılabilir. Uygulamaları yükleyebilmek için yer açın</string>
     <string name="first_aid_card_unable_install_title">Uygulamalar yüklenemiyor</string>
     <string name="first_aid_card_wifi_or_flow_button">Bağlan</string>
-    <string name="first_aid_card_wifi_or_flow_summary">Bağlanmak için wifi veya mobil veriyi açın</string>
+    <string name="first_aid_card_wifi_or_flow_summary">Bağlanmak için Wi-Fi veya mobil veriyi açın</string>
     <string name="first_aid_card_wifi_or_flow_title">İnternete bağlanılamıyor</string>
     <string name="first_aid_dialog_msg_stop_scan">Tarama durdurulsun mu?</string>
     <string name="first_aid_dialog_title_stop_scan">Taramayı durdur</string>
@@ -2616,7 +2616,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_predownload_dialog_cancel">Hayıt</string>
     <string name="gb_predownload_dialog_checked">Tekrar gösterme</string>
     <string name="gb_predownload_dialog_confirm">Aç</string>
-    <string name="gb_predownload_dialog_message_china">Bu oyun için güncellenmiş içerik wifi ağına bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece yeni sürümü çıkar çıkmaz kullanabileceksiniz. Bu özelliği kullanmadan önce arka plan güncellemeleriyle ilgili %1$s bildirimini okuyun ve kabul edin</string>
+    <string name="gb_predownload_dialog_message_china">Bu oyun için güncellenmiş içerik Wi-Fi ağına bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece yeni sürümü çıkar çıkmaz kullanabileceksiniz. Bu özelliği kullanmadan önce arka plan güncellemeleriyle ilgili %1$s bildirimini okuyun ve kabul edin</string>
     <string name="gb_predownload_dialog_title">Arka plan güncellemeleri artık kullanılabilir</string>
     <string name="gb_predownload_message_new">Cihaz kullanılmadığında uyumlu oyunları otomatik olarak güncelleyin</string>
     <string name="gb_predownload_noti_message">%2$1.2f GB güncellenmiş içerik bu cihazda zaten var. Yeni sürüm yayınlanır yayınlanmaz onu kullanabileceksiniz</string>
@@ -2937,7 +2937,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_setting_item_title_brightness">Ekran parlaklığını otomatik olarak azalt</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">"İkincil Sim'i engelle"</string>
     <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
-    <string name="gtb_setting_item_title_smart_wlan_speed">Mi wifi hız artışı</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi hız artışı</string>
     <string name="gtb_spring_festival_back_game">Oyuna dön</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Ağa bağlanılamadı</string>
     <string name="gtb_spring_festival_goto_gameturbo">Görüntüle</string>
@@ -2956,7 +2956,7 @@ manzara moduna geçin"</string>
     <string name="gtb_stop_accelerate">Durdur</string>
     <string name="gtb_timer">Zamanlayıcı</string>
     <string name="gtb_voice_changer">Ses değiştirici</string>
-    <string name="gtb_wlan_speed_tips">Mi wifi kullanılıyor</string>
+    <string name="gtb_wlan_speed_tips">Mi Wi-Fi kullanılıyor</string>
     <string name="guide_get_operator_error"><font color="'#33b4ff'">Yanlış taşıyıcı mı?</font></string>
     <string name="guide_operator_text">"Operatörünüz: "</string>
     <string name="guide_quck_open">Aç</string>
@@ -3124,7 +3124,7 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="leisure_usage_dialog_title">İndirimli veri kullanım sınırını aştınız. Veri bağlantısı kapatıldı</string>
     <string name="limit_speed_by_quota">Sınırsız trafik kullanımında eşik aşılırsa hız düşürülecek</string>
     <string name="list_empty_text">Boş</string>
-    <string name="load_only_under_wlan">Yalnızca wifi kullanarak yükle</string>
+    <string name="load_only_under_wlan">Yalnızca Wi-Fi kullanarak yükle</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan gizli bilgileri kaldırılıyor (%d/%d)</string>
     <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. Sorunu MIUI'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
@@ -3602,7 +3602,7 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="net_boosting">Hız artırılıyor</string>
     <string name="net_delay_title">Gecikme</string>
     <string name="net_overdue">Sonlandırıldı</string>
-    <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, wifi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve wifi ve mobil veri açık olduğunda gibi bilgileri toplarız. Bu bilgiler cihazınızda yerel olarak saklanır</string>
+    <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, Wi-Fi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve Wi-Fi ve mobil veri açık olduğunda gibi bilgileri toplarız. Bu bilgiler cihazınızda yerel olarak saklanır</string>
     <string name="network_assistant_privacy_title">Uygulama, ağ kullanımı ve tanılama verilerini gönderin</string>
     <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlanıldı</string>
     <string name="network_blocked_notification_summary">Ağ testi</string>
@@ -3628,8 +3628,8 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="network_roaming_exception_tips">Dolaşım sırasında mobil veri kullanılarak ağa bağlanılamıyor</string>
     <string name="network_route_exception_detail">"Bağlanmış olduğunuz yönlendiricide bir sorun olabilir: 
  
-"<b>1. Halka açık wifi ağ sorunları</b>"
-Eğer halka açık bir wifi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
+"<b>1. Halka açık Wi-Fi ağ sorunları</b>"
+Eğer halka açık bir Wi-Fi ağına bağlandıysanız ağa bağlı olan kullanıcı sayısı ağı yavaşlatıyor veya bağlantı sorunları oluşmasına neden oluyor olabilir. Başka bir ağa bağlanın ve ardından tekrar deneyin 
  
 "<b>2. İnternet servis sağlayıcısı sorunları</b>"
 İnternet servis sağlayıcısı hesabınızda bir sorun olup olmadığından emin olun 
@@ -3857,7 +3857,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
     <string name="open_shut_down_password">@string/ew_guide_start_agree</string>
-    <string name="open_wlan_title">Bu uygulamanın wifi ağını açıp kapatmasına izin ver</string>
+    <string name="open_wlan_title">Bu uygulamanın Wi-Fi ağını açıp kapatmasına izin ver</string>
     <string name="operator_location_settings">Taşıyıcıyı ve konumu ayarla</string>
     <string name="operator_location_settings_message">Operatörünüz ve konumunuz tanınamadı. Telefon bakiyesi ve veri kullanımı uyarıları şu anda ayarlanamıyor</string>
     <string name="operator_name_cbn">Çin Broadnet</string>
@@ -4162,7 +4162,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_body_sensors">Bu izin uygulamaların sensörler tarafından toplanan vücudunuz hakkındaki bilgilere erişmesine izin verir. Vücudunuzla ilgili bilgilerin kişisel olduğunu unutmayın</string>
     <string name="permission_instruction_call_phone">Bu izin uygulamaların istenmeyen aramalar yapmasına izin verir ve bu da ek ücretler doğurabilir. Bu iznin, uygulamaların acil durum telefon numaralarını aramasına izin vermediğini unutmayın. Kötü amaçlı uygulamalar izniniz olmadan ücretli arama yapmak için bu izni kullanabilir</string>
     <string name="permission_instruction_camera">Bu izin uygulamaların fotoğraf çekmek veya video kaydetmek için kamerayı kullanmasına izin verir</string>
-    <string name="permission_instruction_change_wifi_state">"Bu izin uygulamaların onayınız olmadan wifi'yi açıp kapatmasına izin verir"</string>
+    <string name="permission_instruction_change_wifi_state">"Bu izin uygulamaların onayınız olmadan Wi-Fi'yi açıp kapatmasına izin verir"</string>
     <string name="permission_instruction_device_admin">Bu izin uygulamaların cihazınızı kontrol etmesine izin verir. Bu verileri temizleme, cihazın kilidini açma ve şifreleri değiştirme dahil olabilir. Bu yüksek riskli bir izindir</string>
     <string name="permission_instruction_dont_disturb">Bu izin uygulamaların rahatsız etme modunu açıp kapatmasına izin verir</string>
     <string name="permission_instruction_draw_overlay">Bu izin uygulamaların diğer uygulamaların normal kullanımını etkileyebilecek şekilde, cihazınızdaki diğer herhangi bir arayüz üzerinde yüzen pencereler görüntülemesine izin verir. Kötü amaçlı uygulamalar bu izni şeffaf kayan pencereler aracılığıyla özel bilgileri okumak veya toplamak için kullanabilir</string>
@@ -5585,14 +5585,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="sp_antispam_scan_title">Engelli listesi</string>
     <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin</string>
     <string name="sp_background_risk_dialog_summary_new">Mevcut ödeme ortamı güvenlik riski oluşturabilir. Mevcut sorunları çözmek için bir dakikanızı ayırın</string>
-    <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu wifi ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun</string>
+    <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu Wi-Fi ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun</string>
     <string name="sp_background_risk_dialog_title">Uyarı</string>
-    <string name="sp_background_risk_dialog_title_wifi_approve">Genel wifi uyarı</string>
+    <string name="sp_background_risk_dialog_title_wifi_approve">Genel Wi-Fi uyarı</string>
     <string name="sp_background_risk_type_messaging">Sistem mesajlaşma uygulaması değiştirildi</string>
     <string name="sp_background_risk_type_root">Sisteme root erişimi sağlandı</string>
     <string name="sp_background_risk_type_sign">Resmi olmayan uygulama çalışıyor</string>
     <string name="sp_background_risk_type_virus">Arka planda virüs çalışıyor</string>
-    <string name="sp_background_risk_type_wifi">Bu wifi ağı tehlikeli</string>
+    <string name="sp_background_risk_type_wifi">Bu Wi-Fi ağı tehlikeli</string>
     <string name="sp_basestation_scan_summary">Cihazınızı sahte baz istasyonlarından koruyun</string>
     <string name="sp_basestation_scan_title">Sahte baz istasyonları</string>
     <string name="sp_button_text_ignore_alert_title">Bu öğe yoksayılsın mı?</string>
@@ -6787,7 +6787,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_type_title">Tür</string>
     <string name="virus_update_tips_title">Uyarı</string>
-    <string name="virus_wait_network_dialog_message">"Telefonunuz artık wifi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
+    <string name="virus_wait_network_dialog_message">"Telefonunuz artık Wi-Fi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_ai_subtitle">Alt yazılar</string>
     <string name="vtb_func_desc">Bu özellik hakkında</string>
@@ -6977,10 +6977,10 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="widget_safe_size_1">23.6</string>
     <string name="widget_safe_title">Cep telefonu çöpü</string>
     <string name="widget_safe_title_1">Hafıza kullanımı</string>
-    <string name="wifi_danger_dialog_messgae">Mevcut wifi ağı güvenlik riski oluşturabilir. Dikkatli kullanın</string>
+    <string name="wifi_danger_dialog_messgae">Mevcut Wi-Fi ağı güvenlik riski oluşturabilir. Dikkatli kullanın</string>
     <string name="wifi_danger_dialog_tips">"Wi-Fi güvenliğini Güvenlik > Güvenlik taraması > Ayarlar > Wi-Fi'den yönetebilirsiniz"</string>
     <string name="wifi_danger_dialog_title">Wi-Fi ağı güvenli değil</string>
-    <string name="wifi_exception_summary">Kullanılabilir wifi ağlarını test et</string>
+    <string name="wifi_exception_summary">Kullanılabilir Wi-Fi ağlarını test et</string>
     <string name="wifi_exception_title">Wi-Fi ağı testi</string>
     <string name="wifi_item_status_connection_no">Bağlı değil</string>
     <string name="wifi_item_title_arp_attack">ARP saldırıları</string>
@@ -6990,7 +6990,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="wifi_item_title_fake">Sahte Wi-Fi ağlarını tespit et</string>
     <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok</string>
     <string name="wifi_optizition_loading">Xunyou ağ hızlandırıcı açılıyor</string>
-    <string name="wifi_optizition_tip">Wi-Fi bağlantısını daha stabil hale getirmek için wifi hız artırımını açın. Küçük bir miktar mobil veri kullanılacaktır</string>
+    <string name="wifi_optizition_tip">Wi-Fi bağlantısını daha stabil hale getirmek için Wi-Fi hız artırımını açın. Küçük bir miktar mobil veri kullanılacaktır</string>
     <string name="wifi_optizition_title">Wi-Fi hızlandırıcı</string>
     <string name="wireless_charging_connected_message">Cihazınız kablosuz olarak şarj olurken ters kablosuz şarj kullanılamaz</string>
     <string name="wireless_charging_fg_control_cancel">İptal et</string>
@@ -7003,7 +7003,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="wireless_charging_saver_ok">Tut</string>
     <string name="wl_no_whitelist">İstisna yok</string>
     <string name="wlan_booster">Wi-Fi optimizasyonu</string>
-    <string name="wlan_change_protection_detail">Mobil ağa bağlanıldığında otomatik olarak wifi ağına bağlanma</string>
+    <string name="wlan_change_protection_detail">Mobil ağa bağlanıldığında otomatik olarak Wi-Fi ağına bağlanma</string>
     <string name="wlan_change_protection_title">Ağ arası geçiş yapmaktan kaçın</string>
     <string name="wlan_optimization_summary">Wi-Fi ağ gecikmesini azaltın</string>
     <string name="wlan_optimization_title">Wi-Fi optimizasyonu</string>

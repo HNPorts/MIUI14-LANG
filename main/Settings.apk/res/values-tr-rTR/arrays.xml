@@ -1200,13 +1200,13 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>Mobil</item>
-        <item>Sadece wifi ağı</item>
+        <item>Sadece Wi-Fi ağı</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
         <item>Tercih edilen ims</item>
         <item>Wi-Fi</item>
         <item>Mobil</item>
-        <item>Sadece wifi</item>
+        <item>Sadece Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
@@ -1244,7 +1244,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Tam</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>Sadece wifi sinyali zayıf olduğunda mobil veri kullanarak hızı artırın</item>
+        <item>Sadece Wi-Fi sinyali zayıf olduğunda mobil veri kullanarak hızı artırın</item>
         <item>Wi-Fi ve mobil veriyi birleştirerek bağlantı hızını artırın</item>
     </string-array>
     <string-array name="wifi_metered_entries">

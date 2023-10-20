@@ -121,7 +121,7 @@
     <string name="art_still_download">İndir</string>
     <string name="art_still_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="art_still_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanılarak indirilsin mi?</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanılarak indirilsin mi?</string>
+    <string name="art_still_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanılarak indirilsin mi?</string>
     <string name="art_still_download_sdk_without_wifi_title">Art eklentisini indir</string>
     <string name="art_still_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir. Yine de indirilsin mi?</string>
     <string name="art_still_download_with_metered_network_title">Ücretli ağ</string>
@@ -897,7 +897,7 @@
     <string name="id_photo_download">İndir</string>
     <string name="id_photo_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="id_photo_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
-    <string name="id_photo_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
+    <string name="id_photo_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
     <string name="id_photo_download_sdk_without_wifi_title">Kimlik kartı eklentisini indir</string>
     <string name="id_photo_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir. Yine de indirilsin mi?</string>
     <string name="id_photo_download_with_metered_network_title">Ücretli ağ</string>
@@ -973,7 +973,7 @@
     <string name="magic_matting_download">İndir</string>
     <string name="magic_matting_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Sihir eklentisini indir</string>
     <string name="magic_matting_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir. Yine de indirilsin mi?</string>
     <string name="magic_matting_download_with_metered_network_title">Ücretli ağ</string>
@@ -1345,8 +1345,8 @@
     <string name="photo_editor_navigator_need_download">%s indirmek için internete bağlanın</string>
     <string name="photo_editor_navigator_sticker_download_failed">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_navigator_sticker_download_success">Başarıyla indirildi</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre Wi-Fi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre Wi-Fi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_navigator_tab_title_ai">AI</string>
     <string name="photo_editor_navigator_tab_title_basic">Temel</string>
@@ -1435,7 +1435,7 @@
     <string name="photo_portrait_color_download_fail">Eklenti indirilemedi. Ağa bağlanın ve tekrar deneyin</string>
     <string name="photo_portrait_color_download_success">Filtreler başarıyla indirildi</string>
     <string name="photo_portrait_color_no_face">Renkli yalnızca insan fotoğraflarında çalışır</string>
-    <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız şu anda wifi ağına bağlı değil görünüyor. Mobil veriyi kullanarak filtreleri indirebilirsiniz (%1$dMB)</string>
+    <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız şu anda Wi-Fi ağına bağlı değil görünüyor. Mobil veriyi kullanarak filtreleri indirebilirsiniz (%1$dMB)</string>
     <string name="photo_portrait_download_sdk_without_wifi_title">Filtreleri indir</string>
     <string name="photo_print_menu_loading">Eklenti yükleniyor</string>
     <string name="photo_save_to_msg">%s kaydedildi</string>
@@ -1876,7 +1876,7 @@
     <string name="video_editor_cancel">İptal et</string>
     <string name="video_editor_done">Tamamlandı</string>
     <string name="video_editor_down_load_later">Daha sonra</string>
-    <string name="video_editor_down_load_no_wifi_tips">İndirmek için wifi ağına bağlanın</string>
+    <string name="video_editor_down_load_no_wifi_tips">İndirmek için Wi-Fi ağına bağlanın</string>
     <string name="video_editor_down_load_now">İndir</string>
     <string name="video_editor_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin</string>
     <string name="video_editor_encode_video">Video kodlanıyor</string>
@@ -1960,7 +1960,7 @@
     <string name="video_post_download">İndir</string>
     <string name="video_post_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="video_post_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
-    <string name="video_post_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız wifi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
+    <string name="video_post_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız Wi-Fi ağına bağlı değil. Eklenti mobil veri kullanarak indirilsin mi?</string>
     <string name="video_post_download_sdk_without_wifi_title">Video efektleri eklentisini indirin</string>
     <string name="video_post_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir. Yine de indirilsin mi?</string>
     <string name="video_post_download_with_metered_network_title">Ücretli ağ</string>
