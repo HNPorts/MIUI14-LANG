@@ -2348,7 +2348,7 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wifi_calling">Wi-Fi arama</string>
     <string name="wifi_calling_settings_title">Wi-Fi üzerinden aranıyor</string>
     <string name="wificall_switch_summary">Bağlantı zayıf olduğu zamanlarda cihazınız Wi-Fi ve VoLTE arasında geçiş yapabilir</string>
-    <string name="wificall_switch_title">VoWifi</string>
+    <string name="wificall_switch_title">Wi-Fi üzerinden ara</string>
     <string name="wild_prompt_str">Joker karakteri şununla değiştir</string>
     <string name="wrong_password">Girdiğiniz şifre doğru değil</string>
     <string name="xcap_setting_summary">Arama engelleme, sesli mesaj &amp; arama yönlendirme ve arama bekletme</string>

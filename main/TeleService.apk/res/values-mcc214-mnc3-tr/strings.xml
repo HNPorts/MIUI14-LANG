@@ -6,5 +6,5 @@
 	<string name="vice_slot_volte_data_switch_title">"İkincil Sim'de 4G aramaları sırasında mobil veri kullanın"</string>
 	<string name="volte_switch_summary">Ses ve iletişim hizmetini iyileştirmek için 4G hizmetlerini kullanın</string>
 	<string name="volte_switch_title">4G aramaları</string>
-	<string name="wificall_switch_title">WLAN aramaları</string>
+	<string name="wificall_switch_title">Wi-Fi aramaları</string>
 </resources>

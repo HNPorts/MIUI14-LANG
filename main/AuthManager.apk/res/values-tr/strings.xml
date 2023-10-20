@@ -27,6 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">Kişilerinizi değiştirir ve siler</string>
     <string name="HIPS_Perm_External_Storage">Dahili depolama dosyalarına eriş ve değiştir</string>
     <string name="HIPS_Perm_External_Storage_Desc">Cihazınızın dahili depolama alanına dosyalar ekler ve siler</string>
+	<string name="HIPS_Perm_operator_shake_Desc">Cihazın uzaydaki konumunu algılamak, titremeyi tanımak ve etkileşimli duyusal özellikler sağlamak içindir</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ses kaydet ve arama yap</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Uygulamaları arka planda otomatik olarak başlat</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Takvim etkinliklerine eriş</string>
@@ -98,7 +99,9 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Şimdi tek dokunuşla oturum açamıyorsanız oturum açma sayfasına geri dönün ve tekrar deneyin</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu uygulama oturum açmak için operatörden telefon numaranızı almak istiyor. İzin verilsin mi?</string>
     <string name="HIPS_Perm_operator_shake">İvmeölçer verilerine erişin</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Cihazın uzaydaki konumunu algılamak, titremeyi tanımak ve etkileşimli duyusal özellikler sağlamak içindir</string>
+    <string name="HIPS_Perm_operator_shake_Desc">İvmeölçer verileri, yönü ve hareketi izlemek için kullanılır (Örneğin: Sallama, eğme ve döndürme)</string>
+    <string name="HIPS_Perm_operator_wall_paper">Duvar kağıdı ayarla</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Duvar kağıtlarını ve varsayılan dinamik duvar kağıdı hizmetlerini değiştirin</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Yakın alan iletişim donanımına erişir</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamasına eriş</string>
@@ -453,6 +456,7 @@
     <string name="permdesc_call_phone">"%1$s'nin arama yapmasına izin verilsin mi?"</string>
     <string name="permdesc_camera">"%1$s'in fotoğraf çekmesine ve video kaydetmesine izin verilsin mi?"</string>
     <string name="permdesc_get_account">"%1$s'in bu cihazda depolanan tüm hesaplara erişmesine izin verilsin mi?"</string>
+    <string name="permdesc_isolate_storage">"%1$s'nin bu cihazda depolanan fotoğraflara, videolara ve seslere erişmesine izin verilsin mi?"</string>
     <string name="permdesc_location">"%1$s'nin konum bilgilerine erişmesine izin verilsin mi?"</string>
     <string name="permdesc_location_background">"%1$s'in arka planda konum bilgilerine erişmesine izin verilsin mi?"</string>
     <string name="permdesc_microphone">"%1$s'in ses kaydetmek ve arama yapmak için mikrofon kullanmasına izin verilsin mi?"</string>
@@ -483,6 +487,8 @@
     <string name="permgroupdesc_location">"%1$s'nin konum bilgilerine erişmesine izin verilsin mi?"</string>
     <string name="permgroupdesc_microphone">"%1$s'in ses kaydetmesine izin verilsin mi?"</string>
     <string name="permgroupdesc_phone">"%1$s'in arama yapmasına ve cihaz bilgilerine erişmesine izin verilsin mi?"</string>
+	<string name="permgroupdesc_read_media_aural">"%1$s'nin cihazınızda depolanan ses dosyalarına erişmesine izin verilsin mi?"</string>
+	<string name="permgroupdesc_read_media_visual">"%1$s'nin cihazınızda saklanan fotoğraf ve videolara erişmesine izin verilsin mi?"</string>
     <string name="permgroupdesc_recognition">"%1$s'in sağlık ve aktivite verilerine erişmesine izin verilsin mi?"</string>
     <string name="permgroupdesc_sensors">"%1$s'in vücut sensörü verilerine erişmesine izin verilsin mi?"</string>
     <string name="permgroupdesc_sms">"%1$s'nin mesaj okumasına veya göndermesine izin verilsin mi?"</string>
@@ -597,6 +603,8 @@
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
+    <string name="tilte_request_coarse_location">%1$s uygulamasının yaklaşık konumunuza erişmesine izin verilsin mi?</string>
+    <string name="tilte_request_fine_location">%1$s uygulamasının tam konumunuza erişmesine veya bunun yerine yaklaşık konumunuzu kullanmasına izin verilsin mi?</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>

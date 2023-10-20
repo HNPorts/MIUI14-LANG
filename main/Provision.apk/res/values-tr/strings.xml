@@ -72,7 +72,7 @@
     <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
     <string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
     <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. MIUI sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini Wi-Fi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
-    <string name="check_box_label">Bu özelliği açarak %1$s Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
+    <string name="check_box_label">Bu özelliği açarak Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -162,7 +162,7 @@
     <string name="content_description_start">Başlat</string>
     <string name="content_introduction">İçerik merkezi ile içeriği ve hizmetleri birden fazla kanaldan toplar. Burada makaleler okuyabilir, videolar izleyebilir, günlük öne çıkan öğeleri görüntüleyebilir ve içerik önerileri alabilirsiniz</string>
     <string name="continue_to_enable_accessibility">Erişilebilirliği etkinleştirmek için iki parmağınızı basılı tutmaya devam edin</string>
-    <string name="cookies_content_one">Duvar kağıdı döngüsü resimlere ve hikayelere dokunduğunuzda tarayıcınızda tam sürümlerini açacaktır. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Taboolanın %1$s çerez politikasında açıklandığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz duvar kağıdı döngüsü öğeleri kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak ancak ek öneriler sizin için özel olarak seçilmeyecektir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
+    <string name="cookies_content_one">Duvar kağıdı döngüsü resimlere ve hikayelere dokunduğunuzda tarayıcınızda tam sürümlerini açacaktır. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Taboolanın çerez politikasında açıklandığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz duvar kağıdı döngüsü öğeleri kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak ancak ek öneriler sizin için özel olarak seçilmeyecektir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
     <string name="cookies_content_two">Güvenilir üçüncü taraf içerik sağlayıcılarımızın, ilgi alanlarınıza göre içerik önerilerini ve reklamları kişiselleştirmek için çerezleri kullanmasını isteyip istemediğinize karar verin</string>
     <string name="cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
     <string name="copy">Kopyala</string>
@@ -463,6 +463,10 @@ Bu tür izinleri vermeyi kabul etmezseniz Xiaomi bağlantı hizmetlerini kullana
     <string name="other_settings_ad_disable_summary">Reklamları kişiselleştirmek için aç</string>
     <string name="other_settings_ad_enable">Kişiselleştirilmiş reklam tavsiyesi</string>
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
+	<string name="other_settings_alarm_assistance">Acil durum konumu</string>
+	<string name="other_settings_alarm_assistance_privacy">Gizlilik Politikası</string>
+	<string name="other_settings_alarm_assistance_summary">"110, 120, 119 veya 122'yi ararken konum bilginizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a> okuyun ve kabul edin"</string>
+	<string name="other_settings_alarm_assistance_user">Kullanıcı sözleşmesi</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en iyi zamanı seçer</string>
     <string name="other_settings_auto_update_summary_v1">"MIUI'nin güncellemeleri indirmek ve yüklemek için en iyi zamanı seçmesine izin verin. Değişiklikleri uygulamak için cihazınız otomatik olarak yeniden başlatılacaktır"</string>
