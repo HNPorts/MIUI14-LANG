@@ -433,7 +433,7 @@
     <string name="reader_writer_delete_comment">Yorumu sil</string>
     <string name="reader_writer_hide">Daha az</string>
     <string name="reader_writer_more">Daha fazla</string>
-    <string name="reader_writer_page_num">page %1$s</string>
+    <string name="reader_writer_page_num">Sayfa %1$s</string>
     <string name="reader_writer_paste_options">Yapıştırma seçenekleri</string>
     <string name="reader_writer_reject_revision">Revizyonu reddet</string>
     <string name="reader_writer_table_edit_add_column">Sütun ekle</string>
