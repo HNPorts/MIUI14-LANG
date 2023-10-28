@@ -36,6 +36,10 @@ toplam %2$d şarkı"</item>
         <item quantity="other">%d şarkı</item>
         <item quantity="one">%d şarkı</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d yeni şarkı</item>
+        <item quantity="one">%d yeni şarkı</item>
+    </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d şarkı çalma listesinden kaldırıldı</item>
         <item quantity="one">%d şarkı çalma listesinden kaldırıldı</item>

@@ -22,6 +22,10 @@
         <item quantity="other">%d dakika içinde</item>
         <item quantity="one">1 dakika içinde</item>
     </plurals>
+	<plurals name="swiping_settings_intelligent_pick_card_fence_dialog_msg">
+        <item quantity="other">%1$s kartlarına konum atamadınız. Bu kartlar ihtiyacınız olduğunda otomatik olarak seçilmeyecektir</item>
+        <item quantity="one">%1$s kartlarına konum atamadınız. Bu kartlar ihtiyacınız olduğunda otomatik olarak seçilmeyecektir</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şu anda</item>
     </plurals>

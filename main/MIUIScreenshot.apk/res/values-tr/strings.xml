@@ -260,7 +260,7 @@
     <string name="lenovo_phone">Lenovo telefon</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgileri kaldırılıyor (%d/%d)</string>
     <string name="long_screenshot_error">Ekran görüntüsü alınamadı. Tekrar deneyin</string>
-    <string name="long_screenshot_guide_text">"Bir kayan ekran görüntüsü
+    <string name="long_screenshot_guide_text">"Kayan ekran görüntüsü
 almak için dokunun"</string>
     <string name="long_screenshot_intercepted_error">Ekran görüntüsü alınamadı. Tekrar deneyin</string>
     <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>

@@ -26,6 +26,12 @@
     <string name="abc_searchview_description_voice">Sesli arama</string>
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+	<string name="allow_location_permission">Konum iznini aç</string>
+    <string name="allow_location_permission_message">Konum bilgisi alınamıyor. Lütfen konum iznini etkinleştirin</string>
+	<string name="locate_permission_description_prompt">Konum</string>
+	<string name="nextpay_web_url_not_supported">Ziyaret ettiğiniz sayfa bulunamadı. Lütfen bu sayfaya girmek için tekrar geri dönün</string>
+	<string name="swiping_settings_intelligent_pick_card_tips_mifare">Kartlara konum ata</string>
+	<string name="to_allow_it">Açmak için</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
 	<string name="accessibility_add_new_door_card">Yeni bir kapı kartı ekleyin</string>
     <string name="accessibility_add_new_mipay_card">Kart ekle</string>

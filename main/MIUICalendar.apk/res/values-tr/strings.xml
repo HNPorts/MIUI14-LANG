@@ -444,7 +444,7 @@
     <string name="event_info_title_countdown">Geri sayım</string>
     <string name="event_info_when">Ne zaman</string>
     <string name="event_info_where">Nerede</string>
-    <string name="event_lunar_month">Ay</string>
+    <string name="event_lunar_month"></string>
     <string name="event_reminder_allday_day_zero">Aynı gün %2$s saatinde</string>
     <string name="event_reminder_custom">Özel</string>
     <string name="event_reminder_value_zero">Etkinlikten önce</string>
@@ -739,7 +739,7 @@
     <string name="lunar_ba"></string>
     <string name="lunar_chu"></string>
     <string name="lunar_chu_shi"></string>
-    <string name="lunar_date">Ay takvimi</string>
+    <string name="lunar_date"></string>
     <string name="lunar_date_content_desc">Geleneksel Çin takvimine göre tarih</string>
     <string name="lunar_day" />
     <string name="lunar_day_chinese_calendar">Ay takvimi: %1$s</string>

@@ -669,7 +669,7 @@
     <string name="historical_wallpaper">Daha önce kullanılmış</string>
     <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
     <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
-    <string name="home_daily">Günlük önemli noktalar</string>
+    <string name="home_daily">Günlük</string>
     <string name="humidity_format">Nem %s</string>
     <string name="humidity_format_with_unit">%s</string>
     <string name="i_know">Tamam</string>
